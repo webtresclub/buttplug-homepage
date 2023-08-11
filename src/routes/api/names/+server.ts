@@ -17,7 +17,7 @@ export async function POST({request}) {
     
         ret[id] = JSON.parse(
             fs.readFileSync(file, 'utf8')
-        );
+        ).name;
     }
     
 

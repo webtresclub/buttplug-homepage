@@ -29,7 +29,7 @@ $: if ($account) {
 
 
 async function fetchData() {
-    const response = await fetch('/api/traits', {
+    const response = await fetch('/api/names', {
       method: 'POST',
       body: JSON.stringify({randomIds}),
       headers: {
@@ -97,7 +97,7 @@ async function fetchData() {
                     </a>
                 </div>
                 <div class="card__content">
-                    <h3>#{id} - {traits[String(id)].name}</h3>
+                    <h3>#{id} - {traits[String(id)]}</h3>
                 </div>
             </div>
         {/each}
