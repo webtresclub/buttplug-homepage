@@ -51,7 +51,10 @@ async function claim() {
                     <a href="/mine" class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-gray-900 rounded-lg border border-gray-300 hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800">
                         Mine your Buttplug
                     </a>  
-                {/if}    
+                {/if}
+            </div>
+            <div class="mt-6 p-4 mx-auto text-center font-mono">
+                Minter contract <a href="https://goerli.etherscan.io/address/0x47A68C343A9c35c6b397D997E7C15a6B4FA4787F" target="_blank">0x47A68C343A9c35c6b397D997E7C15a6B4FA4787F</a>
             </div>
         </div>
     </section>
