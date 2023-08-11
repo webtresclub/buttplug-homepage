@@ -1,0 +1,23 @@
+{
+  "description": "R.O.S.C.O.P.E is a unique oscilloscope-themed robot who is an esteemed member of the WebtrES club. With its shiny yellow box, soldier buttons, rocket arms and legs, and a red and black screen, R.O.S.C.O.P.E stands out as a remarkable creation in the world of robotics.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/1004.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "shinyYellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "redBlack"
+    }
+  ],
+  "name": "R.O.S.C.O.P.E"
+}

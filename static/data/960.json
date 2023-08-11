@@ -1,0 +1,23 @@
+{
+  "description": "Pixel is an oscilloscope-themed robot named after its ability to display precise and intricate patterns on its laser screen. With its cat-like box body, classic buttons, and sturdy foundry arms and legs, Pixel is a unique member of the WebtrES Club.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/960.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "classic"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "laser"
+    }
+  ],
+  "name": "Pixel"
+}

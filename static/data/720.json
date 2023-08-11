@@ -1,0 +1,23 @@
+{
+  "description": "Volt is a retro-inspired oscilloscope themed robot who is a member of the WebtrES club. With a box-like retro console body and soldier-like arms and legs, Volt's screen displays a mesmerizing red and black pattern that adds to its nostalgic charm.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/720.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "retroConsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "retroConsole"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "redBlack"
+    }
+  ],
+  "name": "Volt"
+}

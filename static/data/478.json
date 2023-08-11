@@ -1,0 +1,23 @@
+{
+  "description": "Circuitus is an oscilloscope-themed robot belonging to the WebtrES club. With its vibrant red body resembling the color Rosso Corsa, Circuitus stands out among its robotic peers. It possesses a unique combination of traits, including soldier buttons, foundry arms and legs, and a broken screen. These traits contribute to Circuitus' distinct appearance and functionality.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/478.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "rossoCorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "broken"
+    }
+  ],
+  "name": "Circuitus"
+}

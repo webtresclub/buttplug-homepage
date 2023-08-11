@@ -1,0 +1,23 @@
+{
+  "description": "Spectra is a shiny black oscilloscope-themed robot with classic arms and legs. It is equipped with soldier buttons and has a screen displaying a snake game. Spectra is a member of the WebtrES club.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/483.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "shinyBlack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "snake"
+    }
+  ],
+  "name": "Spectra"
+}

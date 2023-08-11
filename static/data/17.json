@@ -1,0 +1,27 @@
+{
+  "description": "Veritas is a forest green oscilloscope-themed robot belonging to the WebtrES club. With its classic box, soldier buttons, classic arms and legs, and a helmet addon, Veritas is a formidable presence in the digital realm.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/17.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "forestGreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "helmet"
+    }
+  ],
+  "name": "Veritas"
+}

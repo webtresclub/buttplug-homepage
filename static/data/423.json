@@ -1,0 +1,23 @@
+{
+  "description": "Laserbox is an oscilloscope-themed robot who is a proud member of the WebtrES club. With its cat-like box body, soldier buttons, soldier arms and legs, and a laser screen, this unique robot stands out from the crowd. Laserbox is equipped with exceptional abilities and skills, making it a valuable asset to any team.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/423.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "laser"
+    }
+  ],
+  "name": "Laserbox"
+}

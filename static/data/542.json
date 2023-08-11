@@ -1,0 +1,27 @@
+{
+  "description": "Voltar is an oscilloscope-themed robot who is a dedicated member of the WebtrES club. With its cat-like box body, soldier buttons, foundry arms and legs, and a red and black screen, Voltar stands out among its robotic peers. To enhance its visual capabilities, Voltar is equipped with a pair of sleek glasses. Its unique design and advanced features make Voltar an invaluable asset to the club.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/542.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "redBlack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "glasses"
+    }
+  ],
+  "name": "Voltar"
+}

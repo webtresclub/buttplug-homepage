@@ -1,0 +1,23 @@
+{
+  "description": "LaserCat is an oscilloscope-themed robot with an orange box body, equipped with soldier buttons and cat-like arms and legs. Its screen emits powerful laser beams, making it a formidable member of the WebtrES club.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/792.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "laser"
+    }
+  ],
+  "name": "LaserCat"
+}

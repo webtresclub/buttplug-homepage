@@ -1,0 +1,23 @@
+{
+  "description": "Pixel is an oscilloscope-themed robot who is a proud member of the WebtrES club. With its forest green box body, cat-shaped buttons, and cat-like arms and legs, Pixel exudes a unique charm. Its screen, colored in a striking combination of red and black, adds a touch of elegance to its overall appearance.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/339.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "forestGreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "cat"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "redBlack"
+    }
+  ],
+  "name": "Pixel"
+}

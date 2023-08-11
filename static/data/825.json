@@ -1,0 +1,27 @@
+{
+  "description": "Cathode is a shiny black oscilloscope-themed robot equipped with classic buttons, foundry arms and legs, a cat-themed screen, and stylish glasses. It is a member of the WebtrES club.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/825.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "shinyBlack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "classic"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "glasses"
+    }
+  ],
+  "name": "Cathode"
+}

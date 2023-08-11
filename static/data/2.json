@@ -1,0 +1,23 @@
+{
+  "description": "Laser Cat is an oscilloscope-themed robot who is part of the WebtrES club. With its soldier box, cat arms and legs, and a laser screen, Laser Cat is a unique and powerful robot ready to take on any challenge.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/2.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "laser"
+    }
+  ],
+  "name": "Laser Cat"
+}

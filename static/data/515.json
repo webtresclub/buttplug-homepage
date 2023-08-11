@@ -1,0 +1,27 @@
+{
+  "description": "ForestGreen Cat is an oscilloscope-themed robot with classic arms and legs. It has a forest green box and a cat-shaped screen. Additionally, it wears a helmet as an add-on. ForestGreen Cat is a member of the WebtrES club.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/515.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "forestGreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "cat"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "helmet"
+    }
+  ],
+  "name": "ForestGreen Cat"
+}

@@ -1,0 +1,27 @@
+{
+  "description": "Volt is a vintage oscilloscope-themed robot with classic arms and legs. Sporting a stylish pair of shades, this member of the WebtrES club is a true soldier of the digital world.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/486.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "shades"
+    }
+  ],
+  "name": "Volt"
+}

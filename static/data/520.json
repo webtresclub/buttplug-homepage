@@ -1,0 +1,23 @@
+{
+  "description": "Circuit is a charismatic and intelligent oscilloscope-themed robot with an orange box, classic buttons, classic arms and legs, and a snake-like screen. Circuit is a proud member of the WebtrES club.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/520.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "classic"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "snake"
+    }
+  ],
+  "name": "Circuit"
+}

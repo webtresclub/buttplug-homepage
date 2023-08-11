@@ -1,0 +1,23 @@
+{
+  "description": "Spectra is an oscilloscope-themed robot that was designed and built by the brilliant engineers of the WebtrES club. With a unique combination of traits, Spectra stands out as a one-of-a-kind creation in the world of robots.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/585.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "classic"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "broken"
+    }
+  ],
+  "name": "Spectra"
+}

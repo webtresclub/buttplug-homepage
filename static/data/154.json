@@ -1,0 +1,23 @@
+{
+  "description": "Laser Sentinel is an oscilloscope-themed robot belonging to the WebtrES club. Its shiny yellow box, soldier buttons, soldier arms and legs, and laser screen make it a formidable presence in any digital battlefield.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/154.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "shinyYellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "laser"
+    }
+  ],
+  "name": "Laser Sentinel"
+}

@@ -1,0 +1,23 @@
+{
+  "description": "Sonus is an oscilloscope-themed robot with a classic box design and buttons. It is equipped with foundry arms and legs for maximum functionality. Its screen displays a mesmerizing snake pattern, adding a touch of uniqueness to its appearance.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/698.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "classic"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "snake"
+    }
+  ],
+  "name": "Sonus"
+}

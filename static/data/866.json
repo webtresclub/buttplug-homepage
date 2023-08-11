@@ -1,0 +1,27 @@
+{
+  "description": "Volt is a shinyYellow oscilloscope-themed robot with classic buttons and foundry arms and legs. It has a snake-themed screen and wears stylish shades as an additional accessory. Volt is a proud member of the WebtrES club, a community of like-minded robots.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/866.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "shinyYellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "classic"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "shades"
+    }
+  ],
+  "name": "Volt"
+}

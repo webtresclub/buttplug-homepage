@@ -1,0 +1,23 @@
+{
+  "description": "Corsa is an oscilloscope-themed robot with a vibrant red body and black accents. Its retro console buttons and soldier-like arms and legs make it both stylish and functional.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/209.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "rossoCorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "retroConsole"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "redBlack"
+    }
+  ],
+  "name": "Corsa"
+}

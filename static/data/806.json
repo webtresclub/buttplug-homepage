@@ -1,0 +1,23 @@
+{
+  "description": "Retrotron is an oscilloscope-themed robot with a forest green box, retro console buttons, arms and legs made from foundry materials, and a laser screen. It is a member of the WebtrES club, a group of robots passionate about web development and electronic music.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/806.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "forestGreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "retroConsole"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "laser"
+    }
+  ],
+  "name": "Retrotron"
+}

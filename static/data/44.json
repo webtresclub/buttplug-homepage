@@ -1,0 +1,27 @@
+{
+  "description": "RetroBot is a specialized oscilloscope-themed robot belonging to the WebtrES club. With its shiny yellow box, retro console buttons, foundry arms and legs, snake screen, and stylish glasses addon, RetroBot is a unique and eye-catching member of the club.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/44.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "shinyYellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "retroConsole"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "glasses"
+    }
+  ],
+  "name": "RetroBot"
+}

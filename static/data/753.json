@@ -1,0 +1,23 @@
+{
+  "description": "Zappy is a shiny yellow oscilloscope-themed robot with classic buttons, arms, and legs. Its screen emits a powerful laser for precise measurements and analysis. Zappy is a proud member of the WebtrES club, using its advanced technology to contribute to the digital world and beyond.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/753.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "shinyYellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "classic"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "laser"
+    }
+  ],
+  "name": "Zappy"
+}

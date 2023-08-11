@@ -1,0 +1,27 @@
+{
+  "description": "Pixel is a shiny black oscilloscope-themed robot with a cat-shaped screen and a pair of glasses as an add-on. It has hand-down arms and legs with cat-shaped buttons. Pixel is a proud member of the WebtrES club, a group of tech enthusiasts who tirelessly explore and experiment with the wonders of the digital realm.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/398.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "shinyBlack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "cat"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "handDown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "glasses"
+    }
+  ],
+  "name": "Pixel"
+}

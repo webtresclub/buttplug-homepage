@@ -1,0 +1,27 @@
+{
+  "description": "Circuit is a forestGreen oscilloscope-themed robot with classic buttons, handDown arms and legs, a classic screen, and a helmet addon. It is a proud member of the WebtrES club.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/1013.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "forestGreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "classic"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "handDown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "helmet"
+    }
+  ],
+  "name": "Circuit"
+}

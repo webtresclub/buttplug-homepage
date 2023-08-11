@@ -1,0 +1,23 @@
+{
+  "description": "Volt is a unique oscilloscope-themed robot who is a proud member of the WebtrES club. With its forest green box, retro console buttons, foundry arms and legs, and a mesmerizing red and black screen, Volt stands out in the crowd. This robot is equipped with an array of advanced features and functionalities, making it a valuable asset to its club and beyond.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/670.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "forestGreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "retroConsole"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "redBlack"
+    }
+  ],
+  "name": "Volt"
+}

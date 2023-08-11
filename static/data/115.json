@@ -1,0 +1,23 @@
+{
+  "description": "Rex is a shiny black oscilloscope-themed robot with classic buttons, soldier-like arms and legs, and a cat-themed screen.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/115.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "shinyBlack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "classic"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "cat"
+    }
+  ],
+  "name": "Rex"
+}

@@ -1,0 +1,23 @@
+{
+  "description": "Sparky is an oscilloscope-themed robot with a shiny black box body and classic buttons. Its arms and legs hang down, ready to assist with any task at hand. The screen, unfortunately, is broken, but that doesn't deter Sparky from fulfilling its purpose.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/718.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "shinyBlack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "classic"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "handDown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "broken"
+    }
+  ],
+  "name": "Sparky"
+}

@@ -1,0 +1,27 @@
+{
+  "description": "Analog is a retro-inspired oscilloscope-themed robot who is part of the WebtrES club. With its unique combination of traits, Analog brings a nostalgic touch to the digital world.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/822.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "retroConsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "retroConsole"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "redBlack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "helmet"
+    }
+  ],
+  "name": "Analog"
+}

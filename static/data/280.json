@@ -1,0 +1,23 @@
+{
+  "description": "Volt is a shiny black oscilloscope-themed robot with soldier buttons and soldier arms and legs. Its screen displays a mesmerizing snake pattern, adding to its mysterious aura.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/280.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "shinyBlack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "snake"
+    }
+  ],
+  "name": "Volt"
+}

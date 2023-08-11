@@ -1,0 +1,23 @@
+{
+  "description": "Laserbox Rocket Soldier is a robotic oscilloscope with an orange box, equipped with rocket-powered arms and legs, and a laser screen. This unique robot is a proud member of the WebtrES club, where it showcases its powerful abilities and skills.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/671.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "laser"
+    }
+  ],
+  "name": "Laserbox Rocket Soldier"
+}

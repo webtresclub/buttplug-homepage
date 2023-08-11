@@ -1,0 +1,27 @@
+{
+  "description": "Voltbox is a powerful oscilloscope-themed robot hailing from the WebtrES club. With its sturdy box-shaped body, soldier-like arms and legs, and a classic screen display, Voltbox is a formidable presence in the digital realm. Equipped with a pair of sleek glasses as an additional accessory, this robot is ready to analyze and interpret complex electronic signals with precision.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/200.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "glasses"
+    }
+  ],
+  "name": "Voltbox"
+}

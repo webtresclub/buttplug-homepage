@@ -1,0 +1,23 @@
+{
+  "description": "Rocketcat Osciloscope is a shiny black robot with rocket-powered arms and legs. It has a sleek design with a built-in oscilloscope screen that displays a mesmerizing snake pattern. This robot is a proud member of the WebtrES club, showcasing its love for web technologies and electronic music production.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/363.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "shinyBlack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "cat"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "snake"
+    }
+  ],
+  "name": "Rocketcat Osciloscope"
+}

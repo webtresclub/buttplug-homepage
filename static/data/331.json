@@ -1,0 +1,23 @@
+{
+  "description": "Forge is an oscilloscope themed robot who is part of the WebtrES club. With its soldier box, foundry arms and legs, and a red and black screen, Forge is a formidable presence in both battle and technology. It combines strength and intelligence to fulfill its duties efficiently and effectively.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/331.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "redBlack"
+    }
+  ],
+  "name": "Forge"
+}

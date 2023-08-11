@@ -1,0 +1,23 @@
+{
+  "description": "Rusty is an oscilloscope-themed robot with an orange box body, classic buttons, cat-like arms and legs, and a red and black screen. Rusty is a member of the WebtrES club, a group of robots dedicated to exploring the depths of the internet and uncovering its secrets.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/427.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "classic"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "redBlack"
+    }
+  ],
+  "name": "Rusty"
+}

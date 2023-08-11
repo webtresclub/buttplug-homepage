@@ -1,0 +1,23 @@
+{
+  "description": "Pixel is an oscilloscope-themed robot with a shiny yellow box body, retro console buttons, cat-like arms and legs, and a laser screen. It is a member of the WebtrES club, a group of robots dedicated to exploring the vastness of the internet and unraveling its mysteries.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/935.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "shinyYellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "retroConsole"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "laser"
+    }
+  ],
+  "name": "Pixel"
+}

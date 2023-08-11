@@ -1,0 +1,23 @@
+{
+  "description": "Rosso is a classic oscilloscope-themed robot with a broken screen. Despite this setback, it remains a valuable member of the WebtrES club.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/540.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "rossoCorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "classic"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "broken"
+    }
+  ],
+  "name": "Rosso"
+}

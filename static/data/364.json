@@ -1,0 +1,23 @@
+{
+  "description": "Retrotron is a vintage-inspired oscilloscope-themed robot who is a proud member of the WebtrES club. With its classic arms and legs, it navigates the digital landscape with ease, resembling a soldier ready for action. The retroConsole box gives it a nostalgic charm, reminding users of the good old days of gaming. Its screen displays a digital representation of the famous game Snake, adding a touch of fun to its functionality. Retrotron is a unique combination of old-school aesthetics and modern technology, making it a beloved member of the WebtrES community.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/364.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "retroConsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "snake"
+    }
+  ],
+  "name": "Retrotron"
+}

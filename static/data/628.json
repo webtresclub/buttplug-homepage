@@ -1,0 +1,27 @@
+{
+  "description": "Voltan is an oscilloscope-themed robot with a commanding presence and a cool demeanor. Equipped with a set of classic soldier buttons, sturdy foundry arms and legs, a sleek snake-like screen, and stylish shades as an add-on, Voltan stands out among other robots.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/628.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "classic"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "shades"
+    }
+  ],
+  "name": "Voltan"
+}

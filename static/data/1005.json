@@ -1,0 +1,23 @@
+{
+  "description": "Circuit is a charismatic oscilloscope-themed robot with a shiny yellow box body. Its arms and legs are made of durable foundry material, allowing it to withstand rigorous activities. The vibrant laser screen on its chest serves as its visual interface and communication tool. Circuit is a proud member of the WebtrES club, showcasing its intelligence and advanced technological abilities.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/1005.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "shinyYellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "cat"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "laser"
+    }
+  ],
+  "name": "Circuit"
+}

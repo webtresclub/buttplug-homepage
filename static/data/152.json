@@ -1,0 +1,23 @@
+{
+  "description": "Pixel is an oscilloscope-themed robot with vibrant orange box just like its namesake - a pixel. Its classic buttons add a touch of nostalgia to its design. Its arms and legs are designed in the shape of a playful cat, while its screen also features a cute cat animation. Pixel is a member of the WebtrES club, a community of tech enthusiasts who explore the depths of the internet.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/152.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "classic"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "cat"
+    }
+  ],
+  "name": "Pixel"
+}

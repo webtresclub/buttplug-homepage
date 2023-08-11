@@ -1,0 +1,27 @@
+{
+  "description": "Volt is a shiny yellow oscilloscope-themed robot belonging to the WebtrES club. With its classic buttons and arms and legs made from foundry materials, Volt is a unique and eye-catching member of the club. Its screen displays an adorable cat image, while its stylish glasses add a touch of sophistication to its appearance.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/964.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "shinyYellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "classic"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "glasses"
+    }
+  ],
+  "name": "Volt"
+}

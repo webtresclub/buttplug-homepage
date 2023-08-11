@@ -1,0 +1,23 @@
+{
+  "description": "Cyberfelix is an oscilloscope-themed robot who is a proud member of the WebtrES club. With its box-like soldier body and cat-shaped arms and legs, it stands out among other robots. Its screen, colored in red and black, adds a touch of uniqueness to its appearance. Cyberfelix possesses a combination of traits that make it an exceptional member of the club.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/824.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "cat"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "redBlack"
+    }
+  ],
+  "name": "Cyberfelix"
+}

@@ -1,0 +1,23 @@
+{
+  "description": "Cybertron is a classic oscilloscope-themed robot with cat-like agility and a soldier's precision. Its sleek red and black screen displays data with unparalleled accuracy, making it an invaluable member of the WebtrES club.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/459.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "redBlack"
+    }
+  ],
+  "name": "Cybertron"
+}

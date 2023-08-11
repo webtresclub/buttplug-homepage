@@ -1,0 +1,23 @@
+{
+  "description": "Volt is an oscilloscope-themed robot, with a classic box design and soldier-like buttons, arms, and legs. However, its screen is unfortunately broken, giving it a unique and distinct appearance.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/222.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "broken"
+    }
+  ],
+  "name": "Volt"
+}

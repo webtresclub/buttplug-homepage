@@ -1,0 +1,27 @@
+{
+  "description": "Voltax is an oscilloscope-themed robot who is an active member of the WebtrES club. With its box-like soldier body, classic buttons, soldier arms and legs, and a red-black screen, Voltax stands out in both appearance and abilities. It is equipped with shades as an additional accessory, adding a touch of style to its overall look.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/426.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "classic"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "redBlack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "shades"
+    }
+  ],
+  "name": "Voltax"
+}

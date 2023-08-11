@@ -1,0 +1,23 @@
+{
+  "description": "Volt is an oscilloscope-themed robot, part of the WebtrES club. With classic box-shaped body, soldier buttons, and arms and legs, it stands tall and proud. Its screen displays a mesmerizing snake pattern, capturing the attention of all who behold it.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/84.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "classic"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "snake"
+    }
+  ],
+  "name": "Volt"
+}

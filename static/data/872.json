@@ -1,0 +1,23 @@
+{
+  "description": "Boltron is a shinyYellow osciloscope-themed robot with classic arms and legs, equipped with a laser screen. As a member of the WebtrES club, Boltron is a skilled soldier, ready to analyze and interpret complex signals in the digital realm.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/872.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "shinyYellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "laser"
+    }
+  ],
+  "name": "Boltron"
+}

@@ -1,0 +1,23 @@
+{
+  "description": "Vox is a vintage oscilloscope-themed robot belonging to the WebtrES club. With its retroConsole box, soldier buttons, foundry arms and legs, and a broken screen, Vox brings a unique blend of nostalgia and utility. Despite its damaged screen, Vox remains a reliable companion for all web-technology enthusiasts.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/462.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "retroConsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "broken"
+    }
+  ],
+  "name": "Vox"
+}

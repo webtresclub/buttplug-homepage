@@ -1,0 +1,23 @@
+{
+  "description": "Zap is an oscilloscope-themed robot who is a proud member of the WebtrES club. With its cat-like box body, classic arms and legs, and a laser screen, Zap is a formidable companion in the digital realm.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/83.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "laser"
+    }
+  ],
+  "name": "Zap"
+}

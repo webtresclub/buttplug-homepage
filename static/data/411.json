@@ -1,0 +1,23 @@
+{
+  "description": "Rocketcat is an oscilloscope-themed robot who is a proud member of the WebtrES club. With its soldier-like box body, cat-inspired buttons, rocket arms and legs, and a screen displaying a mesmerizing snake pattern, Rocketcat is a unique and powerful addition to the club.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/411.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "cat"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "snake"
+    }
+  ],
+  "name": "Rocketcat"
+}

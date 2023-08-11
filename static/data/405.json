@@ -1,0 +1,23 @@
+{
+  "description": "RetroRex is a vintage oscilloscope-themed robot with classic box-like body, retro console buttons, and classic arms and legs. Its screen is broken, adding to its unique charm. RetroRex is a proud member of the WebtrES club, which is a community of tech enthusiasts.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/405.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "retroConsole"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "broken"
+    }
+  ],
+  "name": "RetroRex"
+}

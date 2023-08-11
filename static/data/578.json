@@ -1,0 +1,27 @@
+{
+  "description": "Spectron is a sentient oscilloscope-themed robot who serves as a soldier in the WebtrES club. With its classic box-shaped body and strong arms and legs, Spectron is built for combat and defense. Its red and black screen displays vital information and analysis in real-time, helping it make strategic decisions on the battlefield. The robot is equipped with a sturdy helmet as an additional protective measure.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/578.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "redBlack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "helmet"
+    }
+  ],
+  "name": "Spectron"
+}

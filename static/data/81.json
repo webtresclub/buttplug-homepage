@@ -1,0 +1,27 @@
+{
+  "description": "RetroBox is an oscilloscope-themed robot belonging to the WebtrES club. With its unique traits of a soldier-like buttons, cat-like arms and legs, a classic screen, and a sleek helmet addon, RetroBox is a one-of-a-kind robotic companion.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/81.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "retroConsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "helmet"
+    }
+  ],
+  "name": "RetroBox"
+}

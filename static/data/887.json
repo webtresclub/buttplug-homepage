@@ -1,0 +1,23 @@
+{
+  "description": "Volt is a shiny yellow oscilloscope-themed robot with classic buttons and arms and legs made from foundry materials. Its screen is unfortunately broken, but despite this setback, Volt is a valuable member of the WebtrES club.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/887.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "shinyYellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "classic"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "broken"
+    }
+  ],
+  "name": "Volt"
+}

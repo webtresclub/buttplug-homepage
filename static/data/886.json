@@ -1,0 +1,23 @@
+{
+  "description": "Pixel is a retro-themed oscilloscope robot who is part of the WebtrES club. With its cat-shaped box body, classic arms and legs, and a screen that emits laser-like visuals, Pixel brings a nostalgic charm to the digital world.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/886.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "retroConsole"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "laser"
+    }
+  ],
+  "name": "Pixel"
+}

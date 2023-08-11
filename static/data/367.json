@@ -1,0 +1,23 @@
+{
+  "description": "Spark is an oscilloscope-themed robot who is a proud member of the WebtrES club. With a classic box frame and buttons, this unique bot stands out with its sturdy foundry arms and legs. Its screen is adorned with a cute cat design, adding a touch of whimsy to its technical appeal.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/367.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "classic"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "cat"
+    }
+  ],
+  "name": "Spark"
+}

@@ -1,0 +1,27 @@
+{
+  "description": "RetroBot is a vintage-inspired oscilloscope-themed robot who is part of the WebtrES club. With its classic soldier-style box body, soldier arms and legs, and a snake-themed screen, RetroBot brings a touch of nostalgia to the modern world. Equipped with stylish shades as an add-on, RetroBot is ready to impress with its charm and charisma.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/539.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "classic"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "shades"
+    }
+  ],
+  "name": "RetroBot"
+}

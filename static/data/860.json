@@ -1,0 +1,23 @@
+{
+  "description": "Circuitron is an oscilloscope-themed robot that is part of the WebtrES club. With its forest green box, soldier buttons, soldier arms and legs, and a laser screen, Circuitron is a formidable companion in the digital world. Its design combines both strength and precision, making it a reliable partner for any technological challenge.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/860.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "forestGreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "laser"
+    }
+  ],
+  "name": "Circuitron"
+}

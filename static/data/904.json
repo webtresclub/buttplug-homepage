@@ -1,0 +1,23 @@
+{
+  "description": "Circuit is an oscilloscope-themed robot who is part of the WebtrES club. With its forest green box and sturdy foundry arms and legs, Circuit is a reliable and resourceful companion. Although its screen is broken, it doesn't hinder Circuit's ability to analyze and interpret electrical signals. This soldier-like robot is equipped with a variety of abilities and skills, making it a valuable asset in any technological endeavor.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/904.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "forestGreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "broken"
+    }
+  ],
+  "name": "Circuit"
+}

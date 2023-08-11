@@ -1,0 +1,27 @@
+{
+  "description": "Voltrex is an oscilloscope-themed robot belonging to the WebtrES club. With its forest green box body, soldier buttons, foundry arms and legs, red and black screen, and stylish shades as an addon, Voltrex is a unique and powerful member of the club.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/174.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "forestGreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "redBlack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "shades"
+    }
+  ],
+  "name": "Voltrex"
+}

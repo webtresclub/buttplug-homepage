@@ -1,0 +1,23 @@
+{
+  "description": "Retrobot Oscilloscope is a vintage-inspired robot with a charming oscilloscope theme. With its classic buttons, soldier-like appearance, and arms and legs reminiscent of classic designs, this robot is a true testament to the nostalgia of the past. Its screen, featuring a classic display, adds to its retro appeal. Retrobot Oscilloscope is a proud member of the WebtrES club, where it showcases its unique abilities and skills.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/562.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "retroConsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "classic"
+    }
+  ],
+  "name": "Retrobot Oscilloscope"
+}

@@ -1,0 +1,27 @@
+{
+  "description": "Volt is a remarkable oscilloscope-themed robot who is part of the WebtrES club. With its sleek design and advanced technology, Volt stands out in any crowd. Its box-like body resembles that of a soldier, symbolizing its strength and resilience. The snake displayed on its screen represents its agility and flexibility, allowing Volt to navigate through complex circuits and algorithms with ease. The glasses add-on enhances its vision, enabling Volt to analyze and interpret data with precision. With its impressive ability scores and skills, Volt is a formidable ally in the digital realm.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/191.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "handDown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "glasses"
+    }
+  ],
+  "name": "Volt"
+}

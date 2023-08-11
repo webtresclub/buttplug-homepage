@@ -1,0 +1,23 @@
+{
+  "description": "RocketCat is a unique oscilloscope-themed robot who is a proud member of the WebtrES club. With its vibrant red body and retro console buttons, RocketCat stands out among the crowd. Its powerful rocket arms and legs allow it to move swiftly and gracefully, while its screen displays an adorable cat image that adds a touch of charm to its overall appearance.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/432.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "rossoCorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "retroConsole"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "cat"
+    }
+  ],
+  "name": "RocketCat"
+}

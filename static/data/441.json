@@ -1,0 +1,27 @@
+{
+  "description": "Felix is a unique oscilloscope-themed robot who is a proud member of the WebtrES club. With an orange box body and sturdy foundry arms and legs, Felix stands tall and commands attention. His screen displays a cute cat illustration, adding a touch of charm to his mechanical appearance. To protect his circuits, Felix wears a durable helmet as an additional accessory.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/441.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "helmet"
+    }
+  ],
+  "name": "Felix the Oscilloscope Robot"
+}

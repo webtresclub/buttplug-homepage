@@ -1,0 +1,23 @@
+{
+  "description": "Rocketcat is an oscilloscope-themed robot who is part of the WebtrES club. With its cat-inspired design and rocket arms and legs, Rocketcat stands out among its robotic peers. Its screen displays a cute cat image that adds to its charm. Rocketcat is known for its exceptional abilities, skills, and unique personality.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/388.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "classic"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "cat"
+    }
+  ],
+  "name": "Rocketcat"
+}

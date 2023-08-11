@@ -1,0 +1,27 @@
+{
+  "description": "Retro Oscibot is a unique robot with an oscilloscope theme. It is a member of the WebtrES club, a group of tech enthusiasts dedicated to exploring the wonders of the digital world. With its retro console box and cat-inspired buttons for arms and legs, this robot brings a playful and nostalgic touch to the club. Its red and black screen gives it a vintage aesthetic, while the stylish shades add a cool and mysterious vibe. Retro Oscibot is known for its exceptional abilities and skills in the digital realm.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/158.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "retroConsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "cat"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "redBlack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "shades"
+    }
+  ],
+  "name": "Retro Oscibot"
+}

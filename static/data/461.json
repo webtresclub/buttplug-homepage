@@ -1,0 +1,23 @@
+{
+  "description": "Rocket-Red is an oscilloscope-themed robot with cat-like agility and a classic design. Equipped with rocket-propelled arms and legs, it can navigate any terrain with ease. Its red and black screen adds a touch of style to its appearance.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/461.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "classic"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "redBlack"
+    }
+  ],
+  "name": "Rocket-Red"
+}

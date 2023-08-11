@@ -1,0 +1,27 @@
+{
+  "description": "Rex is an oscilloscope-themed robot that is part of the WebtrES club. With a sturdy soldier box body and strong foundry arms and legs, Rex is ready for any challenge. Its screen displays an adorable cat image, adding a touch of charm to its design. To top it off, Rex sports a pair of stylish shades, giving it a cool and mysterious look. With its unique appearance and advanced functionality, Rex is a true standout among its fellow WebtrES club members.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/793.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "shades"
+    }
+  ],
+  "name": "Rex"
+}

@@ -1,0 +1,27 @@
+{
+  "description": "Pixel is a highly advanced oscilloscope-themed robot with a forest green box, retro console buttons, rocket arms and legs, a red and black screen, and cool glasses as an addon. Built to be a member of the WebtrES club, Pixel combines futuristic technology with a touch of nostalgia.",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/739.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "forestGreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "retroConsole"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "redBlack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "glasses"
+    }
+  ],
+  "name": "Pixel"
+}
