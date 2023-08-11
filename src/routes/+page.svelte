@@ -1,24 +1,44 @@
 <script lang="ts">
-    import { connectMetamask, account, chain} from '$lib/user.store';
-    
-    export let data;
-    
-    let canClaim = false;
-    $: if ($account) {
+import { connectMetamask, account, chain} from '$lib/user.store';
+import { onMount } from 'svelte';
+	import Layout from './+layout.svelte';
+
+export let data;
+let randomIds = [];
+let traits = {};
+
+onMount(async () => {
+
+    for(let i = 0; i < 9; i++) {
+        randomIds.push(
+            Math.floor(Math.random() * 1024) + 1
+        );
+    }
+    randomIds = [...new Set(randomIds)];
+    traits = await fetchData();
+});
+
+
+let canClaim = false;
+$: if ($account) {
     canClaim = data.wallets.indexOf($account.toLowerCase()) > -1
     
     // TODO: check if claimed
     canClaim = true;
 }
 
-const randomsIds = [];
 
-for(let i = 0; i < 9; i++) {
-    randomsIds.push(
-        Math.floor(Math.random() * 1024) + 1
-    );
+async function fetchData() {
+    const response = await fetch('/api/traits', {
+      method: 'POST',
+      body: JSON.stringify({randomIds}),
+      headers: {
+        'content-type': 'application/json'
+      }
+    });
+
+    return await response.json();
 }
-
 
 </script>
 
@@ -69,13 +89,15 @@ for(let i = 0; i < 9; i++) {
     
 
     <div class="space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-12 md:space-y-0">
-        {#each randomsIds as id, i }
+        {#each randomIds as id }
             <div class="card">
                 <div class="card__image">
-                    <img src="https://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44.ipfs.dweb.link/{id}.gif" alt={id} />
+                    <a href="/buttpluggy/{id}">
+                        <img width="276" height="276" src="https://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44.ipfs.dweb.link/{id}.gif" alt={id} />
+                    </a>
                 </div>
                 <div class="card__content">
-                    <h3>#{id}</h3>
+                    <h3>#{id} - {traits[String(id)].name}</h3>
                 </div>
             </div>
         {/each}
