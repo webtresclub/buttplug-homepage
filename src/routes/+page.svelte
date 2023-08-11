@@ -1,14 +1,12 @@
 <script lang="ts">
 import { connectMetamask, account, chain} from '$lib/user.store';
+import {haveClaimButtplug} from '$lib/contracts';
 import { onMount } from 'svelte';
-	import Layout from './+layout.svelte';
-
 export let data;
 let randomIds = [];
 let traits = {};
 
 onMount(async () => {
-
     for(let i = 0; i < 9; i++) {
         randomIds.push(
             Math.floor(Math.random() * 1024) + 1
@@ -20,11 +18,10 @@ onMount(async () => {
 
 
 let canClaim = false;
-$: if ($account) {
-    canClaim = data.wallets.indexOf($account.toLowerCase()) > -1
-    
-    // TODO: check if claimed
-    canClaim = true;
+$: if ($account && data.wallets.indexOf($account.toLowerCase()) > -1) {
+    haveClaimButtplug($account).then((claimed) => {
+        canClaim = !claimed;
+    });
 }
 
 

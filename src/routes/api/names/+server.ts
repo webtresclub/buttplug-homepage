@@ -13,7 +13,6 @@ export async function POST({request}) {
 
     const ret = {};
     for (const id of r) {
-    
         ret[id] = data[id].name;
     }
     

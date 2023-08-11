@@ -1,8 +1,8 @@
 import proofs from '$lib/proofs.json';
 
-const wallets: string[] = [];
+const wallets = {};
 for (const proof of proofs) {
-	wallets.push(proof.wallet.toLowerCase());
+	wallets[proof.wallet] = proof.proof;
 }
 
 
