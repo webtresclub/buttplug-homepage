@@ -1,6 +1,6 @@
 import { json } from '@sveltejs/kit';
-import fs from 'fs';
-import path from 'path';
+import data from '$lib/data.json';
+
 
 // @dev this will be necesary only if merkle tree is too big
  
@@ -13,11 +13,8 @@ export async function POST({request}) {
 
     const ret = {};
     for (const id of r) {
-        const file = path.resolve(`static/data/${id}.json`);
     
-        ret[id] = JSON.parse(
-            fs.readFileSync(file, 'utf8')
-        ).name;
+        ret[id] = data[id].name;
     }
     
 

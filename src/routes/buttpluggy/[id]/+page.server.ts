@@ -1,7 +1,5 @@
 import { error } from '@sveltejs/kit';
-import fs from 'fs';
-import path from 'path';
-
+import data from '$lib/data.json';
  
 /** @type {import('./$types').PageServerLoad} */
 export async function load({ params }) {
@@ -10,8 +8,6 @@ export async function load({ params }) {
     if (!validId) {
         throw error(400, 'Buttplug Not found');
     }
-
-    const file = path.resolve(`static/data/${id}.json`);
     
-    return { buttplug: JSON.parse(fs.readFileSync(file, 'utf8'))};
+    return { buttplug: data[id]};
 }
