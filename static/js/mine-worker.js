@@ -26,22 +26,24 @@ function randomSeed() {
   return x;
 }
 
-function mine() {
+function mine(difficulty) {
   // return ['0x84dba1e522eaccb726e1d6a14019b9beb016764cf158218d0ec1dadd71f47159', '0x00ac2718e3', 29, '000000e75dde0fa9a5641377481c4c84aea6d05180ffcaa662db9876ac2718e3', '201.04318548802695 Kh/s'];
   let time = Date.now();
   const startTime = Date.now();
   let hash;
   const nonce = randomSeed();
+
+  // 0 contanated
+  const expectedHash = new Array(difficulty).fill('0').join('');
+
   for(let i = 0; i < 100000; i++) {
     hash = sha3.keccak256(searchSeed.concat(nonce));
     // debugger;
-    if (hash.slice(0, 5) === '00000') {
+    if (hash.slice(0, difficulty) === expectedHash) {
       const rawTime = (Date.now() - startTime) / 1000;
       time = Math.floor(rawTime);
       const khs = 10000 / rawTime / 1000;
-      console.log(`0x${bytesToHex(searchSeed.concat(nonce))}`);
       return [`0x${bytesToHex(nonce)}`, hash, time, hash, `${khs} Kh/s`];
-      break;
     }
 
     // just change one byte
@@ -61,6 +63,6 @@ onmessage = ({data}) => {
   for (let i = 0; i < bytesConcat.length; i += 2) {
     searchSeed.push(parseInt(bytesConcat.slice(i, i + 2), 16));
   }
-  const result = mine();
+  const result = mine(parseInt(data.$difficulty));
   postMessage(JSON.stringify(result));
 };

@@ -21,9 +21,6 @@ onMount(async () => {
 
     const unwatch = currentDifficultyAndSalt();
     return unwatch;
-    //MCR = await loadMoonCatRescueContract(window.WEB3);
-    //
-    //searchSeed = await MCR.methods.searchSeed().call();
 });
 
 let coresSelected = 2;
@@ -75,7 +72,6 @@ async function mintButtplug(nonce) {
 }
 
   function createMiner(){
-    
     return function mine(workerCount, handleResult){
       workerCount = workerCount || 1;
       terminateWorkers();
