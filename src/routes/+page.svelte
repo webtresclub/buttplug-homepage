@@ -60,7 +60,7 @@ async function fetchData() {
     <header class="container">
       <hgroup>
         <h1>Buttplug</h1>
-        <h2>A classy NFT</h2>
+        <h2>A Huff NFT collection</h2>
       </hgroup>
     </header>
 

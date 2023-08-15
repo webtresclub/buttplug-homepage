@@ -54,7 +54,7 @@ async function claim() {
                 {/if}
             </div>
             <div class="mt-6 p-4 mx-auto text-center font-mono">
-                Minter contract <a href="https://goerli.etherscan.io/address/0x47A68C343A9c35c6b397D997E7C15a6B4FA4787F" target="_blank">0x47A68C343A9c35c6b397D997E7C15a6B4FA4787F</a>
+                Minter contract <a href="https://goerli.etherscan.io/address/0x262C5ea7411B0FAdB8E175C8D994A2Fd08274C31" target="_blank">0x262C5ea7411B0FAdB8E175C8D994A2Fd08274C31</a>
             </div>
         </div>
     </section>
