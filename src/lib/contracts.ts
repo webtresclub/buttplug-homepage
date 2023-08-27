@@ -9,10 +9,10 @@ import { publicProvider } from '@wagmi/core/providers/public'
 import { writable } from 'svelte/store';
 
 
-// renderer: address 0x847981B577732B0Cb84E9496AbF0daf4a7277180
-// huffplug: address 0x0000420f234E9Ea92F8E9fD1afF8016f9F4c7D5D
+// renderer: address 0x06a58F43fbb9Cf521c0159EADf6ab07fD8D135B4
+// huffplug: address 0xBe0768c32D3AEda087c5064e6f402D91cB9d466A
 /// @dev sepolia address of the minter contract
-const MINTER_BUTTPLUG = '0x262C5ea7411B0FAdB8E175C8D994A2Fd08274C31';
+const MINTER_BUTTPLUG = '0xBe0768c32D3AEda087c5064e6f402D91cB9d466A';
 
 const abiPlugger = parseAbi([
   //  ^? const abi: readonly [{ name: "balanceOf"; type: "function"; stateMutability:...
