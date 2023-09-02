@@ -9,9 +9,9 @@ import { publicProvider } from '@wagmi/core/providers/public'
 import { writable } from 'svelte/store';
 
 
-// huffplug: address 0xBe0768c32D3AEda087c5064e6f402D91cB9d466A
+// huffplug: address 0x11A0Da1d19b37A433e4f6031a86E90AA3DD5585F
 /// @dev sepolia address of the minter contract
-const MINTER_BUTTPLUG = '0x4e59b44847b379578588920cA78FbF26c0B4956C';
+const MINTER_BUTTPLUG = '0x11A0Da1d19b37A433e4f6031a86E90AA3DD5585F';
 
 const abiPlugger = parseAbi([
   //  ^? const abi: readonly [{ name: "balanceOf"; type: "function"; stateMutability:...
@@ -83,6 +83,8 @@ export async function currentDifficultyAndSalt() {
     };
    
     const data = await multicall(config);
+    debugger;
+    console.log(data);
     const unwatch = watchMulticall(config, (data_) => {
         difficulty.set(data_[0].result);
         salt.set(data_[1].result);
