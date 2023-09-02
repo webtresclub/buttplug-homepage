@@ -9,7 +9,6 @@ import { publicProvider } from '@wagmi/core/providers/public'
 import { writable } from 'svelte/store';
 
 
-// renderer: address 0x06a58F43fbb9Cf521c0159EADf6ab07fD8D135B4
 // huffplug: address 0xBe0768c32D3AEda087c5064e6f402D91cB9d466A
 /// @dev sepolia address of the minter contract
 const MINTER_BUTTPLUG = '0x4e59b44847b379578588920cA78FbF26c0B4956C';
