@@ -139,16 +139,18 @@
 				Current difficulty: {$difficulty}<br />
 				Current salt: {$salt}<br />
 			</div>
-            <!-- Change amount of workers with a plus and minus button-->
-            <!-- Min 1 worker Max cores.length-->
-            <div class="font-mono">
-                <div class="flex items-center">
-                    Workers: 
-                    <spam  on:click={() => coresSelected == 1 ? 1 : coresSelected--}>-</spam>
-                    {coresSelected}            
-                    <spam  on:click={() => coresSelected == cores.length ? cores.length : coresSelected++}>+</spam>
-                </div>
-            </div>
+			<!-- Change amount of workers with a plus and minus button-->
+			<!-- Min 1 worker Max cores.length-->
+			<div class="font-mono">
+				<div class="flex items-center">
+					Workers:
+					<spam on:click={() => (coresSelected == 1 ? 1 : coresSelected--)}>-</spam>
+					{coresSelected}
+					<spam on:click={() => (coresSelected == cores.length ? cores.length : coresSelected++)}
+						>+</spam
+					>
+				</div>
+			</div>
 
 			{#each workerLog as l}
 				<div class="font-mono">
