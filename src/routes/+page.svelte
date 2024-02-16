@@ -82,7 +82,7 @@ async function fetchData() {
             <p>First connect your wallet</p>
             <button on:click={() => connectMetamask()}>Connect</button>
         {:else if $chain != '5'}
-            <h1>{$chain} Switch network to sepolia</h1>
+            <h1>{$chain} Switch network to Ethereum mainnet</h1>
         {:else}
             <a href="/mine" role="button">Mine your Buttplug</a> <br />
             {#if canClaim}

@@ -9,9 +9,9 @@ import { publicProvider } from '@wagmi/core/providers/public'
 import { writable } from 'svelte/store';
 
 
-// huffplug: address 0x7628eA987F421f90c6BB87Cfa2Fde5E4c4E16249
-/// @dev sepolia address of the minter contract
-const MINTER_BUTTPLUG = '0x7628eA987F421f90c6BB87Cfa2Fde5E4c4E16249';
+// huffplug: address 0x0000420538CD5AbfBC7Db219B6A1d125f5892Ab0
+/// @dev Ethereum mainnet address of the minter contract
+const MINTER_BUTTPLUG = '0x0000420538CD5AbfBC7Db219B6A1d125f5892Ab0';
 
 const abiPlugger = parseAbi([
   //  ^? const abi: readonly [{ name: "balanceOf"; type: "function"; stateMutability:...
@@ -29,7 +29,7 @@ export async function haveClaimButtplug(user: `0x${string}`) {
         functionName: 'claimed',
         args: [user],
         blockTag: 'safe',
-        chainId: 5 // sepolia
+        chainId: 1 // ethereum mainnet
     });
 
     return data;
@@ -41,7 +41,7 @@ export async function mintWithMerkle(proofs) {
         abi: abiPlugger,
         functionName: 'mintWithMerkle',
         args: [proofs],
-        chainId: 5 // sepolia
+        chainId: 1 // Ethereum mainnet
     });
 
     return data;
@@ -53,7 +53,7 @@ export async function mint(nonce) {
         abi: abiPlugger,
         functionName: 'mint',
         args: [nonce],
-        chainId: 5 // sepolia
+        chainId: 1 // Ethereum mainnet
     });
 
     return data;
@@ -71,13 +71,13 @@ export async function currentDifficultyAndSalt() {
                 address: MINTER_BUTTPLUG,
                 abi: abiPlugger,
                 functionName: 'currentDifficulty',
-                chainId: 5 // sepolia
+                chainId: 1 // Ethereum mainnet
             },
             {
                 address: MINTER_BUTTPLUG,
                 abi: abiPlugger,
                 functionName: 'salt',
-                chainId: 5 // sepolia
+                chainId: 1 // Ethereum mainnet
             },
         ],
     };

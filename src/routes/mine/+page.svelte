@@ -133,7 +133,7 @@
 				</svg>
 			</button>
 		{:else if $chain != '5'}
-			<h1>{$chain} Switch network to sepolia</h1>
+			<h1>{$chain} Switch network to Ethereum mainnet</h1>
 		{:else}
 			<div class="font-mono">
 				Current difficulty: {$difficulty}<br />
