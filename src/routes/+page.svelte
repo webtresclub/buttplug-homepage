@@ -81,7 +81,7 @@ async function fetchData() {
         {#if !$account}
             <p>First connect your wallet</p>
             <button on:click={() => connectMetamask()}>Connect</button>
-        {:else if $chain != '5'}
+        {:else if $chain != '1'}
             <h1>{$chain} Switch network to Ethereum mainnet</h1>
         {:else}
             <a href="/mine" role="button">Mine your Buttplug</a> <br />
