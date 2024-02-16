@@ -1,6 +1,6 @@
 import { connect } from '@wagmi/core'
 import { watchNetwork } from '@wagmi/core'
-import { goerli } from '@wagmi/core/chains'
+import { mainnet } from '@wagmi/core/chains'
 import { MetaMaskConnector } from '@wagmi/core/connectors/metaMask'
 
 import { writable } from "svelte/store";
@@ -11,9 +11,9 @@ export const chain = writable();
 
 export async function connectMetamask() {
     const result = await connect({
-        chainId: goerli.id,
+        chainId: mainnet.id,
         connector: new MetaMaskConnector({
-            chains: [goerli],
+            chains: [mainnet],
         })
     });
     account.set(result.account);

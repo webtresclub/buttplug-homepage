@@ -1,6 +1,6 @@
 import { readContract, writeContract, multicall, watchMulticall } from '@wagmi/core'
 import { configureChains, createConfig } from '@wagmi/core'
-import { goerli, mainnet } from '@wagmi/core/chains'
+import { mainnet } from '@wagmi/core/chains'
  
 import { parseAbi } from 'viem'
 
@@ -102,7 +102,7 @@ export async function getConfigWagmi() {
     }
 
     const { chains, publicClient, webSocketPublicClient } = configureChains(
-        [goerli],
+        [mainnet],
         [publicProvider()],
     );
 
