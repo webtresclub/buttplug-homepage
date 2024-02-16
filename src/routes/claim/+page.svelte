@@ -54,7 +54,7 @@ async function claim() {
                 {/if}
             </div>
             <div class="mt-6 p-4 mx-auto text-center font-mono">
-                Minter contract <a href="https://goerli.etherscan.io/address/0x262C5ea7411B0FAdB8E175C8D994A2Fd08274C31" target="_blank">0x262C5ea7411B0FAdB8E175C8D994A2Fd08274C31</a>
+                Minter (NFT Huffplugs UwU) <a href="0x0000420538CD5AbfBC7Db219B6A1d125f5892Ab0" target="_blank">0x0000420538CD5AbfBC7Db219B6A1d125f5892Ab0</a>
             </div>
         </div>
     </section>
