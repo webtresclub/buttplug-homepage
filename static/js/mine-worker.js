@@ -1,6 +1,6 @@
 /* global importScripts, onmessage */
 const window = {};
-importScripts('sha3.min.js');
+importScripts('sha3.js');
 const sha3 = window;
 
 function hexToBytes(hex) {
