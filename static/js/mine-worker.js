@@ -28,7 +28,6 @@ function randomSeed() {
 
 function mine(difficulty) {
   // return ['0x84dba1e522eaccb726e1d6a14019b9beb016764cf158218d0ec1dadd71f47159', '0x00ac2718e3', 29, '000000e75dde0fa9a5641377481c4c84aea6d05180ffcaa662db9876ac2718e3', '201.04318548802695 Kh/s'];
-  let time = Date.now();
   const startTime = Date.now();
   let hash;
   const nonce = randomSeed();
@@ -36,27 +35,28 @@ function mine(difficulty) {
   // 0 contanated
   const expectedHash = '0'.repeat(difficulty); // Pre-compute expected hash prefix
 
+  const baseLen = searchSeed.length;
+  const toHash = searchSeed.concat(nonce);
+
   for(let i = 0; i < 100000; i++) {
-    hash = sha3.keccak256(searchSeed.concat(nonce));
+    hash = sha3.keccak256(toHash);
     // debugger;
     if (hash.startsWith(expectedHash)) { // Use startsWith for clarity
       const rawTime = (Date.now() - startTime) / 1000;
-      time = Math.floor(rawTime);
       const khs = 10000 / rawTime / 1000;
-            return [`0x${bytesToHex(nonce)}`, hash, Math.floor(rawTime), hash, `${khs} Kh/s`];
+            return [`0x${bytesToHex(toHash.slice(-32))}`, hash, Math.floor(rawTime), hash, `${khs} Kh/s`];
     }
 
-    nonce[i & 31] = (Math.random() * 256) | 0;
+    toHash[baseLen + (i & 31)] = (Math.random() * 256) | 0;
   }
   const rawTime = (Date.now() - startTime) / 1000;
   const khs = 10000 / rawTime / 1000;
-  return [`0x${bytesToHex(nonce)}`, -1, Math.floor(rawTime), -1, `${khs} Kh/s`];
+  return [`0x${bytesToHex(toHash.slice(-32))}`, -1, Math.floor(rawTime), -1, `${khs} Kh/s`];
 
 }
 
 onmessage = ({data}) => {
   const bytesConcat = data.$account.toLowerCase().slice(2).concat(data.$salt.slice(2));
-  
   searchSeed = [];
   for (let i = 0; i < bytesConcat.length; i += 2) {
     searchSeed.push(parseInt(bytesConcat.slice(i, i + 2), 16));
