@@ -20,8 +20,8 @@ function bytesToHex(bytes) {
 function randomSeed() {
   // return Array.from(crypto.getRandomValues(new Uint8Array(32))); // crashes chrome
   const x = new Array(32);
-  for (let i = 0; i < 32; i += 1) {
-    x[i] = Math.floor(Math.random() * 256);
+  for (let i = 0; i < 32; i++) {
+    x[i] = (Math.random() * 256) | 0;
   }
   return x;
 }
@@ -34,26 +34,24 @@ function mine(difficulty) {
   const nonce = randomSeed();
 
   // 0 contanated
-  const expectedHash = new Array(difficulty).fill('0').join('');
+  const expectedHash = '0'.repeat(difficulty); // Pre-compute expected hash prefix
 
   for(let i = 0; i < 100000; i++) {
     hash = sha3.keccak256(searchSeed.concat(nonce));
     // debugger;
-    if (hash.slice(0, difficulty) === expectedHash) {
+    if (hash.startsWith(expectedHash)) { // Use startsWith for clarity
       const rawTime = (Date.now() - startTime) / 1000;
       time = Math.floor(rawTime);
       const khs = 10000 / rawTime / 1000;
-      return [`0x${bytesToHex(nonce)}`, hash, time, hash, `${khs} Kh/s`];
+            return [`0x${bytesToHex(nonce)}`, hash, Math.floor(rawTime), hash, `${khs} Kh/s`];
     }
 
-    // just change one byte
-    nonce[i % 32] =  Math.floor(Math.random() * 256);
-    //nonce[(Math.random() * 256) % 32] =  Math.floor(Math.random() * 256);
+    nonce[i & 31] = (Math.random() * 256) | 0;
   }
   const rawTime = (Date.now() - startTime) / 1000;
-  time = Math.floor(rawTime);
   const khs = 10000 / rawTime / 1000;
-  return [`0x${bytesToHex(nonce)}`, -1, time, -1, `${khs} Kh/s`];
+  return [`0x${bytesToHex(nonce)}`, -1, Math.floor(rawTime), -1, `${khs} Kh/s`];
+
 }
 
 onmessage = ({data}) => {
