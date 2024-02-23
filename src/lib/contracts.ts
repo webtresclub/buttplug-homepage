@@ -1,115 +1,93 @@
-import { readContract, writeContract, multicall, watchMulticall } from '@wagmi/core'
-import { configureChains, createConfig } from '@wagmi/core'
-import { mainnet } from '@wagmi/core/chains'
- 
+import { config, chainId } from './store';
+import { readContract, writeContract, multicall, watchContractEvent } from '@wagmi/core';
+
+
 import { parseAbi } from 'viem'
 
-import { publicProvider } from '@wagmi/core/providers/public'
+import { writable, get } from 'svelte/store';
 
-import { writable } from 'svelte/store';
+/// @dev Ethereum mainnet & sepolia address of the collection
+const BUTTPLUGGY = '0x0000420538CD5AbfBC7Db219B6A1d125f5892Ab0';
 
-
-// huffplug: address 0x0000420538CD5AbfBC7Db219B6A1d125f5892Ab0
-/// @dev Ethereum mainnet address of the minter contract
-const MINTER_BUTTPLUG = '0x0000420538CD5AbfBC7Db219B6A1d125f5892Ab0';
-
-const abiPlugger = parseAbi([
-  //  ^? const abi: readonly [{ name: "balanceOf"; type: "function"; stateMutability:...
-  'function claimed(address user) view returns (bool)',
-  'function mint(uint256 nonce) external',
-  'function mintWithMerkle(bytes32[] calldata proofs) external',
-  'function currentDifficulty() public view returns (uint256)',
-  'function salt() public view returns (bytes32)'
+const abi = parseAbi([
+    //  ^? const abi: readonly [{ name: "balanceOf"; type: "function"; stateMutability:...
+    'function claimed(address user) view returns (bool)',
+    'function mint(uint256 nonce) external',
+    'function mintWithMerkle(bytes32[] calldata proofs) external',
+    'function currentDifficulty() public view returns (uint256)',
+    'function salt() public view returns (bytes32)',
+    'event Transfer(address indexed from, address indexed to, uint256 value)',
+    'error ErrUnauthorized()',
+    'error ErrUnsafeRecipient()',
+    'error ErrInvalidRecipient()',
+    'error ErrAlreadyMinted()',
+    'error ErrNotMinted()',
+    'error ErrWrongFrom()'
 ])
 
 export async function haveClaimButtplug(user: `0x${string}`) {
-    const data = await readContract({
-        address: MINTER_BUTTPLUG,
-        abi: abiPlugger,
+    const data = await readContract(get(config), {
+        address: BUTTPLUGGY,
+        abi,
         functionName: 'claimed',
         args: [user],
         blockTag: 'safe',
-        chainId: 1 // ethereum mainnet
     });
-
+    
     return data;
 }
 
 export async function mintWithMerkle(proofs) {
-    const data = await writeContract({
-        address: MINTER_BUTTPLUG,
-        abi: abiPlugger,
+    const data = await writeContract(get(config), {
+        address: BUTTPLUGGY,
+        abi,
         functionName: 'mintWithMerkle',
         args: [proofs],
-        chainId: 1 // Ethereum mainnet
     });
 
     return data;
 }
 
 export async function mint(nonce) {
-    const data = await writeContract({
-        address: MINTER_BUTTPLUG,
-        abi: abiPlugger,
+    const data = await writeContract(get(config), {
+        address: BUTTPLUGGY,
+        abi,
         functionName: 'mint',
         args: [nonce],
-        chainId: 1 // Ethereum mainnet
     });
 
     return data;
 }
 
-export const difficulty = writable(5n);
-export const salt = writable('');
+export const difficulty = writable();
+export const salt = writable();
 
-export async function currentDifficultyAndSalt() {
-    let config = await getConfigWagmi();
-    config = {
-        ...config,
+export async function currentDifficultyAndSalt() {   
+    const _config = get(config);
+
+    const toWatch = {
         contracts: [
-            {
-                address: MINTER_BUTTPLUG,
-                abi: abiPlugger,
-                functionName: 'currentDifficulty',
-                chainId: 1 // Ethereum mainnet
-            },
-            {
-                address: MINTER_BUTTPLUG,
-                abi: abiPlugger,
-                functionName: 'salt',
-                chainId: 1 // Ethereum mainnet
-            },
+            { address: BUTTPLUGGY, abi, functionName: 'currentDifficulty' },
+            { address: BUTTPLUGGY, abi, functionName: 'salt' },
         ],
     };
-   
-    const data = await multicall(config);
-    debugger;
-    console.log(data);
-    const unwatch = watchMulticall(config, (data_) => {
-        difficulty.set(data_[0].result);
-        salt.set(data_[1].result);
-    })
+    //console.log(_config.getClient());
+    const data = await multicall(_config, toWatch);
     difficulty.set(data[0].result);
     salt.set(data[1].result);
-    return unwatch;
-}
 
-let _configWagmi;
-
-export async function getConfigWagmi() {
-    if (_configWagmi) {
-        return _configWagmi;
-    }
-
-    const { chains, publicClient, webSocketPublicClient } = configureChains(
-        [mainnet],
-        [publicProvider()],
-    );
-
-    _configWagmi = await createConfig({
-        //chains,
-        publicClient,
-        webSocketPublicClient,
+    
+    const unwatch = watchContractEvent(_config, {        
+        address: BUTTPLUGGY,
+        abi,
+        chainId: get(chainId),
+        eventName: 'Transfer',
+        async onLogs(logs) {
+            const data = await multicall(_config, toWatch);
+            difficulty.set(data[0].result);
+            salt.set(data[1].result);
+        },
     });
-
+    
+    return unwatch;
 }
