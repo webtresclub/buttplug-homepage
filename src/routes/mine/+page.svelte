@@ -1,25 +1,22 @@
 <script lang="ts">
-	import { onMount } from 'svelte';
-	import { currentDifficultyAndSalt, difficulty, salt, getConfigWagmi, mint } from '$lib/contracts';
-	import { connectMetamask, account, chain } from '$lib/user.store';
+	import { currentDifficultyAndSalt, difficulty, salt, mint } from '$lib/contracts';
+	import { loadReady, modal, account } from '$lib/store';
 	import { keccak256, encodePacked } from 'viem';
+	import { onMount } from 'svelte';
 
 	let status = 'idle';
 
-	let miningHardware = 1;
 	let cores = [1];
 
+	$: if($loadReady) {
+		currentDifficultyAndSalt();
+	}
+
 	onMount(async () => {
-		// this will init wagmi
-		await getConfigWagmi();
-		miningHardware = navigator.hardwareConcurrency;
 		for (var i = 1; i < navigator.hardwareConcurrency; i++) {
 			cores.push(i + 1);
 		}
-		cores = [...cores];
-
-		const unwatch = currentDifficultyAndSalt();
-		return unwatch;
+		cores = [...cores];		
 	});
 
 	let coresSelected = 4;
@@ -106,13 +103,14 @@
 </script>
 
 <main class="container">
-	<h3>Here you can mine a Buttplug</h3>
+	
 
 	<article>
+		<h3>Here you can mine a Buttplug</h3>
 		{#if !$account}
 			<p>First connect your wallet</p>
 			<button
-				on:click={() => connectMetamask()}
+				on:click={() => { modal.open() }}
 				class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900"
 			>
 				Connect
@@ -132,8 +130,6 @@
 					/>
 				</svg>
 			</button>
-		{:else if $chain != '1'}
-			<h1>{$chain} Switch network to Ethereum mainnet</h1>
 		{:else}
 			<div class="font-mono">
 				Current difficulty: {$difficulty}<br />
@@ -158,7 +154,7 @@
 				</div>
 			{/each}
 
-			<button class="btn" on:click={mineToggle}>
+			<button class="btn" role="button" on:click={mineToggle}>
 				{#if status == 'mining'}
 					Stop mining
 				{:else}
@@ -170,7 +166,8 @@
 				<div class="font-mono">
 					Buttplug id: {data.buttplug} - Nonce: {data.nonce}
 					<img
-						src="https://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44.ipfs.dweb.link/{data.buttplug}.gif"
+						src="/images/{data.buttplug}.gif"
+						class="w-52 h-52"
 						alt="Buttplug {data.buttplug}"
 					/>
 				</div>
@@ -178,7 +175,7 @@
 					class="btn"
 					on:click={() => {
 						mintButtplug(data.nonce);
-					}}>Mint Buttplug {data.buttplug}</button
+					}}>Mint Buttplug #{data.buttplug}</button
 				>
 				<hr />
 			{/each}
