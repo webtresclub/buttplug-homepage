@@ -179,7 +179,9 @@ $: if ($account && $loadReady) {
           </p>
           
           <p class="text-lg mb-6">
-              For more insights into the technical specifics, feel free to explore the contract and its associated code on <a href="#" class="underline text-blue-500">Github</a>. For further inquiries, drop us an email at buttplugs@webtrES.io.
+              For more insights into the technical specifics, feel free to explore the contract and its associated code 
+              on <a href="https://github.com/webtresclub/huffplug" class="underline text-blue-500" target="_blank">Github</a>. For 
+              further inquiries, drop us an email at buttplugs@webtrES.io.
           </p>          
         </article>
 </main>
