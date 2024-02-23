@@ -107,7 +107,7 @@ $: if ($account && $loadReady) {
 
         <div class="space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-12 md:space-y-0">
             {#each randomIds as id }
-                <div class="card">
+                <div class="card mx-auto">
                     <div class="card__image">
                         <a href="/buttpluggy/{id}">
                             <img width="276" height="276" src="/images/{id}.gif" alt={traits[String(id)]} />
