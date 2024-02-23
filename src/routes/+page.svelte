@@ -119,7 +119,6 @@ $: if ($account && $loadReady) {
                 </div>
             {/each}
         </div>
-
     {/if}
 
     <hr />
@@ -145,11 +144,18 @@ $: if ($account && $loadReady) {
           </p>
           <h2 class="text-2xl font-bold mb-4">How do I acquire a Buttplug?</h2>
 <ul class="text-lg mb-6 list-disc pl-8">
-    <li>Start by downloading and setting up a Web3 browser extension, such as MetaMask. This will connect websites (upon your authorization) to your Ethereum wallet.</li>
-    <li>If it's a new account, make sure to purchase some $ETH. MetaMask provides an easy way to buy $ETH from platforms like Coinbase.</li>
-    <li>If you possess two or more POAPs from the WebtrES community, you might be whitelisted to mint a Buttplug directly. Check your eligibility on our platform.</li>
-    <li>Alternatively, you can also mine a Buttplug. The minting process involves generating a nonce that, when hashed, meets specific criteria (like a prefixed number of zeros). The difficulty for this task varies, based on the days elapsed since the contract deployment and the number of Buttplugs already minted, making it similar to the MoonCats rescue mechanism.</li>
-    <li>Once the extension is active and you've verified your eligibility or mined a Buttplug, our website will provide interfaces enabling you to bid, buy, or sell Buttplugs seamlessly.</li>
+    <li>Start by downloading and setting up a Web3 browser extension, such as MetaMask. This will connect websites (upon your 
+        authorization) to your Ethereum wallet.</li>
+    <li>If it's a new account, make sure to purchase some $ETH. MetaMask provides an easy way to buy $ETH from platforms 
+        like Coinbase.</li>
+    <li>If you possess two or more POAPs from the WebtrES community, you might be whitelisted to mint a Buttplug directly. 
+        Check your eligibility on our platform.</li>
+    <li>Alternatively, you can also mine a Buttplug. The minting process involves generating a nonce that, when hashed, meets 
+        specific criteria (like a prefixed number of zeros). The difficulty for this task varies, based on the days elapsed 
+        since the contract deployment and the number of Buttplugs already minted, making it similar to the MoonCats rescue 
+        mechanism.</li>
+    <li>Once the extension is active and you've verified your eligibility or mined a Buttplug, our website will provide interfaces 
+        enabling you to bid, buy, or sell Buttplugs seamlessly.</li>
 </ul>
 
           
@@ -162,12 +168,14 @@ $: if ($account && $loadReady) {
           
           <h3 class="text-xl mb-3">Are Buttplugs ERC-721 tokens?</h3>
           <p class="text-lg mb-6">
-              Absolutely! Buttplugs are minted as ERC-721 tokens, adhering to the standards that govern most collectible assets on the Ethereum blockchain.
+              Absolutely! Buttplugs are minted as ERC-721 tokens, adhering to the standards that govern most collectible 
+              assets on the Ethereum blockchain.
           </p>
           
           <h3 class="text-xl mb-3">Are there any transaction fees?</h3>
           <p class="text-lg mb-6">
-              No additional fees are levied for Buttplug transactions through our integrated marketplace. However, standard Ethereum gas fees will apply.
+              No additional fees are levied for Buttplug transactions through our integrated marketplace. However, standard 
+              Ethereum gas fees will apply.
           </p>
           
           <p class="text-lg mb-6">
