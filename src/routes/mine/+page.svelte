@@ -112,24 +112,7 @@
 			<button
 				on:click={() => { modal.open() }}
 				class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900"
-			>
-				Connect
-				<svg
-					class="w-3.5 h-3.5 ml-2"
-					aria-hidden="true"
-					xmlns="http://www.w3.org/2000/svg"
-					fill="none"
-					viewBox="0 0 14 10"
-				>
-					<path
-						stroke="currentColor"
-						stroke-linecap="round"
-						stroke-linejoin="round"
-						stroke-width="2"
-						d="M1 5h12m0 0L9 1m4 4L9 9"
-					/>
-				</svg>
-			</button>
+			>Connect</button>
 		{:else}
 			<div class="font-mono">
 				Current difficulty: {$difficulty}<br />
@@ -137,16 +120,17 @@
 			</div>
 			<!-- Change amount of workers with a plus and minus button-->
 			<!-- Min 1 worker Max cores.length-->
-			<div class="font-mono">
+			<div class="font-mono mb-2">
 				<div class="flex items-center">
 					Workers:
-					<spam on:click={() => (coresSelected == 1 ? 1 : coresSelected--)}>-</spam>
-					{coresSelected}
-					<spam on:click={() => (coresSelected == cores.length ? cores.length : coresSelected++)}
-						>+</spam
+					<span on:click={() => (coresSelected == 1 ? 1 : coresSelected--)} class="core-button">-</span>
+					 {coresSelected}
+					<span on:click={() => (coresSelected == cores.length ? cores.length : coresSelected++)} class="core-button"
+						>+</span
 					>
 				</div>
 			</div>
+			
 
 			{#each workerLog as l}
 				<div class="font-mono">
@@ -154,7 +138,7 @@
 				</div>
 			{/each}
 
-			<button class="btn" role="button" on:click={mineToggle}>
+			<button class="btn" on:click={mineToggle}>
 				{#if status == 'mining'}
 					Stop mining
 				{:else}
@@ -164,7 +148,7 @@
 
 			{#each results as data}
 				<div class="font-mono">
-					Buttplug id: {data.buttplug} - Nonce: {data.nonce}
+					Buttplugy id: {data.buttplug} - Nonce: {data.nonce}
 					<img
 						src="/images/{data.buttplug}.gif"
 						class="w-52 h-52"
@@ -175,10 +159,19 @@
 					class="btn"
 					on:click={() => {
 						mintButtplug(data.nonce);
-					}}>Mint Buttplug #{data.buttplug}</button
+					}}>Mint Buttplugy #{data.buttplug}</button
 				>
 				<hr />
 			{/each}
 		{/if}
 	</article>
 </main>
+<style>
+	.core-button{
+		@apply rounded border border-slate-500 w-6 h-6 text-center mx-1 cursor-pointer select-none;
+	}
+	.core-button:hover{
+		@apply bg-slate-500 text-white;
+	}
+
+</style>
