@@ -55,35 +55,30 @@ $: if ($account && $loadReady) {
             <p class="text-lg mb-6">
                 <span class="font-semibold">1024</span> unique collectible oscilloscope visuals with proof of 
                 ownership preserved on the Ethereum blockchain. Presented by the <b>WebtrES</b> community, the 
-                Buttplugy(huffplug) project is a trailblazer in the next chapter of CryptoArt evolution. 
+                Buttpluggy(huffplug) project is a trailblazer in the next chapter of CryptoArt evolution. 
             </p>
             <p class="text-lg mb-6">
             As one of the pioneering projects utilizing the <span class="font-semibold">Huff</span> programming 
-            language, Buttplugs stand as a testament to innovation and craftsmanship in the world of 
+            language, Buttpluggy stand as a testament to innovation and craftsmanship in the world of 
             "Non-Fungible Tokens". Meticulously designed with the <span class="font-semibold">Huffmate</span> 
             libraries, these tokens represent a fusion of artistry and technical prowess. 
             </p>
             <p class="text-lg mb-6">
-            Since their inception by the Spanish-speaking hacker collective, Buttplugs have garnered attention 
+            Since their inception by the Spanish-speaking hacker collective, Buttpluggy have garnered attention 
             and admiration. Paying homage to the traditions set by iconic predecessors like CryptoPunks, while 
             also setting new standards and benchmarks, they are a must-have in any digital art enthusiast's 
             collection.
             </p>
             <p class="text-lg">
-            Join us in this journey as we redefine the boundaries of art and technology, one Buttplug at a time.
+            Join us in this journey as we redefine the boundaries of art and technology, one Buttpluggy at a time.
             </p>
             <div>
             {#if !$loadReady}
-            <!-- alert loading WalletConnect -->
-            <div class="bg-blue-100 border-t-4 border-blue-500 rounded-b text-blue-900 px-4 py-3 shadow-md" role="alert">
-                <div class="flex">
-                    <h1 class="font-bold">WalletConnect</h1>
-                    <p class="text-sm">Loading...</p>
-                </div>  
-            </div>
+                <!-- <p>Loading wallect connect...</p>-->
             {:else if !$account}
                 <p>First connect your wallet</p>
-                <button on:click={() => $modal.open()}>Connect</button>
+                <button on:click={() => { $modal.open() }}
+				class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">Connect</button>
             {:else}
                 {#if userOnMerkle && canClaim}
                     <span class="text-xl font-bold">
@@ -92,7 +87,7 @@ $: if ($account && $loadReady) {
                 {/if}
 
                 <div class="flex items-center">   
-                    <a href="/mine" role="button">Mine your Buttplug</a> <br />
+                    <a href="/mine" role="button">Mine your Buttpluggy</a> <br />
                     <a href="/claim" class="ml-2" class:opacity-50={!canClaim} class:cursor-not-allowed={!canClaim} role="button">Claim</a>
                 </div>
             {/if}
@@ -103,7 +98,7 @@ $: if ($account && $loadReady) {
 <hr />
 <main class="container">
     {#if randomIds.length}
-        <h3>This are some of our finest Buttplug</h3>
+        <h3>This are some of our finest Buttplugies</h3>
 
         <div class="space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-12 md:space-y-0">
             {#each randomIds as id }

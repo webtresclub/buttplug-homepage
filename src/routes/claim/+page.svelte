@@ -27,10 +27,10 @@ async function claim() {
     <section class="bg-white dark:bg-gray-900">
         <div class="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16">
             <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">
-                Claim your Buttplugt
+                Claim your Buttpluggy
             </h1>
             <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 lg:px-48 dark:text-gray-400">
-                Here you can claim your Buttplugy without mine it, but you must have been preselected (by having at 
+                Here you can claim your Buttpluggy without mine it, but you must have been preselected (by having at 
                 least <a href="https://github.com/webtresclub/huffplug/tree/main/merkletree-builder#readme" class="underline text-blue-500 hover:text-blue-900" target="_blank">two community poaps</a>).
                 Here is a full list of the 153 whitelisted wallets: 
                 <a href="https://github.com/webtresclub/huffplug/blob/main/merkletree-builder/whitelist.txt" class="underline text-blue-500 hover:text-blue-900" target="_blank">whitelist.txt</a>
