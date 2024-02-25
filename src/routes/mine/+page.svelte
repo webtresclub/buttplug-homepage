@@ -19,6 +19,32 @@
 		cores = [...cores];		
 	});
 
+
+	function useNonce() {
+		const _nonce = prompt('Enter the nonce (hexa or number) to mint the buttplug:');
+		if (_nonce) {
+			const nonce = BigInt(_nonce);
+			const hash = keccak256(encodePacked(['address', 'bytes32', 'uint256'], [$account, $salt, nonce]))
+			const hashNumber = BigInt(hash);
+			const expectedHash = '0x'+'0'.repeat(parseInt($difficulty));
+			if (!hash.startsWith(expectedHash)) {
+				alert('The nonce is not valid, hash not starts with ' + expectedHash + ' - current hash: ' + hash);
+				return;
+			}
+			// @todo CHECK THAT THE BUTTPLUG IS NOT ALREADY MINTED
+			status = 'idle';
+			results.push({
+				nonce,
+				buttplug: (hashNumber % 1024n) + 1n
+			});
+
+
+
+			results = [...results];
+			// mintButtplug(BigInt(nonce));
+		}
+	}
+
 	let coresSelected = 4;
 
 	let workers = [];
@@ -142,6 +168,9 @@
 									Stop mining
 								</button>
 							{/if}
+							<button on:click={() => { useNonce() } } class="bg-transparent inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-gray-900 rounded-lg border border-gray-300 hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800">
+									Use a nonce
+								</button>
             </div>
       
 			
