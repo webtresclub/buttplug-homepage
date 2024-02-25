@@ -1,0 +1,14 @@
+[package]
+name = "rust-service-worker"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+fawkes-crypto-keccak256 = "0.1.1"
+hex = "0.4.3"
+rand = "0.8.0"
+wasm-bindgen = "0.2"
+getrandom = { version = "0.2", features = ["js"] }

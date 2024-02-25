@@ -1,24 +1,25 @@
 <script lang="ts">
 	import { currentDifficultyAndSalt, difficulty, salt, mint } from '$lib/contracts';
 	import { loadReady, modal, account } from '$lib/store';
-	import { keccak256, encodePacked } from 'viem';
+	import { keccak256, encodePacked, hashDomain } from 'viem';
 	import { onMount } from 'svelte';
 
-	let status = 'idle';
 
-	let cores = [1];
+	let globalStatus = 'idle';
+  let workers = [];
+	let results = [];
+
+	let totalCores = 1;
+	let coresSelected = 1;
 
 	$: if($loadReady) {
 		currentDifficultyAndSalt();
 	}
 
 	onMount(async () => {
-		for (var i = 1; i < navigator.hardwareConcurrency; i++) {
-			cores.push(i + 1);
-		}
-		cores = [...cores];		
+		totalCores = navigator.hardwareConcurrency;
+		coresSelected = Math.ceil(totalCores / 2);
 	});
-
 
 	function useNonce() {
 		const _nonce = prompt('Enter the nonce (hexa or number) to mint the buttplug:');
@@ -31,34 +32,34 @@
 				alert('The nonce is not valid, hash not starts with ' + expectedHash + ' - current hash: ' + hash);
 				return;
 			}
-			// @todo CHECK THAT THE BUTTPLUG IS NOT ALREADY MINTED
-			status = 'idle';
+			// @todo CHECK THAT THE BUTTPLUGGY IS NOT ALREADY MINTED
+			globalStatus = 'idle';
 			results.push({
 				nonce,
 				buttplug: (hashNumber % 1024n) + 1n
 			});
 
-
-
 			results = [...results];
-			// mintButtplug(BigInt(nonce));
+		}
+	}
+	
+	async function mintButtplug(nonce) {
+		try {
+			await mint(nonce);
+			alert('Minted');
+		} catch (e) {
+			alert(e.message);
 		}
 	}
 
-	let coresSelected = 4;
-
-	let workers = [];
 	function terminateWorkers() {
-		workerLog = [];
-		workers.map(function (w) {
-			w.terminate();
-		});
+		globalStatus = 'idle';
+		workers.forEach(w => { w.worker.terminate(); });
 		workers = [];
 	}
 
 	function mineToggle() {
-		if (status == 'mining') {
-			status = 'idle';
+		if (globalStatus == 'mining') {
 			terminateWorkers();
 		} else {
 			startMining();
@@ -69,63 +70,70 @@
 		if (result[1] == -1) {
 			startMining();
 		} else {
-			status = 'idle';
+			globalStatus = 'idle';
 			console.log('Complete', result);
 		}
 	}
 
-	let results = [];
-	let workerLog = [];
-
 	function startMining() {
-		status = 'mining';
-		const mineButtplug = createMiner();
-		mineButtplug(coresSelected, miningComplete);
+		terminateWorkers();
+		globalStatus = 'mining';
+		const cores = Math.min(coresSelected, Math.min(navigator.hardwareConcurrency, 20));
+		
+		for (let i = 0; i < cores; i++) {
+        const worker = new Worker('/js/rust-worker.js', { type: 'module' });
+        workers[i] = {worker: worker, status: 'init', start: 0, end: 0, hashPerSecond: 0};
+
+        let time;
+
+        worker.onmessage = function(event) {
+          // console.log('Worker' + i, event.data.status);
+          workers[i].status = event.data.status;
+
+          workers[i].start = Date.now();
+
+          worker.onmessage = function(event) {
+            if (event.data.results.nonce) {
+							console.log('Worker' + i, event.data.results);
+							foundNonce(event.data.results);
+              terminateWorkers();
+            }
+            workers[i].hashPerSecond = Math.floor(1000000 / ((Date.now() - workers[i].start) / 1000))
+            workers[i].start = Date.now();
+            console.log("Worker"+i+", hash/sec:", workers[i].hashPerSecond);
+            workers[i].end = 0;
+
+            // loop
+            worker.postMessage({
+              wallet: $account.slice(2),
+              salt: $salt.slice(2),
+              difficulty: Number($difficulty)
+            });
+          }
+
+          worker.postMessage({
+              wallet: $account.slice(2),
+              salt: $salt.slice(2),
+              difficulty: Number($difficulty)
+            });    
+        };        
+      }
+      workers = [...workers];
 	}
 
-	async function mintButtplug(nonce) {
-		try {
-			await mint(nonce);
-			alert('Minted');
-		} catch (e) {
-			alert(e.message);
-		}
-	}
-
-	function createMiner() {
-		return function mine(workerCount, handleResult) {
-			workerCount = workerCount || 1;
-			terminateWorkers();
-			workers = [];
-			for (let i = 0; i < workerCount; i++) {
-				const w = new Worker('/js/mine-worker.js');
-				w.onmessage = (e) => {
-					const response = JSON.parse(e.data);
-					console.log(response);
-					if (response[1] != -1) {
-						const nonce = BigInt(response[0]);
-						const message = BigInt(
-							keccak256(encodePacked(['address', 'bytes32', 'uint256'], [$account, $salt, nonce]))
-						);
-						console.log(message, (message % 1024n) + 1n);
-						// @todo CHECK THAT THE BUTTPLUG IS NOT ALREADY MINTED
-						status = 'idle';
-						results.push({
-							nonce,
-							buttplug: (message % 1024n) + 1n
-						});
-						results = [...results];
-						terminateWorkers();
-					} else {
-						handleResult(response);
-						workerLog[i] = response[4];
-						workerLog = [...workerLog];
-					}
-				};
-				workers.push(w);
-				w.postMessage({ $difficulty, $salt, $account });
-			}
-		};
+	function foundNonce({nonce, hash}) {
+		console.log('Found nonce', nonce, hash);
+		nonce = BigInt('0x'+nonce);
+		hash = BigInt('0x'+hash);
+		console.log(hash, (hash % 1024n) + 1n);
+		
+		// @todo CHECK THAT THE BUTTPLUG IS NOT ALREADY MINTED
+		globalStatus = 'idle';
+		results.push({
+			nonce,
+			buttplug: (hash % 1024n) + 1n
+		});
+		results = [...results];
 	}
 </script>
 
@@ -157,9 +165,9 @@
 								Workers:
 								<span on:click={() => (coresSelected == 1 ? 1 : coresSelected--)} class="core-button">-</span>
 								{coresSelected}
-								<span on:click={() => (coresSelected == cores.length ? cores.length : coresSelected++)} class="core-button">+</span>
+								<span on:click={() => (coresSelected == totalCores ? totalCores : coresSelected++)} class="core-button">+</span>
 							</div>
-							{#if status == 'idle'}
+							{#if globalStatus == 'idle'}
 								<button on:click={() => { mineToggle() } } class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
 									Start mine
 								</button>
@@ -174,13 +182,21 @@
             </div>
       
 			
-			{#each workerLog as l}
+			{#each workers as w, i}
 				<div class="font-mono">
-					Worker speed: {l}
+					{#if w.hashPerSecond > 0}
+						Worker{i} speed: {w.hashPerSecond} hash/sec
+					{:else}
+						Worker{i} Starting
+					{/if}
 				</div>
 			{/each}
-
-
+			{#if workers.length > 0 && workers[0].hashPerSecond > 0}
+				<div class="font-mono text-white">
+					Total speed: {Math.floor(workers.reduce((total, w) => total + w.hashPerSecond, 0) / 1000)} KH/s
+				</div>	
+			{/if}
+			
 			{#each results as data}
 				<div class="font-mono">
 					Buttpluggy id: {data.buttplug} - Nonce: {data.nonce}

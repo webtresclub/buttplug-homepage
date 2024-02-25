@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>WASM hasher</title>
+  <script>
+
+    let globalStatus = 'idle';
+    let workers = [];
+
+    function terminateWorkers() {
+      workers.forEach(w => {
+        w.terminate();
+      });
+      workers = [];
+    }
+
+    function mine(selectedCores) {
+      terminateWorkers();
+      globalStatus = 'mine'
+      const cores = Math.min(selectedCores, Math.min(navigator.hardwareConcurrency, 20));
+
+      let workers = [];
+      for (let i = 0; i < cores; i++) {
+        const worker = new Worker('worker.js', { type: 'module' });
+        workers[i] = {worker: worker, status: 'init', start: 0, end: 0, hashPerSecond: 0};
+
+        let time;
+
+        worker.onmessage = function(event) {
+          // console.log('Worker' + i, event.data.status);
+          workers[i].status = event.data.status;
+
+          workers[i].start = Date.now();
+
+          worker.onmessage = function(event) {
+            if (event.data.results.nonce) {
+              console.log('Worker' + i, event.data.results);
+              terminateWorkers();
+            }
+            workers[i].hashPerSecond = Math.floor(1000000 / ((Date.now() - workers[i].start) / 1000))
+            workers[i].start = Date.now();
+            console.log("Worker"+i+", hash/sec:", workers[i].hashPerSecond);
+            workers[i].end = 0;
+
+            // loop
+            worker.postMessage({
+              wallet: "6CA6d1e2D5347Bfab1d91e883F1915560e09129D",
+              salt: "851e34d5f1de39b1758b00f0040ae4ab4f3bc8c5631b4a8463144022de2cf428",
+              difficulty: 9
+            });
+
+          }
+
+          worker.postMessage({
+            wallet: "6CA6d1e2D5347Bfab1d91e883F1915560e09129D",
+            salt: "851e34d5f1de39b1758b00f0040ae4ab4f3bc8c5631b4a8463144022de2cf428",
+            difficulty: 9
+          });
+
+            
+        };        
+      }
+      workers = [...workers];
+
+    
+              
+
+
+/*
+        async function run() {
+            await init();
+            
+            console.log("Lets hash");
+            const time = Date.now();
+
+            console.log(crack("6CA6d1e2D5347Bfab1d91e883F1915560e09129D","851e34d5f1de39b1758b00f0040ae4ab4f3bc8c5631b4a8463144022de2cf428" ,8));
+            console.log("Time taken: ", Date.now() - time);
+            console.log("hash per second:", (1000000 / (Date.now() - time)) / 1000);
+        }
+        // run();
+
+        let workers = [];
+        async function createMiner() {
+          // terminateWorkers
+        
+          // const worker = new Worker('worker.js');
+          const worker = new Worker('worker.js', { type: 'module' });
+
+          worker.onmessage = function(event) {
+              console.log('Message received from worker', event.data);
+          };
+          
+          window.w = worker;
+          console.log(worker);
+          worker.postMessage({});
+          
+
+          /*
+            const worker = new Worker('worker.js');
+            worker.onmessage = function(event) {
+                console.log('Message received from worker', event.data);
+            };
+            worker.postMessage('Hello from the main thread!');
+            */
+console.log("Lets hash");
+            /*
+
+	id="mine"{
+		return function mine(workerCount, handleResult) {
+			workerCount = workerCount || 1;
+			terminateWorkers();
+			workers = [];
+			for (let i = 0; i < workerCount; i++) {
+				const w = new Worker('/js/mine-worker.js');
+				w.onmessage = (e) => {
+					const response = JSON.parse(e.data);
+					console.log(response);
+					if (response[1] != -1) {
+						const nonce = BigInt(response[0]);
+						const message = BigInt(
+							keccak256(encodePacked(['address', 'bytes32', 'uint256'], [$account, $salt, nonce]))
+						);
+						console.log(message, (message % 1024n) + 1n);
+						// @todo CHECK THAT THE BUTTPLUG IS NOT ALREADY MINTED
+						status = 'idle';
+						results.push({
+							nonce,
+							buttplug: (message % 1024n) + 1n
+						});
+						results = [...results];
+						terminateWorkers();
+					} else {
+						handleResult(response);
+						workerLog[i] = response[4];
+						workerLog = [...workerLog];
+					}
+				};
+				workers.push(w);
+				w.postMessage({ $difficulty, $salt, $account });
+			}
+		};
+	}
+  */
+        //}
+}
+setTimeout(() => {
+  
+  document.getElementById('mine').addEventListener('click', () => {
+    mine(2);
+  });
+}, 100);
+    </script>
+</head>
+
+<body>
+  <h1>Check the console for the addition result</h1>
+  <button id="mine">Run</button>
+</body>
+
+</html>
