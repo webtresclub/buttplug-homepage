@@ -6,7 +6,7 @@ import { mainnet, sepolia } from "viem/chains";
 import { reconnect } from '@wagmi/core'
 import { watchAccount, watchChainId, getAccount } from '@wagmi/core'
 
-import { writable } from "svelte/store";
+import { writable, derived } from "svelte/store";
 
 // const projectId = import.meta.env.VITE_WEB3MODAL_PROJECT_ID;
 const projectId = "619498c450ee42530036acb486570472";
@@ -18,14 +18,13 @@ export const modal = writable();
 export const config = writable();
 export const loadReady = writable(false);
 
-export const chainId = writable();
 export const account = writable();
 
 export function initWeb3() {
   // 2. Create wagmiConfig
   const metadata = {
-    name: 'Buttplugy',
-    description: 'Buttplugy',
+    name: 'Buttpluggy',
+    description: 'Buttpluggy',
     url: 'https://buttplug-homepage.vercel.app/', // origin must match your domain & subdomain
     icons: ['https://avatars.githubusercontent.com/u/37784886']
   }
@@ -50,7 +49,6 @@ export function initWeb3() {
     // lets set the ready after we have the selected network
     loadReady.set(true);
     
-    chainId.set(stateData.selectedNetworkId);
     const dataAccount  = getAccount(_config);
     if (dataAccount && dataAccount.address) {
       account.set(dataAccount.address);
@@ -61,9 +59,13 @@ export function initWeb3() {
   
   modal.set(_modal);
   config.set(_config);
-  chainId.set(
-    _modal.getState().selectedNetworkId
-  );
-
 }
 
+export const chainId = derived(modal, $modal => {
+  if(!$modal) return 0;
+  try { 
+    return $modal.getState().selectedNetworkId;
+  } catch (e) {
+    return 0;
+  }
+});
