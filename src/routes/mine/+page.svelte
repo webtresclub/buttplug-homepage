@@ -93,6 +93,7 @@
 					} else {
 						handleResult(response);
 						workerLog[i] = response[4];
+						workerLog = [...workerLog];
 					}
 				};
 				workers.push(w);
@@ -103,52 +104,57 @@
 </script>
 
 <main class="container">
-	
-
-	<article>
-		<h3>Here you can mine a Buttplug</h3>
-		{#if !$account}
-			<p>First connect your wallet</p>
-			<button
-				on:click={() => { $modal.open() }}
-				class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900"
-			>Connect</button>
-		{:else}
-			<div class="font-mono">
-				Current difficulty: {$difficulty}<br />
-				Current salt: {$salt}<br />
-			</div>
-			<!-- Change amount of workers with a plus and minus button-->
-			<!-- Min 1 worker Max cores.length-->
-			<div class="font-mono mb-2">
-				<div class="flex items-center">
-					Workers:
-					<span on:click={() => (coresSelected == 1 ? 1 : coresSelected--)} class="core-button">-</span>
-					 {coresSelected}
-					<span on:click={() => (coresSelected == cores.length ? cores.length : coresSelected++)} class="core-button"
-						>+</span
-					>
-				</div>
-			</div>
+	<article class="bg-gray-900">
+    <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16">
+      <h1 class="mb-4 text-2xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl  dark:text-white">
+        Mine your Buttpluggy
+      </h1>
+      <p class="mb-8 text-lg font-normal text-gray-500 dark:text-gray-400">
+          You must find a nonce that when doing <code class="display-inline!important">keccak256(encodePacked(YOUR_WALLET,SALT,NONCE))</code>
+					you have to get a <code>bytes32</code> hex start with the same amount of ceros as difficulty.
+      </p>
+      <div class="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">
+                {#if !$account}
+                    <p>First connect your wallet</p>
+                    <button on:click={() => { $modal.open() } } class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
+                        Connect
+                    </button>
+                {/if}
+            </div>
+						<hr />
+            <div class="mt-6 p-4 mx-auto text-left font-mono">  
+							User wallet: {$account}<br />
+							Current difficulty: {$difficulty}<br />
+							Current salt: {$salt}<br />
+							<!-- Min 1 worker Max cores.length-->
+							<div class="flex  items-center mx-auto mb-1">
+								Workers:
+								<span on:click={() => (coresSelected == 1 ? 1 : coresSelected--)} class="core-button">-</span>
+								{coresSelected}
+								<span on:click={() => (coresSelected == cores.length ? cores.length : coresSelected++)} class="core-button">+</span>
+							</div>
+							{#if status == 'idle'}
+								<button on:click={() => { mineToggle() } } class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
+									Start mine
+								</button>
+							{:else}
+								<button on:click={() => { mineToggle() } } class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-gray-900 rounded-lg border border-gray-300 hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800">
+									Stop mining
+								</button>
+							{/if}
+            </div>
+      
 			
-
 			{#each workerLog as l}
 				<div class="font-mono">
 					Worker speed: {l}
 				</div>
 			{/each}
 
-			<button class="btn" on:click={mineToggle}>
-				{#if status == 'mining'}
-					Stop mining
-				{:else}
-					Start mining
-				{/if}
-			</button>
 
 			{#each results as data}
 				<div class="font-mono">
-					Buttplugy id: {data.buttplug} - Nonce: {data.nonce}
+					Buttpluggy id: {data.buttplug} - Nonce: {data.nonce}
 					<img
 						src="/images/{data.buttplug}.gif"
 						class="w-52 h-52"
@@ -159,11 +165,10 @@
 					class="btn"
 					on:click={() => {
 						mintButtplug(data.nonce);
-					}}>Mint Buttplugy #{data.buttplug}</button
+					}}>Mint Buttpluggy #{data.buttplug}</button
 				>
 				<hr />
 			{/each}
-		{/if}
 	</article>
 </main>
 <style>
