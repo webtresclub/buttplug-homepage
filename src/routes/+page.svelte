@@ -122,7 +122,7 @@ $: if ($account && $loadReady) {
 
           <h2 class="text-2xl font-bold mb-4">What is a Buttplug?</h2>
           <p class="text-lg mb-6">
-              Buttplugys are intricate visual representations of oscilloscopes, shaped by algorithmic 
+              Buttpluggies are intricate visual representations of oscilloscopes, shaped by algorithmic 
               designs. While many display complex waveform patterns, some unique Buttplugs showcase 
               unique aesthetics, influenced by digital artistry and the hacker spirit. Each y 
               has a distinct profile page detailing its features, ownership, and sale status.
@@ -132,24 +132,24 @@ $: if ($account && $loadReady) {
           <p class="text-lg mb-6">
             While cryptocurrencies like Bitcoin revolutionized digital transactions, Ethereum expanded 
               these possibilities by allowing immutable, decentralized execution of complex code. This 
-              innovation powers our Buttplugys. Developed on Ethereum using the Huff programming language 
-              and the Huffmate libraries, the Buttplugy contract provides a transparent and trustless 
+              innovation powers our Buttpluggis. Developed on Ethereum using the Huff programming language 
+              and the Huffmate libraries, the Buttpluggy contract provides a transparent and trustless 
               method to trade and own these unique tokens. The code is not just stored; it’s brought to 
               life on the blockchain, ensuring everyone can validate its fair execution.
           </p>
-          <h2 class="text-2xl font-bold mb-4">How do I acquire a Buttplugy?</h2>
+          <h2 class="text-2xl font-bold mb-4">How do I acquire a Buttpluggy?</h2>
 <ul class="text-lg mb-6 list-disc pl-8">
     <li>Start by downloading and setting up a Web3 browser extension, such as MetaMask. This will connect websites (upon your 
         authorization) to your Ethereum wallet.</li>
     <li>If it's a new account, make sure to purchase some $ETH. MetaMask provides an easy way to buy $ETH from platforms 
         like Coinbase.</li>
-    <li>If you possess two or more POAPs from the WebtrES community, you might be whitelisted to mint a Buttplugy directly. 
+    <li>If you possess two or more POAPs from the WebtrES community, you might be whitelisted to mint a Buttpluggy directly. 
         Check your eligibility on our platform.</li>
-    <li>Alternatively, you can also mine a Buttplugy. The minting process involves generating a nonce that, when hashed, meets 
+    <li>Alternatively, you can also mine a Buttpluggy. The minting process involves generating a nonce that, when hashed, meets 
         specific criteria (like a prefixed number of zeros). The difficulty for this task varies, based on the days elapsed 
         since the contract deployment and the number of Buttplugs already minted, making it similar to the MoonCats rescue 
         mechanism.</li>
-    <li>Once the extension is active and you've verified your eligibility or mined a Buttplugy, our website will provide interfaces 
+    <li>Once the extension is active and you've verified your eligibility or mined a Buttpluggy, our website will provide interfaces 
         enabling you to bid, buy, or sell Buttplugs seamlessly.</li>
 </ul>
 
@@ -159,8 +159,8 @@ $: if ($account && $loadReady) {
           <h3 class="text-xl mb-3">Where are the visuals for the Buttplugs stored?</h3>
           <p class="text-lg mb-6">
             The visuals for the Buttplugs are stored on the InterPlanetary File System (IPFS), a decentralized and distributed file 
-            system. By leveraging IPFS, we ensure that each Buttplugy visual is permanently accessible, resistant to censorship, and 
-            not reliant on any single point of failure. Users can easily retrieve and verify their Buttplugy visuals from IPFS at any time.
+            system. By leveraging IPFS, we ensure that each Buttpluggy visual is permanently accessible, resistant to censorship, and 
+            not reliant on any single point of failure. Users can easily retrieve and verify their Buttpluggy visuals from IPFS at any time.
           </p>
           
           <h3 class="text-xl mb-3">Are Buttplugs ERC-721 tokens?</h3>
@@ -171,7 +171,7 @@ $: if ($account && $loadReady) {
           
           <h3 class="text-xl mb-3">Are there any transaction fees?</h3>
           <p class="text-lg mb-6">
-              No additional fees are levied for Buttplugy transactions through our integrated marketplace. However, standard 
+              No additional fees are levied for Buttpluggy transactions through our integrated marketplace. However, standard 
               Ethereum gas fees will apply.
           </p>
           
