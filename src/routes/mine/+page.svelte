@@ -12,6 +12,34 @@
 	let totalCores = 1;
 	let coresSelected = 1;
 
+	let totalSpeed = 0;
+	let expectedTime = 0;
+
+	let globalStart;
+	let globalElapsed;
+
+	let intervalCount;
+
+
+	$: if (workers.length > 0 && workers[0].hashPerSecond > 0 && $difficulty > 0) {
+		totalSpeed = workers.reduce((total, w) => total + w.hashPerSecond, 0);
+		expectedTime = Math.pow(16, Number($difficulty)) / Math.floor(totalSpeed)
+	}
+
+	function secondsToDayHMS(d) {
+		d = Number(d);
+		var days = Math.floor(d / 86400);
+		var h = Math.floor(d % 86400 / 3600);
+		var m = Math.floor(d % 86400 % 3600 / 60);
+		var s = Math.floor(d % 86400 % 3600 % 60);
+
+		var dDisplay = days > 0 ? days + (days == 1 ? " day, " : " days, ") : "";
+		var hDisplay = h > 0 ? h + (h == 1 ? " hour, " : " hours, ") : "";
+		var mDisplay = m > 0 ? m + (m == 1 ? " minute, " : " minutes, ") : "";
+		var sDisplay = s > 0 ? s + (s == 1 ? " second" : " seconds") : "";
+		return hDisplay + mDisplay + sDisplay; 
+	}
+
 	$: if($loadReady) {
 		currentDifficultyAndSalt();
 	}
@@ -52,15 +80,21 @@
 		}
 	}
 
-	function terminateWorkers() {
+	function doStop() {
 		globalStatus = 'idle';
-		workers.forEach(w => { w.worker.terminate(); });
+		workers.forEach(w => { w.worker.terminate(); w.status='stop'; });
+		workers = [...workers];
+		clearInterval(intervalCount);
+	}
+
+	function terminateWorkers() {
+		doStop();
 		workers = [];
 	}
 
 	function mineToggle() {
 		if (globalStatus == 'mining') {
-			terminateWorkers();
+			doStop();
 		} else {
 			startMining();
 		}
@@ -70,19 +104,25 @@
 		if (result[1] == -1) {
 			startMining();
 		} else {
-			globalStatus = 'idle';
+			doStop();
 			console.log('Complete', result);
 		}
 	}
 
 	function startMining() {
 		terminateWorkers();
+
 		globalStatus = 'mining';
 		const cores = Math.min(coresSelected, Math.min(navigator.hardwareConcurrency, 20));
 		
+		globalStart = +new Date();
+		intervalCount = setInterval(() => {
+			globalElapsed = +new Date() - globalStart;
+		}, 1000);
+
 		for (let i = 0; i < cores; i++) {
         const worker = new Worker('/js/rust-worker.js', { type: 'module' });
-        workers[i] = {worker: worker, status: 'init', start: 0, end: 0, hashPerSecond: 0};
+        workers[i] = {worker: worker, status: 'init', start: 0, end: 0, loops: 0, hashPerSecond: 0};
 
         let time;
 
@@ -90,16 +130,18 @@
           // console.log('Worker' + i, event.data.status);
           workers[i].status = event.data.status;
 
-          workers[i].start = Date.now();
+          workers[i].start = workers[i].start || Date.now();
 
           worker.onmessage = function(event) {
             if (event.data.results.nonce) {
 							console.log('Worker' + i, event.data.results);
 							foundNonce(event.data.results);
-              terminateWorkers();
+              doStop();
+							clearInterval(intervalCount);
+							return;
             }
-            workers[i].hashPerSecond = Math.floor(1000000 / ((Date.now() - workers[i].start) / 1000))
-            workers[i].start = Date.now();
+						workers[i].loops += 1;
+            workers[i].hashPerSecond = Math.floor( (workers[i].loops * 1000000) / ((Date.now() - workers[i].start) / 1000))
             console.log("Worker"+i+", hash/sec:", workers[i].hashPerSecond);
             workers[i].end = 0;
 
@@ -128,7 +170,7 @@
 		console.log(hash, (hash % 1024n) + 1n);
 		
 		// @todo CHECK THAT THE BUTTPLUG IS NOT ALREADY MINTED
-		globalStatus = 'idle';
+		doStop();	
 		results.push({
 			nonce,
 			buttplug: (hash % 1024n) + 1n
@@ -186,14 +228,19 @@
 				<div class="font-mono">
 					{#if w.hashPerSecond > 0}
 						Worker{i} speed: {w.hashPerSecond} hash/sec
+						{#if w.status == 'stop'}
+							- <span class="bg-red-600">STOPPED</span>
+						{/if}
 					{:else}
-						Worker{i} Starting
+						<span class="font-bold text-green-400">Worker{i} Starting</span>
 					{/if}
 				</div>
 			{/each}
 			{#if workers.length > 0 && workers[0].hashPerSecond > 0}
 				<div class="font-mono text-white">
-					Total speed: {Math.floor(workers.reduce((total, w) => total + w.hashPerSecond, 0) / 1000)} KH/s
+					Total speed: {Math.floor(totalSpeed / 1000)} KH/s<br />
+					Expect to mine one in {secondsToDayHMS(expectedTime)} (aprox based con current hashrate)<br />
+					Time elapsed: {secondsToDayHMS(globalElapsed / 1000)}
 				</div>	
 			{/if}
 			
