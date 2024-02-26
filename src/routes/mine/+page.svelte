@@ -142,7 +142,7 @@
             }
 						workers[i].loops += 1;
             workers[i].hashPerSecond = Math.floor( (workers[i].loops * 1000000) / ((Date.now() - workers[i].start) / 1000))
-            console.log("Worker"+i+", hash/sec:", workers[i].hashPerSecond);
+            //console.log("Worker"+i+", hash/sec:", workers[i].hashPerSecond);
             workers[i].end = 0;
 
             // loop
@@ -187,7 +187,7 @@
       </h1>
       <p class="mb-8 text-lg font-normal text-gray-500 dark:text-gray-400">
           You must find a nonce that when doing <code class="display-inline!important">keccak256(encodePacked(YOUR_WALLET,SALT,NONCE))</code>
-					you have to get a <code>bytes32</code> hex start with {$difficulty} ceros.
+					you have to get a <code>bytes32</code> hex that starts with {$difficulty} ceros.
       </p>
       <div class="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">
                 {#if !$account}
