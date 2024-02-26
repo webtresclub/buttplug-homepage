@@ -187,7 +187,7 @@
       </h1>
       <p class="mb-8 text-lg font-normal text-gray-500 dark:text-gray-400">
           You must find a nonce that when doing <code class="display-inline!important">keccak256(encodePacked(YOUR_WALLET,SALT,NONCE))</code>
-					you have to get a <code>bytes32</code> hex start with the same amount of ceros as difficulty.
+					you have to get a <code>bytes32</code> hex start with {$difficulty} ceros.
       </p>
       <div class="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">
                 {#if !$account}
