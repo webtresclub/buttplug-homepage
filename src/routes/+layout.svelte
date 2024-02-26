@@ -13,10 +13,13 @@ onMount(() => { initWeb3() });
 
 <header class="backdrop-blur-md border-b border-b-slate-800" style="background: #0b0d10">
   <div class="container flex justify-between py-2">
-    <hgroup class="pt-3">
-      <h1 class="text-2xl"><a href="/">Buttplugs <small class="text-xs">(UwU)</small></a></h1>
-      <p class="hidden lg:inline"><span class="text-sm">A Huff NFT collection</span></p>
-    </hgroup>
+    <div class="flex flex-block py-2 items-center">
+      <img src="/favicon.gif" alt="Buttpluggy" class="h-8 mr-1" />
+      <hgroup class="m-0">
+        <h1 class="text-2xl"><a href="/">Buttplugs <small class="text-xs">(UwU)</small></a></h1>
+        <p class="hidden lg:inline"><span class="text-sm">A Huff NFT collection</span></p>
+      </hgroup>
+    </div>
     <nav>
       <ul class="text-xs lg:text-sm">
         <li><a href="/mine"><span class="hidden lg:inline">🌱 </span>Mint</a></li>
