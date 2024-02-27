@@ -21,7 +21,7 @@ onMount(() => { initWeb3() });
       </hgroup>
     </div>
     <nav>
-      <ul class="text-xs lg:text-sm">
+      <ul class="text-xs lg:text-sm" style="list-style: none">
         <li><a href="/mine"><span class="hidden lg:inline">🌱 </span>Mint</a></li>
         <li class="hidden lg:inline"><a href="https://opensea.io/collection/buttpluggy" target="_blank">🌊 OpenSea</a></li>
         <li class="hidden md:inline"><a href="https://github.com/webtresclub/huffplug/tree/main/src" target="_blank">
