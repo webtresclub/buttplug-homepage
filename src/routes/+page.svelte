@@ -55,7 +55,7 @@ $: if ($account && $loadReady) {
             <p class="text-lg mb-6">
                 <span class="font-semibold">1024</span> unique collectible oscilloscope visuals with proof of 
                 ownership preserved on the Ethereum blockchain. Presented by the <b>WebtrES</b> community, the 
-                Buttpluggy(huffplug) project is a trailblazer in the next chapter of CryptoArt evolution. 
+                Buttpluggy (huffplug) project is a trailblazer in the next chapter of CryptoArt evolution. 
             </p>
             <p class="text-lg mb-6">
             As one of the pioneering projects utilizing the <span class="font-semibold">Huff</span> programming 
@@ -82,7 +82,7 @@ $: if ($account && $loadReady) {
             {:else}
                 {#if userOnMerkle && canClaim}
                     <span class="text-xl font-bold">
-                        Contratulations, you are in the merkle tree for mint without mine:
+                        Congratulations, you are in the merkle tree and can mint without mining:
                     </span><br />
                 {/if}
 
@@ -98,7 +98,7 @@ $: if ($account && $loadReady) {
 <hr />
 <main class="container">
     {#if randomIds.length}
-        <h3>This are some of our finest Buttplugies</h3>
+        <h3>These are some of our finest Buttpluggies</h3>
 
         <div class="space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-12 md:space-y-0">
             {#each randomIds as id }
@@ -124,7 +124,7 @@ $: if ($account && $loadReady) {
           <p class="text-lg mb-6">
               Buttpluggies are intricate visual representations of oscilloscopes, shaped by algorithmic 
               designs. While many display complex waveform patterns, some unique Buttplugs showcase 
-              unique aesthetics, influenced by digital artistry and the hacker spirit. Each y 
+              unique aesthetics, influenced by digital artistry and the hacker spirit. Each one 
               has a distinct profile page detailing its features, ownership, and sale status.
           </p>
           
@@ -132,7 +132,7 @@ $: if ($account && $loadReady) {
           <p class="text-lg mb-6">
             While cryptocurrencies like Bitcoin revolutionized digital transactions, Ethereum expanded 
               these possibilities by allowing immutable, decentralized execution of complex code. This 
-              innovation powers our Buttpluggis. Developed on Ethereum using the Huff programming language 
+              innovation powers our Buttpluggies. Developed on Ethereum using the Huff programming language 
               and the Huffmate libraries, the Buttpluggy contract provides a transparent and trustless 
               method to trade and own these unique tokens. The code is not just stored; it’s brought to 
               life on the blockchain, ensuring everyone can validate its fair execution.
@@ -154,7 +154,7 @@ $: if ($account && $loadReady) {
 </ul>
 
           
-          <h2 class="text-2xl font-bold mb-4">Frequently Asked Queries</h2>
+          <h2 class="text-2xl font-bold mb-4">Frequently Asked Questions</h2>
           
           <h3 class="text-xl mb-3">Where are the visuals for the Buttplugs stored?</h3>
           <p class="text-lg mb-6">

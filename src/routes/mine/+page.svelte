@@ -186,8 +186,8 @@
         Mine your Buttpluggy
       </h1>
       <p class="mb-8 text-lg font-normal text-gray-500 dark:text-gray-400">
-          You must find a nonce that when doing <code class="display-inline!important">keccak256(encodePacked(YOUR_WALLET,SALT,NONCE))</code>
-					you have to get a <code>bytes32</code> hex start with {$difficulty} ceros.
+          You must find a nonce that when encrypting it with your wallet address and a salt through <code class="display-inline!important">keccak256(encodePacked(YOUR_WALLET,SALT,NONCE))</code>
+					results in a <code>bytes32</code> hex that starts with {$difficulty} zeroes.
       </p>
       <div class="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">
                 {#if !$account}
@@ -198,7 +198,7 @@
                 {/if}
             </div>
 						<hr />
-            <div class="mt-6 p-4 mx-auto text-left font-mono">  
+            <br class="mt-6 p-4 mx-auto text-left font-mono">  
 							User wallet: {$account}<br />
 							Current difficulty: {$difficulty}<br />
 							Current salt: {$salt}<br />
@@ -209,6 +209,7 @@
 								{coresSelected}
 								<span on:click={() => (coresSelected == totalCores ? totalCores : coresSelected++)} class="core-button">+</span>
 							</div>
+						<br/>
 							{#if globalStatus == 'idle'}
 								<button on:click={() => { mineToggle() } } class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
 									Start mine
