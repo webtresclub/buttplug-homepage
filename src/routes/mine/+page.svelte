@@ -198,7 +198,8 @@
                 {/if}
             </div>
 						<hr />
-            <br class="mt-6 p-4 mx-auto text-left font-mono">  
+						{#if $account}
+            <div class="mt-6 p-4 mx-auto text-left font-mono">  
 							User wallet: {$account}<br />
 							Current difficulty: {$difficulty}<br />
 							Current salt: {$salt}<br />
@@ -209,20 +210,22 @@
 								{coresSelected}
 								<span on:click={() => (coresSelected == totalCores ? totalCores : coresSelected++)} class="core-button">+</span>
 							</div>
-						<br/>
-							{#if globalStatus == 'idle'}
-								<button on:click={() => { mineToggle() } } class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
-									Start mine
-								</button>
-							{:else}
-								<button on:click={() => { mineToggle() } } class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-gray-900 rounded-lg border border-gray-300 hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800">
-									Stop mining
-								</button>
-							{/if}
-							<button on:click={() => { useNonce() } } class="bg-transparent inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-gray-900 rounded-lg border border-gray-300 hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800">
-									Use a nonce
-								</button>
-            </div>
+						</div>
+						<br />
+						{#if globalStatus == 'idle'}
+							<button on:click={() => { mineToggle() } } class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
+								Start mine
+							</button>
+						{:else}
+							<button on:click={() => { mineToggle() } } class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-gray-900 rounded-lg border border-gray-300 hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800">
+								Stop mining
+							</button>
+						{/if}
+						<button on:click={() => { useNonce() } } class="bg-transparent inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-gray-900 rounded-lg border border-gray-300 hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800">
+								Use a nonce
+						</button>
+						{/if}
+					</div>
       
 			
 			{#each workers as w, i}
