@@ -4,6 +4,8 @@
 	import { keccak256, encodePacked } from 'viem';
 	import { onMount } from 'svelte';
 
+	import NumberTween from './NumberTween.svelte';
+
 
 	let globalStatus = 'idle';
   let workers = [];
@@ -232,7 +234,7 @@
 			{#each workers as w, i}
 				<div class="font-mono">
 					{#if w.hashPerSecond > 0}
-						Worker{i} speed: {w.hashPerSecond} hash/sec
+						Worker{i} speed: <NumberTween currentNumber={w.hashPerSecond} /> hash/sec
 						{#if w.status == 'stop'}
 							- <span class="bg-red-600">STOPPED</span>
 						{/if}
