@@ -1,7 +1,7 @@
 <script lang="ts">
-	import { currentDifficultyAndSalt, difficulty, salt, mint } from '$lib/contracts';
+	import { currentDifficultyAndSalt, totalMinted, difficulty, salt, mint } from '$lib/contracts';
 	import { loadReady, modal, account } from '$lib/store';
-	import { keccak256, encodePacked, hashDomain } from 'viem';
+	import { keccak256, encodePacked } from 'viem';
 	import { onMount } from 'svelte';
 
 
@@ -37,7 +37,7 @@
 		var hDisplay = h > 0 ? h + (h == 1 ? " hour, " : " hours, ") : "";
 		var mDisplay = m > 0 ? m + (m == 1 ? " minute, " : " minutes, ") : "";
 		var sDisplay = s > 0 ? s + (s == 1 ? " second" : " seconds") : "";
-		return hDisplay + mDisplay + sDisplay; 
+		return dDisplay + hDisplay + mDisplay + sDisplay; 
 	}
 
 	$: if($loadReady) {
@@ -200,6 +200,7 @@
 						<hr />
 						{#if $account}
             <div class="mt-6 p-4 mx-auto text-left font-mono">  
+							Total Minted: {$totalMinted}/1024<br />
 							User wallet: {$account}<br />
 							Current difficulty: {$difficulty}<br />
 							Current salt: {$salt}<br />

@@ -12,6 +12,8 @@ const BUTTPLUGGY = '0x0000420538CD5AbfBC7Db219B6A1d125f5892Ab0';
 const abi = parseAbi([
     //  ^? const abi: readonly [{ name: "balanceOf"; type: "function"; stateMutability:...
     'function claimed(address user) view returns (bool)',
+    'function totalMinted() external view returns (uint256)',
+
     'function mint(uint256 nonce) external',
     'function mintWithMerkle(bytes32[] calldata proofs) external',
     'function currentDifficulty() public view returns (uint256)',
@@ -61,6 +63,7 @@ export async function mint(nonce) {
 
 export const difficulty = writable();
 export const salt = writable();
+export const totalMinted = writable();
 
 export async function currentDifficultyAndSalt() {   
     const _config = get(config);
@@ -69,12 +72,14 @@ export async function currentDifficultyAndSalt() {
         contracts: [
             { address: BUTTPLUGGY, abi, functionName: 'currentDifficulty' },
             { address: BUTTPLUGGY, abi, functionName: 'salt' },
+            { address: BUTTPLUGGY, abi, functionName: 'totalMinted' },
         ],
     };
     //console.log(_config.getClient());
     const data = await multicall(_config, toWatch);
     difficulty.set(data[0].result);
     salt.set(data[1].result);
+    totalMinted.set(data[2].result);
 
     
     const unwatch = watchContractEvent(_config, {        
@@ -86,6 +91,7 @@ export async function currentDifficultyAndSalt() {
             const data = await multicall(_config, toWatch);
             difficulty.set(data[0].result);
             salt.set(data[1].result);
+            totalMinted.set(data[2].result);
         },
     });
     
