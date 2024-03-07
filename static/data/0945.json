@@ -1,0 +1,28 @@
+{
+  "description": "Born in the digital alleyways of WebtrES city, Catalyst Flex is an enigmatic character with a penchant for adventure and a knack for getting into trouble. His shiny yellow box exterior gleams like the city lights, and his cat-like arms and legs give him the agility to maneuver through the information superhighways with ease. The broken screen he sports is a badge of honor from a notorious scuffle with a virus gang, after which he donned his shades to hide his scars and preserve his cool demeanor. Despite his tough exterior, Catalyst's heart purrs with the warmth of a feline friend, always ready to lend a helping paw to those in need in the WebtrES club.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/945",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0945.gif",
+  "name": "Catalyst Flex",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

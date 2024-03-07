@@ -1,0 +1,28 @@
+{
+  "description": "Shady Screeno is a charming and enigmatic character from the WebtrES club, known for his laid-back demeanor and love for classic style. With his hand-down arms and legs stance, he exudes an aura of cool confidence. His classic box and screen give him a vintage vibe that appeals to those who appreciate the golden era of tech. The shades he sports are not just for style; they hide a mysterious past of coding marathons and digital espionage. Despite his secretive nature, Shady Screeno is a loyal friend and an indispensable member of the club, always ready to lend a hand\u2014or a screen\u2014in times of need.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/266",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0266.gif",
+  "name": "Shady Screeno",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

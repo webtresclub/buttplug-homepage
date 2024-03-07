@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the vibrant digital landscape of WebtrES, Catalystic Purrformer is known for its shiny yellow exterior and the classic button array that resonates with nostalgia. With legs and arms resembling those of a sleek cat, it moves with an elegance that belies its boxy frame. Its screen face, adorned with cat-like features, glows with a friendly and approachable light. Catalystic Purrformer thrives on interactivity, often found engaging with fellow club members in lighthearted banter or offering witty observations. Its origin is shrouded in mystery, some say it was the creation of a whimsical programmer who wanted to blend the charm of retro technology with the gracefulness of felines. Regardless of its beginnings, Catalystic Purrformer has become a cherished member of the WebtrES community, always ready to lend a helping hand or a playful paw.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/403",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0403.gif",
+  "name": "Catalystic Purrformer",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

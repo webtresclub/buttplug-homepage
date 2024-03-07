@@ -1,0 +1,24 @@
+{
+  "description": "SlytherScreen hails from the pixelated plains of the retro gaming universe, a place where classic arcade games reign supreme. With a body that resembles the iconic hardware of yesteryears, SlytherScreen's screen perpetually plays the legendary game of Snake, a testament to its love for the simple yet challenging digital pastimes. Its classic buttons and arms and legs are a nod to the enduring design of early gaming consoles. SlytherScreen spends its bytes charming other members of the WebtrES club with its nostalgic flair and timeless gameplay wisdom.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/768",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0768.gif",
+  "name": "SlytherScreen",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

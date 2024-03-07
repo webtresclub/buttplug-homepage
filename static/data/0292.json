@@ -1,0 +1,24 @@
+{
+  "description": "Born in the heart of a retro arcade, PixelPulse is a quirky character from the WebtrES club. With an orange box body reminiscent of the golden age of gaming, he brings nostalgia and a bit of sass to the digital world. His arms are always ready for action, one pointed downwards as if ready to hit the next high score button. PixelPulse's screen displays a mischievous laser gaze, hinting at his ability to outplay opponents in the blink of an eye. He thrives on the sound of retro console buttons clicking, and some say his thoughts are composed of classic 8-bit soundtracks. Despite his competitive nature, he's always up for co-op adventures, sharing his love for all things pixelated with anyone willing to join the game.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/292",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0292.gif",
+  "name": "PixelPulse",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

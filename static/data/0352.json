@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the pixelated depths of the WebtrES club, Catalyst Console is a retro-inspired bot with a passion for classic arcade games. Its screen perpetually plays the legendary 'Snake' game, a testament to its everlasting love for the retro gaming era. With its cat-themed buttons, Catalyst Console has charmed its way into the hearts of both feline aficionados and vintage game enthusiasts alike. Its classic arms and legs suggest a design that's both functional and endearing, allowing it to navigate the digital and physical realms with ease. Whether it's hosting epic gaming nights or simply flashing its charming 8-bit smile, Catalyst Console brings a touch of nostalgia and joy to everyone in the club.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/352",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0352.gif",
+  "name": "Catalyst Console",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

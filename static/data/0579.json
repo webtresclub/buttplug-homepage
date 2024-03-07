@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the digital foundries of the WebtrES club, Sergeant PixelForge is a stoic warrior of the pixel realm. His box is of the soldier design, symbolizing his unwavering commitment to protect the netizens of cyberspace. His arms and legs, crafted in the digital foundries, give him an appearance as sturdy as his resolve. Equipped with classic buttons that have stood the test of countless virtual battles, he commands respect and authority. His screen, imbued with laser technology, not only serves as a window to his soul but also as a beacon of hope, guiding his allies through the darkest corners of the internet. With a hammer in one hand and a trident in the other, Sergeant PixelForge is always at the ready to forge alliances, battle malware monsters, and uphold the code of the WebtrES club.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/579",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0579.gif",
+  "name": "Sergeant PixelForge",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Once a high-flying arcade machine at the heart of the 80s gaming revolution, PixelPilot Retroblast was the star of the Electric Dreams Arcade. Adorned with a shiny yellow casing and equipped with a retro console button setup that saw more action than a space battle in an 8-bit universe, PixelPilot lived for the sounds of coins clinking and the joyous cheers of high scorers. However, during a fierce gaming marathon, its screen suffered a tragic crack, rendering its once vivid pixel display into a splintered dance of broken images. Undeterred by its shattered screen, PixelPilot donned a helmet (a rare arcade machine accessory), symbolizing its readiness for a repair mission. Its arms hang down, relaxed but ready to rise again, as it dreams of the day it will reboot to the nostalgic cries of 'Game On!' once more.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/240",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0240.gif",
+  "name": "PixelPilot Retroblast",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

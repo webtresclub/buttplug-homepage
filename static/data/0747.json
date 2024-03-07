@@ -1,0 +1,24 @@
+{
+  "description": "A sophisticated member of the WebtrES club known for his sharp wit and even sharper laser vision. Laser Whiskers was once a humble arcade machine in a neon-lit alley of Cyberville. After a freak power surge, he gained sentience and transformed into a cat-box hybrid with classic button controls. With his hand-down arms and legs, he roams the digital realm, assisting lost data packets and zapping malware. His favorite pastime is lounging on top of the warmest servers, purring to the hum of the WebtrES club's bustling network activity.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/747",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0747.gif",
+  "name": "Laser Whiskers",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "Crafted in the depths of the Pixel Foundry, Laserio Forgehammer is renowned across the digital realms for his masterful creation of virtual architectures and landscapes. His orange box exterior, marked by a series of classic buttons, is a tribute to the old-school gaming consoles, while his arms and legs, forged from the strongest digital steel, reflect the resilience of the foundry that birthed him. Laserio's crowning feature is his laser screen, capable of emitting high-intensity pixel beams that can carve out structures or project detailed holograms. A true artisan in the WebtrES club, he wields his pixelated hammer with precision, shaping the virtual world one block at a time.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/638",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0638.gif",
+  "name": "Laserio Forgehammer",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

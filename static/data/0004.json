@@ -1,0 +1,24 @@
+{
+  "description": "Once an ordinary box in the alleyways of Meowtropolis, Forgeclaw was struck by a peculiar beam from an abandoned laser foundry. This fateful event transformed the unassuming container into the Tech-Savvy Sentinel of the streets. With a body resembling a sturdy black box adorned with cat-like ears, Forgeclaw's screen face is capable of emitting high-intensity laser beams to ward off any threat. His arms and legs, forged from the sturdiest metals of the foundry, wield tools repurposed as weapons of justice. As a prominent member of the WebtrES club, Forgeclaw uses his abilities to protect the digital and physical realms, always vigilant, always ready to pounce on injustice with the precision of a cat.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/4",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0004.gif",
+  "name": "Forgeclaw the Techno-Feline",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

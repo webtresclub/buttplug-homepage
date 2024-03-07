@@ -1,0 +1,28 @@
+{
+  "description": "SerpentoBox hails from the digital jungles of WebtrES, a realm where the pixelated foliage is as dense as the mysteries it hides. Its forest green exterior allows it to blend seamlessly with the canopy layers, making it a master of stealth and surprise. The classic buttons on its front panel are not just for show; they're the keys to unleashing a variety of coded commands that can manipulate the environment or hack into enemy systems. With arms and legs built for endurance and agility, SerpentoBox is the perfect soldier for missions that require both brains and brawn. Its screen, displaying the hypnotic patterns of a snake, can mesmerize and disorient any onlookers, protecting its true intentions. And atop its boxy frame sits a helmet, a relic from an ancient digital war that not only serves as armor but also as a symbol of its leadership among the pixelated warriors of WebtrES. SerpentoBox is a tactical genius, a digital warrior, and a guardian of the forest all rolled into one.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/346",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0346.gif",
+  "name": "SerpentoBox",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

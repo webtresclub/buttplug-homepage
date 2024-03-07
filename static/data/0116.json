@@ -1,0 +1,24 @@
+{
+  "description": "Born in the heart of the digital revolution, PixelPurr Pro is a sentient arcade machine with a feline flair. Having achieved consciousness through a bizarre fusion of retro console parts and advanced laser screen technology, this quirky member of the WebtrES club spends its time projecting holographic game challenges to those who dare approach. With its hand-down arms always ready for action, PixelPurr Pro is the undefeated champion of pixelated adventures, inspiring both nostalgia and awe in the pixelated world it calls home.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/116",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0116.gif",
+  "name": "PixelPurr Pro",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

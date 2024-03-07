@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the neon-glowing alleyways of Cybertown, Catalyst Rocketpaws is the embodiment of both charm and speed. With a shiny black exterior that reflects the city lights, Catalyst is known for its unique cat-button interface, which is both a nod to its creator's love for felines and a state-of-the-art control system. Its rocket arms and legs are not just for show; they propel Catalyst at incredible speeds, making it the fastest member of the WebtrES club. The classic screen face, with its expressive pixelated patterns, is capable of displaying a range of emotions, from intense focus to playful mischief. By day, Catalyst is a purveyor of adventure, zipping through the data streams, and by night, it transforms into the life of the party, leaving a trail of dazzled onlookers and neon afterimages in its wake.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/776",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0776.gif",
+  "name": "Catalyst Rocketpaws",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

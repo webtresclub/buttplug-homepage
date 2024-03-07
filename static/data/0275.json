@@ -1,0 +1,28 @@
+{
+  "description": "Commander Whiskertron is a valiant member of the WebtrES club, known for his strategic prowess and feline intuition. His orange box chassis is reinforced for battle, symbolizing his readiness for any digital conflict. Adorned with classic buttons that harken back to the golden age of arcade gaming, Commander Whiskertron can execute complex commands with just a few precise taps. His arms and legs, built to soldier specifications, can withstand the most arduous of tasks, whether it's repairing network cables under heavy fire or leading a team through treacherous data streams. The cat screen that lights up his face is not only a display of his love for all things feline but also serves as an advanced scanning system, giving him night-vision capabilities and an uncanny ability to detect even the stealthiest of malware. The glasses he wears aren't just for show; they are equipped with state-of-the-art analytical lenses, providing him with live data feeds and augmented reality for superior situational awareness. Commander Whiskertron is the digital guardian you want on your firewall's front line.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/275",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0275.gif",
+  "name": "Commander Whiskertron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

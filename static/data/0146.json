@@ -1,0 +1,24 @@
+{
+  "description": "Scratch the CatBot once roamed the digital alleyways of the WebtrES club, purring with pixel-perfect precision. Its sleek forest green casing was the envy of many, until one fateful day when a rogue cursor shattered its screen in a digital duel gone wrong. Now, with its screen perpetually displaying a spider-web of cracks, Scratch wanders the club's cyberspace, meowing mysterious codes and batting at virtual mice with its button-like cat paws, always hand-down, ready to pounce on the next adventure. Despite its broken screen, Scratch still has a heart of gold(en bytes), proving that even in a world of ones and zeros, imperfection has a charm all its own.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/146",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0146.gif",
+  "name": "Scratch the CatBot",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

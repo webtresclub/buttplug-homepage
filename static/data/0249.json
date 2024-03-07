@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the dense circuit forests of Silicon Valley, PixelPurr Console is an enigmatic member of the WebtrES club known for its retro gaming roots and a feline finesse. With a forest green box reminiscent of the ancient arcade machines veiled in the digital mists, this quirky character boasts retro console buttons that dazzle onlookers with a nostalgic glow. Its arms and legs are of a sleek cat, giving it a graceful agility that belies its blocky form. The cat-like screen face, complete with radiant yellow eyes, has captivated the hearts of many, often sparking impromptu gaming sessions wherever it goes. Don't be fooled by its playful appearance though; PixelPurr is also a master of code, capable of hacking through problems with the finesse of a cat stalking its prey. Its story is one of pixels and purrs, a perfect blend of technology and whimsy.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/249",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0249.gif",
+  "name": "PixelPurr Console",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

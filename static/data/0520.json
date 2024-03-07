@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the digital jungles of the WebtrES club, Serpentron Helix is known for his cunning and agility. His orange box chassis is equipped with classic button inputs and sturdy arms and legs, ensuring he's always ready for action. The snake screen displays his sly and hypnotic gaze, while the helmet addon signifies his rank as a navigator of the treacherous data streams. Serpentron Helix often embarks on dangerous missions through the cyberspace wilderness, using his wit and charm to outmaneuver any threat.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/520",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0520.gif",
+  "name": "Serpentron Helix",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

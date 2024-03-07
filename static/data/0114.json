@@ -1,0 +1,28 @@
+{
+  "description": "Rocket Whisker, once a decorated feline captain of the intergalactic forces, traded his military stripes for rocket limbs to explore the vast cyber-spheres of the universe. His rosso corsa chassis, reminiscent of the fastest star-racers, gleams under the twinkle of distant nebulas, while his soldier button interface is a nod to his disciplined past. His screen projects an ever-watchful cat's gaze, symbolizing his sharp instincts and agility. Always on the edge of cool, Rocket Whisker sports shades that are not only a fashion statement but also shield his vision from cosmic rays. Now a prominent member of the WebtrES club, he is celebrated for his daring space expeditions and for the mysterious space anthems that echo from his stereo speakers, inspiring adventurers and dreamers across galaxies.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/114",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0114.gif",
+  "name": "Rocket Whisker",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

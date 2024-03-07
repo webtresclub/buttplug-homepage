@@ -1,0 +1,24 @@
+{
+  "description": "Commander PixelBlitz is a legendary figure in the WebtrES club, known for his strategic acumen and unwavering determination, honed through countless virtual battles. With a retro console for a body and a screen that glows with the fierce red and black hues of a warrior, he is the epitome of old-school cool. His arms and legs, crafted from the finest soldier sprites, give him the agility and strength to lead his pixelated platoon into any skirmish. The retro console buttons on his frame are not just for show; they're fully functional, allowing him to recalibrate his tactics in real-time. Rumor has it that PixelBlitz was once a top-tier arcade machine, leading scores of gamers to victory before ascending to become a sentient being within the WebtrES realm. Now, he quests through various digital landscapes, always in search of the next great challenge.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/720",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0720.gif",
+  "name": "Commander PixelBlitz",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the sleek corners of WebtrES club, Catalyst the Cleverbot is known for his glossy, shiny black exterior that reflects the neon lights of cyberspace. With a classic button configuration, he's a nostalgia trip for many, offering a tactile experience in an increasingly touchless world. His arms rest comfortably by his sides, always ready to lend a hand down to those navigating the digital realms. The highlight of Catalyst's interface is his cat-themed screen, a nod to his programming based on the agile and curious nature of felines. Topping off his unique look, Catalyst sports a pair of thick-rimmed glasses, a testament to his wisdom and sharp analytical skills. Behind those lenses, Catalyst harbors algorithms that can solve riddles that stump even the most sophisticated AIs. An enigma wrapped in pixels, Catalyst spends his time unraveling the mysteries of the virtual universe while offering sage advice to any netizen who crosses his digital path.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/385",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0385.gif",
+  "name": "Catalyst the Cleverbot",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

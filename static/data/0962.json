@@ -1,0 +1,28 @@
+{
+  "description": "Blast from the past, PixelPurr RocketConsole is the fusion of nostalgia and futuristic dreams. Born in the heart of the 80s arcade boom, this member of the WebtrES club has a screen that always displays an enigmatic cat, reminiscent of the era's mysterious arcade legends. Its box and buttons are styled after a classic retro console, giving it a familiar yet unique charm. With rocket-powered arms and legs, PixelPurr is not only a gamer's delight but also a high-flying adventurer, always on the lookout for the next cosmic high score. Its helmet, a relic from a bygone space race, is both a protective gear and a symbol of its never-ending quest to explore new worlds of entertainment and camaraderie.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/962",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0962.gif",
+  "name": "PixelPurr RocketConsole",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

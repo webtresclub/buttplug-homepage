@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the dense woodlands of Pixel Purr Meadows, Sergeant Whiskertron is the embodiment of discipline and stealth. With a forest green exoskeleton that blends seamlessly into the foliage, this feline-commando hybrid is always ready for action. The cat-themed buttons adorning its chassis are a testament to its agility and nine lives' worth of combat expertise, while the stoic soldier's arms and legs are always at the ready. Its screen flickers with the intense gaze of a cat, keeping a watchful eye on both digital and natural realms. As a member of the elite WebtrES club, Sergeant Whiskertron is on a mission to maintain the balance between the cybernetic and the wild, ensuring the safety of the information superhighway and the untamed wilderness it calls home.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/805",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0805.gif",
+  "name": "Sergeant Whiskertron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "PixelPurr ConsoleCat hails from the neon-lit alleyways of Retro Cyberville, a place where vintage tech and feline agility blend into one. With a shiny yellow box reminiscent of the golden era of arcade machines, ConsoleCat sports an iconic screen with cool red and black shades that hide a world of digital mysteries. The retro console buttons on its front panel are not just for show; they're the keys to unleashing PixelPurr's secret gaming skills. Equipped with swift cat-like arms and legs, this NFT character is known for its agility both in the virtual realm and the physical rooftops of WebtrES club. By day, ConsoleCat is a charming companion to nostalgic gamers, by night, a guardian of the club's hidden arcade treasures. Don't let the shades fool you; PixelPurr sees all and plays to win.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/79",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0079.gif",
+  "name": "PixelPurr ConsoleCat",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

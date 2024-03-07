@@ -1,0 +1,28 @@
+{
+  "description": "Retro Shadebot hails from the neon-soaked alleyways of the digital metropolis known as Pixel City. Once a console in a dingy arcade, Retro Shadebot gained sentience after a freak power surge, transforming into the cool, shade-wearing persona we know today. With a passion for 8-bit beats and a penchant for vintage gaming, Retro Shadebot spends its days remixing retro game soundtracks and hosting underground gaming tournaments. The shiny black exterior and red-black screen glow are signature to Shadebot's sleek style, while the retro console buttons serve as a reminder of its arcade origins. Don't let the laid-back vibe fool you, though; Retro Shadebot is a master of pixels and a guardian of old-school gaming culture in the WebtrES club.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/983",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0983.gif",
+  "name": "Retro Shadebot",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

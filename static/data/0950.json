@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the pixelated depths of the WebtrES club, Serpent Sergeant Whiskertron is a sight to behold with his cat-themed box head that speaks to his cunning and agility. His classic button console is a testament to his love for retro, but his true might lies in his soldier-like arms and legs, always ready for action. The sleek snake screen flickers with a hypnotic glow, a nod to his strategic mind that ensnares foes like prey. Topping off his battle-readiness is a sturdy helmet, a souvenir from his epic skirmishes in the digital realm. Serpent Sergeant Whiskertron's tales of valor are whispered across the net, inspiring both awe and a touch of fear in the hearts of his digital brethren.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/950",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0950.gif",
+  "name": "Serpent Sergeant Whiskertron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

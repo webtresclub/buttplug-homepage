@@ -1,0 +1,28 @@
+{
+  "description": "Serpentron Skyblazer is a high-flying member of the esteemed WebtrES club, known for his zest for aerial adventures and a fearless attitude. With an orange box-shaped body that can withstand extreme temperatures and a classic button control panel, he can navigate through the most challenging conditions. His rocket arms and legs allow him to zoom through the skies at supersonic speeds, leaving a trail of awe and envy among his peers. His screen displays a hypnotic snake-like pattern that can mesmerize any onlooker, while his helmet, a rare addon, is rumored to be a relic from an ancient astronaut. Serpentron is not just a machine; he's a legend soaring through the digital heavens, seeking the next thrilling escapade among the stars.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/452",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0452.gif",
+  "name": "Serpentron Skyblazer",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

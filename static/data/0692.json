@@ -1,0 +1,24 @@
+{
+  "description": "Sergeant WhiskerFritz is a valiant member of the WebtrES club, known for his shiny yellow exterior that can be spotted gleaming even in the low light of the digital realm. His buttons are adorned with tiny cat faces, a testament to his affection for feline companions in the physical world before he was uploaded into the WebtrES club. However, life wasn't always just a string of purrs for WhiskerFritz; he was once a front-line code warrior, which is evident from his soldier-like limbs, built for both combat and code deployment. His screen, though now broken, tells a heroic tale of a cyber skirmish that left a spider-web crack as a badge of honor. Despite the damage, his spirit remains unbroken, and he continues to serve with unwavering loyalty, inspiring his fellow digital denizens with his courage and tenacity.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/692",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0692.gif",
+  "name": "Sergeant WhiskerFritz",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

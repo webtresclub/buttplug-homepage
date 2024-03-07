@@ -1,0 +1,24 @@
+{
+  "description": "Forged in the pixelated fires of the WebtrES Club, LaserBox Sergeant is a digital combatant with a screen that emits not just light, but precision-guided laser animations capable of dazzling any opponent. His often-hand-down stance is a deceptive sign of relaxation before he unleashes a flurry of pixel-perfect strategies. His classic button configuration is a nod to the old school, but don't be fooled, his tactics are as cutting-edge as they come. With a no-nonsense attitude and a penchant for order, LaserBox Sergeant is always ready to lead his fellow WebtrES into the cyber fray.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/555",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0555.gif",
+  "name": "LaserBox Sergeant",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

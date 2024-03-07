@@ -1,0 +1,24 @@
+{
+  "description": "Born in the digital alleys of WebtrES City, Catalina Pixelwhisker is a vintage arcade machine with a quirky personality. Her orange box casing is reminiscent of a sunset in an 8-bit world, while her classic button configuration invites everyone for a game. Her arms and legs, also of the classic build, are always poised to leap into action or dance to chiptune rhythms. The most fascinating aspect of Catalina is her screen, which displays the cheerful visage of a pixelated cat. Her eyes sparkle like twin stars in a retro game sky, and her screen-face often expresses a wide range of emotions, from purring contentment to feisty determination. Catalina spends her days in the neon-lit arcades of WebtrES club, challenging players to beat her high scores and sharing tales of pixelated adventures from her many levels.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/383",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0383.gif",
+  "name": "Catalina Pixelwhisker",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Spectacle Spectre is the enigmatic figure of the WebtrES club, known for its rossoCorsa chassis that stands out in any digital crowd. Despite its screen being cracked in an unfortunate incident involving a rogue piece of code, it continues to observe the world through its iconic pixelated glasses. With arms always at ease, Spectacle Spectre is the embodiment of calm under pressure, embodying a cool, classic style with its timeless button configuration. This digital being, though silent and mysterious, has a reputation for offering sage advice to those who can decipher the messages hidden within its fragmented display.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/394",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0394.gif",
+  "name": "Spectacle Spectre",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

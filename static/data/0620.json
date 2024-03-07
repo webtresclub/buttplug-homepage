@@ -1,0 +1,24 @@
+{
+  "description": "Catalyst 8-Bit hails from the pixelated world of Arcadia, where he was once a sidekick in a cult-classic video game. His bright rosso corsa chassis with retro console buttons made him an icon among nostalgic gamers. After a mishap in the foundry where he was being upgraded, Catalyst gained sentient arms and legs made of the finest digital steel. He wields his trusty hammer and wrench with the precision of a master craftsman, fixing glitches and broken code in the background. His screen-face displays the enigmatic visage of a cat, a tribute to his creator's beloved feline companion. Catalyst now spends his days roaming the vast expanses of the WebtrES club, offering repairs to other NFTs and regaling them with tales of his 8-bit glory days.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/620",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0620.gif",
+  "name": "Catalyst 8-Bit",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

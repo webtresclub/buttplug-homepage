@@ -1,0 +1,28 @@
+{
+  "description": "Glasstron Byte is a sophisticated member of the WebtrES club, known for its shiny black exterior that exudes elegance and mystery. With its classic button configuration, it offers a timeless charm that appeals to both old-school enthusiasts and modern aficionados. The arms and legs are positioned downwards, signifying its grounded and stable personality. However, it's the classic screen that truly captures the essence of Glasstron Byte's soul, providing a window into the digital wisdom it possesses. The most striking feature is the pair of large glasses, hinting at its intellectual pursuits and analytical mind. Glasstron Byte spends its time decrypting complex codes and solving puzzles that baffle even the most advanced minds in the club. As a beacon of brilliance, it not only contributes to the digital world with its problem-solving skills but also mentors up-and-coming members with patience and clarity.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/238",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0238.gif",
+  "name": "Glasstron Byte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

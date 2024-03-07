@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the digital streets of WebtrES City, Catalyst Furrari is a unique feline-inspired bot known for its sleek rosso corsa box casing and playful cat-like limbs that give it an agile edge in the urban jungle. Its creator, an enigmatic programmer with a love for classic video games and cats, imbued Catalyst with a 'classic' screen face, capable of expressing a wide range of pixelated emotions. By day, Catalyst roams the alleyways, leaving a trail of purrs and friendly 'meow' chirps for those it encounters. By night, it transforms into a guardian of the city's network, using its advanced button interface to hack into and protect against digital threats. In the virtual world of WebtrES club, Catalyst Furrari is both a beloved companion and a symbol of the playful harmony between technology and nature.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/206",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0206.gif",
+  "name": "Catalyst Furrari",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

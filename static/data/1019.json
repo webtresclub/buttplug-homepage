@@ -1,27 +1,24 @@
 {
-  "description": "Rosso Corsa is a stylish oscilloscope-themed robot belonging to the WebtrES club. With its sleek design and eye-catching red color, it is sure to turn heads wherever it goes. Rosso Corsa's unique traits include a cat-themed screen and shades as an additional accessory, adding to its cool and trendy appearance. Equipped with state-of-the-art technology, its buttons are reminiscent of a cat, giving it a touch of playfulness. Its arms and legs are sturdy and robust, reflecting the quality craftsmanship of the foundry where it was built. Rosso Corsa is an exceptional member of the WebtrES club, always ready to assist and showcase its impressive capabilities.",
-  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/1019.gif",
+  "description": "From the digital depths of the WebtrES club, Catalyst Foundry emerges with a striking rossoCorsa exterior and a heart of pixelated feline charm. This NFT, known for its unique screen that always displays a watchful cat's gaze, symbolizes the agility and curiosity of its animated spirit animal. Crafted with arms and legs from the toughest materials in the virtual foundry, Catalyst Foundry is not only a collector's delight but also a symbol of resilience and adaptability in the fast-paced meta world. Whether wielding a hammer or adjusting to the latest trends, this digital denizen is ready to tackle any challenge in the ever-evolving landscape of the internet.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/1019",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/1019.gif",
+  "name": "Catalyst Foundry",
   "attributes": [
     {
       "trait_type": "Box",
-      "value": "rossoCorsa"
+      "value": "Rossocorsa"
     },
     {
       "trait_type": "Buttons",
-      "value": "cat"
+      "value": "Cat"
     },
     {
-      "trait_type": "ArmsAndLegs",
-      "value": "foundry"
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
     },
     {
       "trait_type": "Screen",
-      "value": "cat"
-    },
-    {
-      "trait_type": "Addon",
-      "value": "shades"
+      "value": "Cat"
     }
-  ],
-  "name": "Rosso Corsa"
+  ]
 }

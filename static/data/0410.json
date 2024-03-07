@@ -1,0 +1,28 @@
+{
+  "description": "HammerByte is the hard-hitting, pixel-smashing hero of the WebtrES club. With a retro console box for a body and a screen that's seen better days, he's a reminder of the relentless march of technology\u2014and how it sometimes leaves fallen warriors in its wake. His arms and legs are forged from the finest digital foundry, able to craft and repair anything from code to hardware. The classic buttons on his chest light up with each beat of his electronic heart. Despite his broken screen, HammerByte sports a pair of cool shades, a sign that even in disrepair, he's not giving up on style. His background story is one of resilience; once a pinnacle of gaming entertainment, he faced obsolescence when newer models came out. Refusing to be discarded, HammerByte reinvented himself as the go-to fixer for the WebtrES club, hammering out solutions to the most complex problems and always ready to throw down in an arcade showdown to protect his digital brethren.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/410",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0410.gif",
+  "name": "HammerByte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Once a valiant member of the Bit Battalion, PixelTrooper Retro now spends his days as a guardian of the WebtrES club. With his camouflage box helmet reminiscent of old-school gaming textures, and retro console buttons that he proudly wears like medals of honor, he stands as a nostalgic tribute to the golden era of 8-bit gaming. His classic arms and legs are hardwired for action, while his screen face, with its vintage green pixel glow, expresses a range of emotions from determination to pixelated mirth. Despite the ever-evolving digital landscape, PixelTrooper Retro is a steadfast symbol of where it all began, fiercely protective of the club's digital heritage and always ready to jump into action with the hum of chiptunes in his audio output.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/252",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0252.gif",
+  "name": "PixelTrooper Retro",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

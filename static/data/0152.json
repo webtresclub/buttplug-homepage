@@ -1,0 +1,28 @@
+{
+  "description": "An adventurous feline android from the far reaches of the galaxy, Commander Whiskertron is known for his daring escapades across the cosmos. With his sturdy orange chassis equipped with classic control buttons, he can navigate through any situation. His cat-like limbs give him the agility of a terrestrial feline and the advanced screen interface displays his mood through various expressions. The helmet addon is not just for show; it's a sophisticated piece of equipment that allows him to venture into the most inhospitable environments, from the scorching surfaces of sun-scorched planets to the icy void of space. Commander Whiskertron is a celebrated member of the WebtrES club, where he shares stories of his interstellar journeys and sometimes even brings back alien artifacts to show his fellow club members.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/152",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0152.gif",
+  "name": "Commander Whiskertron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

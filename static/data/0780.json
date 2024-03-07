@@ -1,0 +1,28 @@
+{
+  "description": "BlastByte is a retro rocketeer from the pixelated plains of the WebtrES club, known for his classic boxy charm and his knack for nostalgia. With buttons that hark back to the golden era of gaming consoles, BlastByte spends his time zipping through the digital skies with his rocket arms and legs, leaving a trail of 8-bit stardust behind him. His screen displays a distinctive red and black pattern, a testament to the hours he's logged on old-school adventures. Not one to neglect style, BlastByte sports a pair of sleek glasses, giving him the look of a cultured gamer who has seen the rise and fall of empires within the arcade cabinets of yore. His journey through the WebtrES club is a pixel-perfect blend of speed, retro reverence, and a dash of academic flair, as he aims to bring the joy of yesteryear's games to all corners of the metaverse.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/780",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0780.gif",
+  "name": "BlastByte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "Sergeant Purrvasion is a valiant member of the WebtrES club, known for his unique combination of traits that pay homage to the golden era of gaming and a feline finesse. His retro console box is a treasure trove of 8-bit adventures, which he fiercely protects with his soldier arms and legs, ever ready to jump into action. The cat buttons on his console body aren't just adorable; they're also incredibly responsive, allowing him to execute commands with cat-like reflexes. His screen is equipped with a state-of-the-art laser display, which he uses both to play through vintage laser disc games and to keep adversaries at bay. With a backstory rooted in arcade battles and strategic operations in digital realms, Sergeant Purrvasion stands as a symbol of nostalgia and the eternal fight against obsolescence in the ever-evolving world of technology.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/999",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0999.gif",
+  "name": "Sergeant Purrvasion",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

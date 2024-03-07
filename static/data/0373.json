@@ -1,0 +1,24 @@
+{
+  "description": "Born in the digital alleyways of WebtrES club, Catalyst Red is a sleek and mysterious character with a rossoCorsa box that shines like a sports car under neon lights. With classic buttons that hark back to the golden era of arcade games, Catalyst Red holds a certain nostalgic charm. Equipped with cat-like arms and legs, this agile member of the WebtrES can leap through cyberspace with ease. The redBlack screen flickers with an intensity that matches its passionate and fiery spirit. Catalyst Red is known for its lightning-quick reflexes and a sense of adventure that leads it to explore the furthest reaches of the digital universe.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/373",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0373.gif",
+  "name": "Catalyst Red",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Sergeant WhiskerScale is a valorous member of the WebtrES club, renowned for his tactical prowess and agile feline reflexes. With a robust box designed for the art of combat, he stands out with his classic button configuration that ensures quick decision-making on the virtual battlefield. His arms and legs are that of a nimble cat, granting him exceptional balance and stealth capabilities, perfect for surprise maneuvers. The snake screen he adorns is no ordinary display; it's an advanced sensory panel capable of detecting the slightest vibrations, a gift from his time spent in the shadowy Serpent Squad. Topping off his combat ensemble is a sturdy helmet, a testament to his soldier's spirit and a memento from countless digital skirmishes. Sergeant WhiskerScale's tale is one of courage and adaptability, inspiring all in the WebtrES club with his unwavering determination and feline finesse.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/126",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0126.gif",
+  "name": "Sergeant WhiskerScale",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

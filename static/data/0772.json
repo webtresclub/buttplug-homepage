@@ -1,0 +1,28 @@
+{
+  "description": "SerpentByte is a quirky character from the WebtrES club, known for its glossy black exterior that reflects the neon lights of the arcade where it spends its nights. The retro console buttons on its front panel hint at its love for classic games, with the all-time favorite being 'Snake'\u2014evident from its screen. SerpentByte's classic arms and legs are always ready for a joystick dance-off. The coolest part? Its helmet, which is not just for style; it's a relic from the old school gaming wars, symbolizing its status as a retro gaming champion. With a circuit board for a heart and pixels in its soul, SerpentByte is the go-to for any nostalgic gaming throwdown.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/772",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0772.gif",
+  "name": "SerpentByte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

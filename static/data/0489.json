@@ -1,0 +1,24 @@
+{
+  "description": "Once a top-tier arcade game at the heart of the bustling Electric Avenue, Sergeant Whiskerbyte now leads the pixelated patrols of the WebtrES club. With his box shaped like a cat's head, complete with sharp ears and feline finesse, he's always the first to sniff out any digital mischief. His buttons might appear soft and kittenish, but they're actually tactical input devices that can launch a variety of cyber operations. Sergeant Whiskerbyte's limbs are designed after a soldier's, robust and ready for action, and his classic screen face typically displays an intimidating scowl to scare off any virtual vermin. Despite his tough exterior, he has a soft spot for a warm motherboard and can often be found curled up in a cozy data stream when off duty.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/489",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0489.gif",
+  "name": "Sergeant Whiskerbyte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

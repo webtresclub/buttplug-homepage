@@ -1,0 +1,28 @@
+{
+  "description": "Born in the pixelated world of WebtrES, Sergeant WhiskerByte is known for his unbreakable spirit and tactical prowess. Once a proud defender of the digital frontier, his screen got cracked during a heated battle against a virus horde, leaving a permanent scar that he wears like a badge of honor. Despite his injury, WhiskerByte refused to retire. Instead, he donned his coolest shades, masking his battle wound with a touch of style. His classic buttons remain ever-responsive to his touch, executing commands with the precision of a seasoned soldier. The cat-like ears on his box hint at his agile and stealthy approach to problem-solving, while his soldier arms and legs are always ready for action. WhiskerByte now spends his days training the next generation of WebtrES warriors, sharing his expertise and inspiring resilience in the face of adversity.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/236",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0236.gif",
+  "name": "Sergeant WhiskerByte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

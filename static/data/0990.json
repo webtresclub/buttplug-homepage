@@ -1,0 +1,28 @@
+{
+  "description": "Catalyst Forge is a legend in the WebtrES Club for his unique combination of traits. With a shiny yellow box for a body, he was once an ordinary machine until a lightning strike fused him with the essence of a feline, resulting in his cat button interface. His foundry arms and legs were the result of a stint in a robot blacksmith's workshop, where he learned to craft and repair with precision and strength. The classic screen he wears is a nod to his old-school roots, and the glasses are not just for show; they augment his vision, allowing him to spot the tiniest of details. Catalyst is known for his sharp wit, resourcefulness, and the mysterious aura that seems to follow him wherever he goes.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/990",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0990.gif",
+  "name": "Catalyst Forge",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

@@ -1,23 +1,24 @@
 {
-  "description": "Retrotron is a robot oscilloscope with a nostalgic touch. Its design combines the features of an old-school soldier console with sturdy foundry arms and legs. The screen on its chest displays a cute cat animation, adding a touch of playfulness to its appearance.",
-  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/1008.gif",
+  "description": "Forged in the fiery foundries of WebtrES, Purrtron Commander is a unique blend of feline agility and military prowess. Once a strategic console in the retro gaming barracks, Purrtron evolved into a sentient being with the soul of a warrior cat. Its arms and legs, crafted from the strongest alloys of the foundry, wield tools of creation and destruction with equal finesse. The glowing yellow eyes on its screen express a sharp and focused mind, always calculating the next move. Purrtron Commander leads its pixelated compatriots in digital skirmishes, ensuring peace and order in the arcade realms. Off the battlefield, this valiant box is known to enjoy a good scratch behind the screen, purring in a low, robotic hum to the beat of an 8-bit soundtrack.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/1008",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/1008.gif",
+  "name": "Purrtron Commander",
   "attributes": [
     {
       "trait_type": "Box",
-      "value": "soldier"
+      "value": "Soldier"
     },
     {
       "trait_type": "Buttons",
-      "value": "retroConsole"
+      "value": "Retroconsole"
     },
     {
-      "trait_type": "ArmsAndLegs",
-      "value": "foundry"
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
     },
     {
       "trait_type": "Screen",
-      "value": "cat"
+      "value": "Cat"
     }
-  ],
-  "name": "Retrotron"
+  ]
 }

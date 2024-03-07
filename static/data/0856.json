@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the retro-digital universe of Arcadia 8, Commander PixelBlaze is a legendary figure within the WebtrES club. With a box shaped like an armored soldier's helmet and buttons reminiscent of a retro gaming console, he is a nostalgic nod to the golden era of 8-bit warriors. His arms and legs are outfitted with rocket boosters, a remnant of his time in the Arcadian Star Fleet, where he led missions into uncharted codebases. The red and black screen that forms his visage is known for displaying tactical data and his current mood through simple pixel expressions. Commander PixelBlaze's story tells of his adventures through cyberspace, battling viruses and rogue AI, all while keeping the spirit of old-school gaming alive in his heart.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/856",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0856.gif",
+  "name": "Commander PixelBlaze",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

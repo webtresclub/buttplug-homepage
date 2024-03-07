@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the dense digital forests of WebtrES, Serpentine Specs is a mysterious and intellectual character within the club. Known for his forest green exterior that blends seamlessly with the lush pixelated foliage, he is often seen contemplating the complexities of virtual ecosystems. With a screen displaying the hypnotic patterns of a snake, he entrances those who dare to gaze upon his display. His arms are always positioned with hands down, signifying a grounded and calm demeanor, while his cat-buttoned interface hints at his playful and curious side, often pressing them to produce purring sounds that echo through the electronic woods. Completing his distinctive appearance, Serpentine Specs sports a pair of enigmatic glasses, which are not just for show; they are sophisticated scanning devices that decode the secrets of the forest, making him an invaluable member of the WebtrES club's exploratory missions.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/103",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0103.gif",
+  "name": "Serpentine Specs",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

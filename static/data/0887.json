@@ -1,0 +1,28 @@
+{
+  "description": "Once a state-of-the-art console in the pixelated world of Arcadia, ForgeVision Gary was known for his crystal-clear display and lightning-fast reflexes. However, after a fateful encounter with a rogue magnet, his screen cracked, giving him a unique perspective on life. Not one to be deterred by a little static, Gary adorned his broken screen with glasses, symbolizing his newfound clarity in seeing the deeper meaning behind every game. His shiny yellow box, classic buttons, and foundry-grade limbs speak to his retro aesthetics and his ability to withstand the heat of any digital battle. Gary now spends his days wielding his trusty hammer and wrench, fixing broken dreams and teaching the young circuits of WebtrES Club the value of resilience.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/887",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0887.gif",
+  "name": "ForgeVision Gary",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

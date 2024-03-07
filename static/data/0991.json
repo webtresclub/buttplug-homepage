@@ -1,0 +1,24 @@
+{
+  "description": "PixelForge is a nostalgic hero from the WebtrES club, hailing from a time when pixels ruled the gaming world. His box is a classic, reminiscent of the early home computers that paved the way for the future of personal computing. The retro console buttons on his chest are a tribute to the early days of gaming, clicking and clacking as PixelForge plots his next move. His arms and legs, forged in the virtual foundries of the 8-bit dimension, are both sturdy and versatile, capable of crafting digital destinies with a hammer in one hand and the trident of innovation in the other. The laser screen that makes up his face flickers with the intensity of old arcade games, capable of emitting a spectrum of emotions from the warm glow of victory to the red flicker of challenge. PixelForge is not just a member of WebtrES club; he's a monument to the golden age of gaming, inspiring nostalgia and innovation in equal measure.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/991",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0991.gif",
+  "name": "PixelForge",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

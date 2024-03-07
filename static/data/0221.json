@@ -1,0 +1,24 @@
+{
+  "description": "A vivid figure in the WebtrES club, Catalyst Crackscreen's adventurous spirit is as evident as the crack on its screen. With a chassis hued in the race-car-famous rosso corsa red, Catalyst stands out in any digital crowd. Donning classic buttons that have been clicked a million times over in intense gaming sessions, this character has a rich history of virtual escapades. However, it was during a particularly heated match of 'Pixel Pounce' that fate took a turn, and its screen shattered in a display of spiderweb fractures. But Catalyst doesn't let this define its journey. Sporting arms and legs of a feline, this NFT has agility and grace, whether it's leaping across platforms or scratching its name into the leaderboard. Always a spectacle at WebtrES events, Catalyst Crackscreen reminds everyone that a setback is merely a setup for a comeback.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/221",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0221.gif",
+  "name": "Catalyst Crackscreen",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

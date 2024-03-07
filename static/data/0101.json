@@ -1,0 +1,24 @@
+{
+  "description": "In the neon glow of the WebtrES club, LaserByte Smith is a legend. Born from the assembly lines of a forgotten foundry, he sports sturdy arms and legs of the strongest steel. His shiny yellow exterior, reminiscent of the golden age of arcades, gleams with an almost blinding sheen, a testament to his retro-console heritage. But it's not just his body that's metallic; his heart is too, always ready to 'console' those in need with a warm, pixelated smile. Equipped with laser screen eyes, he can project his thoughts and dreams into reality, creating dazzling light shows that enrapture all who watch. LaserByte Smith wields a hammer and tongs with the precision of a skilled smithy, repairing broken dreams and forging new friendships with every swing and clasp. Despite his appearance, he's a gentle giant at his core, always pressing the right buttons to cheer up his fellow WebtrES club members.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/101",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0101.gif",
+  "name": "LaserByte Smith",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

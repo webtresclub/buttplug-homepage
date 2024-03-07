@@ -1,0 +1,28 @@
+{
+  "description": "Catalyst Shadebox is a suave and mysterious member of the WebtrES club, known for its shiny black exterior that reflects only the coolest of scenes. With buttons that resemble a cat's enigmatic stare, Catalyst Shadebox is often found pondering the deeper meaning of the digital realm. Its arms are always poised in a laid-back, hand-down position, projecting an aura of nonchalance. The screen features a quirky feline impression, a nod to Catalyst's curious and independent spirit. Donning a pair of stylish shades, this NFT is a trendsetter in the virtual world, effortlessly blending a love for technology with an unmistakable attitude. Whether it's lounging in the digital alleyways or leading groundbreaking online initiatives, Catalyst Shadebox is an iconic figure in the pixelated streets of the WebtrES universe.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/398",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0398.gif",
+  "name": "Catalyst Shadebox",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

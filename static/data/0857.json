@@ -1,0 +1,28 @@
+{
+  "description": "Born from the pixelated underbrush of the Digiterra Forests, Serpento Visionario is a rare entity in the WebtrES club. With a chassis painted in the most vibrant shades of forest green, he blends seamlessly with the digital foliage. His buttons are of the classic variety, emitting a soft nostalgic click with each press, reminiscent of arcade days gone by. Serpento's arms and legs are crafted from the finest foundry pixels, giving him a sturdy and reliable frame for crafting within the virtual realms. The screen - his window to the world - flickers with the hypnotic patterns of a digital serpent, mesmerizing all who gaze upon it. To top it all, his round glasses aren't just a fashion statement; they are the lenses through which he analyzes and deciphers the mysteries of the WebtrES universe. Equipped with a pixel hammer in one hand and a code wrench in the other, Serpento is the go-to fixer for all things in the digital wilds, and his tales of byte-sized adventures are encoded in the blockchain for eternity.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/857",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0857.gif",
+  "name": "Serpento Visionario",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

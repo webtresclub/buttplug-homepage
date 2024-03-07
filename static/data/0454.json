@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the cyber feline division of WebtrES club, Colonel Whiskertron is a decorated feline soldier known for his tactical prowess and stealth operations. His box-like appearance is a result of top-secret camouflage technology, allowing him to blend into urban environments. The red and black screen face is the latest in combat display interfaces, analyzing multiple data streams at once. The helmet, a mark of his rank, is equipped with advanced communication gear. Despite his tough exterior, Colonel Whiskertron has a soft spot for his fellow club members, often seen leading them through digital ventures with a paw of iron wrapped in velvet.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/454",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0454.gif",
+  "name": "Colonel Whiskertron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

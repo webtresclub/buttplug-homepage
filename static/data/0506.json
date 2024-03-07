@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the cybernetic feline frontiers, Sergeant Whiskerblast is a renowned figure in the WebtrES club. With a box chassis that's seen more battles than most, his camouflage patterns are not just for show. His arms and legs are of the classic make, sturdy and reliable, a testament to his time-tested combat experience. But it's the laser screen that truly sets him apart, capable of emitting high-intensity beams to both communicate and incapacitate any threats. Despite his battle-hardened exterior, Sergeant Whiskerblast is known to have a soft spot for his fellow robotic companions, always ready to leap into action with his cat-like reflexes and strategic prowess. Behind that laser gaze is a bot with a tale of valor, camaraderie, and the occasional yarn about his nine lives in the digital realm.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/506",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0506.gif",
+  "name": "Sergeant Whiskerblast",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

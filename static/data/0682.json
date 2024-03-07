@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the pixelated plains of the WebtrES club, Catalyst Crash is a legendary figure. With a chassis resembling a whimsical cat box, he was once a beloved sidekick to gamers across the digital universe. His classic button interface offered a tactile satisfaction unmatched by newer models. However, his adventurous spirit led him too close to the edge, resulting in his rocket arms and legs being overused during an epic space race, ultimately leaving his screen in a tragic state of disrepair. Despite the crackling pixels on his broken screen, which constantly flicker with the ghost of his last adventure, Catalyst Crash is still bursting with energy. He spends his days recounting tales of digital derring-do to anyone who'll listen, charming them with his old-school aesthetic and the undying spark of adventure that fuels his rocket-powered limbs.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/682",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0682.gif",
+  "name": "Catalyst Crash",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

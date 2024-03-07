@@ -1,0 +1,24 @@
+{
+  "description": "Once a celebrated hero of the Bit Battalion, Major Blast is known for his exemplary service in the Pixel Wars. With a soldier's box and classic buttons, he commanded his digital troops with unyielding courage. His arms and legs were retrofitted with rocket boosters, enabling him to soar above the battlefield, a sight that inspired his comrades and terrorized his foes. Alas, during the infamous Glitch Offensive, a stray code shard shattered his screen. Now carrying the scars of war, this veteran has become a symbol of resilience and perseverance to the WebtrES club. Despite his broken screen, Major Blast continues to guide and mentor the next generation of digital warriors, his spirit as indomitable as ever.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/67",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0067.gif",
+  "name": "Major Blast",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

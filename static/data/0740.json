@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the digital foundries of WebtrES club, Sparky The Craftbot is known for his shiny yellow exterior and the classic button panel that gamers from the 80s would find nostalgically delightful. His arms and legs are crafted from the sturdiest foundry metals, designed to withstand the heat of creation and the cold of digital voids. Sparky's screen, though classic, displays expressions with an 8-bit charm that conveys a wide range of pixelated emotions. Equipped with a hammer in one hand and a wrench in the other, Sparky is always ready to jump into action, be it fixing a glitch in the matrix or forging new paths in the ever-expanding universe of WebtrES. Despite his heavy-duty appearance, Sparky has a heart of gold code, always ready to lend a helping hand or a listening ear to his fellow club members.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/740",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0740.gif",
+  "name": "Sparky The Craftbot",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

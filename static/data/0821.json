@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the digital barracks of the WebtrES club, Sergeant Whiskerbyte stands out with his shiny yellow casing that glimmers like a beacon of valor. His buttons feature the playful but sharp reflexes of a cat, always on alert and ready to pounce on any cyber threat. His arms and legs are forged from the finest virtual alloy, modeled after the most disciplined soldiers, showcasing his unyielding commitment to the protection of his digital realm. The classic screen he dons is a nod to his old-school values\u2014honor, loyalty, and a pixel-perfect sense of duty. To complement his authoritative presence, he sports a pair of tactical glasses, enhancing his ability to see through the most cunning of codes. Sergeant Whiskerbyte is not just a guardian; he's a symbol of steadfastness in the ever-evolving landscape of the WebtrES club.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/821",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0821.gif",
+  "name": "Sergeant Whiskerbyte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

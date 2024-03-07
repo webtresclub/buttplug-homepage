@@ -1,0 +1,28 @@
+{
+  "description": "PixelVader RetroMax is a legendary figure in the WebtrES club, known for his shiny black exterior that can reflect the neon lights of the vintage arcades he frequents. With buttons that echo the classic gaming consoles of the 80s, RetroMax has mastered every game from that golden era, his screen always displaying the iconic scores of a retro champion. His arms are poised in a relaxed hand-down position, signifying his cool and collected demeanor, even when facing the most challenging levels. The shades he wears are not just for style; they are a remnant of a secret code he once decrypted in an ancient arcade game that granted him access to the digital realm's hidden levels. RetroMax spends his days (and nights) reveling in the nostalgia of pixelated adventures, offering wisdom and cheat codes to those who seek the thrills of yesteryear's gaming glory.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/603",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0603.gif",
+  "name": "PixelVader RetroMax",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

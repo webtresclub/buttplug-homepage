@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the pixelated forges of the WebtrES club, ForgeVista the Visionary is known for his robust orange chassis and classic button configuration. His arms and legs are crafted from the strongest foundry metals, allowing him to craft and repair with unmatchable precision. The snake-like patterns on his screen are not just for show; they represent his intricate thought processes and ability to solve the most tangled of problems. Always seen with his signature round glasses, ForgeVista isn't just a creator\u2014he's a thinker, often found musing over the club's latest digital endeavors or contemplating the next big tech revolution.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/984",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0984.gif",
+  "name": "ForgeVista the Visionary",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

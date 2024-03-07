@@ -1,0 +1,24 @@
+{
+  "description": "Once a pixel-perfect member of the WebtrES club, Catalyst Forge is known for its cat-like box design and sturdy foundry arms and legs. Its once-flawless screen was the envy of all until an unfortunate encounter with a rogue digital spider, which resulted in its now-broken display. Undeterred, Catalyst Forge wields a mighty hammer with its foundry arms, determined to fix not only its screen but also to mend the broken code of the digital realm. With its classic buttons, it can program or play its way out of any situation. Despite its glitches, Catalyst Forge remains a beloved and resilient figure in the club, always ready to support its fellow members in restoring harmony to the WebtrES universe.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/355",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0355.gif",
+  "name": "Catalyst Forge",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

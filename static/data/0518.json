@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the futuristic metropolis of Pixelon, Serpentron Glide is known for its sleek, shiny black exterior and the classic button configuration that nostalgic tech enthusiasts adore. With rocket-powered arms and legs, it zooms through the cityscape, leaving a comet-like trail of pixels in its wake. But what truly sets Serpentron Glide apart is its unique screen, which displays an ever-changing and hypnotic snake pattern, captivating all who gaze upon it. This rare trait has made Serpentron a legend among the WebtrES club, where it serves as both a beacon of innovation and a reminder of the playful spirit that drives the digital frontier.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/518",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0518.gif",
+  "name": "Serpentron Glide",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

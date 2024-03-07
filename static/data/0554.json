@@ -1,0 +1,28 @@
+{
+  "description": "Born in the pixelated valleys of WebtrES, the Slytherin Forgemaster is a legendary craftsbot known for its ability to forge virtual masterpieces with its foundry arms. Donning iconic cat-button attire, it can charm any feline friend within the digital realm. The screen of this enigmatic character flickers with the cunning of a snake, while the shades it wears are not just for style but to protect its vision from the bright sparks of creation. A true artisan in the virtual world, its creations are sought after by collectors and adventurers alike for their unique aesthetics and coded durability.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/554",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0554.gif",
+  "name": "Slytherin Forgemaster",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

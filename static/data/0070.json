@@ -1,0 +1,24 @@
+{
+  "description": "Born in the pixelated alleyways of the digital metropolis Neon City, Catalyst Jetpaws is a legend among the WebtrES club. With a box design inspired by the sleek felines of cyberspace, this NFT is known for its classic button interface that harks back to the early days of arcade gaming. However, don't let the nostalgic design fool you; Catalyst Jetpaws is outfitted with state-of-the-art rocket arms and legs, allowing for incredible speed and agility. The laser screen eyes are not only mesmerizing but can cut through virtual obstacles with surgical precision. Catalyst Jetpaws spends its time zooming through the data streams, leaving a trail of pixelated stardust and awe in its wake.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/70",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0070.gif",
+  "name": "Catalyst Jetpaws",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

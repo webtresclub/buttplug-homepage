@@ -1,0 +1,24 @@
+{
+  "description": "Born from an amalgamation of vintage gaming consoles and a mysterious digital feline spirit, PixelPaws is a retro gaming enthusiast's fantasy come to life. With a body that echoes the classic design of early home gaming systems, this enigmatic character roams the electric dreams of the WebtrES club, bringing nostalgic fun wherever it appears. Its screen glows with a hypnotic red and black pattern, reminiscent of the fierce competitive spirit found in the arcade games of yesteryear. The buttons and limbs, inspired by the agility and grace of a cat, give PixelPaws an uncanny ability to land on its feet, no matter the challenge. Its main quest is to preserve the golden age of gaming within the digital realms, with a purr that resonates like the chiptunes of old.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/158",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0158.gif",
+  "name": "PixelPaws",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

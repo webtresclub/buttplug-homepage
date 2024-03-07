@@ -1,0 +1,24 @@
+{
+  "description": "Born in the digital orchards of the WebtrES club, Serpentron Rocketpaws is a unique blend of high-speed adventure and feline mystique. With an orange box chassis that shimmers like the sunlit groves, its sleek design houses the heart of a rocket. Each paw is equipped with thrusters that can blast it through the cyberspace at blinding speeds. The buttons on its interface purr with a cat's playful curiosity, enticing all who encounter it to join in on its digital escapades. But its screen is where the true enigma lies, with a serpentine visage that slithers and weaves cryptic tales, hypnotizing all who gaze upon it. Serpentron Rocketpaws lives for the thrill of exploration, leaving a trail of pixelated stardust in its wake as it rockets through the endless expanses of the virtual frontier.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/422",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0422.gif",
+  "name": "Serpentron Rocketpaws",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

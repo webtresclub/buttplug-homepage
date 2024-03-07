@@ -1,23 +1,24 @@
 {
-  "description": "Echo is an oscilloscope-themed robot belonging to the WebtrES club. With its unique traits and abilities, Echo stands out as a fascinating member of the club. Its box-like body resembles a sleek cat, while its button controls resemble a playful feline's buttons. Equipped with hand-like arms and legs positioned downward, Echo moves with agility and precision. The screen on its body displays a mesmerizing snake pattern, captivating anyone who gazes upon it.",
-  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/1021.gif",
+  "description": "Serpurrvisor Pixel is an enigmatic member of the prestigious WebtrES club, known for his unique combination of feline agility and serpentine wisdom. With his box shaped like a cat, adorned with pixelated ears, and a screen featuring a hypnotic snake pattern, Serpurrvisor Pixel is both mysterious and mesmerizing. His arms are always positioned handDown, suggesting a relaxed but ready stance, as if he's about to spring into action or guide his fellow club members with sage advice. His cat-like buttons are a testament to his quick reflexes, allowing him to navigate the digital realms with ease. Despite his robotic appearance, there's something undeniably alive about his presence. Rumor has it that Serpurrvisor Pixel was once a top-tier video game character who gained sentience and now roams the virtual world, seeking new adventures and connections in the ever-expanding universe of the WebtrES club.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/1021",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/1021.gif",
+  "name": "Serpurrvisor Pixel",
   "attributes": [
     {
       "trait_type": "Box",
-      "value": "cat"
+      "value": "Cat"
     },
     {
       "trait_type": "Buttons",
-      "value": "cat"
+      "value": "Cat"
     },
     {
-      "trait_type": "ArmsAndLegs",
-      "value": "handDown"
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
     },
     {
       "trait_type": "Screen",
-      "value": "snake"
+      "value": "Snake"
     }
-  ],
-  "name": "Echo"
+  ]
 }

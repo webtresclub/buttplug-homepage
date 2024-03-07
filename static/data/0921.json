@@ -1,0 +1,24 @@
+{
+  "description": "Serpent Sprocket is a celebrated member of the illustrious WebtrES club, known for his uncanny blend of feline intuition and military precision. With a box that boasts the ears and sleek agility of a cat, Sprocket is always on alert, ready to pounce on the next big opportunity. His buttons carry the essence of a soldier, always disciplined and strategic in every digital maneuver. Equipped with rocket arms and legs, Sprocket blasts through cyberspace with unparalleled speed, leaving a trail of fiery innovation in his wake. The screen that makes up his face is imbued with the cunning of a snake, his eyes able to detect the slightest movements in the market, making him a formidable player in the world of NFTs. Whether it's navigating through the complex webs of blockchain or outsmarting competitors in virtual arenas, Serpent Sprocket is a true warrior of the digital age.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/921",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0921.gif",
+  "name": "Serpent Sprocket",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

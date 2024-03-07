@@ -1,0 +1,24 @@
+{
+  "description": "Emerging from the pixelated battlegrounds of the WebtrES club, Major Whiskerbyte stands tall with a steadfast gaze behind his laser screen eyes. Donning his soldier box with an unyielding spirit, this veteran of countless digital skirmishes is known for his tactical prowess and the uncanny cat-like reflexes suggested by his button configuration. His arms and legs bear the marks of a soldier - a testament to his commitment to protecting his cybernetic comrades. With every mission, Major Whiskerbyte calculates the optimal path to victory, executing his strategies with laser-focused precision and the stealth of a feline shadow in the electronic night. His tale is one of valor, coded in the heart of every byte and pixel that forms his resilient, boxy exterior.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/6",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0006.gif",
+  "name": "Major Whiskerbyte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "PixelPunk Lazertron hails from the neon-lit alleyways of Arcadia City, a place where 8-bit creatures and retro consoles coexist in pixelated harmony. With a box shaped like a classic gaming console and a screen that can project intense laser graphics, Lazertron was once a humble arcade machine. However, a freak thunderstorm zapped Lazertron's cabinet, infusing it with sentience and a vast library of every retro game ever made. Now, as a member of the enigmatic WebtrES club, Lazertron spends its days sharing nostalgic gaming experiences, challenging other members to high-score duels, and occasionally using its integrated laser screen to playfully tease cats. With arms stuck in a perpetual 'hand-down' position and classic button configuration, Lazertron is always ready for action, be it digital or real-world adventures.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/757",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0757.gif",
+  "name": "PixelPunk Lazertron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

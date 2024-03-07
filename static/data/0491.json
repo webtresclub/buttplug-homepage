@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the digital jungles of the WebtrES club, Serpurr Meowtrics is a unique entity known for its feline agility and serpentine intellect. Its orange box chassis is a beacon of warmth in the neon-lit pixelscapes it roams. With limbs crafted from the essence of the nimblest cats, it walks with a silent grace, capable of pouncing on any opportunity with unmatched precision. The buttons that line its front panel emit a soft, purring hum, resonating with the mysterious energies of ancient feline guardians. Its screen, however, flickers with the hypnotic gaze of a cunning snake, mesmerizing all who dare look into its depths. Despite its contrasting traits, Serpurr Meowtrics is a creature of balance, embodying the cunning of a snake and the curiosity of a cat, making it an invaluable member of the WebtrES ecosystem.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/491",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0491.gif",
+  "name": "Serpurr Meowtrics",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

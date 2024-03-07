@@ -1,0 +1,24 @@
+{
+  "description": "Commander BitBlaze is a legendary figure in the WebtrES Club, known for his strategic prowess in virtual battles and his unyielding dedication to the retro gaming realms. With a box forged from the sturdiest pixels of the old school era, and hands forever poised to unleash digital combat, he serves as a guardian of the gaming galaxy. His screen, which emits a laser-like intensity, is said to be powered by the pure essence of arcade high scores. BitBlaze stands as a steadfast soldier, ever ready to defend the honor of the club with swift joystick maneuvers and the heart of a champion. His presence brings nostalgia and a fighting spirit to all members of the WebtrES Club.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/150",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0150.gif",
+  "name": "Commander BitBlaze",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

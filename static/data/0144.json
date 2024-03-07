@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the high-speed circuits of the WebtrES club, Catalyst RocketPaws is a thrill-seeking bot with a need for speed. With a box painted in the boldest rossoCorsa, this robot's sleek design is as fast as it looks. The cat-themed buttons on its console show off its playful side while providing lightning-quick reflexes. Equipped with state-of-the-art rocket arms and legs, Catalyst can zoom past any competition on the ground or soar through the skies at breakneck speeds. Its screen flashes with red and black patterns, a visual representation of its fiery spirit and constant readiness to leap into action. Whether competing in cyber races or exploring the furthest reaches of the digital realm, Catalyst RocketPaws is always at the forefront of adventure.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/144",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0144.gif",
+  "name": "Catalyst RocketPaws",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

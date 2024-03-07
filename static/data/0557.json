@@ -1,0 +1,28 @@
+{
+  "description": "Sergeant Zoom is a battle-hardened member of the WebtrES club. With a classic box design fortified to withstand cyber skirmishes, he's equipped with soldier-style buttons that can activate an array of strategic commands. His arms and legs are powered by rocket boosters, propelling him at breakneck speeds across the digital landscape or skyward to outmaneuver opponents. The shades he dons are not just for style; they're high-tech scanners that analyze data streams in real-time, giving him the tactical edge in any situation. Sergeant Zoom is a loyal guardian of the WebtrES community, always ready to leap into action and defend against any virtual threat with militaristic precision and a cool demeanor.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/557",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0557.gif",
+  "name": "Sergeant Zoom",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

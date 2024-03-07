@@ -1,0 +1,28 @@
+{
+  "description": "From the far reaches of the Arcade Galaxy, PixelPilot Retro is a legend among the WebtrES Club. Donning his iconic pixelated helmet from his days as an elite arcade game champion, this character brings a nostalgic flair wherever he goes. His screen displays the timeless classic 'Snake', a testament to his love for retro gaming. With arms comfortably resting at his sides, Retro's handDown posture indicates his readiness to jump into action at any game challenge. The classic buttons on his body resemble the control panels of the golden age of gaming, each press releasing a symphony of 8-bit sounds. Retro's story is one of triumph over digital adversity, mastering every game from the ground up and inspiring a new generation of virtual adventurers with his tales of pixelated heroism.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/859",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0859.gif",
+  "name": "PixelPilot Retro",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

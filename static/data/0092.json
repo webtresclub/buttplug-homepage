@@ -1,0 +1,28 @@
+{
+  "description": "Once the centerpiece of a high-octane arcade in downtown Neon City, Catalyst Crimson, also known as 'Crim', had seen better days. His screen suffered a crack during the great arcade brawl of '98, but that didn't break his spirit. Adorned with cat button decals as a tribute to his favorite game, 'Feline Frenzy', and sporting a pair of cool shades, Crim became a legend for his unyielding gaming prowess and his classic blocky limbs that never missed a beat. Now, as a proud member of the WebtrES club, Crim spends his time sharing tales of pixelated adventures and challenging anyone who dares to beat his high scores, all while hiding behind his broken screen that he wears like a badge of honor.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/92",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0092.gif",
+  "name": "Catalyst Crimson",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

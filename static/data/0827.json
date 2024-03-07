@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the pixelated depths of the WebtrES club, Catalyst the Forge-Master is an enigmatic figure with a shiny black exterior and a retro console interface that harkens back to the golden age of gaming. Forged in the virtual foundries where digital smiths experiment with code and creativity, Catalyst's arms and legs are crafted from the sturdiest bytes and bits, giving him a formidable presence in the world of NFTs. The cat screen face, ever changing, displays a wide range of expressions that mirror the soul of a wandering gamer, while the stylish glasses hint at a sharp, analytical mind that computes probabilities and strategies with ease. Whether wielding a pixel hammer or a wand of digital alchemy, Catalyst the Forge-Master is a master of creation and crafting, ready to conjure up the next legendary item in the expansive metaverse.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/827",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0827.gif",
+  "name": "Catalyst the Forge-Master",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

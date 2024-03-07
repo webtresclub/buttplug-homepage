@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the feline quadrant of the pixelated galaxy, Catalyst Rocketpaws is a renowned explorer and member of the prestigious WebtrES club. With an orange box chassis and classic button interface, Catalyst is a delightful blend of retro charm and futuristic innovation. Equipped with rocket arms and legs, this adventurous NFT can soar through cyberspace, leaving a trail of stardust in its wake. The cat screen face of Catalyst is not only a testament to its sharp wit and nine lives worth of curiosity, but it also serves as a beacon of comfort to all the digital entities it encounters on its travels. Whether navigating through asteroid fields of forgotten data or curling up on the lap of a warm server, Catalyst Rocketpaws embodies the spirit of adventure and the heartfelt connection of a trusty companion.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/573",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0573.gif",
+  "name": "Catalyst Rocketpaws",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

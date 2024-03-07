@@ -1,0 +1,24 @@
+{
+  "description": "Born in the buzzing alleys of Silicon Purrk, CattiTron 3000 is the sleekest member of the WebtrES club. With its lustrous shiny black exterior and the classic screen that glows with experience, this cat-inspired bot is known for its agile maneuvers and sharp wit. The cat buttons and limbs it boasts aren't just for show; they're a tribute to its creator, a legendary hacker known for her affinity for felines. CattiTron 3000 spends its days meandering through cyberspace, outsmarting security protocols with ease, and curling up to recharge on the warm laps of servers.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/192",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0192.gif",
+  "name": "CattiTron 3000",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

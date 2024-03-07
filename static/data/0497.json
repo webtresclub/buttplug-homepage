@@ -1,0 +1,24 @@
+{
+  "description": "Born in the heat of a molten metal factory, PixelPuncher is a rare entity from the WebtrES club with the tough exterior of foundry-forged arms and legs. His box is painted in the iconic rossoCorsa, a reminder of his love for speed and action, which pairs perfectly with his retro console buttons that always keep him in a gaming state of mind. His screen wears the classic, nostalgic expression of a vintage arcade, resonating with the bleeps and bloops of a bygone era. Despite his tough appearance, PixelPuncher is known for his friendly competitive spirit, often challenging fellow club members to old-school gaming showdowns. His favorite pastime includes hammering high scores and sparking up conversations about the golden age of gaming.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/497",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0497.gif",
+  "name": "PixelPuncher",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

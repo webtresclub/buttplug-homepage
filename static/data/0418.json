@@ -1,0 +1,28 @@
+{
+  "description": "Felix Forgeheart is a masterful creation from the foundries of WebtrES club, known for his shiny black exterior and the mysterious red and black screen that seems to peer into one's soul. With arms and legs forged from the finest pixelated steel, Felix is a tireless worker, capable of crafting intricate digital masterpieces with precision. His iconic helmet, a relic from a legendary virtual blacksmith, shimmers with a digital sheen that reflects his creative fire. The cat buttons that adorn his body are not just for show; they are programmable keys that control various functions, making him a favorite amongst feline-loving programmers. Felix's story is one of creation, coding, and companionship, a true testament to the fusion of art and technology.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/418",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0418.gif",
+  "name": "Felix Forgeheart",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

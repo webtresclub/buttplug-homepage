@@ -1,0 +1,28 @@
+{
+  "description": "Once a high-ranking algorithmic tactician in the Cybernetic Feline Brigade, Sergeant WhiskerFrame's screen was cracked during the legendary Pixel Skirmish, a battle that was fought deep within the circuit boards of WebtrES. Adorned with his signature shiny black casing, he's both resilient and sleek, reflecting a dim glow from his combat scars. His buttons, shaped like cat paws, serve as a tribute to his feline comrades-in-arms. Despite the damage, his optical sensors, shielded behind sturdy glasses, can spot a digital mouse from a terabyte away. WhiskerFrame's arms and legs, built for digital warfare, now serve a peaceful purpose, as he shares his stories of byte-sized bravery with the next generation of WebtrES club members, reminding them of the importance of code and camaraderie in the face of adversity.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/509",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0509.gif",
+  "name": "Sergeant WhiskerFrame",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

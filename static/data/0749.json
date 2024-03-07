@@ -1,0 +1,28 @@
+{
+  "description": "Serpentron Blastmane is the cool-headed, fast-moving member of the WebtrES club known for zipping through cyberspace with his rocket arms and legs. His shiny yellow exterior reflects his vibrant and energetic personality. Once a retro console from a bygone era, he gained sentience after a freak electrical storm in the digital realm. Now, he sports stylish shades, which are not just for show \u2013 they help him navigate the brightest corners of the internet with ease. His screen always displays a cunning snake, a symbol of his strategy and adaptability. Whether he's outsmarting firewalls or racing through data streams, Serpentron is always a step ahead of the game.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/749",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0749.gif",
+  "name": "Serpentron Blastmane",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

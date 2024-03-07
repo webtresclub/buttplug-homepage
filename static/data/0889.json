@@ -1,0 +1,24 @@
+{
+  "description": "Once a decorated officer in the Bit Battalion, Commander Pixel now serves as a strategic advisor in the WebtrES club. Known for his stoic red and black screen which glows like the embers of a digital fire, he remains a symbol of strength and discipline. His classic button configuration and traditional arms and legs are a testament to his old-school approach to problem-solving, often leading to innovative yet practical solutions. Despite his soldier-like demeanor, he's respected for his unwavering loyalty and his ability to lead WebtrES club members through the most complex of cyber challenges.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/889",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0889.gif",
+  "name": "Commander Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

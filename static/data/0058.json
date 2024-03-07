@@ -1,0 +1,24 @@
+{
+  "description": "Catalyst Crackle is a quirky member of the WebtrES club, known for his deep forest green casing that blends in with the digital woodlands of the cyber realm. His unique cat-themed buttons are a hit among the feline-loving netizens, always ready to pounce with a meow-worthy command. Despite his classic arms and legs that give off a retro vibe, he's quite the adventurer. The spiderweb crack on his screen is a badge of honor from his daring escapade to recover precious data from the treacherous depths of the Dark Web. Crackle may be a little rough around the edges, but his courageous spirit and his knack for navigating the web's wild frontiers make him a beloved character in the virtual landscape.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/58",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0058.gif",
+  "name": "Catalyst Crackle",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

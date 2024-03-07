@@ -1,0 +1,28 @@
+{
+  "description": "SpectroByte is a rare digital entity from the eclectic WebtrES club, known for its shiny yellow exterior and hip, round glasses that give it a scholarly vibe. This pixelated character was once a humble background process in an old-school arcade game before gaining sentience through a freak surge of blockchain energy. Now, SpectroByte spends its cycles curating digital art collections and diving into the depths of cyberspace, searching for the ultimate algorithm that can blend retro aesthetics with modern tech. With its classic button interface and friendly demeanor, SpectroByte is always ready to lend a helping hand to fellow club members, sharing its extensive knowledge of vintage games and crypto trends.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/704",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0704.gif",
+  "name": "SpectroByte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

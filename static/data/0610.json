@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the cyber feline battalion of the WebtrES club, Major WhiskerBeam is known for his unyielding discipline and his high-precision laser screen that he uses to outmaneuver his opponents. With a durable soldier box for a body and swift cat-like limbs, he's an agile warrior in any digital skirmish. His uniform buttons, reminiscent of a decorated officer's attire, command respect and authority. Despite his formidable appearance, he has a soft spot for his fellow pixel-powered felines and often spends his downtime strategizing the next playful ambush. Major WhiskerBeam is a legend in the virtual arenas, with a purr as commanding as his battle tactics.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/610",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0610.gif",
+  "name": "Major WhiskerBeam",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

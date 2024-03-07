@@ -1,0 +1,28 @@
+{
+  "description": "Originating from the cyber alleyways of Neon Purrth, Catalyst Cranium is a quirky feline bot with a passion for adventure and a knack for getting into trouble. Clad in its shiny yellow casing and sporting a robust, albeit slightly dented, space helmet, this bot was once a star navigator, charting unknown galaxies. However, after a slight miscalculation during a hyper-jump, Catalyst Cranium found itself crashing onto a deserted digital planet. The impact left its screen broken, a constant reminder of its fall from grace. Undeterred, it roams the virtual landscape of WebtrES club, using its cat-like agility and classic button controls to outmaneuver glitches and byte-beasts. Whether it's sharing tales of interstellar escapades or hunting for components to repair its fragmented screen, Catalyst Cranium is always the center of attention at any pixelated soir\u00e9e.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/814",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0814.gif",
+  "name": "Catalyst Cranium",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

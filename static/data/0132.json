@@ -1,0 +1,24 @@
+{
+  "description": "Catalyst 9-Lives is a rare entity from the infamous WebtrES club, known for its shiny yellow box that gleams like a beacon of curiosity in the digital realm. Adorned with cat-themed buttons that are as whimsical as they are mysterious, Catalyst is a blend of retro and feline charm. The classic arms and legs give Catalyst a timeless appeal, while the classic screen face flashes expressions in old-school pixel art. Never running out of energy or enthusiasm, Catalyst 9-Lives is said to have evolved from the code of an ancient arcade game, gaining sentience and a love for digital adventure. With each reboot, Catalyst claims to gain another 'life,' embodying the spirit of resilience and joy in the virtual world of WebtrES.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/132",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0132.gif",
+  "name": "Catalyst 9-Lives",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

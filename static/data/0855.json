@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the molten core of an abandoned digital foundry, Pixel Forge is a character with a passion for creation and a heart of molten code. With arms sculpted from the same materials that once flowed through the foundry's veins, he wields a pixelated hammer with precision, shaping the virtual landscapes of the WebtrES club. His unique retroConsole box, equipped with classic buttons, allows him to interface with ancient arcade systems, summoning pixelated snakes that slither across his screen-face to the delight and nostalgia of onlookers. Pixel Forge is not just a craftsman; he is a living homage to the era when gaming was in its infancy and every byte was a new frontier.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/855",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0855.gif",
+  "name": "Pixel Forge",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

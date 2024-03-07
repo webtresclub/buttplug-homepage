@@ -1,0 +1,24 @@
+{
+  "description": "Once the most decorated officer in the pixelated battlefields of Retrocon, SerpentCommander 8-Bit now enjoys a quieter life as a strategist for the WebtrES club. With a soldier's box for a body and a screen showcasing the iconic snake game that both taught and tested his tactical skills, he reminisces about the days of digital warfare. His retro console buttons are a nod to his origins in an era where joysticks ruled and graphics were a charming mosaic of squares. With his arms forever poised in a calm, hand-down position, he's approachable to club members seeking wisdom or just a good old-fashioned gaming challenge.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/767",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0767.gif",
+  "name": "SerpentCommander 8-Bit",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

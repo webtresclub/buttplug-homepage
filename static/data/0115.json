@@ -1,0 +1,24 @@
+{
+  "description": "Built from the shadows of the digital realm, Sergeant WhiskerByte stands tall with his shiny black exterior reflecting the moonlight during covert operations. His classic buttons, always polished and pressed, provide the tactile feedback needed to execute commands with military precision. The embodiment of strength and agility, his soldier arms and legs were forged in the fires of virtual battlefields. Yet, behind the tough exterior lies the heart of a feline \u2013 his screen displays the sharp eyes of a cat, a symbol of his keen awareness and strategic prowess. Sergeant WhiskerByte is a respected member of the elite WebtrES club, a group of digital warriors and defenders of the net. His tales of cyber skirmishes and the silent dances of code warfare are legendary among his peers.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/115",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0115.gif",
+  "name": "Sergeant WhiskerByte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the nostalgic corners of the WebtrES club, Pixel Whiskertron is a retro-chic bot with a passion for vintage video games and a soft spot for feline friends. Its classic box-shaped body houses a wealth of gaming history, while the retro console buttons provide a tactile throwback to the golden era of gaming. With arms and legs that evoke the unmistakable charm of early robotics, Whiskertron moves with a quirky, yet endearing gait. The cat screen, displaying an 8-bit inspired kitty face, reflects its playful and curious personality, while the glasses hint at its intelligence and ability to see through the most complex puzzles and coding conundrums. Whiskertron is known among the WebtrES club members for hosting the most legendary game nights, where it challenges fellow bots to games that test their reflexes and wit. Despite its old-school aesthetics, Pixel Whiskertron remains a beloved figure in the club, bridging the gap between the digital and analog worlds with every beep, boop, and purr.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/204",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0204.gif",
+  "name": "Pixel Whiskertron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "Serpento Retroblast hails from a digital realm where arcade games reign supreme. With his vibrant orange casing and classic game console buttons, he's a walking tribute to the golden age of gaming. Serpento's screen always displays the iconic 'snake' game, an homage to the simple yet addictive games that captivated the hearts of many. His classic arms and legs remind everyone around him that sometimes, the original design is timeless. As a member of the WebtrES club, Serpento is known for his encyclopedic knowledge of retro games and his ability to fix even the most obscure consoles. He spends his days sharing his love for pixelated adventures and challenging anyone who thinks they can beat his high score. Don't be fooled by his nostalgic exterior; Serpento is a fierce competitor and a beloved figure in the retro gaming community.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/341",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0341.gif",
+  "name": "Serpento Retroblast",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

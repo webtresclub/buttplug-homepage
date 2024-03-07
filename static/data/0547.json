@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the golden era of arcades, Retro Red is a member of the exclusive WebtrES club known for his nostalgic flair and pixel-perfect charm. With a screen that flashes the iconic red and black colors of classic gaming, he can hypnotize any gamer with a glimpse of the past. His classic buttons take you on a tactile journey through the greatest hits of gaming history, and his arms are always ready to help a fellow gaming machine in need. Although you'll often find one of his hands in a relaxed position, don't be fooled\u2014Retro Red is always game for action, especially when it comes to high scores and epic joystick battles.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/547",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0547.gif",
+  "name": "Retro Red",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

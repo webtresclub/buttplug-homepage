@@ -1,0 +1,24 @@
+{
+  "description": "Born in the vibrant alleyways of Silicon City, PixelPurr Console is an enigmatic member of the WebtrES club known for her old-school charm and feline agility. Her orange casing gleams with the nostalgia of a bygone era, while her retro console buttons bring back memories of late-night gaming marathons. Despite her pixelated appearance, she possesses a cat-like dexterity that surprises many. By day, she's a beloved arcade fixture, her screen alive with the glow of classic games. By night, she roams the digital landscape, a guardian of forgotten 8-bit worlds. Her mission: to preserve the legacy of the retro games that shaped her circuitry while inspiring a new generation of gamers with her purr-fect blend of history and high scores.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/657",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0657.gif",
+  "name": "PixelPurr Console",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

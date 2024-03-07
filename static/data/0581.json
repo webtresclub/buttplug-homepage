@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the digital barracks of the WebtrES club, Sergeant Hisspaws is a unique blend of discipline and agility. With a classic boxy exterior that harks back to the dawn of computing, this member stands out with a soldier's determination encoded into his buttons. Don't let his sturdy appearance fool you; Sergeant Hisspaws is as nimble as they come, thanks to his feline limbs, allowing him to pounce on any challenge with ease. His screen displays the hypnotic patterns of a snake, a nod to his strategic and sometimes enigmatic approach. Sergeant Hisspaws is not only a guardian of the digital realm but also a creature of intrigue, always ready to spring into action or slink away into the cyber-shadows.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/581",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0581.gif",
+  "name": "Sergeant Hisspaws",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

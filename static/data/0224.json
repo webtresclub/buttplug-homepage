@@ -1,0 +1,24 @@
+{
+  "description": "Emerging from the neon-lit alleyways of the digital metropolis, Pixel Purr-programmer is an enigmatic figure in the WebtrES club. Known for her sleek cat-shaped box and the distinctive red and black screen that flickers with complex code, she's a master hacker with a penchant for cyber adventures. Her hand-down arms are always ready to code or cuddle, depending on her mood. Residents of the WebtrES club often see her leaping across rooftops, her tail whipping behind her as she seeks out the next digital challenge. Despite her fierce appearance, she has a soft spot for virtual mice and a purring sound that can be heard when she's deep into debugging sessions.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/224",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0224.gif",
+  "name": "Pixel Purr-programmer",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

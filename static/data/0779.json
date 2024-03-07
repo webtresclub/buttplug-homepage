@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the neon-lit alleyways of Cybertown, Cataclysmic Velocity is a rocket-powered feline bot with a flair for high-speed adventures and a penchant for retro video games. With its cat-like reflexes and a screen displaying the iconic pixellated feline grin, this member of the WebtrES club is known for leaving a trail of fiery pixels in its wake. Whether zipping through the digital skies or lounging on rooftops with its classic button controls at rest, Cataclysmic Velocity always lands on its feet, ready for the next cybernetic escapade.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/779",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0779.gif",
+  "name": "Cataclysmic Velocity",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "LaserByte emerged from the neon-lit circuits of the WebtrES club, a shiny yellow beacon of digital charisma. With a classic button configuration and a sturdy build, LaserByte is known for its precision and reliability. Its arms and legs are of the classic design, giving it a timeless appeal, and its screen is what truly sets it apart - capable of emitting high-intensity laser displays that can cut through the darkness and dazzle the crowd. As a regular in the pixelated dance halls of the virtual world, LaserByte's moves are as sharp as its laser output, and it never fails to light up the energy in any room it steps into.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/753",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0753.gif",
+  "name": "LaserByte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the digital realm of WebtrES, Major Whiskerbyte is known for his striking rossoCorsa box chassis adorned with cat-themed buttons that hint at his feline agility despite his robust soldier-like arms and legs. His screen displays a fierce red and black pattern, symbolizing his readiness for virtual combat. The helmet atop his box is not just for show; it's a relic from the ancient Pixel Wars, where he served with distinction. Off the battlefield, he's a guardian of the club's lore and a mentor to rookie members, always prepared to lend a metallic hand or share tales of his pixelated adventures.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/47",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0047.gif",
+  "name": "Major Whiskerbyte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

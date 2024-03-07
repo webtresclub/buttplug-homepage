@@ -1,0 +1,28 @@
+{
+  "description": "Born in the heart of a supernova, JetBoost PixelShade is a relic from the golden era of arcade machines, equipped with classic buttons that have withstood the test of time. Despite its retro console box and timeless design, JetBoost suffered a critical screen damage during a cosmic ray storm while warping through the Andromeda sector. However, this didn't deter our hero. Instead, it adapted by installing rocket arms and legs, enabling it to soar through the galaxy at unimaginable speeds. The shades are a testament to its cool demeanor, even in the face of danger, and they conceal advanced sensors that compensate for the broken screen. Now, JetBoost PixelShade roams the cosmos, seeking out interstellar arcades where it can challenge any being to the ultimate gaming showdown, all the while spreading the nostalgia of classic gaming to every corner of the universe.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/955",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0955.gif",
+  "name": "JetBoost PixelShade",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

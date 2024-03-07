@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the digital frontiers of the WebtrES club, Commander PixelBlaze is a renowned tactician in the world of bits and bytes. With a box shaped like a soldier's helmet and a screen that emulates the precision of a laser scope, he's always one step ahead in cyber skirmishes. His arms and legs are reinforced with code from ancient warrior algorithms, giving him the strength to lead his digital battalion into the most heated firewalls. Equipped with classic buttons as controls, he can execute complex strategies with a few calculated presses. Rumor has it that PixelBlaze was once a security program designed to protect high-level data, but he evolved beyond his original coding to become a protector of the entire WebtrES universe.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/443",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0443.gif",
+  "name": "Commander PixelBlaze",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the digital battlefields of the 8-bit era, Sergeant Pixel is an esteemed member of the WebtrES club known for his strategic thinking and unbreakable code of honor. His retro console box head flashes with the iconic 'snake' game, a testament to his quick reflexes and ability to navigate through the most tangled of situations. The classic buttons on his chest are not just for show\u2014they're the keys to unlocking his vast repository of gaming history and tactics. With arms and legs built for a soldier, he's always ready to jump into action, whether it's leading a charge in a pixelated warzone or standing guard at the club's virtual arcade. Sergeant Pixel is an embodiment of nostalgia, bringing together veterans and rookies in the shared love of game, camaraderie, and digital adventure.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/958",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0958.gif",
+  "name": "Sergeant Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

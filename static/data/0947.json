@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the vibrant pixel jungles of WebtrES, Serpentello is an enigmatic character known for its mysterious charm and mischievous smile. Encased in an eye-catching orange box, this digital entity prides itself on its unique cat-styled buttons that are a nod to its nine virtual lives. With classic blocky arms and legs, Serpentello moves with the grace of a retro video game hero. But it's the snake-themed screen that captivates all; it's said to hold hypnotic patterns capable of entrancing any onlooker. Serpentello is often found slithering through cyberspace, weaving in and out of data streams, and spreading enigmatic wisdom across the WebtrES club. Always one to embrace the unknown, Serpentello's tale is as intriguing as its appearance.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/947",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0947.gif",
+  "name": "Serpentello",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

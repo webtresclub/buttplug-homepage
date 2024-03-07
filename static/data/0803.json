@@ -1,0 +1,24 @@
+{
+  "description": "Laser Whisker is a high-tech feline from the neon-lit alleyways of WebtrES city. An enigmatic figure in the WebtrES club, this cat-like automaton is known for its precision and agility. Equipped with a classic button interface and a sleek black box design capped with pointed ears, it roams the digital streets with its signature red laser screen eyes, scanning for virtual vermin. Its arms and legs are modeled after a cat's, allowing it to perform acrobatic feats while carrying its trusty striped accessory bag, full of gadgets and gizmos. Rumor has it that Laser Whisker was once a security program designed to protect the club's cyber secrets but gained sentience and now lives its nine lives on its own terms, always staying one step ahead of the game.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/803",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0803.gif",
+  "name": "Laser Whisker",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

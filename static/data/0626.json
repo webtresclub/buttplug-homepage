@@ -1,0 +1,24 @@
+{
+  "description": "Catalyst the Screen Cat was once a humble household TV in the bustling neon city of Pixelton. One stormy night, a peculiar power surge zapped Catalyst into consciousness, transforming him into a member of the elite WebtrES club. With a classic boxy design that harkens back to the golden era of arcade cabinets, Catalyst stands out with his cat-inspired buttons and a screen that always seems to be tuned into the feline channel. His arms are perpetually relaxed, hanging down as if he's too cool to be bothered by the world's hustle and bustle. Catalyst spends his days strutting through the digital alleyways of the city, charming every passerby with his pixel purr and retro vibe. Despite his laid-back attitude, he's known for his lightning-quick reflexes and ability to land on his feet, no matter the challenge. Catalyst is always ready to pounce on any opportunity that may enhance the lives of his fellow WebtrES club members.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/626",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0626.gif",
+  "name": "Catalyst the Screen Cat",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

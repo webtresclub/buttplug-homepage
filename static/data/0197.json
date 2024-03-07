@@ -1,0 +1,24 @@
+{
+  "description": "PixelPulse is a retro enthusiast and a prominent member of the WebtrES club, renowned for its collection of digital entities with unique traits. Born in the era of arcade games and chiptunes, PixelPulse's box is a vibrant orange, reminiscent of the glowing neon lights that used to line the game centers of the past. Its screen displays laser-like patterns, giving it a look that's both nostalgic and intimidating. The retro console buttons that function as its control panel are a testament to its love for gaming heritage. With classic arms and legs, PixelPulse dances to the 8-bit beats of yesteryear and is always ready to challenge anyone to a game of pixelated skill. It's not just a digital icon, it's a keeper of the flame for the golden age of gaming.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/197",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0197.gif",
+  "name": "PixelPulse",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

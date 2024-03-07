@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the digital realm of WebtrES, Sergeant Whiskerbyte is a formidable presence with his feline-inspired box chassis and the disciplined stance of a seasoned soldier. His buttons purr with precision, and his arms and legs are always at the ready, prepared for any mission that comes his way. With a screen that gleams with the intensity of a laser, this cybernetic cat has a glare that can cut through the toughest of codes. Known for his tactical prowess and unshakable poise, Sergeant Whiskerbyte is the go-to operative when the club faces challenges that require a sharp mind and an even sharper focus.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/789",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0789.gif",
+  "name": "Sergeant Whiskerbyte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Catalyst Shade is the slickest member of the WebtrES club, known for its rossoCorsa chassis that can turn heads in any digital alley. With buttons mimicking the agility of a cat, it expertly navigates the web, always landing on its feet no matter the challenge. Its 'handDown' arms convey a cool, casual demeanor, and its classic screen always displays just what you need to see. Donning a pair of enviable shades, Catalyst Shade isn't just about style; it's a symbol of the unflappable calm in the ever-changing world of data streams and cyber ventures.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/883",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0883.gif",
+  "name": "Catalyst Shade",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

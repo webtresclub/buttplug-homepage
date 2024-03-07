@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the pixelated depths of the legendary WebtrES club, Cobalt Serpentronic is a quirky NFT with an affinity for the retro and the crafty. Molded from the nostalgia of vintage gaming consoles, his boxy frame boasts a design reminiscent of a bygone era in gaming, complete with cat-inspired buttons that offer a playful touch to his interface. Cobalt's arms and legs are forged from the very finest digital foundry, sturdy and capable of crafting anything from pixel art to virtual worlds. His screen pulses with the cunning intelligence of a snake, signifying his sly nature and quick-witted responses to any challenge. But it's his stylish glasses that truly set him apart, giving him that intellectual edge in a world where smarts meet the art of play. Cobalt Serpentronic isn't just an NFT; he's a symbol of a time when imagination and technology first intertwined, and he's here to hammer in the next level of digital creation.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/986",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0986.gif",
+  "name": "Cobalt Serpentronic",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

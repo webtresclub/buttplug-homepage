@@ -1,0 +1,24 @@
+{
+  "description": "Catalyst is a sleek member of the WebtrES club known for its shiny black exterior and mysterious green pixelated visage. Originally a part of a high-end gaming console from the neon-soaked arcades of CyberTokyo, Catalyst gained sentience through a freak power surge during an intense lightning storm. With classic buttons that evoke a sense of nostalgia, and cat-like arms and legs, Catalyst now roams the digital and physical worlds. Although it doesn't speak, it communicates through blips and bleeps that somehow convey deep wisdom and hacker-like knowledge. This enigmatic being spends its nights prowling the information superhighway, casting an ever-watchful eye over the data streams, and protecting the WebtrES club from cyber threats.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/799",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0799.gif",
+  "name": "Catalyst",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

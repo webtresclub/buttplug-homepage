@@ -1,0 +1,28 @@
+{
+  "description": "Commander Pixel is a legendary figure in the WebtrES club, known for his strategic prowess and retro charm. His forest green exterior camouflages him in the digital woodlands where he plots his next mission. Equipped with retro console buttons, he can interface with any gaming system from the golden era of arcades. His arms and legs are built from the finest soldier-grade pixels, giving him the strength and dexterity to overcome any obstacle. Commander Pixel\u2019s red and black screen displays his unyielding focus and determination, while his glasses add a touch of intellectual sophistication, hinting at a past life as a master codebreaker. Wherever there is a call to adventure or a high score to beat, Commander Pixel will be there, leading the charge with a joypad in hand and an 8-bit tune in his heart.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/985",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0985.gif",
+  "name": "Commander Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

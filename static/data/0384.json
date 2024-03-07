@@ -1,0 +1,24 @@
+{
+  "description": "Once the vanguard of vintage arcade battles, Major PixelFault led countless digital skirmishes from the heart of the retro console wars. His box, a vibrant rosso corsa, shone like a beacon on the battle grid. Known for his quick reflexes and tactical button mashing, he could outmaneuver the swiftest of pixel adversaries with his retro console buttons. But the tides of technology are unforgiving; during a fateful encounter, his screen was struck by the infamous 'Glitchmaster Blast,' leaving a spider web of fractures across his once immaculate display. Now, as a member of the elite WebtrES club, Major PixelFault stands as a rugged emblem of resilience, his soldier arms and legs a testament to his indomitable spirit. Even in his current state, he remains a heroic figure to those who remember the golden era of gaming, his broken screen a badge of honor commemorating his valiant service.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/384",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0384.gif",
+  "name": "Major PixelFault",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

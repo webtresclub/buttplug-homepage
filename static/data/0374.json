@@ -1,0 +1,28 @@
+{
+  "description": "Once a feline guardian of the lost arcade realm, PixelPaws now finds itself in the WebtrES club after a fierce digital storm left its screen cracked and memories fragmented. This retro console-bodied cat roams the digital landscape with its helmet securely fastened, searching for the elusive code that will repair its screen and restore its former glory. Despite the setback, PixelPaws delights in sharing tales of pixelated adventures with anyone who lends an ear, reminiscing about the golden era of gaming it once proudly represented.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/374",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0374.gif",
+  "name": "PixelPaws",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

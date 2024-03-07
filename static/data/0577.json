@@ -1,0 +1,28 @@
+{
+  "description": "Sergeant Hiss is a grizzled veteran from the digital frontlines, known for his stealth and strategic prowess. His boxy frame has weathered countless cyber skirmishes, earning him the camouflage of a soldier. The cat buttons on his interface are a nod to his nine lives of narrow escapes and daring operations. With arms always poised for action and his shades perpetually on, he keeps his cool in any sitrep. His screen displays a snake, a symbol of his adaptability and lethal precision. Sergeant Hiss is a tactical genius in the WebtrES club, always ready to lead his pixel platoon into the next online battle with unshakable confidence.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/577",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0577.gif",
+  "name": "Sergeant Hiss",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

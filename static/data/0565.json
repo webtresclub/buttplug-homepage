@@ -1,0 +1,24 @@
+{
+  "description": "Blast from the past with a penchant for speed, Retro Rocket Ralf is an NFT straight out of the golden era of gaming. Donning a classic retro console box with iconic red and black buttons, Ralf's screen glows with an intense red and black pattern, reminiscent of the fierce gaming sessions that once echoed through the arcades of yesteryear. But don't let his vintage look fool you; Ralf is equipped with state-of-the-art rocket arms and legs. These not only give him an otherworldly silhouette, but also enable him to soar through the digital realm at supersonic speeds. Ralf is on a mission to collect lost pixels and preserve the legacy of retro gaming within the WebtrES club.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/565",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0565.gif",
+  "name": "Retro Rocket Ralf",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

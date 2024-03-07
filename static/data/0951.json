@@ -1,0 +1,24 @@
+{
+  "description": "Catalyst Claws was once the centerpiece of a high-tech security system, guarding the sacred treasures of the fabled WebtrES club. Its forest green chassis was adorned with high-precision buttons shaped like cat paws, a whimsical touch by its designer who was an avid cat lover. Its arms and legs, equipped with retractable cat-like claws, were perfect for agile maneuvers and swift reactions against any intruder. However, during a mysterious incident involving an electromagnetic pulse, Catalyst Claws' screen suffered irreparable damage, leaving a spiderweb-like pattern across its display. Despite its broken screen, Catalyst Claws continues to patrol the virtual hallways of WebtrES club, relying on its other senses and sharp claws to protect the club's digital realm.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/951",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0951.gif",
+  "name": "Catalyst Claws",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

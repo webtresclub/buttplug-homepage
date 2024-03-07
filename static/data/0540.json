@@ -1,0 +1,28 @@
+{
+  "description": "ShadeCrack is a notorious member of the WebtrES club known for its mysterious allure and rebellious streak. Sporting the vibrant rossoCorsa box, it stands out in any digital crowd. ShadeCrack's screen, though cracked, tells the tale of its resilience; it has seen many battles and adventures but still continues to function with a sly pixelated grin. Its classic arms and legs are remnants of its original design, a nod to timeless style in an ever-evolving virtual world. Meanwhile, the shades it wears are more than a fashion statement; they hide stories of the cyber escapades and enigmatic quests it has undertaken throughout the data streams and code jungles of cyberspace. Despite the setbacks implied by its broken screen, ShadeCrack is always ready to take on the next challenge, proving that even in a digital realm, scars can be badges of honor.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/540",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0540.gif",
+  "name": "ShadeCrack",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

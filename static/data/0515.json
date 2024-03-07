@@ -1,0 +1,28 @@
+{
+  "description": "Catticus Circuit is a quirky member of the WebtrES club known for his love of all things feline. His forest green box body stands out in the crowd, while the cat-themed buttons and screen display his playful personality. Equipped with classic arms and legs for agility, Catticus is always ready for action. His most distinctive feature is the helmet he wears, which is said to be crafted from the rarest pixels of the digital realm. It's rumored that the helmet grants him the agility and grace of a cat, allowing him to land on his feet no matter the situation. Behind that helmet, Catticus hides a sharp mind and a warm heart, always ready to lend a paw to his fellow WebtrES members.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/515",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0515.gif",
+  "name": "Catticus Circuit",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

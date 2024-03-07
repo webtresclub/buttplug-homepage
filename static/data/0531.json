@@ -1,0 +1,24 @@
+{
+  "description": "Born in the heart of the digital revolution, PixelPurr is a charming member of the WebtrES club who encapsulates the nostalgia of retro gaming. With a body resembling a classic game console and a screen that displays the playful spirit of a digital feline, PixelPurr brings joy to both vintage game enthusiasts and cat lovers alike. This quirky character loves nothing more than sharing tales of pixelated adventures and the soft purring sounds of an 8-bit era long gone by. PixelPurr is always up for a friendly challenge and can often be found in the midst of a gaming marathon, mashing those retro console buttons with glee.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/531",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0531.gif",
+  "name": "PixelPurr",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

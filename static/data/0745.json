@@ -1,0 +1,24 @@
+{
+  "description": "BlastoScreen Retroblast hails from the golden era of pixelated adventures, having been a beloved gaming console in a local arcade. Known for its robust library of classic games and the joy it brought to many, BlastoScreen's screen unfortunately cracked during an intense gaming session. Refusing to retire, it upgraded itself with rocket arms and legs, blasting off into the WebtrES club to find a new purpose. Despite its broken screen, it now streams nostalgic memories and retro dreams to all members, while always yearning for the day when it will be repaired to play its pixelated anthems once more.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/745",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0745.gif",
+  "name": "BlastoScreen Retroblast",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

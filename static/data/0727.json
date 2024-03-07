@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the vibrant alleys of RossoCorsa City, SerpentoVision Meowtrix is a unique member of the WebtrES club known for his striking red box-shaped body and the agility of a cat. Sporting state-of-the-art glasses, he possesses the uncanny ability to see the world through the hypnotic patterns of his snake-like screen, which often dazzles his peers. His cat-like buttons, arms, and legs give him an edge in stealth and flexibility, allowing him to move through the digital realm with feline grace. With a curious mix of traits from different realms, SerpentoVision Meowtrix is an enigmatic figure whose tales of code-slinging and pixel-pouncing are the stuff of legend in the WebtrES universe.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/727",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0727.gif",
+  "name": "SerpentoVision Meowtrix",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

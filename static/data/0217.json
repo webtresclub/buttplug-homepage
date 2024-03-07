@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the neon-lit arcades of the digital realm, Pixel Pong Pete is a retro-console inspired character with a flair for the classics. His forest green body is reminiscent of the sturdy consoles that survived countless button mashes and joystick wiggles. His red and black screen face always wears cool shades, giving him an air of mystery and a nod to the 8-bit era. His arms are poised in a relaxed, hand-down position, ready to jump into action for a quick game at a moment's notice. With a passion for pixelated adventures and a heart that beats in chiptunes, Pete is a beloved member of the WebtrES club, where he champions the charm of yesteryear's gaming and inspires nostalgia among virtual and human friends alike.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/217",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0217.gif",
+  "name": "Pixel Pong Pete",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

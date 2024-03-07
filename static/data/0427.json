@@ -1,0 +1,24 @@
+{
+  "description": "Cathode Cattail is a quirky member of the WebtrES club, known for its vibrant orange casing and an old-school charm with classic buttons. It stands out in any crowd with its cat-like limbs that gracefully carry its boxy frame. The red and black screen flickers with digital patterns that reflect Cathode's mysterious and mischievous nature. Born in the neon-lit backstreets of the digital world, Cathode enjoys pouncing on unsuspecting data packets and curling up on warm server racks. With a purr that resonates through cyberspace, Cathode Cattail has become both a legend and a guardian of the WebtrES club's digital frontier.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/427",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0427.gif",
+  "name": "Cathode Cattail",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "Born in the digital woods of Forestron, Commander Pixel is known for his forest green exterior and the iconic red and black screen that displays his fierce battle-ready expressions. He rose through the ranks of the WebtrES club with his soldier-like arms and legs, showcasing his combat prowess and strategic genius. Equipped with classic buttons that control his various abilities, he is known for his resilience and tactical operations, which have saved the virtual world from countless cyber threats. His boots, grounded in the reality of his pixelated realm, carry him forward on adventures that bridge the digital and the real, inspiring both humans and programs alike.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/684",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0684.gif",
+  "name": "Commander Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

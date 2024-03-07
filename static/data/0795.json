@@ -1,0 +1,24 @@
+{
+  "description": "RocketRetro Rex is a high-flying member of the WebtrES club, known for his flair for nostalgia with a twist of futuristic innovation. Born in the golden era of arcade games, Rex has always had a love for pixelated adventures and 8-bit beats. His orange box chassis is reminiscent of the vibrant arcade cabinets, while his retro console buttons are a tribute to the classic gaming controls that many grew up loving. But Rex isn't just a nod to the past; he's equipped with rocket arms and legs that propel him through the digital space with incredible speed, embodying the limitless possibilities of progress. His screen, capable of emitting powerful laser visuals, not only serves as a tool for his dazzling light shows but also as a defense mechanism to protect his friends in the WebtrES club. Together, they embark on thrilling escapades through the cybernetic realms, ever ready to blast off into the next big adventure.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/795",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0795.gif",
+  "name": "RocketRetro Rex",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the bustling foundries of the WebtrES club, Forgepaws is a robust and resilient soldier with a love for metallurgy and a flair for feline finesse. Equipped with arms and legs crafted from the finest alloys, Forgepaws can handle the heat of any battle or blacksmithing project. The cat-themed buttons and screen interface reveal a soft spot for whiskered companions, while the sleek shades add an air of mystery. Whether hammering out armor plates or strategizing in the war room, Forgepaws is the go-to member for a sturdy build and a purr-fect plan.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/421",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0421.gif",
+  "name": "Forgepaws",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

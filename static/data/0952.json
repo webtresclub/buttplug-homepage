@@ -1,0 +1,24 @@
+{
+  "description": "PixelRacer8 is a high-energy member of the WebtrES club known for its striking rossoCorsa chassis, reminiscent of the classic sports cars from the golden age of racing. Its retroConsole buttons evoke a sense of nostalgia, taking one back to the days of arcade dominance and the birth of home gaming. With arms positioned handDown, PixelRacer8 is always ready to jump into action, embodying a calm readiness that contrasts its vibrant and playful appearance. The classic screen face with a simple, yet iconic pixel art display shows PixelRacer8's love for the simplicity of the old-school games that inspired a generation of gamers. Being a part of the WebtrES club, PixelRacer8 spends its time zipping through digital realms, challenging members to beat its top scores and sharing tips on how to master the most difficult levels of retro gaming.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/952",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0952.gif",
+  "name": "PixelRacer8",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

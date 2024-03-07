@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the pixelated depths of a legendary foundry, ForgePlay Clyde is a member of the coveted WebtrES club known for his robust orange casing and a passion for retro gaming. His arms and legs, crafted from the finest digital steel, were forged in the fires of the WebtrES foundry itself, designed to withstand the heat of intense gaming sessions. The screen, reminiscent of the classic 'Snake' game, flickers with life as Clyde maneuvers through the digital realms with ease. His retro console buttons, though they may look vintage, are engineered to offer cutting-edge precision and feedback, making every gaming experience truly immersive. Clyde's unique blend of old-school charm and modern resilience make him a beloved figure in the pixelated landscapes, where he endlessly hammers away at high scores with his trusty pixel hammer and wrench.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/652",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0652.gif",
+  "name": "ForgePlay Clyde",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

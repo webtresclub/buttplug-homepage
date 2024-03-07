@@ -1,0 +1,24 @@
+{
+  "description": "Major Whiskerbyte is a formidable feline soldier from the WebtrES club, known for his strategic prowess and stealth capabilities. His box, exhibiting a sturdy soldier design, is reinforced with nano-carbon materials to withstand even the harshest of cyber battles. The cat-themed buttons and limbs hint at his agility and quick reflexes, enabling him to execute complex maneuvers with ease. His screen, featuring a menacing red and black visage, strikes fear into the hearts of his digital adversaries. Born in the alleyways of the virtual city of Pixelon, Whiskerbyte rose through the ranks by outsmarting rival programs and establishing a reputation as a fierce warrior. He now leads a squad of pixelated commandos in the ongoing fight to maintain order and security in the ever-expanding digital frontier.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/824",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0824.gif",
+  "name": "Major Whiskerbyte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

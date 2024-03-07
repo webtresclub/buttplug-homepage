@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the neon-lit alleyways of Digitalis City, Catalyst Clawtron is a member of the elusive WebtrES club known for their enigmatic presence in the cyber world. With a shiny black exterior that reflects the city's ever-glowing lights, Catalyst Clawtron is a sight to behold. The red and black screen face, always displaying a mischievous grin, hints at the playful yet cunning intellect within. The cat buttons on its chassis are not just for show; they give Catalyst the ability to communicate with real and digital felines alike, making it an unparalleled spy in the urban jungle. However, don't let the classic arms and legs fool you into thinking it's all retro charm; Catalyst Clawtron uses its old-school aesthetic to blend into the pixelated shadows, orchestrating events from behind the scenes with a soft purr and swift keystrokes.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/728",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0728.gif",
+  "name": "Catalyst Clawtron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

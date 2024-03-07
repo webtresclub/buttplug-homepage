@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the high-speed data streams of the WebtrES club, Rocketto RedScreen is a legendary figure among digital entities. With a chassis painted in the rarest shade of rossoCorsa, he exudes a passion for velocity that's matched only by his stylish aesthetics. His classic button configuration boasts a tactile satisfaction that digital connoisseurs praise, while his rocket arms and legs suggest an ability to bolt through cyberspace at unimaginable speeds. Rocketto's screen flickers with red and black pixels that dance in intricate patterns, enchanting onlookers with a display that tells of his travels through the deepest layers of the web. Rumor has it that Rocketto's origin is from a scrapped prototype of an interstellar probe, but in the WebtrES club, he has found his true calling\u2014racing through the net, leaving a trail of awe and inspiration.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/664",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0664.gif",
+  "name": "Rocketto RedScreen",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

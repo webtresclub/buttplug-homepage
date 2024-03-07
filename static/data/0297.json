@@ -1,0 +1,28 @@
+{
+  "description": "ShadeBot Retro hails from the neon-lit alleyways of Pixel City, where the retro wave never died. Donning his signature shades, this shiny yellow bot with classic arms and legs and a red-black screen face, is a remnant of an era where arcade games ruled and synth music pulsated through the air. Known for his stoic silence and cool demeanor, ShadeBot Retro spends his nights wandering through the digital landscape, a guardian of the WebtrES club's vintage arcade machines. His buttons might be classic, but his attitude is timeless.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/297",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0297.gif",
+  "name": "ShadeBot Retro",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

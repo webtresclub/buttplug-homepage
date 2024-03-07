@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the digital barracks of WebtrES Club, Sergeant Whiskerbyte is known for his tactical prowess and pixel-perfect precision. With a sturdy soldier box for a body and a classic screen displaying his ever-watchful eyes, he keeps a close watch over his cyber comrades. His cat button companions, always in tow, are more than just decorative; they're his elite scout team, capable of sniffing out virtual vermin and loopholes in the code. Sergeant Whiskerbyte's arms are perpetually poised at the ready, hands down, symbolizing his steadfast readiness for any encounter. The glasses addon is not merely a fashion statement but a tool that grants him augmented vision, allowing him to detect the faintest glitches in the matrix. This NFT is a tribute to all cyber soldiers who defend their digital domains with unwavering dedication and a hint of feline finesse.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/661",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0661.gif",
+  "name": "Sergeant Whiskerbyte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

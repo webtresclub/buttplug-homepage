@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the digital forests of WebtrES club, Forge is known for his forest green exterior and classic button configuration that echoes the nostalgia of early gaming consoles. His arms and legs were forged in the legendary digital foundries, famous for their indestructible alloy. But Forge's screen tells another story\u2014a tale of a turbulent past. The spiderweb of cracks across his display is a badge of honor, earned in a skirmish against the infamous Pixel Pirates. Now equipped with a trusty hammer, Forge is on a quest to fix not only his screen but also any broken code across the WebtrES universe, dedicating his life to mending the glitches caused by digital miscreants.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/184",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0184.gif",
+  "name": "Forge the Fixer",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

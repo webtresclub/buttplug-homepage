@@ -1,0 +1,28 @@
+{
+  "description": "Born from the nostalgia of the 90s, PixelSnake Retro is a digital being with an affinity for all things vintage gaming. His screen displays an endless game of snake, a testament to simpler times where a single game could provide hours of entertainment. With his classic arms and legs, he's always ready to leap into action, whether it's to show off his button-mashing skills or to strut around the WebtrES club with his sleek shades. Despite his retro console box exterior, PixelSnake Retro is a social creature who loves to connect with others over shared memories of pixelated adventures.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/272",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0272.gif",
+  "name": "PixelSnake Retro",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

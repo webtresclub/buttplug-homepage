@@ -1,0 +1,24 @@
+{
+  "description": "Catalyst 8-Bit hails from the retro cyber alleyways of WebtrES City, a place where 8-bit nostalgia meets contemporary digital flair. With an orange boxy frame and quirky cat-themed buttons and screen, this character is known for its playful antics and a love for all things cat-related. Catalyst 8-Bit's arms are always poised comfortably by its sides, ready to leap into action or lazily swat at a pixelated yarn. Despite its charming appearance, Catalyst 8-Bit is a master coder, capable of hacking through complex algorithms with the swiftness of a feline. It spends its days meandering through the bustling data streams, purring with contentment when it helps fellow WebtrES club members overcome their digital dilemmas. Whether it's deciphering ancient arcade game secrets or curling up for a cozy defragmentation session, Catalyst 8-Bit is the go-to companion for any cyber adventure.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/755",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0755.gif",
+  "name": "Catalyst 8-Bit",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

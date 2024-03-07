@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the digital depths of the WebtrES club, Sergeant Scales is a tactical and strategic mastermind known for his unshakeable composure in the heat of cyber battles. With a soldier's box for a body and limbs to match, he's always ready for action. His classic buttons are a nod to his preference for traditional strategies, while his arms and legs, forged in virtual boot camps, are designed for maximum efficiency in digital warfare. The snake screen that illuminates his face is symbolic of his cunning and adaptability, allowing him to slither through even the most complex algorithms with ease. Donning a pair of glasses that are both a tactical tool and a signature style statement, Sergeant Scales can spot an anomaly in the code from a mile away. His backstory includes covert operations in which he neutralized threats to the WebtrES realm with precision and without ever compromising his cool, calm, and collected demeanor.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/539",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0539.gif",
+  "name": "Sergeant Scales",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

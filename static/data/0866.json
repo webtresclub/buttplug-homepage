@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the digital foundries of WebtrES club, Serpentronic Shadesman is a snazzy bot known for its shimmering shiny yellow exterior and the mysterious snake-like screen that seems to glance into the soul of data streams. Equipped with classic button controls, this bot is old school cool with a modern twist. Its foundry-grade arms and legs are rumored to have been forged in the very data furnaces that power the club's blockchain. But it's the sleek shades that truly set Shadesman apart, giving it an air of enigmatic charm that many find irresistible. This bot doesn't just process information; it does it with an effortless style that's as enigmatic as the blockchain itself.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/866",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0866.gif",
+  "name": "Serpentronic Shadesman",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

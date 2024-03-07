@@ -1,0 +1,24 @@
+{
+  "description": "Catalyst the Laserbox is a unique member of the WebtrES club, known for its striking appearance that combines the charm of a classic computer box with the agility of a cat. This quirky character was born in a digital world where technology and feline traits intertwine, resulting in Catalyst's cat buttons and appendages. The laser screen feature is a testament to its sharp wit and ability to project ideas with precision, making Catalyst a go-to member for streamlining club strategies and illuminating the path forward. Despite having a somewhat intimidating digital gaze, Catalyst is admired for its playful antics and the warm 'purr' of its cooling fans, reminding everyone that at heart, it is a friendly companion in the pixelated universe of WebtrES.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/45",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0045.gif",
+  "name": "Catalyst the Laserbox",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

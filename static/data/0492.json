@@ -1,0 +1,24 @@
+{
+  "description": "PixelPaw Patcher once lived as the go-to gaming console in a bustling arcade, where bright neon lights and the cacophony of digital adventures created an electrifying atmosphere. With a retro console for a body and quirky cat buttons that meowed with every press, Patcher was the star of the arcade. Alas, during a heated game of 'Whisker Wars,' a stray elbow sent Patcher tumbling down, resulting in a cracked screen. Now sporting a spiderweb of pixels where a clear image once was, Patcher has embraced this new 'broken screen' aesthetic, claiming it adds character. While no longer the center of attention at the arcade, Patcher has found a new purpose, bringing together a community of nostalgic gamers and retro enthusiasts in the WebtrES club. With arms perennially poised at the ready, Patcher is always eager to lend a hand, or rather, a joystick, to anyone in need of a friend or a fix of old-school gaming.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/492",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0492.gif",
+  "name": "PixelPaw Patcher",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

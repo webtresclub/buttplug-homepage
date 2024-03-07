@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the vibrant city of Synthopolis, Cassette Whiskertron is an icon of retro cool with a futuristic twist. Glistening in shiny yellow, this NFT is a tribute to the golden age of gaming and music, with a body shaped like a classic console. Cassette Whiskertron's arms and legs boast sleek feline agility, a nod to its nine lives of experience in both the arcade alleys and the underground DJ scenes. Its screen face, reminiscent of a curious cat, peers through a pair of chic glasses, symbolizing its sharp wit and intellect. Known among the WebtrES club for spinning hypnotic beats from its retro console buttons and projecting psychedelic visuals, Cassette Whiskertron is the life of every virtual party. With its magnetic personality and enigmatic presence, it invites everyone to groove to the pixelated purr of the digital age.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/647",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0647.gif",
+  "name": "Cassette Whiskertron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

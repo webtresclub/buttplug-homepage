@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the neon-drenched alleyways of Cyberkit City, Catalyst Lasertron is an enigmatic member of the WebtrES club. With its shiny black exterior reflecting the city's pulsating lights, this NFT is as mysterious as it is sleek. Its quirky cat buttons are a nod to its creator's love for felines, and they serve as interactive components for those lucky enough to encounter it. The hands rest purposefully down, signaling a calm demeanor amidst the digital chaos. But don't be fooled by its composed presence; the laser screen eyes are capable of scanning any surface, projecting complex holographic data that can decode the most intricate cyber puzzles. Catalyst Lasertron is the go-to companion for virtual heists, where its cool logic and laser precision can cut through any firewall.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/417",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0417.gif",
+  "name": "Catalyst Lasertron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

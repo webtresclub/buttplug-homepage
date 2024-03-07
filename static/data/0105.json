@@ -1,0 +1,28 @@
+{
+  "description": "As the most decorated feline officer in the WebtrES club, Major Whiskerbyte is a cat-like box with a storied military career. With his sturdy soldier's box reinforced with the strength of cardboardium alloy, he's endured countless strategic operations. His paws, programmed for precision, are capable of disarming even the most complex of catnip bombs. The cat-screen interface always displays a stern yet whiskery countenance, a mark of his unwavering focus. His tail, though robotic, swishes with the calculated grace of a true battlefield tactician. Not just a soldier, Major Whiskerbyte is also an intellectual, as evidenced by the scholarly glasses perched upon his screen, hinting at his extensive knowledge of both warfare and the fine art of napping. His legend spreads far and wide across the digital and analog realms, inspiring both respect and a touch of fear in all who know of him.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/105",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0105.gif",
+  "name": "Major Whiskerbyte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "Cathode Clyde is a retro-inspired NFT from the eclectic WebtrES club, known for his pixel-perfect smile and his affinity for vintage tech. With a classic box-shaped body, this digital denizen harks back to the golden age of arcade games, sporting a screen that often displays an enigmatic, old-school cat face. Clyde's buttons are reminiscent of the tactile feedback of arcade machines, and he stands on his sturdy classic legs, always ready to jump into action. As a lover of all things nostalgic, he spends his digital days reminiscing about the simple joys of 8-bit adventures and is always eager to share a pixelated story or two with anyone who appreciates the charm of yesteryears gaming culture.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/543",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0543.gif",
+  "name": "Cathode Clyde",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

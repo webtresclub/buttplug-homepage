@@ -1,0 +1,28 @@
+{
+  "description": "Cassius Python is a digital enigma, a creature born from the depths of a retro gaming console and the mysterious wilderness of the digital jungle. With his forest green box exuding the essence of nature and his retro console buttons that echo a time when 8-bit was the pinnacle of sophistication, Cassius is an old soul in the world of pixels. His arms and legs are those of a stealthy cat, enabling him to navigate the web with grace and agility, while his screen displays the hypnotic gaze of a snake, captivating all those who dare to look into his digital eyes. Donning shades that are as cool as his demeanor, Cassius spends his days and nights curating the WebtrES club's vast library of vintage games, ensuring that the legacy of the past remains alive and kicking in the ever-evolving digital age.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/378",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0378.gif",
+  "name": "Cassius Python",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the digital forge of FoundryVille, Commander PixelHammer is renowned for his strategic prowess and unbreakable code of honor. With his classic screen interface displaying his iconic green battle-ready scowl, he commands the respect of the entire WebtrES club. His arms and legs, crafted from the sturdiest pixels of the foundry, allow him to wield his mighty hammer and signal wand with unmatched precision. He's the tactician behind many successful data campaigns, and his presence on the field ensures victory through calculated maneuvers and unwavering discipline. Off the grid, he's a mentor to young circuits, teaching them the art of digital defense and the history of the great Mainframe Wars.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/237",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0237.gif",
+  "name": "Commander PixelHammer",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

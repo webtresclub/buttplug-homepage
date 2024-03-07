@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the fiery cores of the WebtrES club's digital foundries, Serpentron Foundry is a legendary figure among the pixelated denizens. With a box hue of rossoCorsa that mirrors the blazing furnaces he was forged in, and classic buttons that have withstood the test of time, he is the epitome of resilience and strength. His arms and legs, made of the toughest foundry metals, have the power to mold and craft the very pixels of reality. The most distinctive trait, however, is his screen, which displays an enigmatic snake pattern that entrances anyone who dares to look into its depth. This pattern is not just for show; it's a representation of his cunning and flexibility, allowing him to navigate through the WebtrES club's challenges with ease. Whether he's hammering out code or forging alliances, Serpentron Foundry is one bot you always want on your side.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/233",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0233.gif",
+  "name": "Serpentron Foundry",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the neon-lit streets of Digitropolis, Cattivo Velocista is a legend in the underground racing circuits of the WebtrES club. With a box painted in the iconic rossoCorsa, this racer's presence on the track is as bold and fiery as the color itself. The cat-themed buttons that adorn its chassis are a nod to its nine-lives reputation, always landing on its feet no matter how harrowing the race. Its arms are perpetually poised handDown, ready to shift gears at a moment's notice, while its screen displays a fierce red and black color scheme, mirroring the racer's intensity. The helmet, a rare addon, is not just for style \u2013 it's a trophy from the grand Pixel Prix, where Cattivo Velocista left the competition in a cloud of pixels. This NFT is more than digital art; it's the embodiment of speed, agility, and the relentless spirit of competition.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/750",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0750.gif",
+  "name": "Cattivo Velocista",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

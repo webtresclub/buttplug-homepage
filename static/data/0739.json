@@ -1,0 +1,28 @@
+{
+  "description": "Retro Rocket Rex is a high-flying, vintage video game console with a penchant for nostalgia and adventure. With his forest green boxy exterior and retro console buttons, he's a blast from the past who's always ready to play. His rocket arms and legs can propel him through cyberspace at astonishing speeds, leaving a trail of pixelated stardust in his wake. Rex's red and black screen flickers with the fierce determination of a classic arcade champion, while his cool shades give him the air of a laid-back gamer. A member of the exclusive WebtrES club, Retro Rocket Rex is a beloved figure in the digital realm, known for hosting epic online tournaments that celebrate the golden age of gaming.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/739",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0739.gif",
+  "name": "Retro Rocket Rex",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

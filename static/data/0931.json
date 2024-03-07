@@ -1,0 +1,28 @@
+{
+  "description": "Originating from the pixelated depths of the WebtrES club, ForgeMaster Flex is a living embodiment of the retro gaming era with a twist of modern cool. His box, coated in the vibrant hue of rossoCorsa, symbolizes his passion and drive. The classic retroConsole buttons that adorn his front panel echo the nostalgic sounds of 8-bit adventures, firmly rooting him in a realm of timeless entertainment. ForgeMaster Flex's arms and legs, forged in the flames of the virtual foundry, showcase his indomitable strength and unyielding determination to build and craft whatever the digital world demands. His screen, perpetually playing the hypnotic dance of the 'snake' game, mesmerizes all who gaze upon it, reminding them of a simpler time when high scores, not high stakes, were the measure of success. Topping off his persona are the shades he dons \u2013 not just a stylish accessory, but a shield that guards his visionary spirit against the bright flashes of fleeting trends. ForgeMaster Flex is more than just a member of the WebtrES club; he is the keeper of an era, a forger of connections, and a timeless icon who stands tall amidst the evolving landscape of the digital age.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/931",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0931.gif",
+  "name": "ForgeMaster Flex",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

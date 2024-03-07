@@ -1,0 +1,24 @@
+{
+  "description": "Born in the pixelated corners of the WebtrES club, Retro Red is a living homage to the bygone era of arcade gaming. With a chassis hued in the vibrant shade of rossoCorsa, this NFT brings nostalgia to collectors who remember the days of inserting coins into machines and spending hours in pursuit of that elusive high score. His retroConsole buttons hark back to a simpler time when gameplay was king and graphics were charmingly rudimentary. Retro Red's classic arms and legs are a nod to the straightforward design of early gaming characters, and his redBlack screen always flickers with an inviting challenge. He's not just an NFT; he's a pixelated passport to the golden age of gaming.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/877",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0877.gif",
+  "name": "Retro Red",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

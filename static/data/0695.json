@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the digital alleyways of WebtrES club, Professor CatBox is an enigmatic scholar known for his unparalleled wit and feline grace. His classic box body is a nod to the retro tech that inspired his creation, while his cat-themed screen, buttons, and limbs hint at his agile and playful nature. Always seen with his signature glasses, he's the go-to expert for all things tech and trivia in the club. Whether he's lounging on a sunny windowsill debugging code or sipping on a saucer of milk while reading the latest data streams, Professor CatBox is the embodiment of intellect with a purr-fect touch of whimsy.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/695",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0695.gif",
+  "name": "Professor CatBox",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

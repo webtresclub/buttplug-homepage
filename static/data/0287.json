@@ -1,0 +1,24 @@
+{
+  "description": "Forged in the digital forges of WebtrES, Commander Pixel is a strategic mastermind with a shiny black exterior that reflects the neon battlegrounds he has commanded. Equipped with classic control buttons to execute precise maneuvers, Commander Pixel is respected by his peers for his decisive actions and unyielding determination. His arms and legs have been reinforced with soldier-grade articulation, giving him an imposing presence on any digital front. With his classic screen displaying a stoic and fearless visage, Commander Pixel leads his pixelated troops into cyber conflicts, valiantly defending the WebtrES club from any virtual threats. No matter the challenge, Commander Pixel is always ready for action, his solid build and sharp mind making him a true protector in the ever-evolving world of pixels and bytes.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/287",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0287.gif",
+  "name": "Commander Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

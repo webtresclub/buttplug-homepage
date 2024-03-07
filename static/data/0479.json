@@ -1,0 +1,24 @@
+{
+  "description": "Forged in the foundries of the WebtrES club, Pixel Purr-fector is a retro console entity with a knack for adventure and creation. With arms and legs made of the strongest metals from the foundry, it wields a mighty hammer in one hand and the precision of a welder's torch in the other, symbolizing its ability to both build and battle. Its screen displays menacing laser eyes, which can cast a pixelated gaze that mesmerizes other digital beings. The cat buttons on its interface are a tribute to its creator's love for feline companions, which is said to give it nine lives in the virtual world. Pixel Purr-fector spends its time concocting new games and protecting the WebtrES realm from malwares and bugs, all while purring to the 8-bit tunes of yesteryear.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/479",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0479.gif",
+  "name": "Pixel Purr-fector",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

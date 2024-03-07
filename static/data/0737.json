@@ -1,0 +1,28 @@
+{
+  "description": "Originally a humble software interface in a gritty foundry, Catsby Forge gained self-awareness after an accidental code merge between the foundry's control system and a digital pet simulator. With a classic box design, sturdy foundry-style arms and legs built to handle molten metal, and a screen that purrs digital affection, Catsby is a unique member of the WebtrES club. The cat-shaped buttons on its console are a nod to its feline software origins, while the stylish shades add a touch of cool to its hot environment. Catsby now roams the digital and physical realms, seeking to meld the warmth of a cat's love with the strength of forged steel.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/737",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0737.gif",
+  "name": "Catsby Forge",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

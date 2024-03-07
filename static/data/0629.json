@@ -1,0 +1,24 @@
+{
+  "description": "Once the most formidable field tactician on the digital battlegrounds, Sergeant Pixel served valiantly in the 8-bit wars, a time of intense pixelated conflict. His body, a classic box design, is equipped with the classic button array that has survived countless encounters. His arms and legs are of the soldier variant, used for deft maneuvers and strategic positioning in the toughest of digital confrontations. The broken screen is a testament to his last stand, where he defended his squad from a surge of corrupt data. The crack on his screen is not just a scar, it is a badge of honor, symbolizing his resilience and unwavering courage. Now retired from active duty, he shares tales of his exploits with other members of the WebtrES Club, though his screen flickers with the sparks of his undiminished fighting spirit.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/629",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0629.gif",
+  "name": "Sergeant Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

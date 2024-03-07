@@ -1,0 +1,24 @@
+{
+  "description": "PixelPaws RetroCat is a unique member of the WebtrES club, known for its classic boxy frame and a screen that glows with nostalgic red and black hues reminiscent of the earliest days of gaming. Its retro console buttons are a hit with vintage game enthusiasts, always ready to share a round of pixelated fun. The cat-like arms and legs reveal its quirky nature, allowing it to nimbly navigate through the digital world. Its origin is shrouded in mystery; some say it was once a beloved arcade machine that gained sentience, while others insist it was designed by a whimsical programmer with a love for felines and the golden age of gaming. Regardless of its beginnings, PixelPaws RetroCat has become a beloved icon for those who cherish the intersection of technology and playfulness.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/690",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0690.gif",
+  "name": "PixelPaws RetroCat",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

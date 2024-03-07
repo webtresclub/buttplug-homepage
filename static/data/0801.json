@@ -1,0 +1,24 @@
+{
+  "description": "Once the heralded icon of a pioneering tech startup, Glitchy Gil is an NFT with a storied past. With a classic boxy design and timeless button interface, Gil was the go-to companion for all digital connoisseurs. However, an unfortunate encounter with a rogue code left his screen cracked and his display perpetually showcasing a cryptic, glitched spider graphic. Now, as a member of the esteemed WebtrES club, Gil embraces his imperfections, symbolizing the beauty of resilience in the face of digital mishaps. In every gathering, he reminds fellow club members that even in a broken state, there is history and character to be celebrated.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/801",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0801.gif",
+  "name": "Glitchy Gil",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the neon-lit arcade halls of the retro-futuristic dimension, LaserTron 3000 is a living legend in the WebtrES club. Its shiny yellow box chassis is reminiscent of the golden era of gaming, while the retro console buttons bring a sense of nostalgia to all who encounter this enigmatic figure. Equipped with rocket arms and legs, LaserTron 3000 zooms through the digital realm, leaving a trail of pixelated stardust in its wake. The laser screen face is not just for show; it projects beams of light to communicate in a language of ancient arcade sounds and high-resolution visuals. LaserTron 3000's story is one of adventure, speed, and the universal pursuit of high scores.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/996",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0996.gif",
+  "name": "LaserTron 3000",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

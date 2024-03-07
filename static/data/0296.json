@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the glowing forges of the digital realm, ForgeMaster Pixel is a master craftsman known for his golden exterior and retro-console buttons that shine like relics of a bygone era. His classic screen face often displays cryptic patterns that are said to hold the secrets to ancient gaming knowledge. With arms and legs forged from the strongest virtual steel, he wields his trusty hammer and wrench with the precision of a skilled artisan, ready to repair any glitch or bug that plagues the WebtrES club's virtual environment. His presence is a reassuring sight to all who dwell within the pixelated worlds, a symbol of enduring strength and timeless skill.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/296",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0296.gif",
+  "name": "ForgeMaster Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

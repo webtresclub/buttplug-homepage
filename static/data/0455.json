@@ -1,0 +1,24 @@
+{
+  "description": "PixelViper is a quirky character from the WebtrES club known for its vibrant orange exterior and love for all things retro. With a screen forever playing the classic game 'Snake', PixelViper is a walking tribute to the golden era of arcade games. Its retro console buttons are not just for show; they are fully functional and PixelViper often challenges other members to high-score competitions. Despite its competitive nature, it's known for always lending a hand (down) to fellow club members in need of a power boost or just some good old-fashioned gaming advice. Its blocky, pixelated form is a hit at 8-bit theme parties, and it dreams of one day setting a new world record in the most snake games played simultaneously.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/455",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0455.gif",
+  "name": "PixelViper",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

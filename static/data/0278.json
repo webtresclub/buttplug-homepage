@@ -1,0 +1,24 @@
+{
+  "description": "Forged in the heart of a pixelated mountain, Felinus Forge is an enigmatic member of the WebtrES club. With a chassis painted in the deepest shades of forest green, this robotic feline has always been one to blend into the digital woodlands. Its eyes, glowing like twin cat-shaped suns, pierce through the mysteries of cyberspace. The buttons adorning its front panel bear the unmistakable mark of its kindred spirits\u2014the cats, suggesting a playful yet enigmatic persona. Felinus' arms and legs are made from the strongest pixel steel from the foundry, giving it the strength to craft digital dreams into reality. Its screen often flickers with the imagery of its favorite animal, indicating a software soul that purrs in the presence of virtual vermin. Whether wielding its trusty hammer or brandishing a fork of lightning wit, Felinus Forge is a mythical artisan in the ever-expanding universe of the WebtrES club, known for shaping the very bytes and bits that compose the digital realm.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/278",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0278.gif",
+  "name": "Felinus Forge",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

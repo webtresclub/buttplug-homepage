@@ -1,0 +1,24 @@
+{
+  "description": "Catalyst Catron hails from the neon-soaked alleyways of Cyberville, a digital metropolis within the WebtrES club where code and fur blend seamlessly. With a shiny black chassis that reflects the city's pulsating lights, Catron is a creature of the night, known for its sleek design and laser screen eyes that can project mesmerizing light shows. Its cat-like arms and legs give it an agile edge, allowing it to navigate the urban jungle with ease, while the classic buttons on its front serve as controls for its various mysterious functions. Rumor has it that Catron was once a prototype for a new form of entertainment AI, but gained sentience and now roams free, using its innate charm and technological prowess to become a celebrated figure in the underground scene of the WebtrES club.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/85",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0085.gif",
+  "name": "Catalyst Catron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

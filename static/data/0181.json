@@ -1,0 +1,28 @@
+{
+  "description": "Sergeant PixelVision is a battle-hardened member of the WebtrES club, known for his strategic pixel prowess on the digital frontlines. With an orange casing as vibrant as the sunsets in the virtual plains he patrols, Sergeant PixelVision is always on alert. His screen flickers with the red and black hues of determination, and his classic buttons have been pressed in moments of intense cyber skirmishes. Outfitted with soldier-grade limbs, he stands sturdy and unyielding against any malware threats. The glasses he dons are not just for show; they're high-tech scanning devices capable of identifying even the stealthiest of bugs. Rumor has it that he once single-handedly defended a network from a vicious DDoS attack, earning him his rank and the respect of all WebtrES citizens.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/181",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0181.gif",
+  "name": "Sergeant PixelVision",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the digital barracks of the Retro Console Regiment, Sergeant PixelBlitz is a disciplined leader with a shining yellow casing that reflects his electrifying personality. His classic screen face, known for displaying the iconic pixelated expressions, has earned him the respect of both allies and adversaries in the WebtrES club. Equipped with buttons that hark back to the golden era of gaming, he commands his pixelated platoon with precision and strategic expertise. His arms and legs, modeled after a soldier's, are always ready for action, be it a high-stakes tournament or a cooperative mission to save the digital world from monotony. With every step, Sergeant PixelBlitz carries the legacy of arcade heroes and the undying spirit of an era when games were not just games, but a way of life.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/9",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0009.gif",
+  "name": "Sergeant PixelBlitz",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

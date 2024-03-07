@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the vibrant neon alleyways of WebtrES city, Catalyst the Cool Cat is a smooth-talking, shade-sporting bot with a screen that never fails to display its feline charm. With its shiny black exterior reflecting the city's pulsating lights, Catalyst navigates the digital realm with classic button controls and moves with a suave confidence on its classic arms and legs. A connoisseur of both style and substance, it's known for throwing the most exclusive cyber soir\u00e9es where only the slickest algorithms and hippest bytes get to mingle. Catalyst isn't just about looks, though; it's also a guardian of the net, using its cat-like reflexes and sharp wit to outsmart any threat to the club's virtual harmony.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/347",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0347.gif",
+  "name": "Catalyst the Cool Cat",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

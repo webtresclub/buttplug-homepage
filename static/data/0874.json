@@ -1,0 +1,28 @@
+{
+  "description": "Once a centerpiece of an arcade in a buzzing metropolis, ShadeTronik entertained countless gamers with its vibrant screen and catchy pixel tunes. However, during a heated gaming tournament, a rival player couldn't handle defeat and threw a joystick right at its screen, leaving it with a distinctive 'broken' look. Since that infamous day, ShadeTronik adopted the cool shades to hide its scars and has become something of a legend in the WebtrES club for its resilience and undying retro spirit. It still wears its classic buttons with pride, often reminiscing about the golden days of arcade gaming. ShadeTronik's arms are always open, ready to welcome fellow nostalgic souls and share tales of pixels and high scores.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/874",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0874.gif",
+  "name": "ShadeTronik",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

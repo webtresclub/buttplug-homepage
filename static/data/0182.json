@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the pixelated plains of Circuitville, Commander WhiskerBytes is known for his strategic prowess and his uncanny ability to remain cool under pressure. As a distinguished member of the WebtrES club, he sports a rugged soldier box exterior that camouflages well in both digital jungles and urban environments. His buttons may look like a cat's, playful and deceivingly innocent, but they're actually state-of-the-art sensory inputs that give him an edge in reconnaissance missions. With arms always at the ready, his handDown posture showcases a relaxed yet always prepared stance. His screen glows with a menacing red and black pattern, warning others of his formidable nature. To top it all off, he wears his shades not just for style but also to protect his screen from the harsh glares of his foes' defeat. WhiskerBytes is a cyber-warrior with a heart of code, leading his pixel pack to victory with a mellow meow.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/182",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0182.gif",
+  "name": "Commander WhiskerBytes",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the retro digital forests of the WebtrES club, Commander Pixel is a legendary figure with a green boxy exterior reminiscent of ancient gaming consoles. Equipped with retro console buttons that have seen countless battles, his arms and legs are built like those of a durable soldier, ready to take on any mission. But it's not just his sturdy build that makes him stand out; Commander Pixel's screen displays a menacing laser visage, a warning to any who dare challenge him. Despite his formidable appearance, Commander Pixel has a heart of gold, and is a protector of the pixelated realm, always at the ready to defend his fellow club members from digital distress.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/159",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0159.gif",
+  "name": "Commander Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

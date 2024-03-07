@@ -1,0 +1,28 @@
+{
+  "description": "Once the centerpiece of a bustling arcade, PixelVision is a retro console character with a passion for the golden age of gaming. His screen may be cracked from the countless hours of intense gaming battles that took place in his heyday, but that doesn't deter his spirit. Sporting a pair of thick-rimmed glasses, PixelVision has become a sage of sorts among the WebtrES club, sharing tales of pixelated adventures and doling out wisdom to any young gaming rigs willing to listen. His arms and legs are of the classic design, reminiscent of the iconic machines that lined the neon-lit halls of vintage game centers. Despite the wear and tear, PixelVision's buttons are always ready for action, his stance eager and his heart still beating in 8-bit rhythms. He may be a relic of a bygone era, but in the club, PixelVision is a legendary figure, inspiring a new generation of gamers with his enduring charm and glitchy wit.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/16",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0016.gif",
+  "name": "PixelVision",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

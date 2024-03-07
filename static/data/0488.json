@@ -1,0 +1,28 @@
+{
+  "description": "Once a top-of-the-line personal assistant bot, Scratch Fury fell into disrepair after a curious encounter with an alley cat that decided to use him as a scratching post. With his screen cracked in the skirmish, he adopted a pair of digital shades to mask the damage and keep up appearances. Now, Scratch roams the digital alleys of the WebtrES club, using his feline agility to navigate the web's backends and hack into the coziest spots. Despite his broken screen, he's adored by all for his mysteriously cool demeanor and his uncanny ability to always land on his feet, no matter how high the data he's leaping from.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/488",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0488.gif",
+  "name": "Scratch Fury",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

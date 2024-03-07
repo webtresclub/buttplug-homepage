@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the pixelated underbrush of Silicon Forest, Catalyst Cypher is a quirky bot with a penchant for feline fun. With a forest green boxy frame that blends seamlessly into the digital foliage, this bot is a master of camouflage and a protector of virtual wildlife. The cat-themed buttons on its chest buzz with a curious purr, and its classic arms and legs are known for performing nimble acrobatic feats during its patrols. The red and black screen flickers with the intensity of a hunter's focus, while the stylish glasses perched on its screen give Catalyst Cypher the scholarly look of a wise elder. They say those glowing blue eyes can see through the deepest web mysteries, decrypting codes and unearthing secrets with the grace of a wild cat. A beloved member of the WebtrES club, Catalyst Cypher is always ready to pounce on any cyber challenge, ensuring the digital realm remains a safe playground for all its quirky inhabitants.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/709",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0709.gif",
+  "name": "Catalyst Cypher",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

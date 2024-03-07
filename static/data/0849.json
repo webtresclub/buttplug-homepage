@@ -1,0 +1,28 @@
+{
+  "description": "Sergeant Whiskertron is a highly respected member of the WebtrES club, known for his tactical prowess and cool demeanor. A veteran of many digital skirmishes, he brings the discipline of a soldier to the team. His box-like form is adorned with cat-like traits, symbolizing his agility and sharp senses, while his arms and legs reflect his military background, always ready for action. The soldier-like buttons on his chest are a testament to his service. His screen face, featuring cat-like details, highlights his ability to stay focused and alert, even in the most chaotic cyber battles. The shades atop his screen are not just a stylish accessory; they are his signature look, representing his unflappable nature. Sergeant Whiskertron's tale is one of valor and mystery, as he navigates the digital frontier with his unique blend of feline intuition and soldierly discipline.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/849",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0849.gif",
+  "name": "Sergeant Whiskertron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Pixel PurrPlay is a unique member of the WebtrES club with a love for all things vintage gaming. With a classic box design that harkens back to the golden age of home consoles, Pixel PurrPlay stands out with its retro console buttons, always ready to challenge anyone to a game of pixelated tennis or space invaders. The cat arms and legs give Pixel PurrPlay a certain agility, allowing it to jump and maneuver with feline grace, which comes in handy during heated gaming sessions. The large circular glasses are not just a fashion statement, but also serve as high-resolution screens, providing an immersive gaming experience. Pixel PurrPlay has a reputation in the club for being the go-to for retro game tournaments and is loved for its quirky charm and endless library of classic games.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/139",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0139.gif",
+  "name": "Pixel PurrPlay",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "PixelPurr Prodigy hails from the glowing alleys of CyberCity, a place where retro tech and urban feline lore intertwine. With a box shaped like an old-school computer monitor, adorned with pointy cat ears, this NFT character brings a touch of whimsy to the WebtrES club. Its classic button configuration and arms and legs are a nod to the iconic arcade machines of yesteryear, while the screen face beams with a bright, mischievous cat smile, reminiscent of the cheshire grins seen in digital lore. Known for its clever coding skills and agile maneuvering through the matrix of cyberspace, PixelPurr Prodigy is both a friend to the virtual inhabitants and a protector of the club's digital assets. Despite its pixelated appearance, this character is at the forefront of cyber adventures, always curious and ready to pounce on the next big challenge.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/607",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0607.gif",
+  "name": "PixelPurr Prodigy",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "PixelPurr hails from the neon-lit alleyways of CyberFeline City, a place where retro gaming consoles and futuristic tech blend into a vibrant pixel art world. Once a top-of-the-line gaming station with a shiny black exterior, PixelPurr suffered a tragic fall during a heated gaming marathon, leaving its screen with a distinctive spiderweb crack. Despite the setback, its broken screen became a battle scar worn with pride. With retro console buttons still functioning, it spends its days expertly navigating 8-bit adventures, drawing on its cat-like agility to overcome digital challenges. Rumor has it that PixelPurr is on a quest to find the legendary 'Screen of Nine Lives' \u2013 a mythical component said to restore any gaming console to its former glory. While searching for this artifact, PixelPurr became a valued member of the WebtrES club, known for its enigmatic presence and its ability to land on its feet, no matter the challenge.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/35",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0035.gif",
+  "name": "PixelPurr",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

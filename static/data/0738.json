@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the pixelated plains of the digital world, Major Pixel is a distinguished member of the WebtrES club known for his strategic prowess and unyielding courage. With a box design of classic sturdy structure, he stands as a beacon of reliability. His screen flickers with the intense red and black hues of a warrior, reflecting his unwavering resolve in the face of coding conflicts and data dilemmas. Outfitted with classic buttons, Major Pixel offers a user-friendly interface to navigate the most complex operations. His arms and legs, modeled after a soldier's, empower him with the strength and discipline to execute precise commands and protect the club's virtual integrity. The glasses he dons are not just a fashion statement but a testament to his foresight and intelligence. Major Pixel is always ready to lead his fellow club members into the next online adventure, programming his way through challenges with military efficiency and a hint of retro charm.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/738",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0738.gif",
+  "name": "Major Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

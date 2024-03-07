@@ -1,0 +1,24 @@
+{
+  "description": "Once the fastest data courier in the WebtrES club, Catalyst Crasher was known for his unparalleled speed and agility, thanks to his rocket arms and legs. His box was of the classic make, sturdy and reliable, while his cat-themed buttons, a nod to his agility and reflexes, were his trademark feature. However, during a high-stakes information delivery, his screen suffered a catastrophic crack which led to a cascade of errors in his navigation system, causing him to crash-land in a digital junkyard. Now, Catalyst Crasher spends his days zipping around the data lanes, screen still broken as a reminder of his fallibility, yet determined to regain his status as the fastest courier in the digital realm, all the while leaving a trail of pixel dust in his wake.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/313",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0313.gif",
+  "name": "Catalyst Crasher",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

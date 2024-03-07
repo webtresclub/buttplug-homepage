@@ -1,0 +1,28 @@
+{
+  "description": "PixelViper Commander is a legendary figure in the WebtrES club, known for his strategic prowess in the retro gaming arenas. With a box shaped like an old-school gaming console and a screen that flickers like a serpent's tongue, he can hypnotize his opponents with nostalgic vibes before striking with pixel-perfect precision. His arms always poised in a relaxed stance, he remains calm and collected, even during the most intense button-mashing battles. The helmet atop his box is not just a fashion statement; it's a relic from the 8-bit wars, symbolizing his triumphs and the respect he commands among his pixelated peers. His tale is whispered across ethernet cables and through hushed chat rooms, where he is both an enigma and an inspiration to digital dreamers.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/354",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0354.gif",
+  "name": "PixelViper Commander",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

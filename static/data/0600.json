@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the pixelated battlefields of the Retronia wars, Sgt. Purrvision is a legendary tactician known for his strategic prowess in digital combat. Sporting a robust orange casing reminiscent of the classic gaming consoles of yore, his screen displays the stoic visage of a cat, a tribute to his unflappable nature in the face of chaos. Equipped with arms and legs modeled after the great pixel soldiers of the past, Sgt. Purrvision commands respect and authority. The retro console buttons that adorn his front panel are not just for show\u2014they're fully functional, allowing him to execute commands with the precision of a seasoned gamer. To complete his authoritative ensemble, Sgt. Purrvision dons a pair of slick shades, shielding his enigmatic eyes from the blinding flash of victory. As a member of the elite WebtrES club, he's not only a figure of nostalgia but also a beacon of coolness and control in the ever-evolving digital landscape.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/600",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0600.gif",
+  "name": "Sgt. Purrvision",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

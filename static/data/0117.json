@@ -1,0 +1,24 @@
+{
+  "description": "Born in the pixelated alleyways of Cyberville, Feline Blaze is a fiery member of the WebtrES club known for her swift navigation through the digital cosmos. With an orange chassis boasting the agility of a cat, buttons tuned to emit purring sonics that calm any software storms, and rocket limbs that propel her at breakneck speeds, she's a force to be reckoned with. Her screen is not just for display; it's equipped with a laser that can cut through even the toughest encryption, lighting up the path for her fellow club members on their daring data heists.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/117",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0117.gif",
+  "name": "Feline Blaze",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

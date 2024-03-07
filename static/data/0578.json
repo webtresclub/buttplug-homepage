@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the digital frontlines of the WebtrES club, Sergeant PixelBrick is a decorated hero known for his valiant exploits in cyberspace. Clad in a camouflaged box with a sturdy helmet, his red and black screen face always displays a determined visage. His classic arms and legs are made for dexterity and strength, essential for quick maneuvers in the heat of battle. Every button on his uniform is a badge of honor, each press recounting tales of victory. Whether leading his fellow pixel warriors into the fray or standing guard over the digital realm, Sergeant PixelBrick is always at the ready to defend his virtual home from any cyber threats.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/578",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0578.gif",
+  "name": "Sergeant PixelBrick",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

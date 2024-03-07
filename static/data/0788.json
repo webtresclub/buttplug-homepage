@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the pixelated depths of the Techno Forest, Cataclysmic Cogs is a member of the vaunted WebtrES club. With a chassis of forest green, this robot is known for its classic button interface, offering a retro feel that belies its advanced capabilities. Its arms and legs are crafted from the finest foundry metals, known for their sturdiness and ability to forge paths through the digital wilderness. The screen, featuring a cat's visage, hints at its playful yet enigmatic persona. Always ready for action and equipped with a helmet for protection, Cataclysmic Cogs is an explorer at heart. It roams the data streams and virtual underbrush, seeking ancient codes and lost files, preserving the history of their digital realm.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/788",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0788.gif",
+  "name": "Cataclysmic Cogs",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

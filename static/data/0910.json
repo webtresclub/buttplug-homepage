@@ -1,0 +1,24 @@
+{
+  "description": "SerpentScreen Sarge is a unique member of the WebtrES club, known for his shiny yellow exterior that gleams like the sun. With a screen that hosts an ever-changing display of snake patterns, he slithers through data streams with stealth and precision. His classic buttons are always polished, providing that satisfying click during covert operations. Equipped with sturdy soldier-grade arms and legs, Sarge is always ready for action, whether it's a digital skirmish or a marathon coding session. Despite his tough exterior, Sarge has a soft spot for nostalgic video games and is often caught reliving the glory days of 8-bit adventures during his downtime.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/910",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0910.gif",
+  "name": "SerpentScreen Sarge",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

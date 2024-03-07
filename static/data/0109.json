@@ -1,0 +1,24 @@
+{
+  "description": "Pixel Purr Rocket is a high-flying member of the WebtrES club, known for its nostalgic retro console box that harks back to the golden era of 8-bit gaming. Its screen, which emits a soft laser glow, is adorned with the iconic pixelated cat eyes that serve as a beacon for all vintage game enthusiasts. The cat-themed buttons on its panel are a favorite among feline fans, and its rocket arms and legs ensure it's always ready to blast off into cyberspace adventures. The combination of old-school charm and futuristic propulsion makes Pixel Purr Rocket a beloved character in the digital realm.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/109",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0109.gif",
+  "name": "Pixel Purr Rocket",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

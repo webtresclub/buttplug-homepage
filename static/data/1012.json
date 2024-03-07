@@ -1,23 +1,24 @@
 {
-  "description": "Circuit is an oscilloscope-themed robot who is a proud member of the WebtrES club. With its forest green box, cat buttons, arms and legs made from foundry materials, and a laser screen, Circuit is a unique and eye-catching robot that stands out in any room. Its design combines elements of nature, technology, and creativity. Circuit's purpose is to explore the digital realm and help its club members navigate the complexities of the virtual world.",
-  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/1012.gif",
+  "description": "Once a mere piece of smart equipment in an abandoned cybernetics lab, Feline Forge gained self-awareness after a freak lightning storm. With arms and legs forged from the strongest metals, this bot escaped into the wilderness. Its forest green box, etched with the wear of time, camouflages it in the lush undergrowth, while its cat-button interface purrs with a mind of its own. The laser screen eyes, once used for high-precision crafting, now help it navigate the dark woods and spot resources from afar. Armed with a trustworthy axe in one hand and a flaming torch in the other, Feline Forge became a legend amongst the WebtrES club members as the protector of the forest's secrets and the master of survival.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/1012",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/1012.gif",
+  "name": "Feline Forge",
   "attributes": [
     {
       "trait_type": "Box",
-      "value": "forestGreen"
+      "value": "Forestgreen"
     },
     {
       "trait_type": "Buttons",
-      "value": "cat"
+      "value": "Cat"
     },
     {
-      "trait_type": "ArmsAndLegs",
-      "value": "foundry"
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
     },
     {
       "trait_type": "Screen",
-      "value": "laser"
+      "value": "Laser"
     }
-  ],
-  "name": "Circuit"
+  ]
 }

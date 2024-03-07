@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from a digital realm where arcade battles are the norm, Major Whiskerbyte is a feline force to be reckoned with. His retro console buttons flash with the experience of a thousand pixelated skirmishes, and his red-black screen eyes glow with the data of defeated foes. Adorned with a battle-scarred helmet, this soldier among boxes has a fur pattern that camouflages him in the urban digital jungle. His legs and arms, though blocky, are built for agility and precision, allowing him to maneuver through the most treacherous of levels. As a proud member of the WebtrES club, Major Whiskerbyte stands as a guardian of the old-school gaming ethos, always ready to leap into the next adventure with his joystick at the ready.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/205",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0205.gif",
+  "name": "Major Whiskerbyte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

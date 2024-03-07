@@ -1,0 +1,24 @@
+{
+  "description": "Born in the pixelated valleys of WebtrES, Catalyst Serpentron is an extraordinary creature, a fusion of feline tenacity and serpentine wisdom. With a body shaped like a retro computer box adorned with pointy cat ears, Catalyst Serpentron's eyes gleam with the mysteries of ancient code. The creature's arms and legs are made of rocket boosters, a testament to its explosive agility and ability to soar above the digital landscape. The buttons that align its front resemble a cat's soft paws, yet hold the power to launch a thousand functions with a single press. Its screen, alive with the essence of a snake, flickers with cryptic symbols and vibrant hues, a window into the vast knowledge Catalyst Serpentron guards. This enigmatic member of the WebtrES club is known for its rapid problem-solving skills, often leaving a trail of glittering pixels in its wake as it moves at light-speed through the net's infinite layers.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/415",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0415.gif",
+  "name": "Catalyst Serpentron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

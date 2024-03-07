@@ -1,0 +1,28 @@
+{
+  "description": "Emerging from the smoldering foundries of the WebtrES world, Forge Master Flex is a legendary figure among the digital artisans. With arms and legs forged from the strongest virtual steel, and a screen that flickers with the intensity of red and black flames, Flex is known for his exceptional crafting skills. His orange box-like body, adorned with retro console buttons, harks back to a bygone era where 8-bit graphics were the height of sophistication. The helmet that sits atop his screen is not merely for protection; it's a symbol of his leadership in the great Pixel Wars, where he led his kin to victory against the Corrupted Glitches. Now, as a mentor to the up-and-coming pixel-smiths, Forge Master Flex spends his time creating and bestowing powerful artifacts that could turn the tides of digital destinies.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/137",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0137.gif",
+  "name": "Forge Master Flex",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the digital barracks of WebtrES Club, Sergeant Whiskerframe is known for his disciplined code and pixel-perfect precision. With a classic box design reminiscent of the early computing era, he wears his cat button medals with pride, each one awarded for debugging prowess. His arms and legs are built from the finest soldier sprites, showcasing his readiness for any cyber skirmish. The red and black screen flickers with the intensity of a warrior, yet displays the charm of a feline companion. Don't let his cool shades addon fool you\u2014behind those dark pixels lies a processing core that calculates every move with tactical genius.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/235",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0235.gif",
+  "name": "Sergeant Whiskerframe",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the digital front lines of Cyberia, Major WhiskerByte is known for his strategic prowess and feline reflexes. With a soldier's box chassis adorned in camouflage and topped with a sturdy helmet, he commands his battalion of pixelated warriors with the grace of a cat and the discipline of a seasoned officer. His classic button interface clicks with authority, setting the tone for orderly conduct among his ranks. The Major's screen displays a stoic cat visage, striking fear into the hearts of malware marauders. Despite his tough exterior, WhiskerByte is a caring leader, ensuring every member of his WebtrES club is well-maintained and ready for action. Rumor has it that he was once a top-secret defense program, but now he uses his skills to keep the peace in the digital world, one byte at a time.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/28",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0028.gif",
+  "name": "Major WhiskerByte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

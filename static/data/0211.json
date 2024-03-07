@@ -1,0 +1,24 @@
+{
+  "description": "Forged from the galactic forges of shinyBlack, LaserBox Rocketeer is a high-flying member of the WebtrES club known for its sleek design and powerful rocket arms and legs. With a screen that emits powerful laser beams to carve through obstacles, this cybernetic champion was once a space explorer's sidekick. After a supernova event granted it self-awareness and incredible energy propulsion abilities, LaserBox Rocketeer now zooms through the cosmos, offering assistance to stranded starships and performing interstellar acrobatics. Its classic button configuration harks back to an era of arcade supremacy, giving it a nostalgic charm amidst its futuristic features.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/211",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0211.gif",
+  "name": "LaserBox Rocketeer",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

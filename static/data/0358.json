@@ -1,0 +1,28 @@
+{
+  "description": "Born in the pixelated fires of the WebtrES club, Serpentor Forge is a being not of flesh and blood but of steel and circuits. With a shiny black box for a torso, this character stands out with its sleek design that reflects light like the darkest obsidian. Its buttons are adorned with intricate cat designs, a nod to the digital feline companions that roam the cyber alleys of its home world. Serpentor's arms and legs are forged from the strongest foundry metals, capable of withstanding extreme heat and pressure, suggesting a past as a blacksmith in the digital underbelly. But it's the snake screen that truly captures the essence of Serpentor: a hypnotic display that can entrance anyone who dares gaze upon it, hinting at forgotten secrets and untold power. This entity wears a helmet with pride, a relic from a virtual battlefield where it once led legions of code warriors into the fray. Serpentor Forge may not be human, but the tales of its exploits are etched into the code of the WebtrES club forever.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/358",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0358.gif",
+  "name": "Serpentor Forge",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

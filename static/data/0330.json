@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the neon-lit alleyways of Pixel City, RetroFeline Visionary is a quirky member of the exclusive WebtrES Club. With a classic box design reminiscent of the gaming consoles of yore, this character epitomizes the charm of old-school gaming. Its retro console buttons hark back to a time when gameplay revolved around simplicity and skill. The cat-like arms and legs hint at its agile and playful nature, always ready to pounce on the next big adventure. However, life hasn't always been easy for RetroFeline Visionary; its screen witnessed one too many intense gaming sessions, resulting in a distinctive crack that now tells a story of resilience and relentless fun. To top it off, the glasses it dons are not just a fashion statement but a nod to the wisdom gained from countless hours deciphering the secrets of pixelated worlds. This character may have a few glitches, but it holds a cache of nostalgia and is a beloved figure among virtual collectors and old-school gamers alike.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/330",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0330.gif",
+  "name": "RetroFeline Visionary",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

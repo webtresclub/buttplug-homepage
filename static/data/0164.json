@@ -1,0 +1,28 @@
+{
+  "description": "Emerging from the depths of the Silicon Forest, ShadeTronik is a classic bot with a timeless sense of style. Cloaked in a sleek forest green casing, this bot has a penchant for remaining cool under pressure, a trait reflected in its choice of dark, mysterious shades. With its classic arms and legs built for both durability and agility, ShadeTronik navigates through the digital wilderness with ease. The buttons on its chassis are reminiscent of the golden age of technology, each one programmed with a different skill that makes it an indispensable member of the WebtrES club. Whether it's crunching data or throwing shade, ShadeTronik does it with an effortless flair that has earned it a reputation as the club's go-to bot for any cyber task.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/164",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0164.gif",
+  "name": "ShadeTronik",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

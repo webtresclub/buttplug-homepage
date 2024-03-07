@@ -1,0 +1,28 @@
+{
+  "description": "Born in the pixelated alleyways of WebtrES City, Sergeant WhiskerBytes rose through the ranks of the Cyber Feline Brigade with his cunning strategies and agile maneuvers. Donning his iconic camouflage box and equipped with classic limbs, he blends seamlessly into both digital and urban jungles. His screen face, always displaying the stoic expressions of a cat, conceals a sharp mind capable of outsmarting any opponent. Known for his signature shades that reflect the glint of a warrior, WhiskerBytes is a true soldier of the virtual world, ever ready to pounce on threats to the club's security and integrity.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/470",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0470.gif",
+  "name": "Sergeant WhiskerBytes",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

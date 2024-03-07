@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the dense digital forests of WebtrES, SerpentByte is a unique entity known for his forest green exterior and classic button configuration. This cybernetic organism was once a standard model for data analysis, but after a bizarre encounter with an ancient algorithm, he found himself upgraded with rocket arms and legs, capable of propelling him through the datascape at incredible speeds. His screen displays the mysterious and hypnotic patterns of a digital snake, a trait that mesmerizes all who look upon it. SerpentByte is now a legend among the WebtrES club, a symbol of transformation and the enigmatic power of hidden knowledge within the network.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/345",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0345.gif",
+  "name": "SerpentByte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

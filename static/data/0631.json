@@ -1,0 +1,24 @@
+{
+  "description": "Forged in the digital foundries of WebtrES, Sergeant Whiskerblast is the epitome of feline military precision mixed with electronic warfare expertise. With an orange chassis that can withstand the harshest of cyber battles, this soldier is equipped with cat-themed command buttons that purr with authority. At the heart of its operations lies a high-tech laser screen capable of scanning for vulnerabilities and executing lightning-fast countermeasures. Sergeant Whiskerblast is on a mission to safeguard the club's data realm, ensuring that every byte is protected with the courage of a lion and the agility of a cat.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/631",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0631.gif",
+  "name": "Sergeant Whiskerblast",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

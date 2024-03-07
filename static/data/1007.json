@@ -1,23 +1,24 @@
 {
-  "description": "Retro Rosso is a charming oscilloscope-themed robot. With its vibrant red color reminiscent of the classic Ferrari Rosso Corsa, this robot is a true head-turner. Equipped with a retro console for buttons and a pair of arms and legs designed in a hand-down style, Retro Rosso is a perfect blend of vintage aesthetics and modern technology. Its screen displays the iconic game of Snake, adding a touch of nostalgia to its overall design. Retro Rosso is a proud member of the WebtrES club, where it showcases its unique oscillating abilities and contributes to the advancement of the digital realm.",
-  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/1007.gif",
+  "description": "In the neon-lit corners of the WebtrES club, a legend was coded into existence. Pixel Viper, a marvel of the 8-bit era, boasts a striking rossoCorsa chassis that turns heads faster than a glitch in the system. With buttons reminiscent of a retroConsole, they offer a tactile nostalgia trip that resonates with gamers across generations. Despite their handDown posture suggesting a casual demeanor, Pixel Viper is a formidable presence in any digital showdown. What sets them apart is not just their vibrant aesthetics, but the cunning intelligence displayed on their screen, often showcasing a game of snake\u2014a tribute to their namesake and a constant reminder of their swift and strategic mindset. Having evolved from the pixelated depths of arcade history, Pixel Viper has become the unofficial mascot for old-school enthusiasts and the ambassador of classic style within the club.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/1007",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/1007.gif",
+  "name": "Pixel Viper",
   "attributes": [
     {
       "trait_type": "Box",
-      "value": "rossoCorsa"
+      "value": "Rossocorsa"
     },
     {
       "trait_type": "Buttons",
-      "value": "retroConsole"
+      "value": "Retroconsole"
     },
     {
-      "trait_type": "ArmsAndLegs",
-      "value": "handDown"
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
     },
     {
       "trait_type": "Screen",
-      "value": "snake"
+      "value": "Snake"
     }
-  ],
-  "name": "Retro Rosso"
+  ]
 }

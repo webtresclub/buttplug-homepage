@@ -1,0 +1,28 @@
+{
+  "description": "Born in a world of pixels and nostalgia, Retro Rexter is the coolest character you'll meet from the WebtrES club. With a body that gleams like a shiny yellow arcade cabinet, he's a walking throwback to the golden age of gaming. His arms and legs are of the classic variety, reminiscent of the sturdy joysticks and buttons that endured endless hours of enthusiastic gameplay. The screen that makes up his face constantly plays the legendary 'Snake' game, a testament to his love for the classics. To top it off, his retro console buttons add a functional charm, as if he's ready to spring to life and challenge you to a high-score duel at any moment. Not to be outdone in the style department, Rexter sports a pair of ultra-cool shades, which he claims are a nod to the mysterious arcade wizards of yore. Despite his retro vibe, Rexter is all about making new friends and sharing his love for all things vintage digital. Don't let his cool demeanor fool you; inside that pixelated exterior beats the heart of a true gaming companion.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/75",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0075.gif",
+  "name": "Retro Rexter",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

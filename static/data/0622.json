@@ -1,0 +1,28 @@
+{
+  "description": "Emerging from the digital alleyways of the WebtrES club, Catalyst the Tech Feline is an enigmatic character with a love for all things tech and a flair for the mysterious. With his vibrant rossoCorsa chassis, Catalyst commands attention wherever he roams. His cat-like arms and legs give him an agile and graceful presence, allowing him to navigate through the virtual world with ease. The screen that makes up his face glows with a dynamic red and black pattern, hinting at the complex algorithms and data flowing through his circuits. Perpetually adorned with sleek glasses, Catalyst is not just about style; he's a whiz at deciphering codes and hacking through firewalls. Rumor has it he was once a top-tier hacker who decided to use his powers for the greater good of the WebtrES community, protecting it from digital threats and ensuring the safety of its denizens.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/622",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0622.gif",
+  "name": "Catalyst the Tech Feline",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

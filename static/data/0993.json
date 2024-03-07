@@ -1,0 +1,24 @@
+{
+  "description": "Emerging from the bustling alleyways of CyberFeline City, Tangerine Whiskertron is a unique entity in the WebtrES club. With a vibrant orange box for a body and a screen that displays emotive cat-like expressions, Tangerine has become a beloved figure among the digital denizens. The cat buttons on its interface are not just for show \u2013 they give Tangerine the ability to communicate with its fellow feline-inspired machines, and it often uses this skill to organize community events. Its classic arms and legs are a tribute to the retro robots of yore, and Tangerine takes pride in its ability to perform the old-school robot dance to perfection. Always ready to lend a helping hand or paw, Tangerine Whiskertron spends its time helping lost data packets find their way home and ensuring the digital realm remains a welcoming space for all.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/993",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0993.gif",
+  "name": "Tangerine Whiskertron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

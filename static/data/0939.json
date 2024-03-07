@@ -1,0 +1,24 @@
+{
+  "description": "Once hailed as the sleekest entertainment console of its time, Catalyst Cracklepaw was the centerpiece of every party and the heartthrob of arcade cabinets across the land. Its classic boxy charm and quirky cat buttons made it the envy of competitors. However, during a heated round of 'Paw Pounce Extravaganza', an overzealous player delivered a critical high-five to its screen. Despite the spiderweb crack now adorning its once-pristine display, Catalyst refused to let this dampen its spirits. Arms forever outstretched in a welcoming gesture, it now hosts legendary retro game nights and storytelling sessions. Its broken screen, a testament to impassioned play and the never-ending quest for high scores, has become its badge of honor, inspiring all in the WebtrES club to embrace their quirks and celebrate their stories.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/939",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0939.gif",
+  "name": "Catalyst Cracklepaw",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the pixelated corners of the WebtrES club, Cataclysmic Rocketpaws, or 'Rocket' to his friends, is an NFT with a story as unique as his appearance. With a box shaped like a cat and matching buttons, Rocket once served as the mascot for a retro video game arcade. After a freak electrical storm, his screen shattered, not just physically but through the dimensions of digital and analog realities. Now equipped with rocket arms and legs, he zooms through the cybernetic skies, seeking bits and bytes to repair his screen and continue his quest to be the ultimate gaming companion. Despite his broken screen, he beams with an adventurous spirit, leaving a trail of pixel dust in his wake.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/436",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0436.gif",
+  "name": "Cataclysmic Rocketpaws",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

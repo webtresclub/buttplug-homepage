@@ -1,0 +1,28 @@
+{
+  "description": "Sgt. Spectacle is a valiant member of the WebtrES club, known for his striking rossoCorsa box and the soldier-style buttons that adorn his frame. Once a frontline messenger bot in the Great Data Wars, he now enjoys a more peaceful existence, though his screen remains a testament to past skirmishes. Despite the cracks in his digital visage, his intellect remains unscathed, shielded behind a pair of resilient glasses that have seen more than their fair share of action. His arms and legs are the classic model\u2014reliable and built to last. Sgt. Spectacle may have retired from the heat of battle, but his stories of digital heroism live on, inspiring a new generation of bots in the WebtrES club.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/527",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0527.gif",
+  "name": "Sgt. Spectacle",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

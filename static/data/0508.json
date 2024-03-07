@@ -1,0 +1,24 @@
+{
+  "description": "Sergeant Pixel once stood as a vanguard in the digital world, tirelessly defending against malware invasions and software skirmishes. Equipped with classic buttons of unyielding functionality and limbs forged from the finest code, he braved countless battles. His screen, now cracked, serves as a mosaic of his valor, each fracture a tale of resilience. Despite the damage, his spirit remains unbroken. He now mentors young programs in the WebtrES club, instilling in them the virtues of courage and the importance of maintaining strong firewalls, all while reminiscing about the glitched-out battles of his storied past.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/508",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0508.gif",
+  "name": "Sergeant Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

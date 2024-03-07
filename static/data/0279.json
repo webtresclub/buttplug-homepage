@@ -1,0 +1,28 @@
+{
+  "description": "Catalyst Cal is a quirky member of the WebtrES club, known for his classic box design and iconic red and black screen that illuminates like a beacon in the digital realm. His cat-like arms and legs give him a peculiar agility, allowing him to navigate both virtual spaces and the physical world with ease. Cal is rarely seen without his trusty glasses, which aren't just for show; they're equipped with advanced scanning technology to help him analyze codes and find vulnerabilities in systems. Despite his serious tech skills, Cal has a playful side and enjoys batting around digital yarn in his downtime. His classic buttons may look retro, but they control state-of-the-art software that keeps him at the cutting edge of the club's activities.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/279",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0279.gif",
+  "name": "Catalyst Cal",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

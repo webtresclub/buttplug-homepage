@@ -1,0 +1,28 @@
+{
+  "description": "Once a celebrated hero of the Pixelated Battlegrounds, Sergeant WhiskerFrame now spends his days as a retro arcade guardian. Decked out in his iconic rossoCorsa chassis, he reminisces about the golden age of gaming with his retroConsole button interface that attracts both the young and the nostalgic. His cat screen face, known for its nine lives in combat, now flashes with the joy of victory screens and high scores. Donning shades, he keeps a cool demeanor, but make no mistake, his soldier-grade arms and legs are always ready to leap into action should the call of duty arise once again. Part of the elite WebtrES club, he's the go-to for anyone looking to relive the glory days and experience the thrill of old-school gaming.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/623",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0623.gif",
+  "name": "Sergeant WhiskerFrame",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

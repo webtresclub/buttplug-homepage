@@ -1,0 +1,24 @@
+{
+  "description": "Born in the heart of an 80s arcade, PixelPython is a charming member of the WebtrES club with a love for all things retro. His box is fashioned after a classic gaming console, complete with timeless 'classic' buttons that hold the secrets to mastering the most iconic video games. PixelPython's screen perpetually plays a hypnotic game of snake, a nod to his namesake and a tribute to simpler times. But don't be fooled by his retro vibes\u2014those rocket arms and legs are state-of-the-art and allow him to blast off on digital adventures, bringing a touch of nostalgia to every corner of the metaverse. PixelPython is a bridge between generations, uniting old-school gamers and new-age netizens in a pixelated paradise.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/219",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0219.gif",
+  "name": "PixelPython",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

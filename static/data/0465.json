@@ -1,0 +1,24 @@
+{
+  "description": "Once a valiant warrior of the pixelated battlefields, Commander PixelHammer was known for his legendary exploits in the 8-bit wars. Forged in the fiery depths of the Foundry, his arms and legs are as sturdy as the toughest alloys. He wields his trusty hammer with a hero's grip, having dismantled many an enemy console with precision strikes. But his screen, a casualty of a fierce confrontation, now displays a spiderweb of cracks \u2014 a badge of honor and a testament to his resilience. Though he's retired from active duty, he remains a celebrated figure in the WebtrES club, where he regales young circuits with tales of retro console battles and the glory days of arcade skirmishes.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/465",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0465.gif",
+  "name": "Commander PixelHammer",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

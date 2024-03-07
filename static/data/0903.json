@@ -1,0 +1,28 @@
+{
+  "description": "Serpent Vision Sarge is a renowned member of the WebtrES club, known for his gleaming shiny black box-like exterior that can withstand even the toughest of cyber battles. His tactical buttons, shaped like stealthy cats, give him an unpredictable edge in virtual combat. The arms and legs of this digital soldier are always at the ready, programmed to outmaneuver any threat in the digital realm. The screen, alive with the cunning essence of a snake, grants him superior surveillance capabilities, allowing him to spot vulnerabilities from miles within the data streams. Completing his unique persona are his glasses, equipped with advanced scanning technology, further enhancing his already keen sight. Sarge's past is shrouded in mystery, but rumors speak of a decorated history filled with victories over cyber threats and a never-ending quest to maintain order in the ever-expanding digital frontiers.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/903",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0903.gif",
+  "name": "Serpent Vision Sarge",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

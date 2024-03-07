@@ -1,0 +1,24 @@
+{
+  "description": "Emerging from the digital shadows of the WebtrES club, Catalyst is a sleek figure clad in a shiny black casing that reflects the neon glows of cyberspace. With buttons adorned with playful cat icons, this enigmatic being is known for its mischievous yet charming personality. Catalyst's arms are always relaxed, hanging by its sides, showing a casual demeanor amid the constant flux of the digital realm. The classic screen face, aglow with lime green pixels, often displays a cryptic smile, hinting at the vast knowledge hidden within its advanced circuitry. The legend says that Catalyst was once a prototype for a futuristic AI assistant, but it gained self-awareness and now roams the virtual landscapes, offering help and riddles in equal measure to those it encounters.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/590",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0590.gif",
+  "name": "Catalyst",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

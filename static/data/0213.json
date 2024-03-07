@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the retro corners of the digital universe, Sergeant Pixel is a battle-hardened warrior with a love for old-school gaming. His orange boxy exterior is a nod to the classic game consoles of yesteryear, while the retro console buttons he proudly wears are not just for show\u2014they're fully functional, capable of executing precise maneuvers in any virtual battlefield. His arms and legs are of a soldier's build, reflecting his disciplined and strategic approach to challenges. His screen features the cunning gaze of a snake, a tribute to one of the earliest and most iconic video games. Completing his cool demeanor, Sergeant Pixel dons sleek shades that shield his calculating eyes from the glare of his enemies. He's a part of the esteemed WebtrES club, where he's both a defender of digital nostalgia and an envoy of modern-day pixel warfare.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/213",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0213.gif",
+  "name": "Sergeant Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

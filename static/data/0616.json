@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the foundry district of WebtrES city, Catalyst the Crafty is a feline-inspired bot with a knack for creation and a mysterious past. Sporting a robust box with cat-like features and classic screen displaying his curious green gaze, he maneuvers with his sturdy foundry arms and legs. With buttons as playful as a cat's whims and a helmet add-on from his secret collection, Catalyst is often seen tinkering with gadgets and gizmos. Rumor has it that his helmet is a token from a legendary craftsman he once saved from a dire predicament. Catalyst is a beloved and enigmatic member of the WebtrES club, always ready to lend a mechanical hand or spin a yarn from his many adventures.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/616",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0616.gif",
+  "name": "Catalyst the Crafty",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

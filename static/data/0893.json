@@ -1,0 +1,24 @@
+{
+  "description": "Emerging from the digital underbelly of the WebtrES club, Cattus Viperidae is a slick character known for its shiny black enclosure and classic button controls. Its creator, an eccentric coder with a passion for the animal kingdom, combined the agility and grace of a cat with the mesmerizing patterns of a snake to form this unique creature's arms, legs, and screen interface. Cattus Viperidae slithers through cyberspace, charming other NFT entities with its hypnotic screen gaze and sleek, dark aesthetic. Despite its feline agility and serpentine charm, Cattus Viperidae is a true team player in the WebtrES realm, always ready to lend a paw or offer a sly piece of advice with its characteristic flickering screen.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/893",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0893.gif",
+  "name": "Cattus Viperidae",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

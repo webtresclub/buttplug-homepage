@@ -1,0 +1,28 @@
+{
+  "description": "Born in the neon-lit alleyways of Cyberville, Catalystic Paws is a quirky member of the WebtrES club known for its shiny yellow chassis and a screen that flickers with red and black static, echoing the untamed heart of the digital frontier. The cat buttons on its console are a tribute to its nine lives as a hacker, coder, and tinkerer, each press unlocking secrets from the depths of the cybernet. With glasses firmly perched, Catalystic Paws sees through the clutter of code, always ready to lend a hand\u2014or paw\u2014to those in need of guidance through the ever-expanding maze of the metaverse. Despite its hand-down pose suggesting a relaxed demeanor, this NFT is always on the move, bringing a touch of mischief and a byte of curiosity to every encounter.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/570",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0570.gif",
+  "name": "Catalystic Paws",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

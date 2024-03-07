@@ -1,0 +1,24 @@
+{
+  "description": "From the digital trenches of the WebtrES club, Sergeant WhiskerByte stands tall and proud. With a classic box frame that harkens back to the dawn of computing and a screen that displays an unyielding cat face, WhiskerByte is the embodiment of feline determination fused with military precision. His button interface is rumored to emit a soft meow with each press, a quirk that belies his disciplined demeanor. The arms and legs of a soldier suggest a history of service in the cyber battlefields, where he commanded legions of code against the onslaught of bugs and glitches. Despite his tough exterior, Sergeant WhiskerByte has a soft spot for his fellow WebtrES club members, always ready to lend a hand\u2014or a paw\u2014in their digital endeavors.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/916",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0916.gif",
+  "name": "Sergeant WhiskerByte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

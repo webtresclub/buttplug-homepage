@@ -1,0 +1,24 @@
+{
+  "description": "RocketByte Retroblast was once the pinnacle of extraterrestrial arcade entertainment, hailed from a distant star system where games powered the core of their culture. Encased in a shiny yellow chassis with retro console-inspired buttons, RocketByte was a legend among gaming bots, inviting players to engage with the most thrilling intergalactic adventures. Tragically, during a cosmic event, a stray asteroid struck RocketByte's screen, leaving a spiderweb of cracks that marked the end of its gaming era. Undeterred, RocketByte repurposed its arms and legs into rocket boosters, embarking on a new adventure across the cosmos. Now a member of the elite WebtrES club, RocketByte shares tales of pixelated heroes and offers sage advice to young gamers, all while searching for the elusive screen technician who can restore its former arcade glory.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/908",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0908.gif",
+  "name": "RocketByte Retroblast",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

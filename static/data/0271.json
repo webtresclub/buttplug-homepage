@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the smoldering foundries of the WebtrES club, ForgeMaster Flex is known for his shiny black exterior that reflects the fiery sparks of his craft. With classic button configurations that reminisce the bygone era of vintage machinery, and arms and legs forged from the strongest metals, he is the embodiment of strength and precision. Equipped with a pair of heat-resistant glasses, ForgeMaster Flex is never without his trusty hammer, shaping the digital ethers into masterpieces of functional art. His classic screen flickers with the wisdom of ages past, and his presence in the club is as steadfast as the very structures he creates.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/271",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0271.gif",
+  "name": "ForgeMaster Flex",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

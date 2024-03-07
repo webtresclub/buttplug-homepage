@@ -1,0 +1,24 @@
+{
+  "description": "Born in the heart of an 8-bit universe, RetroRocket Ralf is a member of the prestigious WebtrES club and notorious for his love of classic video games and high-speed space travel. With a chassis crafted from the finest pixelated retro consoles, Ralf's screen glows with the intensity of a thousand arcade fires. His arms and legs are fitted with state-of-the-art rocket boosters that allow him to soar through cyberspace, leaving a trail of pixel dust in his wake. Ralf's buttons, reminiscent of a beloved retro console, are not just for show; they give him the ability to warp through gaming dimensions at will. The laser screen he proudly sports is not only a testament to his gaming prowess but also his means of interacting with the virtual worlds he loves so much. Ralf is a digital nomad, constantly in search of the next great adventure, be it a forgotten arcade gem or a new planet in a distant galaxy.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/760",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0760.gif",
+  "name": "RetroRocket Ralf",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

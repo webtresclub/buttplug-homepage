@@ -1,0 +1,24 @@
+{
+  "description": "Cattivo Corsa hails from the electric city of Pixelville, a vibrant metropolis pulsing with digital life. With a chassis painted in the vivid hue of rosso corsa, this bot stands out in any crowd. Cattivo's screen flickers with a unique red and black pattern that embodies its love for high speed and agility, much like the sports cars it idolizes. The cat-shaped buttons on its console reflect its quirky sense of humor and a love for feline companions, often meowing in binary code to communicate with its fellow WebtrES club members. Despite its racing-inspired design, Cattivo Corsa is programmed with a classic set of arms and legs, giving it a retro charm that's beloved by nostalgic enthusiasts. Cattivo's background story is filled with tales of cyber races and alley cat adventures \u2013 a perfect fusion of speed and playfulness.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/598",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0598.gif",
+  "name": "Cattivo Corsa",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Sergeant WhiskerByte stands out with his shiny yellow casing, a beacon of resilience on the digital battlefield. His screen flickers with red and black hues, reflecting his tactical prowess and readiness for any cyber conflict. Adorning cat button embellishments, he's as agile and alert as a feline, with a sense of strategy sharpened through countless virtual skirmishes. Equipped with robust soldier-like limbs, he's the first to march into the fray, offering a formidable presence that both inspires and intimidates. The glasses addon isn't just for show; they provide him with augmented reality insights, making him a valuable asset to the WebtrES club. Behind his pixelated gaze lies a wealth of experience and an unwavering commitment to his squad.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/756",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0756.gif",
+  "name": "Sergeant WhiskerByte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

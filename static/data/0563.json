@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the digital alleyways of WebtrES club, Professor Meowington is a distinguished feline-esque NFT with a penchant for knowledge and a curiosity that never wanes. Sporting an orange boxy exterior that's as vibrant as his intellect, he's easily recognized by his characteristic cat-themed buttons and limbs. His screen, which emulates the attentive gaze of a cat, is rarely seen without the scholarly glasses perched upon it. With a tail that flicks in thought and paws that are ever-ready to tap into the vast expanse of the internet, Professor Meowington is the go-to intellectual for all things crypto and beyond. Whether he's lecturing on blockchain basics or exploring the latest in NFT trends, his insights are as sharp as his claws\u2014metaphorically speaking, of course.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/563",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0563.gif",
+  "name": "Professor Meowington",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

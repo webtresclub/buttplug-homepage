@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the glowing forges of the pixelated dimension, ForgeMaster Pixel is a legendary craftsman known for shaping the very digital realms where the WebtrES club members reside. With arms and legs forged from the strongest code steel, this retro-console bot sports a shiny black exterior that radiates sleekness in the neon-lit alleys of Cyberville. Its screen, a classic display, often flickers with patterns that tell tales of ancient digital lore. Rumor has it that ForgeMaster Pixel was once a simple arcade machine, until a cosmic glitch imbued it with sentience and unparalleled crafting abilities. To this day, it hammers away at the building blocks of virtual worlds, ensuring the stability and thrills of the pixelated universes it calls home.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/203",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0203.gif",
+  "name": "ForgeMaster Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Purrvisor Catzworth is a quirky member of the WebtrES club, known for his distinctive forest green exterior and the adorable cat-shaped buttons that seem to give a gentle purr when pressed. His arms and legs are always relaxed, hanging down as if he's just sauntered in from a casual stroll in the cybernetic park. The classic screen face exudes a sense of nostalgia, reminding onlookers of the early days of pixel art and digital exploration. But don't let his old-school charm fool you; Catzworth is a modern thinker. The intellectual glasses perched on his screen are not just for show\u2014they're a symbol of his thirst for knowledge and his role as the club's unofficial strategist. Whether he's plotting the next big trend in the digital art scene or simply enjoying a warm spot on the motherboard, Purrvisor Catzworth is a beloved character whose cool demeanor and sharp wit keep the WebtrES club on the cutting edge.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/683",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0683.gif",
+  "name": "Purrvisor Catzworth",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

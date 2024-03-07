@@ -1,0 +1,24 @@
+{
+  "description": "Serpurr Screen is a quirky NFT from the WebtrES club, known for her hissing wit and charming purr-sonality. Born in the pixelated back-alleys of the digital art world, this creature has a box shaped like a cat's head, complete with pointy ears. Her buttons mimic a cat's paws, giving her a playful edge. The classic arms and legs suggest a timeless appeal, reminiscent of the early days of gaming. The most captivating feature, however, is her screen which displays a hypnotic snake pattern, mesmerizing onlookers and hinting at her love for retro games. Serpurr Screen spends her days weaving through the bustling data highways, leaving a trail of enchanted followers.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/606",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0606.gif",
+  "name": "Serpurr Screen",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

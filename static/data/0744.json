@@ -1,0 +1,28 @@
+{
+  "description": "Pixel Purrfection is a legendary member of the WebtrES club known for its retro vibes and tenacity. Once a top-tier arcade machine, Pixel was beloved by gamers for its purrfectly challenging levels and pixel-art mastery. After enduring countless hours of button mashing and high score achievements, its screen sadly cracked during a heated gaming tournament. Refusing to retire, Pixel donned a helmet for protection and continued its journey, now more determined than ever to bring nostalgic joy and entertainment to the digital world. Its hand-down pose symbolizes its nonchalant attitude towards its imperfections, embracing them as part of its unique charm.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/744",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0744.gif",
+  "name": "Pixel Purrfection",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

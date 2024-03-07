@@ -1,0 +1,28 @@
+{
+  "description": "PixelPurr hails from an era when 8-bit was all the rage and pixels were a way of life. With a retro console box for a body and classic button configuration, this cool cat knows every cheat code and hidden level in the gaming world. Flaunting stylish shades, PixelPurr spends evenings cruising through cyber lounges, reminiscing about the golden days of arcade dominance. Despite a demeanor that screams 'too cool for school,' PixelPurr has a soft spot for teaching young gamers the ways of the joystick. With arms and legs stuck in the classic pose, they're always ready to jump into action or strike a pose for the pixel paparazzi.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/680",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0680.gif",
+  "name": "PixelPurr",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

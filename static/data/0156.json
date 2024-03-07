@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the digital realm of Arcadia, Sergeant PixelBlast is a member of the elite WebtrES club, renowned for his tactical prowess and his retro-console interface. Clad in vibrant orange armor, his screen emits a formidable laser display that can both mesmerize and disorient his foes. His soldier-like limbs are the result of countless virtual battles, giving him the agility and strength needed to navigate the complex terrains of cyberspace. His buttons may look like a nod to the gaming systems of yore, but they grant him an array of abilities from hacking into retro systems to commanding legions of arcade sprites. Rumor has it that he is on a quest to secure the sacred pixels that will restore balance to his world, facing off against corrupted code beasts and glitch goblins. Wherever there's a call for a hero with a mix of nostalgia and digital dominance, Sergeant PixelBlast answers with a thumbs-up and a pixelated grin.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/156",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0156.gif",
+  "name": "Sergeant PixelBlast",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

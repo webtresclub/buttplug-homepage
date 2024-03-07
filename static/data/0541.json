@@ -1,0 +1,28 @@
+{
+  "description": "Sgt. PixelShade is a battle-hardened member of the WebtrES club, known for his shiny yellow exterior that reflects his upbeat and indestructible spirit. Once a frontline combat machine, he now wears his broken screen as a badge of honor, showcasing the tough skirmishes he's been through. The classic buttons on his chassis hint at his old-school approach to problem-solving, preferring direct action over convoluted strategies. Despite his tough exterior, Sgt. PixelShade has a soft spot for cool accessories, hence the stylish shades he sports. These shades aren't just for looks; they're equipped with advanced scanning technology, allowing him to assess his surroundings and identify friend from foe in the blink of an eye. With arms and legs built for soldiering, he's always the first to volunteer for the most dangerous missions, protecting his fellow club members with unwavering loyalty and courage.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/541",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0541.gif",
+  "name": "Sgt. PixelShade",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

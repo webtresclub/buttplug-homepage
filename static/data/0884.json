@@ -1,0 +1,28 @@
+{
+  "description": "Deep in the alleyways of Silicon Purrk, RetroByte is a charming NFT with a passion for old-school gaming and a love for feline finesse. As a member of the exclusive WebtrES club, RetroByte boasts a retro console box with a screen showcasing classic green hues, reminiscent of the days when pixels were king. Their cat-like arms and legs add a playful twist, while the button details are inspired by the paws of their favorite four-legged friends. Topping off their unique appearance, RetroByte sports an iconic pair of round glasses, giving them a look of intelligence and sophistication that belies their quirky nature. This NFT thrives on nostalgia and is always ready for a game or two, bringing together cat enthusiasts and retro gamers in a digital world where creativity and fun reign supreme.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/884",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0884.gif",
+  "name": "PixelPaws RetroByte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

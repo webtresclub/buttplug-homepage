@@ -1,0 +1,24 @@
+{
+  "description": "Sergeant Whiskertron is a valiant member of the WebtrES club, known for his distinctive orange box casing and a screen that flickers with the intensity of red and black. His cat-like buttons are always polished and ready for action, a testament to his feline agility and sharp reflexes. With arms and legs built to resemble those of a soldier, he stands as a guardian of the digital realm. His past is shrouded in mystery, but it's rumored that he once led a battalion of cybernetic warriors in a legendary battle to defend the club's network from a massive DDoS invasion. His bravery is encoded in his circuitry, and his camaraderie with his WebtrES comrades is as strong as his titanium alloy limbs.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/108",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0108.gif",
+  "name": "Sergeant Whiskertron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

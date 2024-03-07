@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the pixelated frontiers of the digital realm, Sergeant Whiskerblast is a feline force to be reckoned with. Once a decorated soldier in the WebtrES army, his box is reinforced with tales of valor and victory. His cat buttons may seem adorable, but they're actually coded with secret strategies that have outsmarted many foes. The rocket arms and legs aren't just for show; they propel him through cyberspace at blazing speeds, always ready to defend the netizens from viral villains. The screen of Sergeant Whiskerblast flickers with the hypnotic patterns of a snake, keeping his adversaries frozen in confusion. And those aren't just any glasses; they're his visionary goggles of insight, allowing him to see through any deception. With a pixel-perfect salute, Sergeant Whiskerblast is on a ceaseless patrol, safeguarding the club from the silent threats that lurk in the shadowy corners of the web.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/411",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0411.gif",
+  "name": "Sergeant Whiskerblast",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

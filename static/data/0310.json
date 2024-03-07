@@ -1,0 +1,28 @@
+{
+  "description": "Born in the digital realm of WebtrES, Retro WhiskerByte is an enigmatic character with a shiny yellow box body that harkens back to the golden era of arcade games. His love for old-school gaming is evident in his retro console buttons, which he uses to navigate through the virtual worlds with ease and nostalgia. Sporting a classic screen face, WhiskerByte can display an array of pixelated expressions, which are often hidden behind his signature round glasses\u2014 a nod to the intellectuals and thinkers of his pixelated society. Despite his electronic nature, WhiskerByte has a feline agility, thanks to his sleek cat arms and legs that allow him to pounce on any challenge with grace. He's known amongst the WebtrES club for his sharp wit, quirky charm, and the uncanny ability to land on his feet, no matter the height of the cybernetic tree he's climbed.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/310",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0310.gif",
+  "name": "Retro WhiskerByte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "Once the most advanced gaming console of its era, PixelTrooper was the centerpiece of every kid's living room. After years of intense gaming sessions and one too many rage quits, its screen suffered a catastrophic crack, which ended its primary function. Not one to be obsolete, PixelTrooper enlisted in the Console Corps, becoming a symbol of resilience and toughness. With its shiny black casing reflecting a storied past, retro console buttons that have felt the press of a thousand thumbs, and limbs hardened from battles in digital worlds, this trooper is on a mission to prove that even the broken can find new purpose. Although it no longer entertains through pixels and sprites, PixelTrooper now inspires the WebtrES club with tales of its pixelated glory days and the virtues of durability in the face of obsolescence.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/564",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0564.gif",
+  "name": "PixelTrooper",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

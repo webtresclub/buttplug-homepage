@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the neon-lit alleys of the WebtrES club, Cataclysmic Purr-ogrammer is an eccentric character with a shiny yellow box body that glows like the retro arcades of yore. Known for its cat-like arms and legs, this quirky NFT is both agile and unpredictable. Legend has it that the Purr-ogrammer was once a top-tier gaming console, but after a fierce digital duel that left its screen shattered, it donned shades to hide its battle scars and adopted a mysterious persona. Despite its broken screen, it still flashes pixelated smiles to fellow WebtrES members, reminiscing the glory of its pixel-punching days. Whether it's lounging on a blocky sofa or coding up the next big thing in the WebtrES universe, Cataclysmic Purr-ogrammer is a beloved symbol of resilience and retro cool.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/771",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0771.gif",
+  "name": "Cataclysmic Purr-ogrammer",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

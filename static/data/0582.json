@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the pixelated plains of Retrotopia, Commander Meowtrix is a valiant soldier in the WebtrES club. His box is modeled after the legendary retro consoles of the past, with buttons that feature a playful cat motif, a nod to his nine lives spent mastering ancient video games. His screen glows with the fierce red and black of digital battlefields, and his arms and legs are forever posed in a stance of readiness, reflecting his soldier's training. The glasses he dons are not mere fashion; they are advanced tactical HUDs, capable of scanning the environment for both virtual enemies and real-world quests. Whether leading a charge in a virtual world or strategizing the next big thing in the club, Commander Meowtrix is always the first to push the button to adventure.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/582",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0582.gif",
+  "name": "Commander Meowtrix",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

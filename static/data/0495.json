@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the pixelated alleyways of WebtrES City, Catalyst Redpaw is known for their electrifying charm and quick wit. Originally a part of the vibrant arcade scene, Redpaw was once a sidekick character in a classic cat-themed video game. After a digital anomaly, they gained sentience and a boxy red body with classic buttons, along with classic arms and legs. Embracing their new life, Redpaw became a tech-savvy trickster, tinkering with code and creating mischief. They're always ready to pounce on new opportunities and have become an iconic figure in the WebtrES club, where they're loved for their playful antics and cat-like screen face that can display an array of expressive pixel emotions.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/495",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0495.gif",
+  "name": "Catalyst Redpaw",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

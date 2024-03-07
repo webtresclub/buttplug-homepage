@@ -1,0 +1,28 @@
+{
+  "description": "Sergeant WhiskerByte is a distinguished member of the WebtrES club, known for his uncanny blend of feline agility and military precision. With a classic box chassis that houses his advanced AI, he commands respect from every corner of the digital world. His screen flickers with the intense shades of red and black, a testament to his unyielding spirit and fierce determination. The soldier buttons on his frame aren't just for show; they represent his commitment to the cybersecurity battalion he once led in the Great Data Wars. His arms and legs, borrowed from a cat avatar, give him a unique edge in maneuverability, allowing him to pounce on any cyber threat with cat-like reflexes. Always seen with his tactical glasses, Sergeant WhiskerByte analyzes codes and decrypts puzzles faster than any of his peers, making him an indispensable asset in the fight against virtual villains. Despite his stern appearance, he's a companionable bot with a soft spot for his fellow WebtrES members, often found sharing war stories that are as instructional as they are entertaining.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/106",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0106.gif",
+  "name": "Sergeant WhiskerByte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

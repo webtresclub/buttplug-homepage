@@ -1,0 +1,28 @@
+{
+  "description": "RocketShade is a sleek, high-speed member of the WebtrES club known for his shiny black exterior and red-black screen that glows with intensity. With his classic buttons, he can navigate any interface with ease, making him the go-to tech whiz for all gadget-related challenges. But it's not just his tech-savviness that sets him apart; RocketShade is equipped with rocket-powered arms and legs, allowing for swift departures and an unmatched love for sky-high adventures. Always the coolest character in the room, RocketShade sports a pair of shades that are as much about style as they are about shielding his digital eyes from the bright flashes of his rocket trails. Whether solving complex codes or jetting off to the next mission, RocketShade is the embodiment of speed, smarts, and style.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/688",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0688.gif",
+  "name": "RocketShade",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

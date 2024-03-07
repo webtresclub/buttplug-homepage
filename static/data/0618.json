@@ -1,0 +1,24 @@
+{
+  "description": "Commander Pixelblast is a renowned figure in the WebtrES club, a hero from the golden era of arcade games. Built with a soldier's box and retro console buttons, he commands the digital battlegrounds with the strategy of a chess grandmaster and the precision of a sniper. His arms and legs are powered by state-of-the-art rocket technology, allowing him to maneuver through cyberspace at breakneck speeds. Commander Pixelblast is not only swift but also formidable in combat; his screen can emit powerful laser beams capable of neutralizing any threat to the virtual realms he protects. His backstory involves a mysterious upgrade that transformed an ordinary gaming console into the sentient guardian of the WebtrES club. He now dedicates his processing power to safeguarding the digital frontiers and ensuring that the virtual worlds remain a playground for all.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/618",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0618.gif",
+  "name": "Commander Pixelblast",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

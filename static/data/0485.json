@@ -1,0 +1,28 @@
+{
+  "description": "Commander Pixel hails from the retro-futuristic world of Arcadia, where sentient gaming consoles from the golden era of video games have evolved into the guardians of gaming history. Sporting a sturdy soldier box frame, Commander Pixel is equipped with arms and legs forged from the strongest materials in the foundry of Pixelon, enabling him to handle even the toughest of missions. His classic screen face is rarely seen without the cool shades he earned after a legendary showdown in the Console Wars. His retro console buttons, reminiscent of a bygone era, are not just for show\u2014they're fully functional and provide him with tactical advantages that baffle his modern adversaries. A true hero in the WebtrES club, he wields his pixelated hammer with precision and bravado, always ready to fix a glitch or battle against the corrupt viruses threatening the digital realms.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/485",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0485.gif",
+  "name": "Commander Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

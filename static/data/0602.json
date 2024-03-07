@@ -1,0 +1,24 @@
+{
+  "description": "Once a high-ranking officer in the feline defense forces, Captain Furrzor Laserclaw is a valiant soldier with a shiny rosso corsa chassis that can command attention in any crowd. After a mysterious incident involving a laser screen and a yarn ball, Furrzor's cat-like reflexes were enhanced beyond any feline or machine's dreams. With buttons that can emit a soothing purr or unleash a barrage of tactical strategies, Furrzor now leads the WebtrES club's defense squad, ensuring that peace and order are maintained in the digital realm. His most iconic feature, the laser screen, not only serves as a visor for high-tech surveillance but also projects holographic maps and targets in the heat of battle. Whether in a whisker-to-whisker duel or strategizing the next digital campaign, Captain Furrzor Laserclaw is both a warrior and a protector, always ready to pounce on any threat with military precision and a dash of feline grace.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/602",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0602.gif",
+  "name": "Captain Furrzor Laserclaw",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

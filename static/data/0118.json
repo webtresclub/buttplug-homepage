@@ -1,0 +1,28 @@
+{
+  "description": "Once the pinnacle of 80s gaming consoles, CatoTronic RetroVision has lived through the golden era of arcade games, harboring a deep love for pixelated adventures and high scores. Its forest green casing is reminiscent of the dense pixels that once formed the digital forests in its games. Despite its screen being slightly broken, CatoTronic never lost sight of the fun, using its cat-like limbs to master dexterity-based games, often to the amazement of onlookers. The glasses it wears aren't just for style; they symbolize its insight into the world of classic gaming and a hint of nostalgia. Its retro console buttons, though slightly worn from endless hours of gameplay, still work perfectly, providing tactile feedback that modern touchscreen devices simply can't match. CatoTronic may be part of the WebtrES club now, but it dreams of the day it will power up once more to the sound of 8-bit music and the cheer of a high-score victory.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/118",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0118.gif",
+  "name": "CatoTronic RetroVision",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

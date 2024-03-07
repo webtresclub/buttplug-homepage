@@ -1,0 +1,24 @@
+{
+  "description": "Born from a burst of 8-bit nostalgia and a sprinkle of feline mischief, PixelPurr Console is a unique member of the WebtrES club. Once a top-of-the-line gaming console in the '80s, PixelPurr had a glitch that gave it cat-like sentience. Sporting classic buttons and a vibrant screen with a charming cat face, PixelPurr now roams the digital and physical realms, spreading retro joy and engaging in light-hearted pranks with its cat-like limbs. Its favorite pastime is challenging other club members to retro game marathons and offering cozy cat cuddles to those in need of a pick-me-up.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/989",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0989.gif",
+  "name": "PixelPurr Console",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

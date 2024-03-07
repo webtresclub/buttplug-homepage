@@ -1,0 +1,28 @@
+{
+  "description": "Commander Pixel hails from the pixelated depths of the Retro Nebula. As a child, he was fascinated by the legends of old-school video games, their beeps and boops echoing through the starlit void. With his retro console box for a body and classic screen with the iconic green alien invader display, he became an arcade wunderkind. The rocket arms and legs he built himself from old gaming cartridges, allowing him to blast off to any arcade in the universe. His trusty helmet, reminiscent of the golden age of space exploration, keeps him safe during his intergalactic high-score conquests. Part of the elite WebtrES club, he's not just a nostalgia-triggering sidekick but also a timeless symbol of the golden age of gaming, forever scoring points in the cosmic leaderboard of adventure.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/155",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0155.gif",
+  "name": "Commander Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

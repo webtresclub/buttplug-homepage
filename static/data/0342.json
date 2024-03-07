@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the neon-lit alleyways of Pixel City, Cataclysmic Console, or 'CC' to his friends, is a retro gaming bot with a knack for adventure. Decked out in a vibrant rossoCorsa chassis and sporting an iconic retroConsole interface, CC is a beloved member of the WebtrES club. His screen flickers with the enigmatic gaze of a digital cat, a trait that has earned him the reputation of being both inscrutable and charming. CC's arms are perpetually relaxed at his sides, a testament to his easygoing nature, while his legs are primed for action, ready to leap into whatever escapade comes his way. Topped with a rugged helmet\u2014a relic from his days as a courier dashing through the data streams\u2014CC carries the air of a bot that has seen many a byte and isn't afraid to dive into the fray. As he navigates through cyberspace, CC's tales of pixelated heroism and electronic escapades resonate throughout the WebtrES club, inspiring a sense of nostalgia and bravery in equal measure.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/342",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0342.gif",
+  "name": "Cataclysmic Console",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

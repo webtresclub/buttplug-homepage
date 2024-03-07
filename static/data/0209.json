@@ -1,0 +1,28 @@
+{
+  "description": "Commander Pixel hails from the digital realm of Arcadia, a world where retro gaming consoles live as sentient beings. With a chassis hued in the vibrant 'rossoCorsa', he is a tribute to the classic racing games of yesteryears. His buttons mimic the style of a retro console, a nod to the golden era of video gaming. His arms and legs are fortified, a testament to his background as a soldier in the Arcadian Pixel Forces, where he defended against the notorious Glitch Invaders. Commander Pixel's screen, a striking red and black display, is capable of shifting into various patterns to communicate his mood and intentions. To complete his cool demeanor, he sports a pair of sleek shades, which not only shield his eyes from the harsh glare of the neon lights in the gaming district but also give him an air of mystery. As a member of the elite WebtrES club, he is known for his strategic prowess in both virtual battles and in high-stakes games against other console entities, always calculating the perfect move with a mix of cunning and charisma.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/209",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0209.gif",
+  "name": "Commander Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

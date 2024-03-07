@@ -1,0 +1,28 @@
+{
+  "description": "Once the flagship hero of a pixel-perfect universe, Commander Pixel led his digital comrades through countless levels of retro console wars. Known for his unbreakable spirit, even a broken screen couldn't dampen his resolve. Outfitted with resilient soldier limbs, he marched through the toughest of glitches, always cool behind his impenetrable shades. After a fateful encounter with a rogue joystick, his screen shattered, but he fashioned the scars into a symbol of his undying dedication to the game. Now, he's a legend in the WebtrES club, inspiring new bytes to be brave in the face of coding calamities.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/511",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0511.gif",
+  "name": "Commander Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

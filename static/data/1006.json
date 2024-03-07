@@ -1,23 +1,24 @@
 {
-  "description": "Volt is an oscilloscope-themed robot with a classic box design. It has a vibrant laser screen that displays various waveforms and data. With its sturdy foundry arms and legs, Volt is built for durability and resilience. It is a proud member of the WebtrES club, a community dedicated to exploring and expanding the possibilities of the digital world.",
-  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/1006.gif",
+  "description": "Forged in the fires of the WebtrES club's most advanced foundries, Catalyst Forge is the epitome of precision and craftsmanship. With a classic box design that harks back to the golden age of robotic innovation, this bot stands out with its unique cat-themed buttons that offer a playful contrast to its industrial might. Its arms and legs, products of the strongest foundries, are capable of withstanding extreme conditions, making it a favorite amongst space explorers and intergalactic blacksmiths. The laser screen face of Catalyst Forge is not just for show; it's a high-energy projection surface capable of cutting through the thickest of asteroid ores. Despite its intimidating appearance and capabilities, Catalyst Forge has a soft spot for felines and can often be found creating intricate cat sculptures out of scrap metal.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/1006",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/1006.gif",
+  "name": "Catalyst Forge",
   "attributes": [
     {
       "trait_type": "Box",
-      "value": "classic"
+      "value": "Classic"
     },
     {
       "trait_type": "Buttons",
-      "value": "cat"
+      "value": "Cat"
     },
     {
-      "trait_type": "ArmsAndLegs",
-      "value": "foundry"
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
     },
     {
       "trait_type": "Screen",
-      "value": "laser"
+      "value": "Laser"
     }
-  ],
-  "name": "Volt"
+  ]
 }

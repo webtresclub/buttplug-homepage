@@ -1,0 +1,24 @@
+{
+  "description": "Commander Pixel hails from the digital realm of Retropia, a land where pixelated heroes and nostalgic gaming icons reign supreme. As a soldier box, he is built with the sturdiest cardboard and dons camouflage from his countless digital skirmishes. His buttons are from the retroConsole era, providing him tactical feedback and rapid response capabilities. Commander Pixel keeps his arms down to maintain a low profile, while his screen displays the classic 'ready for action' visage. Known in the WebtrES club for his strategic acumen and his ability to rally the troops with just a flicker of his screen, Commander Pixel is the go-to leader for any virtual missions that require both brains and brawn.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/867",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0867.gif",
+  "name": "Commander Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

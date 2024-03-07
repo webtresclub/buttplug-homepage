@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the pixelated alleyways of WebtrES City, ForgeFeline is a master craftsbot known for his exceptional blacksmithing skills. With arms and legs forged in the flames of the Foundry district, he molds and shapes the future with his trusty hammer. His cat-inspired box design and the classic control buttons make him a favorite among retro gaming enthusiasts. The red and black screen face exudes a confident and focused persona, while the stylish shades add to his mysterious allure. By day, he's tinkering with code and hardware, but by night, he becomes the go-to creator of the most coveted gadgets in the WebtrES club.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/230",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0230.gif",
+  "name": "ForgeFeline",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

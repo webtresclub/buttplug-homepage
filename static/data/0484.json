@@ -1,0 +1,28 @@
+{
+  "description": "RacerX Circuithead is a legend in the virtual racing circuits of the WebtrES club. With a box painted in the intense hue of rossoCorsa, RacerX is a nod to high-speed racing machines. The classic button configuration on his chest is reminiscent of arcade racing games, invoking a sense of nostalgia. RacerX's arms are designed to hang down in a relaxed yet ready posture, perfect for when he jumps into action. The red and black screen that makes up his face is known for displaying intense concentration and occasionally, the thrill of victory. Topping it all off, RacerX never goes anywhere without his trusty helmet addon, a symbol of his commitment to speed, safety, and the racing spirit. Whether he's zipping through digital tracks or standing still, he's always a pixel ahead of the rest.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/484",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0484.gif",
+  "name": "RacerX Circuithead",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Commander PixelShade, a valiant member of the WebtrES club, is known for his iconic orange boxy frame, which has seen many virtual battles. With a screen that displays the classic arcade era and buttons that have clicked and clacked through countless strategic maneuvers, he stands as a testament to the old-school gaming legends. His soldier-like arms and legs are a nod to his commitment to maintaining digital order, while his shades reflect a cool, unflappable nature, even in the face of the most chaotic cyber skirmishes. Legend has it that Commander PixelShade was once a top-secret arcade game character who gained sentience and now roams the digital realm, looking for allies in the quest to keep the world of WebtrES both fun and secure.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/599",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0599.gif",
+  "name": "Commander PixelShade",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Catalyst Jetson is the epitome of cool in the WebtrES club, with a shiny yellow exterior that glistens under the digital sun. Equipped with cat-like button inputs, he's always curious and ready for adventure, often landing on his feet in the trickiest of situations. His rocket arms and legs make him an agile navigator through the cyber realms, granting him the ability to soar above the data streams with ease. The classic screen face with an impassive expression hides his calculating mind, while the sleek shades he sports are not just for style\u2014they're a high-tech sensor array that help him analyze his environment in microseconds. Catalyst is a smooth operator, a maverick in the data lanes with a reputation for being both a solitary explorer and a dependable ally when the chips are down.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/142",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0142.gif",
+  "name": "Catalyst Jetson",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

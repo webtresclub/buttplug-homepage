@@ -1,0 +1,24 @@
+{
+  "description": "Born in the neon-lit back alleys of a bustling metropolis, PixelPurr ConsoleCat is a legend among the WebtrES club. With a box chassis painted in the sleekest rossoCorsa, he stands out in any crowd. His retroConsole buttons hold the secret patterns to unlock hidden worlds within games, making him a sought-after companion for virtual adventurers. His arms and legs, crafted from the alley cats he used to rumble with, give him agility and grace that defy his boxy appearance. His screen, a mesmerizing redBlack matrix, displays expressions that convey a cool confidence, only softened by his playful, pixelated purr. Known to show up when an arcade challenge seems insurmountable, PixelPurr ConsoleCat is the spirit of every gamer's heart, beating in an 8-bit rhythm.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/997",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0997.gif",
+  "name": "PixelPurr ConsoleCat",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

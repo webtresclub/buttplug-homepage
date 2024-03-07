@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the digital battlegrounds of the WebtrES club, Serpentron Commander is a formidable figure with a shiny black exterior reminiscent of the stealth consoles of yore. Its eyes flicker like the cold, calculating gaze of a serpent, a feature that strikes an uncanny resemblance to the retro snake games that dominated screens in the early days of gaming. The console buttons on its chest may look quaint, but they're engineered for strategic maneuvers that keep opponents guessing. Equipped with arms and legs built for a soldier, every step it takes is with military precision. Serpentron Commander's past is shrouded in mystery, with tales of digital wars fought in silence and high scores that reached the heavens. It's rumored that its core runs an ancient, yet unbeatable version of the snake game, which it uses to both train and entertain its allies. Whether leading a pixelated platoon or standing sentinel at the gates of the WebtrES club, Serpentron Commander is always game for a challenge.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/264",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0264.gif",
+  "name": "Serpentron Commander",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

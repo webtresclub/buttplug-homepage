@@ -1,0 +1,24 @@
+{
+  "description": "Born in the pixelated depths of the WebtrES club, ForgeScreen Hal is a master of metal and circuits. With a classic boxy body and time-honored button interface, Hal exudes a retro charm that belies his true capabilities. His foundry arms and legs, made from the sturdiest digital alloy, allow him to craft and fix anything from the most delicate of electronic components to the heaviest of virtual constructions. The laser screen face, capable of emitting powerful beams, is not just for show\u2014it's Hal's way of cutting through the toughest of programming quandaries with surgical precision. Whether he's hammering out code or forging new connections, ForgeScreen Hal is the go-to entity for building and repairing the foundation of the digital world.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/523",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0523.gif",
+  "name": "ForgeScreen Hal",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

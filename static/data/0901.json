@@ -1,0 +1,24 @@
+{
+  "description": "Emerging from the neon-lit alleyways of the digital metropolis, PixelPunk Console is a slick entity with a shiny black exterior that reflects the retro vibes of the city. With arms and legs of the classic build, it harks back to a bygone era when 8-bit was the pinnacle of sophistication. Its screen, also of the classic variety, displays an enigmatic expression that is both inviting and mysterious. The retro console buttons it boasts are not just for show; they are fully functional, allowing PixelPunk Console to interface with any arcade machine it encounters. Its origins are shrouded in the legend of an underground gaming club known as the WebtrES, where the most elite avatars gather to test their skills. PixelPunk Console is not just a relic of the past; it's a bridge to a time when gaming was a new frontier waiting to be explored. Its journey through the WebtrES club is one of nostalgic adventure and pixelated wonder, always ready to challenge or befriend those who share its passion for the golden age of gaming.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/901",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0901.gif",
+  "name": "PixelPunk Console",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

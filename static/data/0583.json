@@ -1,0 +1,24 @@
+{
+  "description": "Sergeant WhiskerBytes is the tactical genius behind the WebtrES club's digital defense force. With a screen face that mimics the fiercest of felines and a robust box built to withstand the rigors of cyber battle, WhiskerBytes commands respect and attention. His 'classic' button interface ensures he can interact with legacy systems while his soldier-grade limbs are always ready for action. Don't be fooled by his pixel-perfect cat screen and ears; Sergeant WhiskerBytes is a strategist with an iron will and a silicon heart, always ready to lead his team into the virtual fray with courage and calculated precision.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/583",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0583.gif",
+  "name": "Sergeant WhiskerBytes",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

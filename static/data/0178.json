@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the cyber jungles of WebtrES, Sergeant WhiskerScale is a fabled digital defender known for his stealth and agility. His soldier's box is wrapped in camouflage, designed for tactical operations in the wildest corners of the metaverse. With buttons patterned like a cat's coat, he can blend seamlessly into the data streams, while his cat-like arms and legs grant him the finesse to navigate through complex circuits. But don't be fooled by his feline reflexes; Sergeant WhiskerScale's screen flickers with the hypnotic patterns of a snake, a nod to his strategic prowess, allowing him to mesmerize adversaries just long enough to slip by undetected. His helmet, a relic from the legendary Pixel Wars, is not only a symbol of his rank but also serves as a beacon of hope for all free bytes in the WebtrES club. On his off-duty hours, Sergeant WhiskerScale enjoys sharpening his claws on the bark of legacy code trees and basking in the warm glow of sunset simulations.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/178",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0178.gif",
+  "name": "Sergeant WhiskerScale",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

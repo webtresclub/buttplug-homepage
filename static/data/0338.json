@@ -1,0 +1,24 @@
+{
+  "description": "LaserBox Leo is a sleek member of the WebtrES club known for his vibrant rossoCorsa exterior and his laser-focused screen. With classic buttons and arms and legs design, Leo is a throwback to the golden age of arcade cabinets, but don't let his retro looks fool you. He's equipped with cutting-edge technology, allowing him to project holographic displays and laser animations, which makes him the life of every digital party. His favorite pastimes include hosting game nights and creating laser light shows for his fellow WebtrES members.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/338",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0338.gif",
+  "name": "LaserBox Leo",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

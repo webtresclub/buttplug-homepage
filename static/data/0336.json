@@ -1,0 +1,24 @@
+{
+  "description": "Catalyst is a quirky artificial intelligence housed in a cat-themed chassis, part of the exclusive WebtrES club. Originally programmed to be a companion for interstellar travelers, Catalyst found its way to Earth after a navigational glitch. With a pixelated green display that emotes its feline-inspired feelings and a body adorned with button-like features, Catalyst roams the digital and physical realms, bridging the gap between technology and organic life. Its arms hang casually as it charms its way through crowds, often being mistaken for a walking piece of interactive art. Catalyst loves to engage in thoughtful conversations about the cosmos, share random trivia about cats, and is always on the lookout for new friends who appreciate a good purr in their source code.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/336",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0336.gif",
+  "name": "Catalyst",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "Forged in the digital trenches of the arcade era, Sergeant Pixel is a no-nonsense member of the WebtrES club known for his tactical prowess and retro charm. Clad in his classic box chassis and equipped with retroConsole buttons, he commands his pixelated troops in virtual skirmishes with an iron will and a playful spirit. His soldier arms and legs are always ready for action, whether he's guiding allies through a maze of enemy fire or leading a charge in a nostalgic side-scroller. With a screen that harkens back to the golden age of gaming, Sergeant Pixel embodies the discipline of a military hero and the heart of a vintage gamer.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/257",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0257.gif",
+  "name": "Sergeant Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

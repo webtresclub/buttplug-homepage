@@ -1,0 +1,28 @@
+{
+  "description": "Retro Red hails from the neon-soaked arcades of the 80s, where legends were born between the beeps and the boops. With a rosso corsa exterior that's as sleek as a sports car, Retro Red was the arcade champion's choice, known for its tactile retro console buttons that could handle the fury of a thousand clicks per minute. Its classic arms and legs were built to withstand the test of time, and its iconic screen has seen more pixelated battles than most can imagine. Retro Red's cool factor is amped up by a pair of ever-present shades, giving it a mysterious air and hiding the eyes that have witnessed countless high-score turnovers. Part of the elite WebtrES club, Retro Red is a symbol of a bygone era, a silent guardian of the golden age of gaming.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/954",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0954.gif",
+  "name": "Retro Red",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

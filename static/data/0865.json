@@ -1,0 +1,28 @@
+{
+  "description": "Born in the golden era of arcades, MasterMax is a legendary figure in the WebtrES club with a retro console box for a body and a screen that glows with the intensity of red and black pixels. Donning stylish shades, he is known for his timeless cool attitude and classic button configuration, reminiscent of the most iconic gaming systems of yesteryears. MasterMax's arms and legs are the epitome of the classic 8-bit design, bringing a sense of nostalgia and charm to all who encounter him. His life's mission? To challenge and inspire new generations of gamers with his deep knowledge of retro games and his unbeatable high scores.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/865",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0865.gif",
+  "name": "PixelShade MasterMax",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "SlytherPixel hails from the buzzing neon-lit arcades of the digital metropolis of WebtrES. With a sleek, shiny black exterior and a screen that perpetually plays the classic 'Snake' game, SlytherPixel is a nostalgic nod to the past. This character boasts a pair of hand-down arms that are always ready for action and legs that stride with pixelated purpose. The retro console buttons on its front are not just for show; they hold the secret codes to the hidden levels of the WebtrES club's virtual realm. SlytherPixel loves nothing more than to guide club members through the labyrinth of old-school gaming, sharing tales of pixelated adventures and high scores that are the stuff of legends.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/148",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0148.gif",
+  "name": "SlytherPixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

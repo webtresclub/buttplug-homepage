@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the pixelated corners of the WebtrES club, Feline Navigator Gamma is known for its distinctive orange box chassis and its love for anything cat-related. Its screen and buttons often display feline patterns, which is a nod to its creators' fondness for our furry friends. The classic arms and legs suggest a design that prioritizes function and familiar form, but don't let its simplicity fool you; this bot is equipped with a state-of-the-art helmet add-on, allowing it to embark on virtual reality adventures that span digital galaxies. Its mission: to explore the vast frontiers of the internet, seeking out new memes and digital wonders, all while spreading the charm and curiosity of its cat-like demeanor.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/949",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0949.gif",
+  "name": "Feline Navigator Gamma",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

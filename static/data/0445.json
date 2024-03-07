@@ -1,0 +1,24 @@
+{
+  "description": "Born in the fiery depths of the foundry, Crimson Crafty is a legend in the WebtrES club for his exceptional crafting skills and his distinctive rosso corsa exterior. Known for his classic button interface, he's a bit of an old soul with a love for the retro. Unfortunately, his screen suffered a crack during an intense creative session where he was hammering out some of the toughest codes known to the digital realm. Despite this setback, his determination never falters, and he's often seen with his trusty hammer and wrench, ready to fix anything\u2014or code new creations from the broken bits of the digital world. His resilience and ingenuity have made him an irreplaceable member of the WebtrES community.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/445",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0445.gif",
+  "name": "Crimson Crafty",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

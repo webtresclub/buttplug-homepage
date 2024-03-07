@@ -1,0 +1,28 @@
+{
+  "description": "Catty Cooltron is a smooth-talking, digital feline with a penchant for retro style and classic screens. With its sleek orange boxy exterior and iconic cat-button controls, Catty is a standout member of the WebtrES club. Known for keeping its arms casually down, it exudes an air of laid-back confidence. This cool cat isn't just about looks though; it's equipped with top-of-the-line shades that give it a mysterious edge, making it the go-to bot for late-night coding sessions and virtual alley hangouts. Behind those dark lenses, Catty Cooltron is always cooking up the next big idea, ready to pounce on any opportunity that comes its way in the ever-evolving digital landscape.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/617",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0617.gif",
+  "name": "Catty Cooltron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

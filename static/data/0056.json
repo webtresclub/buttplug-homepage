@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the enigmatic digital realm of WebtrES club, Serpentino Specstacular is a curious creature with a shiny black exterior and a screen displaying his affinity for the slithering patterns of snakes. His arms and legs are of the 'classic' make, giving him a retro vibe that complements his peculiar fashion sense. The cat buttons on his chest hint at his playful side, always ready for a game or a whimsical adventure. But don't let his playful appearance fool you; behind those large, round glasses lies the gaze of a wise and observant being, one who's seen the rise and fall of countless data streams. Serpentino is the go-to member for those seeking knowledge about the ancient codes and cryptic algorithms of the WebtrES universe.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/56",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0056.gif",
+  "name": "Serpentino Specstacular",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "Lasertron is a unique member of the WebtrES club, known for its forest green boxy exterior and the classic button interface that nostalgic enthusiasts adore. Crafted deep in the digital woodlands, Lasertron's arms and legs feature the archetypal design of the early gaming era, giving it a charmingly retro vibe. However, it's not just about looks for this pixelated persona; the laser screen face is capable of projecting an array of mesmerizing light patterns capable of hypnotizing even the most advanced algorithms. Lasertron spends its days roaming the pixelated underbrush of the WebtrES forest, organizing old-school gaming tournaments for fellow club members, and promoting vintage game conservation in the virtual realm.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/294",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0294.gif",
+  "name": "Lasertron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

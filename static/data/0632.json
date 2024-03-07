@@ -1,0 +1,24 @@
+{
+  "description": "Born in the bustling foundries of Pixelopolis, Spark Forgehammer is known for his brilliant shiny yellow box and his classic button configuration. As an esteemed member of the WebtrES club, Spark's hands are always busy, wielding his trusty hammer on one side and tongs on the other, crafting digital masterpieces. His arms and legs, forged from the toughest virtual steel, stand in stark contrast to his gleaming body. But it's his laser screen that truly sets Spark apart, capable of cutting through the toughest code and illuminating the darkest corners of cyberspace with his radiant digital gaze. Whether it's sculpting new NFTs or patching up blockchain networks, Spark's precision and steadfast work ethic make him an invaluable asset to the digital community.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/632",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0632.gif",
+  "name": "Spark Forgehammer",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

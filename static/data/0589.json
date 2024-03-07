@@ -1,0 +1,28 @@
+{
+  "description": "From the glowing forges of the WebtrES club comes PixelVandal, a feisty bot with a taste for vintage and rebellion. With a box coated in the iconic rossoCorsa, PixelVandal flashes back to the golden era of automobiles, breathing life into the retro essence. But don't be fooled by its classic console buttons that reminisce of legendary gaming nights; this bot's arms and legs were forged in the flames of the foundry, tough as the steel beams that once built the skylines of yore. PixelVandal's screen may be broken, a testament to its countless skirmishes in the pixelated back-alleys of the web, but those shades it dons are not just for show. They hide a digital gaze sharp enough to dissect code and a spirit that won't be easily debugged. This NFT is for those who cherish a good backstory as much as a good backslash.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/589",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0589.gif",
+  "name": "PixelVandal",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

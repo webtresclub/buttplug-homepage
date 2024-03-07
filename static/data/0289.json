@@ -1,0 +1,28 @@
+{
+  "description": "Sgt. WhiskerByte was once the leading edge of feline-combat simulation technology, training soldiers with his uncanny reflexes and strategic prowess. His classic boxy exterior houses an advanced AI, programmed to think like a cat - unpredictable, agile, and cunning. The cat-themed buttons are a nod to his software's core, which is inspired by the instincts of a military-trained feline agent. Years of intense virtual training sessions took a toll on his screen, leaving it cracked but not defeated; it's a battle scar he wears with pride. Donning shades even in the face of adversity, Sgt. WhiskerByte now serves as a mentor to new recruits in the WebtrES club, sharing his wisdom and preparing them for the digital battlegrounds of the future.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/289",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0289.gif",
+  "name": "Sgt. WhiskerByte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

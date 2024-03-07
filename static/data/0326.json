@@ -1,0 +1,28 @@
+{
+  "description": "Once a state-of-the-art calculation machine in the foundries of WebtrES, Catalyst Crank was known for his impeccable precision and speed. His striking rossoCorsa chassis and cat-themed buttons were the talk of the town, admired by all for their flair and functionality. But one fateful day, an unexpected power surge shattered his screen and sent his circuits into disarray. Refusing to be scrapped, Catalyst donned a salvaged helmet and retrofitted his limbs with industrial-grade machinery, transforming his misfortune into strength. Now, he wields his trusty hammer, fixing problems with a gentle tap or a firm whack, depending on what the code requires. Despite his broken screen, he sees the world through a lens of possibilities, proving that even in a digital era, resilience is the true key to evolution.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/326",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0326.gif",
+  "name": "Catalyst Crank",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the pixelated edges of the WebtrES club, Commander WhiskerForge is as valiant as they come. With a box reminiscent of a stoic soldier, he stands proud, showcasing an expression that is both endearing and fierce. His screen displays the visage of a cat, a symbol of his agile mind and quick reflexes honed in digital skirmishes. The classic buttons that adorn his chest are a nod to the timeless strategy games he masters, while his foundry-forged arms and legs attest to his strength and craftsmanship, always ready with his trusty pixel hammer and wrench to build or battle. WhiskerForge's storied career in virtual arenas has made him both a mentor and a legend. He spends his downtime tinkering with ancient arcade machines, always improving his skills and sharing his vast knowledge with the next generation of WebtrES warriors.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/946",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0946.gif",
+  "name": "Commander WhiskerForge",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

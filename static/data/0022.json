@@ -1,0 +1,24 @@
+{
+  "description": "Once a cutting-edge gaming console in the 80s, PixelPulse spent decades entertaining kids with its retro style games. Lost to an era when arcade cabinets dwindled and home gaming systems took over, it found new life in the WebtrES club. With its laser screen eyes capable of displaying intense graphics and its retro console buttons still clicking satisfyingly under its touch, PixelPulse is a nostalgic reminder of the golden age of gaming. Despite the evolution of technology, this bot has become an icon among collectors who value the simplicity and charm of classic video games. In the digital realm, PixelPulse is a mentor to newer avatars, teaching them the value of pixel art and the beauty of a well-designed game level.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/22",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0022.gif",
+  "name": "PixelPulse",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the heart of the Silicon Forest, PixelPreston is a vintage bot with a passion for retro gaming and a knack for old-school code. He sports an iconic forest green box with a classic screen that flickers like an '80s arcade game. His buttons are reminiscent of a console controller from the era, evoking a sense of nostalgia every time they click. With arms and legs of the simplest design, he moves with the charming awkwardness of a character from an early platformer. The glasses PixelPreston wears aren't just for show\u2014they're his window into the digital world, projecting lines of code and pixelated adventures. As a member of the prestigious WebtrES club, he's known for throwing the most talked-about LAN parties where he can be found discussing the golden age of gaming or debugging with an enthusiasm that could reboot a corrupted hard drive.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/634",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0634.gif",
+  "name": "PixelPreston",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

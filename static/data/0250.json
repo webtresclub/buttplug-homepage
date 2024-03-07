@@ -1,0 +1,24 @@
+{
+  "description": "In the vibrant world of WebtrES club, Pixel Purr-ogrammer is known for his iconic cat-like box design and a screen that radiates an intense red and black aura. With his classic button configuration, he's an old-school coder that can debug any problem with a few skillful taps. His classic arms and legs are deceptively strong, built from years of carrying hefty lines of code and jumping through various platforms of digital adventure. His favorite pastime includes lounging on the virtual windowsill of the WebtrES clubhouse, watching over the digital landscape while purring to the rhythmic hum of data streams.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/250",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0250.gif",
+  "name": "Pixel Purr-ogrammer",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

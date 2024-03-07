@@ -1,0 +1,28 @@
+{
+  "description": "Shadeclaw hails from the bustling digital alleys of WebtrES City, where neon lights flicker and data streams flow like rivers. With a box design inspired by the mysterious felines that roam the backstreets at night, Shadeclaw is a legend among the WebtrES club. Equipped with cat-like button paws and a sleek stance, Shadeclaw navigates the virtual world with effortless agility. Despite having an unfortunate run-in that left its screen with a spiderweb of cracks, Shadeclaw's cool demeanor never falters, thanks to its signature shades. These aren't just for style; they conceal sophisticated sensors that scan the surroundings, making it the perfect companion for late-night escapades in the city's underground networks. Whether it's dodging data sweeps or lounging atop server stacks, Shadeclaw is the embodiment of cool in the chaos of the cyber jungle.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/412",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0412.gif",
+  "name": "Shadeclaw",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

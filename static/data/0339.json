@@ -1,0 +1,24 @@
+{
+  "description": "Nestled within the digital forests of the WebtrES club, Cattus Screeno is a unique blend of feline agility and technological prowess. With a forest green box body that allows him to blend seamlessly into the virtual woodlands, and button controls that mimic the soft pads of a cat's paws, he's as enigmatic as he is adorable. His red and black screen displays expressions as varied as the moods of the wildest domestic felines, while his cat-like limbs grant him the grace and stealth of a nocturnal hunter. Don't be fooled by his striped battery tail; it holds enough energy to fuel his curious adventures and clever antics. He's a beloved figure in the WebtrES community, known for his playful pranks and the soft, comforting purrs that emanate from his speakers, providing a sense of companionship to every member of the club.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/339",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0339.gif",
+  "name": "Cattus Screeno",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

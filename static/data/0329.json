@@ -1,0 +1,24 @@
+{
+  "description": "Crafted from the shiniest of black metals, Sergeant WhiskerBlitz is the embodiment of feline agility and military precision. Once a top-tier defense system prototype, WhiskerBlitz gained sentience and a love for adventure. His cat button interface purrs with charm, while his arms and legs, forged in the barracks, carry the strength of a seasoned soldier. The laser screen eyes, capable of mapping out complex battlefields, now seek out the thrills of the WebtrES club. Despite his tough exterior, WhiskerBlitz has a soft spot for his fellow club members, offering a protective shield and a warm, albeit metallic, embrace.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/329",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0329.gif",
+  "name": "Sergeant WhiskerBlitz",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

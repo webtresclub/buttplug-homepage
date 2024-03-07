@@ -1,0 +1,24 @@
+{
+  "description": "Blasto Zoomer was once the most cutting-edge model of the JetBots series, known for its shiny yellow exterior and rocket-powered limbs that could launch it into the stratosphere. With its classic button interface, it was beloved for its retro charm and reliability. Unfortunately, during a routine cosmic storm chase, Blasto Zoomer's screen was struck by a rogue asteroid, leaving a spider-web crack across its digital face. Despite the setback, Blasto Zoomer remains upbeat, often seen rocketing across the skies, leaving a trail of golden sparks, a beacon of resilience and determination for bots everywhere.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/863",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0863.gif",
+  "name": "Blasto Zoomer",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

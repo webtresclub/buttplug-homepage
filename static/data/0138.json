@@ -1,0 +1,24 @@
+{
+  "description": "PixelPaws hails from a distant galaxy where cat-like boxes rule the tech world. This retro console enthusiast was once the fastest gamer in the cosmos, zipping through levels with his rocket arms and legs. Unfortunately, during an intense gaming marathon playing 'Galactic Claw'\u2014a game notorious for its difficulty\u2014PixelPaws pressed the console buttons so hard that it caused an internal circuitry meltdown, leaving his screen cracked. The incident became a legend, and PixelPaws is now on an interstellar journey, searching for the rare components to fix his beloved screen and reclaim his title as the supreme arcade champion of the WebtrES club.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/138",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0138.gif",
+  "name": "PixelPaws",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

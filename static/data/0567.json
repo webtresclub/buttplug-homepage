@@ -1,0 +1,28 @@
+{
+  "description": "Serpentron Helm is a unique member of the WebtrES club, known for its striking forest green casing and a bold, snake-themed screen display that reflects its cunning and agile nature. Equipped with a sturdy helmet, this character is always ready for adventure, navigating the digital wilderness with ease. The classic button configuration gives Serpentron Helm a retro vibe, while its hands-down stance suggests a relaxed but ready-to-act attitude. As part of the WebtrES club, Serpentron Helm is often at the forefront of exploring uncharted territories, using its calculated wit to solve complex puzzles and lead its peers through the ever-evolving landscape of the internet.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/567",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0567.gif",
+  "name": "Serpentron Helm",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

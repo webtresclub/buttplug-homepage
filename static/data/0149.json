@@ -1,0 +1,24 @@
+{
+  "description": "A seasoned veteran of the digital front, Major Velocity was once a high-ranking officer in the Pixelated Brigade. With a soldier's box, classic button controls, and high-powered laser screen, he's a tactical mastermind on the battlefield. After a fateful encounter with the renegade code sorcerer, Hexadecimal, Velocity was granted rocket arms and legs, enhancing his agility and speed to superhuman levels. Now a prominent member of the WebtrES club, he leads his squad on perilous missions to safeguard the cyber-realm. Off-duty, Major Velocity enjoys strategizing speed runs for classic video games, reminiscing about the golden era of 8-bit glory.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/149",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0149.gif",
+  "name": "Major Velocity",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

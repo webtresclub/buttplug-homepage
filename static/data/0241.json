@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the digital alleyways of the WebtrES club, PurrMonitor is a unique blend of vintage tech and feline agility. With an orange boxy exterior reminiscent of the early computer era, it sports a classic screen that often displays an array of playful pixels. The cat-like buttons and limbs suggest a certain mischief and dexterity, allowing PurrMonitor to navigate the cybernetic world with ease. Rumor has it that PurrMonitor was once a prototype for a pet-friendly computer interface, but it gained sentience and now roams the virtual landscape, always on the lookout for digital mice and intriguing bits of code.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/241",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0241.gif",
+  "name": "PurrMonitor",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

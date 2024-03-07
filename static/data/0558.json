@@ -1,0 +1,24 @@
+{
+  "description": "PixelPunk Retro hails from the golden era of arcade games, where it spent its early cycles basking in the neon glow of a bustling 80s arcade. This bot, encased in a shiny black exterior that reflects its cool and mysterious past, has been a loyal companion to many gamers. Its retro console buttons have been mashed in excitement and pounded in frustration, bearing witness to countless high-score attempts. Unfortunately, during an intense gaming marathon, its screen suffered a crack that now mars its once pristine pixel display. Despite its broken screen, PixelPunk Retro wears its battle scars with pride, knowing that each crack tells a story of a challenge faced and a game well-played. It now spends its time as a treasured member of the WebtrES club, sharing tales of pixels past and inspiring a new generation of game lovers with its classic charm and enduring spirit.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/558",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0558.gif",
+  "name": "PixelPunk Retro",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

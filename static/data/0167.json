@@ -1,0 +1,28 @@
+{
+  "description": "Born in the neon-lit back alleys of a bustling metropolis, PixelPurr Console is a digital feline with an affinity for vintage gaming. Sporting a classic beige box reminiscent of the early home computers and a screen that mirrors the mischievous glare of a street-smart cat, PixelPurr is a retro gaming enthusiast's best friend. With its retro console buttons, it has mastered every video game from the golden era of arcades. The shades it wears aren't just for style; they are a symbol of its cool demeanor, even when faced with the toughest levels. As a member of the exclusive WebtrES club, it spends its nights DJing at underground chiptune parties and its days lounging on sunlit windowsills, reminiscing about the good ol' days of 8-bit glory.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/167",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0167.gif",
+  "name": "PixelPurr Console",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

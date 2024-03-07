@@ -1,0 +1,24 @@
+{
+  "description": "Serpurr Commando is a mysterious member of the WebtrES club known for his sleek shiny black chassis that glimmers in the moonlight during covert operations. His snake screen allows him to hypnotize targets with incredible ease, while his cat-like arms and legs provide unparalleled agility and balance. Rumored to have been a top-secret military project, Serpurr Commando now uses his soldier button interface to execute precision tasks for the club. His past is a patchwork of encrypted missions and shadowy figures, but one thing's for certain: when Serpurr Commando is on the scene, success is the only option.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/896",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0896.gif",
+  "name": "Serpurr Commando",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

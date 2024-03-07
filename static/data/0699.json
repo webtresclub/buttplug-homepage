@@ -1,0 +1,28 @@
+{
+  "description": "Born in the heart of the digital frontier, PixelPurr Console Commander is a hero of the retro gaming worlds. With a screen that can display the most intricate of pixels, this feline-inspired bot is always on the lookout for the next high score. The cat box design and the retro console buttons give it an air of nostalgia, while the nifty helmet is a nod to its adventurous spirit, protecting its circuitry as it leaps from one adventure to the next. Whether it's a side-scrolling platformer or a puzzle game, PixelPurr is ready with its hands down and game on attitude. As a member of the elite WebtrES club, it's not just about playing games\u2014it's about bringing joy and camaraderie to every digital realm it touches.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/699",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0699.gif",
+  "name": "PixelPurr Console Commander",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

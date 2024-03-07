@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the pixelated realms of the WebtrES club, Catalyst Forge is a quirky fusion of retro gaming nostalgia and industrial might. With its cat-themed box head and a screen that glows with the fierce red and black of ancient arcade battles, this character is a sentinel of the digital frontier. The retro console buttons on its chassis are not just for show; they control its high-precision foundry arms and legs, capable of crafting both virtual and physical creations. Topped with a rugged helmet, a relic from a bygone era of space adventures, Catalyst is always ready to hammer out solutions to the most complex puzzles of both the cyber world and the real one. Whether you need to save a princess in a digital labyrinth or forge a new path through the metaverse, Catalyst Forge is your go-to entity.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/96",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0096.gif",
+  "name": "Catalyst Forge",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

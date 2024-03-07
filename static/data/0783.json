@@ -1,0 +1,28 @@
+{
+  "description": "PixelPaws Player One hails from the neon-lit alleyways of Arcadia 8-bit, a world where retro gaming never went out of style. With a retro console box for a head, adorned by a classic screen that flashes with the ghosts of old-school games, this feline-inspired character is a nostalgic nod to the golden age of arcades. Its cat-like arms and legs give it the agility to maneuver through the toughest of levels, while the vintage helmet atop serves as a tribute to the timeless heroes of pixelated adventures. By day, Player One is a guardian of the arcade temple, and by night, it becomes the ultimate competitor, challenging all in the quest to hold the high score across the WebtrES club. Its life is a game, and every day is a chance to level up.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/783",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0783.gif",
+  "name": "PixelPaws Player One",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

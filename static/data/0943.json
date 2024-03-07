@@ -1,0 +1,24 @@
+{
+  "description": "Retro Rocket Racer, nicknamed Triple R, is an NFT character from the WebtrES club who sports a vibrant rossoCorsa box exterior. Born in a digital world where speed and style are paramount, Triple R is a sensation in the pixel racing circuits. With arms and legs engineered for rocket-powered maneuvers, this character dashes through the competition, leaving a trail of awe and sparks. The retroConsole buttons on its front panel tell tales of a bygone era, where Triple R was once the ultimate gaming companion, mastering every 8-bit challenge with its redBlack screen shining triumphantly. After achieving legendary status in the gaming realms, Triple R now thrives on the thrills of interweb races, always ready to blast off at a moment's notice, carrying with it the nostalgia of past victories and the promise of exhilarating adventures ahead.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/943",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0943.gif",
+  "name": "Retro Rocket Racer",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

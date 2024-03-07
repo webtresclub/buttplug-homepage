@@ -1,0 +1,28 @@
+{
+  "description": "Serpentron Helmlock, known for his forest green casing and the hypnotic snake screen, is a legend in the WebtrES club. Initially programmed for exploring dense digital jungles, Serpentron developed an uncanny ability to navigate through the most complex data arrays with ease. His classic arms and legs, along with the sturdy helmet addon, have seen many adventures across cyber terrains. The helmet, which he never takes off, was a trophy from a victorious data duel against a notorious virus in the early days of his existence. The classic buttons on his chassis are reminiscent of the early era of his creation, serving as a functional and nostalgic touch to his design. Serpentron's unique traits have earned him the respect of his peers as a master of cyber-survival and a guardian of the club's digital frontier.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/588",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0588.gif",
+  "name": "Serpentron Helmlock",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

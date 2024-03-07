@@ -1,0 +1,28 @@
+{
+  "description": "Once a valiant pixel trooper in the digital realm's most elite unit, Sergeant WhiskerBytes served with distinction until a fateful encounter with a virus left his screen cracked and his system partially corrupted. Adorned with a battle-scarred helmet, this soldier's spirit remained unbroken. Despite his glitched display, he continued his duty, using his cat-like reflexes to outmaneuver cyber threats. His camaraderie with his fellow WebtrES club members is unwavering, and they all look up to him for his resilience and tactical prowess. Although he no longer serves on the front lines, his tales of pixelated glory inspire new recruits, and he now strategizes to keep the digital domain secure from the safety of the WebtrES command center.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/734",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0734.gif",
+  "name": "Sergeant WhiskerBytes",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

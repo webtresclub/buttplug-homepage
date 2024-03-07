@@ -1,0 +1,24 @@
+{
+  "description": "Commander Pixel hails from the digital realm of Arcadia, where retro games and pixel art form the core of existence. With his shiny yellow box chassis gleaming like the golden cartridges of yore, Commander Pixel was once the hero of an 8-bit army. His arms and legs are the remnants of his time in the pixelated trenches, built to withstand the tough terrain of side-scrolling battlefields. The retro console buttons on his front panel have been mashed more times than there are stars in the gaming universe, each press a testament to the countless hours spent in the pursuit of high scores and digital glory. His screen, with the fierce red and black colors, reflects his undying passion for the classic games that shaped him, and his eyes often flicker with the nostalgic memories of epic boss fights. Despite being a warrior at heart, Commander Pixel has retired from digital combat to become a guardian of gaming history, ensuring that the legacy of retro games lives on in the WebtrES club.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/276",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0276.gif",
+  "name": "Commander Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Once a decorated soldier in the Feline Federation's cyborg army, Major Whiskertron now spends his days as a prominent member of the WebtrES club. His bright orange chassis, adorned with cat-themed buttons, serves as a reminder of his agile, nine-lived past. The classic green screen face of Major Whiskertron displays expressions with pixel precision, often showing a playful smirk or a determined frown. His arms and legs, built for battle, are now more often seen striking heroic poses or engaging in friendly arm wrestles with his cybernetic comrades. Completing his iconic look is the helmet he never takes off, a trophy from his final victorious skirmish. Major Whiskertron's story is one of valor, adaptation, and camaraderie in the digital age.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/673",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0673.gif",
+  "name": "Major Whiskertron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

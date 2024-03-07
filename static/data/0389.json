@@ -1,0 +1,24 @@
+{
+  "description": "Once an elite soldier in the digital realm, Commander PixelBlitz now leads the legendary WebtrES club into the battle of nostalgia. With a body crafted from the sturdiest pixels of retro consoles and arms that have mastered every game cartridge known to the arcade world, this commander's screen can emit laser grids capable of recreating the most iconic 8-bit battlefields. His buttons, worn from endless strategic maneuvers, still click with the satisfying sound that echoes through the annals of gaming history. PixelBlitz stands ever ready, a sentinel in the virtual corridors of time, to defend the legacy of pixel warriors and keep the spirit of the retro console alive.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/389",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0389.gif",
+  "name": "Commander PixelBlitz",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

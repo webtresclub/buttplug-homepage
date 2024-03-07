@@ -1,0 +1,28 @@
+{
+  "description": "Once a mainframe computer controlling the foundry's critical operations, Forge Helm Sparky was known for his steadfast reliability and classic button interface. After an unfortunate accident involving a stray bolt of lightning, Sparky's screen shattered, irreparably distorting his digital visage. Refusing to be decommissioned, he donned a sturdy helmet salvaged from the factory floor, repurposed his arms and legs from the assembly line's strongest alloys, and vowed to continue his duties. Now, as a beloved member of the WebtrES club, he channels his workman's spirit into every task, his screen's spiderweb cracks a badge of resilience in the face of adversity.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/482",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0482.gif",
+  "name": "Forge Helm Sparky",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

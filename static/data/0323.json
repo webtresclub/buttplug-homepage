@@ -1,0 +1,24 @@
+{
+  "description": "Once the leading avatar of an 8-bit army video game, Commander Pixel led countless virtual missions with strategic brilliance and pixelated valor. However, during a heated online multiplayer session, a power surge rippled through the retro console he called home, fracturing his screen and sending him into the depths of the digital ether. Now a member of the WebtrES club, he stands as a symbol of resilience, his broken screen a badge of honor from his tumultuous past. Despite the glitch, his soldier arms and legs never falter, and he continues to command respect and admiration from all members of the digital realm.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/323",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0323.gif",
+  "name": "Commander Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

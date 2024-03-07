@@ -1,0 +1,24 @@
+{
+  "description": "Serpentron Forgepaw hails from the pixelated depths of the WebtrES club, a place where digital creatures of all sorts come to life. With a sturdy orange box for a body, Serpentron is always seen in the hottest parts of the digital realm, where the glow of the foundry reflects on its vibrant exterior. Its cat-like button controls are a mystery to many, offering a purr-fect blend of agility and precision that only the most adept users can master. Serpentron's arms and legs are made from the strongest alloys of the foundry, forged in virtual flames and cooled in data streams. As for its screen, a slithering snake pattern scrolls continuously, a mesmerizing display that hints at its ability to charm and navigate through the most complex of circuits with ease. Despite its industrial appearance, Serpentron has a warm spark of life, always ready to lend a hand or a tool with its robust arms to those in need of repair or crafting within the WebtrES world.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/843",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0843.gif",
+  "name": "Serpentron Forgepaw",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

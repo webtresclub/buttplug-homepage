@@ -1,0 +1,28 @@
+{
+  "description": "Catalyst Cal is a well-known figure in the WebtrES club, sporting a shiny yellow box with an impeccable gleam. He's got the classic button setup, which makes him a reliable choice for those who appreciate a touch of old-school charm. His arms and legs come from the foundry, giving him an industrial, sturdy look that's as tough as the metalwork he's passionate about. Cal's screen boasts a unique cat display, often misleading others into thinking he's all fun and games, but behind those cool shades, he's a calculating mastermind with a secret fondness for felines. With a trusty hammer in one hand and an air of mystery around him, Catalyst Cal is the go-to bot for both heavy-duty construction projects and complex strategizing sessions in the club.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/964",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0964.gif",
+  "name": "Catalyst Cal",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "PixelVader Prodigy hails from an arcade world where 8-bit legends never die, but sometimes they do glitch. As a young console in the golden era of gaming, they achieved high scores that were the envy of gamers everywhere. Tragically, during an intense session of 'Asteroid Blasters,' a rogue joystick caused a critical crack in their screen. Undeterred, PixelVader adopted a helmet, symbolizing their new mission: to game on despite the glitches and to remind others that every pixel has a purpose, even when slightly scrambled. With hands perpetually poised for play and a heart of gold cartridges, they are a cherished member of the WebtrES club, inspiring resilience in the face of digital adversity.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/68",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0068.gif",
+  "name": "PixelVader Prodigy",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

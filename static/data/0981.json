@@ -1,0 +1,24 @@
+{
+  "description": "LaserPaw hails from the neon-lit alleyways of CyberFeline City, a place where retro-tech and cat culture collide. As a member of the elite WebtrES club, LaserPaw is known for its sharp wit and sharper laser gaze, often seen cutting through the night's fog like a hot knife through butter. By day, this pixelated prowler is a silent sentry, safeguarding the digital frontiers from cyber-threats. But when night falls, LaserPaw's playful side emerges, projecting laser art on the city's skyscrapers, drawing both admirers and competitors from across the cybernetic landscape. With a box-shaped body reminiscent of the ancient computers of yore and a tail that wags to an 8-bit rhythm, LaserPaw is a guardian of both culture and code.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/981",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0981.gif",
+  "name": "LaserPaw",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

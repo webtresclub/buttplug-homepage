@@ -1,0 +1,28 @@
+{
+  "description": "Sergeant WhiskerFrame is a valiant member of the WebtrES club, known for his stoic demeanor and tactical prowess. With a box shaped like a soldier's chest and buttons reminiscent of a cat's playful curiosity, he combines the discipline of military life with the agility and stealth of a feline predator. His arms and legs are fashioned after a cat's lithe limbs, enhancing his ability to maneuver through digital terrains with grace and precision. The classic screen that forms his face displays his cool and calm nature, while his shades, an iconic addon, shield his visual sensors from the harsh glare of cyberspace. WhiskerFrame is a cyber-commando, always ready to lead his digital comrades into the heart of the data fray, all while maintaining an air of mystery behind his shaded lenses.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/348",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0348.gif",
+  "name": "Sergeant WhiskerFrame",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

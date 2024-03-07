@@ -1,0 +1,24 @@
+{
+  "description": "Catalyst Rex is a legend in the WebtrES club, a digital entity known for his rapid ascendancy through the virtual ranks. Encased in a shiny yellow box that reflects his gleaming ambition, Rex sports a display with a fierce red and black visage that intimidates his digital rivals. His cat-themed buttons hint at his nimble reflexes and cunning strategy, making him a formidable player in the digital arena. But what truly sets Rex apart are his rocket arms and legs, symbolizing his explosive speed and his ability to soar above the competition, leaving a trail of pixelated stardust in his wake. Whether he's navigating the neon grids of cyberspace or engaging in high-stakes data duels, Catalyst Rex is the spark that ignites the digital revolution.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/841",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0841.gif",
+  "name": "Catalyst Rex",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

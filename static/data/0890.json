@@ -1,0 +1,24 @@
+{
+  "description": "PixelPurr ConsoleCat hails from the retro forests of the digital world, a place where 8-bit trees sway to the chirps and beeps of the wildlife. With a forest green casing that blends into the pixelated underbrush, this enigmatic NFT character is a master of old-school gaming. Its screen-face often displays the curious visage of a cat, a nod to its creators' love for quirky irony and feline finesse. The retro console buttons that adorn its boxy frame are not just for show; they are fully functional, offering tactile nostalgia to anyone lucky enough to engage with this unique creature. As a member of the WebtrES club, PixelPurr ConsoleCat brings a touch of arcade magic and a whisper of digital mystique to every encounter, always ready to press 'start' on a new adventure.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/890",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0890.gif",
+  "name": "PixelPurr ConsoleCat",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

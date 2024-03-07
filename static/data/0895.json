@@ -1,0 +1,24 @@
+{
+  "description": "RocketPixel is a legendary figure within the WebtrES club, known for his explosive entrances and exits, thanks to his rocket arms and legs. Born in a digital realm reminiscent of the 80s arcades, he's a master of classic games, drawing on the nostalgic energy of a retro console box. His buttons might look classic, but they hold the secrets to activating his laser screen, which he uses not only to display his high scores but also to communicate in a series of cryptic game references that only the truest of gaming aficionados can decipher. His quest is to find others of his kind, seeking to build a guild of retro avengers to keep the spirit of the golden gaming era alive in the ever-evolving digital landscape.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/895",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0895.gif",
+  "name": "RocketPixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

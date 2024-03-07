@@ -1,0 +1,24 @@
+{
+  "description": "Once a high-flying explorer of the digital cosmos, Catalyst Crater was renowned for his rocket-powered limbs that could propel him through the web space at light-speed. His shiny yellow box, a symbol of his radiant personality, could be spotted gleaming even in the darkest corners of the Internet. His control buttons, fashioned from the rarest virtual cat images, gave him nine lives worth of luck and agility. However, Catalyst's adventurous spirit led him to a fateful encounter with the treacherous Virus Vortex, resulting in his screen being cracked beyond the usual fix. Now, as a member of the WebtrES club, he spends his time sharing tales of digital realms and offering support to those who, like him, have faced the wrath of the web's most chaotic entities.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/334",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0334.gif",
+  "name": "Catalyst Crater",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

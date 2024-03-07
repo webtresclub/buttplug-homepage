@@ -1,0 +1,28 @@
+{
+  "description": "Specsy Pixel is an enigmatic character hailing from the retro realms of the WebtrES club. With a classic box frame that harkens back to the dawn of personal computing, Specsy carries the spirit of the 80s in its circuitry. Despite its broken screen, a testament to the many virtual battles and information overload it has endured, Specsy's glasses are a sign of its wisdom and insight. Its arms and legs remain in the classic style, representing a timeless design that's as practical as it is nostalgic. Although its screen may be cracked, Specsy remains a beacon of knowledge, helping club members navigate the information superhighway with quirky charm and a touch of old-school flair.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/93",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0093.gif",
+  "name": "Specsy Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

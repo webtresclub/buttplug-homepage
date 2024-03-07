@@ -1,0 +1,28 @@
+{
+  "description": "Born in the pixelated depths of an old-school arcade, Commander Pixel is a legend in the WebtrES club. Donning his iconic shades, he's known for his strategic mind and no-nonsense attitude. His classic screen has seen more battles than most, displaying an impressive array of victories and high scores. As a retro console with a soldier's arms and legs, he stands firm in the face of any digital challenge. His hand on the joystick is always steady, and his button-mashing skills are second to none. Commanding respect and nostalgia, Commander Pixel is a true warrior of the 8-bit era, always ready to lead his fellow club members to virtual glory.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/288",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0288.gif",
+  "name": "Commander Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

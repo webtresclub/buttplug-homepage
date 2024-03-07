@@ -1,0 +1,24 @@
+{
+  "description": "Forged in the era of 8-bit glory, Cataclysm Console was once the centerpiece of every gaming den. With a box designed to mimic the retro consoles of old, this quirky character quickly became the life of every party. Its buttons feature the playful essence of a cat, as do the arms and legs that give it a peculiar charm. However, one fateful day, a high-score challenge went terribly wrong, leaving its screen with a web-like crack. Despite its broken screen, which now displays a curious spider-like pattern, Cataclysm Console's spirit remains unshattered. It roams the WebtrES club with tales of pixelated adventures and the golden age of gaming, adding a sense of nostalgia and resilience to the group.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/163",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0163.gif",
+  "name": "Cataclysm Console",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

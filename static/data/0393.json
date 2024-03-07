@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the bustling alleyways of WebtrES city, Catalystic Purrformer is an enigmatic character with a penchant for feline charm and electronic beats. With a classic boxy build and a screen that radiates the mysterious allure of a cat's gaze, this NFT has become a symbol of agility and grace in the digital realm. The distinctive cat-shaped buttons are not just for show; they are highly responsive to the deft touches of a master programmer. By day, Catalystic Purrformer weaves through the streets, offering tech-savvy solutions to those in need. By night, the glowing screen lights up underground clubs with the hottest tracks, each beat a soft purr that vibrates through the cybernetic landscape. Despite a cool exterior, Catalystic Purrformer has a warm heart, often seen helping lost digital sprites find their way home. This NFT is truly a unique blend of technology and personality, always leaving a trail of intrigue and playful mischief wherever it goes.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/393",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0393.gif",
+  "name": "Catalystic Purrformer",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

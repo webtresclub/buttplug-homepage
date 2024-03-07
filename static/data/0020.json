@@ -1,0 +1,24 @@
+{
+  "description": "Catalina PixelPaw is a retro-inspired, digital feline with a love for old-school charm. As a member of the exclusive WebtrES club, she boasts an orange boxy frame reminiscent of vintage computers and classic push buttons that echo the heyday of arcade gaming. Her screen face displays the playful visage of a pixelated cat, complete with shining golden eyes that glow with curiosity and a penchant for digital mischief. Catalina's arms are poised handDown, ready to interact with the physical world, a juxtaposition to her virtual existence. Despite her electronic nature, she's known for her warm 'purr-sonality' and her ability to bring a sense of nostalgia and warmth to the WebtrES community. Whether she's reliving the glory days of gaming or exploring the vast expanses of the internet, Catalina PixelPaw is a beloved character whose charm and charisma never fail to light up the digital world.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/20",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0020.gif",
+  "name": "Catalina PixelPaw",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

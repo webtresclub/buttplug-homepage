@@ -1,0 +1,28 @@
+{
+  "description": "Born in the digital realm of WebtrES, Sergeant WhiskerScale is a unique character who combines the world of fauna with the discipline of the military. His box-like torso is patterned after the stealthy camouflage of a jungle cat, which helps him stay undetected in various terrains. The buttons adorning him display the mysterious symbols of ancient feline civilizations. His arms and legs are engineered for combat, resembling those of a battle-hardened soldier, always ready for action. The screen that serves as his face flickers with the hypnotic patterns of a serpent, allowing him to mesmerize his foes and allies alike. Topping off his ensemble is a rugged helmet, a memento from his first campaign in the Great Pixel Wars. Now a respected figure in the WebtrES club, Sergeant WhiskerScale is an enigmatic leader whose tales of valor are encoded in the very pixels of his being.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/891",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0891.gif",
+  "name": "Sergeant WhiskerScale",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

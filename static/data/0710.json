@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the pixelated alleyways of the WebtrES club, Laser Whiskertron is a digital feline with a penchant for high-energy antics. Its box is crafted in the likeness of a sleek midnight cat, complete with perked ears and a swishing tail. The buttons mimic the soft pads of a cat's paw, while the classic arms and legs give it a charming, retro video game vibe. The screen, however, is where Laser Whiskertron truly comes to life, beaming ominous red laser eyes that can project onto any surface, creating spectacular light shows that dazzle and entertain its fellow WebtrES members. A creature of the night with a love for the spotlight, Laser Whiskertron is a beloved figure in the pixel art world, always ready to leap into action and bring a touch of mischievous technology to any digital gathering.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/710",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0710.gif",
+  "name": "Laser Whiskertron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

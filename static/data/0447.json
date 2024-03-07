@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the neon-lit alleys of Silicon Purr, Catalyst LaserByte is a classic model with a twist. His box design harkens back to the golden age of computing, equipped with the timeless 'click' of classic buttons. But don't be fooled by his vintage exterior; Catalyst is far from ordinary. Sporting agile cat limbs, he leaps through cyberspace, debugging systems with feline finesse. His pi\u00e8ce de r\u00e9sistance? A state-of-the-art laser screen that not only displays high-definition graphics but also emits low-intensity beams for precision slicing during his covert data heists. By day, Catalyst masquerades as a charming retro computer, but by night, he's a sleek, sharp-clawed member of the elite WebtrES club, always on the lookout for the next digital adventure.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/447",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0447.gif",
+  "name": "Catalyst LaserByte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

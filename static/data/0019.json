@@ -1,0 +1,28 @@
+{
+  "description": "In the pixelated expanses of the WebtrES club, there stands a vigilant guardian known as Forge Sentinel Hector. His forest green box is a hue that echoes the dense canopies of the digital woodlands he protects. Classic buttons line his front, a testament to his love for the timeless and the traditional. Hector's arms and legs, forged from the sturdiest foundry metals, allow him to craft and repair with a precision that is unmatched. The red and black screen that serves as his face flickers with intensity when he is focused on his tasks. A sturdy helmet, a relic from an ancient virtual battle, sits atop his head, symbolizing the many trials he has endured. Hector is the unspoken hero of the WebtrES club, tirelessly working in the background to ensure peace and stability in the digital wilds.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/19",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0019.gif",
+  "name": "Forge Sentinel Hector",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

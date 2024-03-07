@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the digital frontlines of the WebtrES realm, Commander Pixel is a revered figure with a shiny black exterior that reflects his stealthy operations. His retro console buttons reminisce the golden era of arcade gaming, a nod to the strategic prowess he developed during countless digital battles. His arms and legs are built with the strength of a soldier, always ready to leap into action. The red and black screen with piercing blue eyes suggests a duality of passion and mystery, while his glasses are not just for style\u2014they're advanced scanners analyzing the ever-changing landscape of the WebtrES club. Commander Pixel is a symbol of resilience, a digital warrior who stands guard over the bytes and bits of his cyber domain.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/538",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0538.gif",
+  "name": "Commander Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

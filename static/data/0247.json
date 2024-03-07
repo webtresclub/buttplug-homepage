@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the scratchy edges of the digital universe, Cataclysmic Pixel is a quirky member of the WebtrES club known for its feline features and rebellious attitude. It was once a top-tier arcade game unit, beloved by all, until a fateful encounter with a player who couldn't handle losing. In a fit of rage, the screen was cracked, which only added to Cataclysmic Pixel's cool factor. Adorned with jet-black shades to hide the signs of its tumultuous past, it now roams the virtual streets, toting its striped battery pack, leaving a trail of pixelated mischief wherever it goes. Despite its broken screen, Cataclysmic Pixel is the life of every digital party, charming its way through circuits and bytes with its timeless classic buttons and a swish of its cat-like tail.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/247",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0247.gif",
+  "name": "Cataclysmic Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

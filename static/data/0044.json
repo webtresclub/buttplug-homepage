@@ -1,0 +1,28 @@
+{
+  "description": "Pixel Snake Crafter, known as 'PSC' to his friends, was once a simple retro console lost in a digital world of forgotten games. One day, after a jolt of rogue code, PSC came to life with a shiny yellow exterior and a screen that perpetually plays the classic 'Snake' game. With arms and legs forged from the very foundry that once melted old tech into oblivion, he fashioned himself a pair of round glasses, giving him an intellectual look. PSC now roams the WebtrES club, using his trusty hammer to repair broken code and a soldering iron to enhance the capabilities of his fellow members. He's a legend among the pixelated, a craftsman with a heart of gold, and a knack for fixing things that seem beyond repair.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/44",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0044.gif",
+  "name": "Pixel Snake Crafter",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

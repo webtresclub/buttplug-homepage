@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the pixelated planet of Felineia, Catalyst Rocketpaws is a high-flying member of the elite WebtrES club. With a classic box design that pays homage to the vintage era of gaming, Catalyst sports an energetic cat-themed screen that reflects its playful and curious nature. The cat buttons are not just for show; they are the control hubs for its rocket arms and legs, propelling it through cyberspace at unimaginable speeds. Catalyst's mission is to explore the vast reaches of the digital universe, seeking out new forms of entertainment and games to bring joy to beings across all networks. Its infectious energy and lightning-fast reflexes make it a beloved character in the WebtrES club, always ready to lend a helping hand or a jet-powered boost to any member in need.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/27",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0027.gif",
+  "name": "Catalyst Rocketpaws",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

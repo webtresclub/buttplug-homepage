@@ -1,0 +1,28 @@
+{
+  "description": "Born in the digital expanse of WebtrES club, Feline Jetsetter is the epitome of cool under pressure. With a sleek shiny black exterior and cat-button controls, he's always one paw-step ahead of the game. The rocket arms and legs aren't just for show; they propel him through cyberspace at breakneck speeds, leaving a trail of fiery code in his wake. His red and black screen flickers with the intensity of a thousand computations per second, a reflection of his sharp wit and faster-than-light reflexes. The shades? Well, they're not just a fashion statement\u2014they help him keep his cool while surfing the net, shielding his pixels from the glare of the virtual sun. Feline Jetsetter is the go-to NFT for missions that require a dash of charisma and a blast of high-octane performance.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/840",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0840.gif",
+  "name": "Feline Jetsetter",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

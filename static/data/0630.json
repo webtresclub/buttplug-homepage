@@ -1,0 +1,24 @@
+{
+  "description": "Feline Jetbot is a renowned member of the WebtrES club, known for its forest-green exterior that provides camouflage in the lush digital jungles it explores. With classic button controls that reflect its appreciation for retro technology, Feline Jetbot is all about blending the old with the new. Its arms and legs are equipped with rocket boosters, allowing it to soar above the treetops and perform incredible aerial stunts that amaze its peers. The cat screen display, featuring charming pixelated eyes, is a nod to its playful and curious nature. Feline Jetbot is adored for its adventures and is often seen leading expeditions into uncharted territories of the metaverse, leaving a trail of mystery and excitement wherever it goes.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/630",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0630.gif",
+  "name": "Feline Jetbot",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

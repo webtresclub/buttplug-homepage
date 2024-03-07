@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the digitized alleyways of the WebtrES club, LaserCatBox is a quirky fusion of retro technology and feline intuition. Its rosso corsa chassis is a nod to the speed of a race car, yet it moves with the grace of a cat on the prowl. The curious cat button interface offers unpredictable interactions, often leading to playful surprises or a mischievous laser light show. Its arms are always welcoming, ready to lend a hand or point the way to the nearest cyberspace adventure. LaserCatBox is the go-to companion for those seeking a blend of nostalgia and futuristic whimsy in the ever-evolving digital landscape.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/994",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0994.gif",
+  "name": "LaserCatBox",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

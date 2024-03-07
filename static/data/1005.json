@@ -1,23 +1,24 @@
 {
-  "description": "Circuit is a charismatic oscilloscope-themed robot with a shiny yellow box body. Its arms and legs are made of durable foundry material, allowing it to withstand rigorous activities. The vibrant laser screen on its chest serves as its visual interface and communication tool. Circuit is a proud member of the WebtrES club, showcasing its intelligence and advanced technological abilities.",
-  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/1005.gif",
+  "description": "Hailing from the pixelated alleys of WebtrES city, Catalyst Claw is a luminary in the world of high-tech craftsmanship. The shiny yellow box that houses his core is made from the rarest digital alloy, radiating an energy that captivates all who pass by. His unique cat button interface allows for swift and agile responses, making him a beloved figure among the feline-loving denizens of the digital realm. Catalyst's arms and legs, forged from the depths of the foundry, show the marks of a bot who isn't afraid to get his hands dirty. Equipped with a laser screen capable of cutting through the toughest code, Catalyst Claw is the go-to bot for solving the most intricate problems. But don't let his industrious exterior fool you \u2013 inside, he's all heart and humor, always ready with a pixel-perfect joke to lighten the mood.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/1005",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/1005.gif",
+  "name": "Catalyst Claw",
   "attributes": [
     {
       "trait_type": "Box",
-      "value": "shinyYellow"
+      "value": "Shinyyellow"
     },
     {
       "trait_type": "Buttons",
-      "value": "cat"
+      "value": "Cat"
     },
     {
-      "trait_type": "ArmsAndLegs",
-      "value": "foundry"
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
     },
     {
       "trait_type": "Screen",
-      "value": "laser"
+      "value": "Laser"
     }
-  ],
-  "name": "Circuit"
+  ]
 }

@@ -1,0 +1,28 @@
+{
+  "description": "Born from the golden era of arcade games, PixelVision Retro is the embodiment of nostalgia and cool. With his shiny yellow box and classic screen, Retro brings back the sweet memories of pixelated adventures and high scores. His retro console buttons are always ready for action, and his laid-back hand-down pose shows he's cool under pressure. Topped with a slick pair of glasses, he's not just a gamer; he's a style icon. Retro's not just part of the WebtrES club; he's a testament to the timeless appeal of games that bring people together, one pixel at a time.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/686",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0686.gif",
+  "name": "PixelVision Retro",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

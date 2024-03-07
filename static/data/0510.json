@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the depths of the digital forest, LaserSight Sentinel is a tactical unit of the WebtrES club. With a chassis painted in the stealthy shades of forest green, he blends seamlessly into the foliage of his home turf. Equipped with classic buttons that control an array of functions from communications to espionage, and arms and legs built to military specs, he's always on the move executing missions with robotic precision. His screen, capable of emitting piercing laser visuals, is not just for show; it's a tool for both intimidation and high-precision targeting. Don't let his blocky appearance deceive you, LaserSight Sentinel is a guardian of the digital wilderness, ever-watchful and always ready for action.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/510",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0510.gif",
+  "name": "LaserSight Sentinel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the digital battlefields of the WebtrES club, SerpentScreen Sarge is a formidable presence. His chassis is painted in the vibrant shade of 'rossoCorsa', a color that symbolizes the speed and passion with which he tackles every challenge. The 'classic' buttons that adorn his front panel serve as a reminder of his love for the retro, while his 'soldier' arms and legs are a testament to his disciplined approach to life's battles. The most striking feature, however, is his 'snake' screen, where pixelated patterns slither and slide, captivating onlookers with their hypnotic movements. Sarge is known amongst the WebtrES community as a strategic thinker, always ready to lend a helping hand or engage in a virtual skirmish, his programming rooted in camaraderie and courage.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/125",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0125.gif",
+  "name": "SerpentScreen Sarge",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

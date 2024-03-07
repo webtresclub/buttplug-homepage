@@ -1,0 +1,28 @@
+{
+  "description": "PixelPaws is an enigmatic member of the WebtrES club, known for its sleek black design and cool cat-like features. With a screen that displays a classic retro vibe and adorned with ever-stylish shades, it struts through the digital world with a mysterious air. Its box, buttons, arms, and legs are all inspired by the agile and cunning nature of cats, which gives it an edge in navigating the complex circuits of the online realm. PixelPaws is not just about style, though; it is also celebrated for its quick reflexes and stealthy maneuvers, making it a revered figure among the WebtrES elite. Its story began in an old arcade, where it gained its love for vintage games and cool demeanor, playing old-school games till the late hours of the night. Now, PixelPaws uses its gaming skills to outsmart the competition and maintain its reputation as the coolest cat in the data block.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/360",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0360.gif",
+  "name": "PixelPaws",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the dense electronic forests of Silicon Grove, PixelPunk Console is a retro gaming NFT with a passion for 8-bit adventures and chiptune beats. With a box color of forest green, he blends into the digital foliage, only his cool shades giving away his hiding spots during epic hide-and-seek championships. His classic screen, always displaying a calm and composed demeanor, hides the heart of an old-school gamer ready to push buttons and take on the toughest of arcade challenges. As a member of the WebtrES club, he's the go-to bot for gaming strategies and a touch of nostalgia. His arms are perpetually poised in a relaxed hand-down position, exuding a laid-back vibe, while his legs carry him on quests through pixelated landscapes. Generous to a fault, he's been known to give away rare in-game items to his fellow club members, cementing his reputation as both a friend and a fierce competitor.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/80",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0080.gif",
+  "name": "PixelPunk Console",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

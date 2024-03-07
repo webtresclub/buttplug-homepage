@@ -1,27 +1,28 @@
 {
-  "description": "Sparky is a shinyYellow oscilloscope themed robot with cat-shaped buttons and armsandlegs made of foundry metal. Its screen also displays a cute cat image. It is equipped with a helmet addon, making it stand out among other robots.",
-  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/1014.gif",
+  "description": "Hailing from the digital foundries of WebtrES club, Catalyst the Constructor is a feline-inspired bot known for its shiny yellow exterior and industrious spirit. With arms and legs forged from the strongest virtual steel, Catalyst is the go-to bot for building and fixing anything in the WebtrES universe. The cat button interface is both a tribute to its designer's love for cats and a unique feature that makes Catalyst a favorite among cat-loving netizens. The screen displays a constant enigmatic cat-like expression, adding to its quirky charm. Equipped with state-of-the-art glasses, Catalyst can analyze structures with microscopic precision, making it a master craftsbot. Whether it's wielding a hammer or a wrench, Catalyst builds connections not just between codes and nodes, but also among all members of the WebtrES community.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/1014",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/1014.gif",
+  "name": "Catalyst the Constructor",
   "attributes": [
     {
       "trait_type": "Box",
-      "value": "shinyYellow"
+      "value": "Shinyyellow"
     },
     {
       "trait_type": "Buttons",
-      "value": "cat"
+      "value": "Cat"
     },
     {
-      "trait_type": "ArmsAndLegs",
-      "value": "foundry"
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
     },
     {
       "trait_type": "Screen",
-      "value": "cat"
+      "value": "Cat"
     },
     {
       "trait_type": "Addon",
-      "value": "helmet"
+      "value": "Glasses"
     }
-  ],
-  "name": "Sparky"
+  ]
 }

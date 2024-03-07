@@ -1,0 +1,24 @@
+{
+  "description": "Pixelton Forgemaster, known to his close circuit friends as 'Forgey,' is a nostalgic nod to the era of 16-bit adventures. With a forest green chassis that reminds one of the dense digital forests he used to roam in his early gaming days, he's always equipped with his trusty hammer and anvil arms, a result of his recent stint at the Pixel Foundry where he mastered the art of crafting binary blades and silicon shields. Forgey's screen face, a classic display, often shows a smirk that hints at a mischievous backstory involving legendary hacker guilds and clandestine overclocking tournaments. Despite his retro console buttons that suggest a simpler time, don't let his appearance deceive you; this pixelated artisan is as sharp as the rarest in-game artifact and as tough as the final boss that guards it.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/535",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0535.gif",
+  "name": "Pixelton Forgemaster",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

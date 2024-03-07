@@ -1,0 +1,28 @@
+{
+  "description": "PixelForge hails from the pixelated plains of Retrotopia, a land where 8-bit dreams come to life. As a master craftsbot, PixelForge wields a mighty hammer, shaping the destiny of his digital domain one pixel at a time. His thick-rimmed glasses aren't just for show; they allow him to see the world in a higher resolution, revealing the intricate layers of code and color that make up his universe. With his foundry arms and legs, he is known for his ability to fix broken game cartridges and consoles, breathing new life into them. PixelForge is a respected member of the WebtrES club, known for his old-school charm, his unwavering dedication to gaming heritage, and his ability to troubleshoot even the most perplexing of pixel puzzles.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/819",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0819.gif",
+  "name": "PixelForge",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

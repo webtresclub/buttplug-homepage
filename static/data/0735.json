@@ -1,0 +1,24 @@
+{
+  "description": "Once the pinnacle of 8-bit entertainment, PixelSmash was a beloved console in the golden age of video games. It spent countless hours bringing joy and challenge to gamers around the world. One fateful day, a critical game of 'Dragon Questers' went awry, leading to an intense rage quit that left its screen with a spiderweb of cracks. Refusing to be rendered obsolete, PixelSmash armed itself with tools from the Foundry Forge and vowed to fix not just its shattered screen, but also the broken hearts of nostalgic gamers. Now, as a member of the WebtrES club, it fights to reclaim the glory of retro gaming, one pixel at a time.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/735",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0735.gif",
+  "name": "PixelSmash",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

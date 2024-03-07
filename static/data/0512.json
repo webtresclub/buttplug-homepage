@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the neon jungles of the digital realm, Serpento Byte is a mysterious figure in the WebtrES club. With a shiny yellow box for a body and a screen that flickers with the image of a snake, he's often found slithering through data streams, safeguarding the club's virtual vaults. His cat button controls are rumored to grant him nine lives, each one a new level of coding mastery. Despite his hand-down arms and legs seemingly relaxed at his sides, Serpento Byte is always alert, always calculating, with a binary rhythm pulsing through his circuitry. His enigmatic persona keeps others guessing, but one thing is certain: in the ever-evolving landscape of cyberspace, Serpento Byte is a creature of adaptability and intrigue.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/512",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0512.gif",
+  "name": "Serpento Byte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

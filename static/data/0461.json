@@ -1,0 +1,28 @@
+{
+  "description": "Born in the pixelated alleyways of WebtrES city, Cosmo Whiskerblast is a legendary figure in the world of high-speed coding and digital innovation. Equipped with rocket arms and legs, he's known for his ability to blast through cyberspace at the speed of light, leaving a trail of colorful code in his wake. His red and black screen-face, always displaying intense focus, is only softened by the playful cat-like ears and chic glasses that hint at his quirky personality. Despite his hard exterior, Cosmo is a guardian of the net, using his classic button controls to help navigate and protect the digital realm from various threats. His reputation is not only for his blistering speed but also for his sharp wit and warm heart, which beats in a rhythmic pattern of binary beats.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/461",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0461.gif",
+  "name": "Cosmo Whiskerblast",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

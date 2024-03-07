@@ -1,0 +1,28 @@
+{
+  "description": "Catalyst Coolio is the embodiment of laid-back charm in the WebtrES club. This dazzling character boasts a shiny yellow box chassis that can light up any room, literally and figuratively. With classic buttons and arms positioned casually downwards, Catalyst Coolio gives off an easygoing vibe, making everyone around feel at ease. The screen face features an adorable cat, which not only captivates the hearts of animal lovers but also hints at Coolio's quick reflexes and keen instincts. The shades are a signature accessory\u2014Coolio never goes anywhere without them, as they represent a cool, unruffled approach to life's ups and downs. Behind those shades, Catalyst Coolio is always plotting the next big thing, but always in the coolest way possible.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/38",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0038.gif",
+  "name": "Catalyst Coolio",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

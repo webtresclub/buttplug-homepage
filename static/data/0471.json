@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the bustling alleyways of Pixelton, Catzarro is the epitome of cool in the WebtrES club. With an orange boxy exterior that seems to glow like a sunset over the digital horizon, he stands out in any crowd. His screen face flickers with a mysterious red and black pattern, giving off an aura of enigma, while his cat button features hint at his agility and sly nature. Classic arms and legs give him a timeless charm, and the shades he sports are not just for style; they hide his gaze that can see through the pretense of the virtual world. With a penchant for rooftop parties and a knack for DJing, Catzarro is the life of every pixel party, always ready to drop the beat or leap into adventure.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/471",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0471.gif",
+  "name": "Catzarro",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

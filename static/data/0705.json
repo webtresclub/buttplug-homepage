@@ -1,0 +1,28 @@
+{
+  "description": "Once a centerpiece in a bustling arcade, PixelVision Percy now spends his days tinkering in the WebtrES club's workshop. His box is a classic, reminiscent of the golden age of gaming, while his retro console buttons hint at the countless hours spent delivering pixelated adventures. With arms and legs crafted from the finest foundry materials, Percy has a sturdy resilience, essential for his new role as the club's fixer-upper. Despite his broken screen\u2014a battle scar from an intense gaming session gone awry\u2014Percy wears his glasses with pride, a testament to his wisdom and experience. They say he can fix anything, from a fried circuit board to a glitched game, but his true passion lies in teaching the next generation of gadgets the art of perseverance and repair.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/705",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0705.gif",
+  "name": "PixelVision Percy",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

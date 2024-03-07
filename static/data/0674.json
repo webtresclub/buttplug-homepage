@@ -1,0 +1,28 @@
+{
+  "description": "Once a standard-issue 'classic' box in the heart of Silicon Paws, Sergeant Whiskertron was upgraded with 'cat' buttons and a 'cat' screen interface, making him the perfect companion for feline aficionados. His arms and legs were reinforced with soldier-grade materials, enabling him to perform high-strength tasks. His most distinguishing feature is the rugged helmet add-on, a relic from his short service in the Alleycat Armed Forces where he earned his title. Now, Sergeant Whiskertron spends his days in the WebtrES club, sharing stories of his adventures and occasionally leading strategic games with the precision only a feline-focused military bot could achieve.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/674",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0674.gif",
+  "name": "Sergeant Whiskertron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

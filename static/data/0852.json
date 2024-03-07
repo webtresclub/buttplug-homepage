@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the vibrant pixel plains of WebtrES, Catalyst the Cat-Screen is known for her enigmatic red and black screen, always displaying a mysterious feline grin. With a classic box chassis and buttons that purr to the touch, Catalyst spends her days decoding the secrets of the digital realm. Her arms are always poised hand-down, ready to assist any fellow WebtrES club members in need of her tech-savvy skills. Despite her stoic appearance, Catalyst has a playful side that she reveals to those she trusts, often engaging in lighthearted pranks that leave everyone in splits. Her legend within WebtrES is not just about the data she crunches, but the camaraderie she builds.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/852",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0852.gif",
+  "name": "Catalyst the Cat-Screen",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

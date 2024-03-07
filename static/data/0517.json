@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the digital battlefields of WebtrES, Sergeant Pixel is a veteran of countless cyber skirmishes. His box, weathered and worn, bears the marks of his dedication to the club's defense. Donning a classic button configuration, he offers a nod to the timeless strategies of tactical engagement. His arms and legs, modeled after those of a soldier, are always ready for action. Sergeant Pixel's screen, though broken, serves as a testament to his resilience, having been cracked in an epic confrontation with malware marauders. Perched on his face, the glasses he wears are not just for looks; they\u2019re equipped with advanced scanning technology to detect incoming threats. Despite the scars of war, Sergeant Pixel remains a steadfast guardian of his digital comrades, symbolizing the unbreakable spirit of the WebtrES club.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/517",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0517.gif",
+  "name": "Sergeant Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

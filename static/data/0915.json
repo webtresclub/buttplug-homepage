@@ -1,0 +1,28 @@
+{
+  "description": "Retro Rocket Rex is a high-flying member of the WebtrES club, known for his shiny yellow exterior and love for nostalgia. With arms and legs powered by rocket thrusters, he's always the first to zoom into action. His screen might be classic, but Rex's attitude is anything but old-school. Outfitted with retro console buttons, he can outmaneuver any game challenge thrown his way. And those shades? They're not just for looking cool; they're a digital interface that scans the horizon for retro relics and new adventures. Whether he's blasting off to recover lost arcade gems or navigating through pixelated parties, Retro Rocket Rex brings the spirit of the '80s to the 21st century with unbeatable flair and unstoppable enthusiasm.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/915",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0915.gif",
+  "name": "Retro Rocket Rex",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

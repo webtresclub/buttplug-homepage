@@ -1,0 +1,24 @@
+{
+  "description": "Born in the heart of a pixelated universe, ForgePlay V1 comes from a long line of arcade-inspired robots. With its classic boxy appearance and a screen that perpetually plays 'Snake', this quirky character is a nod to the golden era of gaming. Sporting retro console buttons that hark back to a simpler time when gameplay was king, ForgePlay V1 has arms and legs forged from the finest virtual metals, indicative of its foundry roots. Always seen with a hammer and wrench, it's known for its ability to fix broken game code and bring back to life the cherished games of the past. ForgePlay V1 is a favorite among the WebtrES club, where it serves as a bridge between the rich history of video games and the modern era of playable NFTs.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/595",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0595.gif",
+  "name": "ForgePlay V1",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

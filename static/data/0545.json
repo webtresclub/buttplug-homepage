@@ -1,0 +1,24 @@
+{
+  "description": "Born in the heat of a digital blacksmith's foundry, ForgePixel is a unique member of the WebtrES club known for his rossoCorsa chassis that resonates with the passion of gaming enthusiasts. His retroConsole buttons have been mashed by the ghosts of gaming past, giving him a nostalgic aura that can transport you back to the golden era of arcade games. ForgePixel's arms and legs, forged from the finest pixels in the virtual foundry, are sturdy as they are flexible, allowing him to craft and repair in the virtual world with the precision of a seasoned blacksmith. The redBlack screen that lights up his face flickers with the intensity of a classic game on the verge of the highest score. Despite his tough exterior, ForgePixel has a soft spot for pixelated adventures and spends his downtime reliving the glory days of 8-bit epics and sharing tales of high scores and unbeatable levels with anyone who'll join him for a round.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/545",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0545.gif",
+  "name": "ForgePixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

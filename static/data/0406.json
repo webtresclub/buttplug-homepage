@@ -1,0 +1,28 @@
+{
+  "description": "Retro Rad Rex is a digital denizen of the WebtrES club, known for his vibrant orange casing and a passion for all things retro. In a previous life, Rex was the heart and soul of a bustling arcade, where the clinks and clacks of his buttons were a symphony to gamers of the golden era. With his classic black limbs, he was always the most dexterous bot on the block, racking up high scores and creating legends in the pixelated playgrounds of yesteryear. After the arcade lights dimmed, Rex reinvented himself as a cool connoisseur of the digital age, donning sleek shades to shield his screen from the glare of his newfound fame. His red and black screen face is ever expressive, blinking pixelated winks to those who recognize the charm of a bygone era. Rex is a bridge between worlds, a reminder that sometimes, the most joy can be found in the simple, blipping beats of a retro console's heart.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/406",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0406.gif",
+  "name": "Retro Rad Rex",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

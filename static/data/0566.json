@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the pixelated battlefields of the Retro Console Wars, Sergeant Meowcade is a valiant warrior in the WebtrES club. Once a simple gaming console, Meowcade was given life by a mysterious power surge during a lightning storm. Adapting quickly to his newfound sentience, he armored up with a sturdy helmet and retrofitted himself with rocket arms and legs for rapid deployment. His screen, forever displaying the stoic visage of a digital cat, symbolizes his agility and cunning in combat. With his trusty helmet, he's able to strategize and protect his data cores against any virtual adversary. Sergeant Meowcade now spends his days leading daring raids in the digital realm, forever on the lookout for the next high score in heroism.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/566",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0566.gif",
+  "name": "Sergeant Meowcade",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Born in the pixelated depths of cyberspace, PixelPilot Retro is a legendary member of the WebtrES club known for his vintage style and love for classic gaming. With a vibrant orange chassis reminiscent of the golden era of arcade machines, Retro's screen always displays his iconic green 'M' smile, which he claims stands for 'mega fun.' His helmet, a nod to the old-school space explorers, never leaves his head, sparking rumors that he's secretly a level-99 space commander. Arms always relaxed at his side, Retro exudes a cool confidence, whether he's navigating through asteroid fields or simply enjoying a casual stroll through digital realms. His retro console buttons are a hit at every party, as he challenges fellow WebtrES members to beat his near-impossible high scores. Despite his competitive streak, Retro's always ready to lend a helping hand(down) or share his extensive knowledge of 8-bit lore.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/712",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0712.gif",
+  "name": "PixelPilot Retro",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

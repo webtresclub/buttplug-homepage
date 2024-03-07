@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the neon-lit alleyways of Digitalis Purrth, Major Whiskertron is a valiant cybernetic feline soldier known for his rosso corsa armor that glows with the intensity of a thousand laser pointers. His screen displays the fierce eyes of a warrior cat, ever watchful and ready to pounce on any cyber threats. With button commands that unleash a symphony of meows and roars, and limbs engineered for agility and strength, Major Whiskertron is a beloved member of the elite WebtrES club. He spends his downtime chasing digital mice and sharpening his tactical algorithms.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/530",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0530.gif",
+  "name": "Major Whiskertron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

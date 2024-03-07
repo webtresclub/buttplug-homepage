@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the digital frontlines of the WebtrES club, Sergeant PixelBrick is a battle-hardened warrior known for his unwavering courage. His screen may be cracked from a skirmish in the cyber trenches, but his spirit remains unbroken. Adorned with a rugged camo helmet, Sergeant PixelBrick has classic control buttons that have seen countless presses in the heat of virtual battles. Despite his hands perpetually fixed in a calm downward position, he\u2019s always ready to leap into action. Each pixel on his screen tells a story of valor, and even with a fragmented display, his resolve to protect the digital realm and its inhabitants is crystal clear.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/490",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0490.gif",
+  "name": "Sergeant PixelBrick",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

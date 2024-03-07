@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the digital alleyways of WebtrES club, Major Whiskerbyte is a battle-hardened feline strategist with an orange box for a body and a screen that displays his ever-watchful cat eyes. His buttons purr with the precision of a cat stalking its prey, while his arms and legs, reminiscent of a soldier's, are always ready for action. Equipped with tactical glasses that enhance his already keen eyesight, Major Whiskerbyte is an invaluable asset when it comes to planning the most intricate operations in the cyber world. His comrades rely on his sharp mind and unyielding courage, whether they're navigating the treacherous terrain of code or engaging in epic byte battles.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/633",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0633.gif",
+  "name": "Major Whiskerbyte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

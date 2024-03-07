@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from a galaxy where felines reign supreme and arcades never went out of style, Catalyst Comet is a sleek member of the WebtrES club known for its shiny black exterior and retro console buttons. This bot's arms and legs are powered by advanced rocket technology, allowing it to zoom through cyberspace with agility and speed. Its screen, featuring the visage of a cosmic cat, has the uncanny ability to hypnotize anyone who gazes upon it, drawing them into endless games of pixelated adventure. Catalyst Comet is a rare companion for those who crave a taste of nostalgia mixed with a dash of interstellar mystery.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/451",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0451.gif",
+  "name": "Catalyst Comet",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

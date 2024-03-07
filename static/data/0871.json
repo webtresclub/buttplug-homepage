@@ -1,0 +1,28 @@
+{
+  "description": "Sergeant Shade is a venerable member of the WebtrES club, known for its rossoCorsa exterior and disciplined demeanor. This digital soldier has a screen that has seen many a battle in the virtual world, displaying the scars of skirmishes with elegance and pride. With arms and legs of the classic build, Sergeant Shade has a strong foundation in the fundamentals and an unwavering commitment to the club's cause. The shades are not just for style; they conceal a tactical mind always strategizing the next move in the quest for digital supremacy. Sergeant Shade doesn't just follow orders; it writes the code of conduct for the entire WebtrES battalion.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/871",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0871.gif",
+  "name": "Sergeant Shade",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

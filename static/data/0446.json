@@ -1,0 +1,28 @@
+{
+  "description": "Blasting through the pixelated skies of the WebtrES universe, JetSet Retroblast is a legendary figure among gaming aficionados and NFT collectors alike. With a box design that takes one back to the golden age of gaming, his classic exterior encases the heart of a bygone era. The retro console buttons on his front panel have felt the presses of countless champions, each seeking to leave their mark in the high-score halls of fame. But JetSet isn't confined to the arcade cabinets; his rocket arms and legs propel him past the boundaries of 8-bit worlds into the vast expanse of the digital cosmos. Behind his iconic shades, his screen eyes reminisce the bright, pixel-perfect adventures of yesteryear while scanning the horizon for the next electrifying quest. As a member of the elite WebtrES club, JetSet Retroblast is more than just a collector's piece\u2014he's a symbol of speed, nostalgia, and the unyielding spirit of the arcade.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/446",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0446.gif",
+  "name": "JetSet Retroblast",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

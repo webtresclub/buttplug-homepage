@@ -1,0 +1,24 @@
+{
+  "description": "CobraCade is an enigmatic member of the WebtrES club, known for their unique blend of old-school gaming charm and mysterious feline agility. Crafted with a classic box design, CobraCade stands out with a screen featuring a hypnotic snake pattern that mesmerizes those who dare to glance. The retro console buttons hark back to a simpler time in gaming, yet their actions are as swift and unpredictable as a cat's strike. CobraCade's arms and legs, reminiscent of a sleek black cat, allow them to move through the digital world with stealth and grace. Despite their retro appearance, CobraCade is a master of the latest web technologies, weaving their way through code and cyberspace with ease. They spend their days (and nights) curating an impressive collection of vintage games and digital artifacts. To the members of the WebtrES club, CobraCade is both a mentor in navigating the intricate web of the internet and a friend who always has a clever trick up their sleeve.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/100",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0100.gif",
+  "name": "CobraCade",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

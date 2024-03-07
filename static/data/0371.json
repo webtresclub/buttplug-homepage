@@ -1,0 +1,24 @@
+{
+  "description": "Born in the fiery forges of the WebtrES club, FerroVolt is a charismatic character known for his vibrant rossoCorsa box and the classic charm of his buttons. Sporting arms and legs crafted from the strongest materials found in the digital foundry, he is both a formidable creator and a relentless worker, wielding his trusty pixel hammer with the precision of a seasoned artisan. FerroVolt's classic screen face, often displaying a determined and focused expression, is the window to his calculating and analytical mind. In the virtual world of WebtrES, he is celebrated for his ability to build and forge connections, his unwavering determination, and his knack for crafting solutions to the most intricate of problems. Whether he's hammering out code or forging digital alliances, FerroVolt's presence is a signal of innovation and strength in a constantly evolving landscape.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/371",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0371.gif",
+  "name": "FerroVolt",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

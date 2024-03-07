@@ -1,0 +1,28 @@
+{
+  "description": "Gizmo Rocketeer is a high-flying member of the WebtrES club, known for his forest green boxy exterior and a penchant for classic style. His rocket arms and legs are not just for show; they are the result of his adventurous spirit, which led him to retrofit himself for exploration beyond the stratosphere. Equipped with classic buttons that produce an array of vintage bleeps and bloops, and a screen that always displays his mood through pixelated expressions, Gizmo Rocketeer is both a scholar and a daredevil. His glasses aren't just a fashion statement\u2014they are a symbol of his insatiable thirst for knowledge. Whether he's navigating through an asteroid field or cataloging alien flora, Gizmo Rocketeer brings a touch of old-school charm to every corner of the cosmos.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/576",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0576.gif",
+  "name": "Gizmo Rocketeer",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

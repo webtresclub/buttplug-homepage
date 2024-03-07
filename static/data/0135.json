@@ -1,0 +1,28 @@
+{
+  "description": "Emerging from the golden era of arcade games, PixelPlaya is a retro console with a flair for the classics. With arms and legs modeled after the iconic joysticks and a screen that has seen countless battles, races, and puzzles, this cool character is always ready to throw down in a gaming challenge. Sporting a pair of sleek shades, PixelPlaya is the embodiment of laid-back retro style mixed with unyielding gaming passion. As a prominent member of the WebtrES club, PixelPlaya is known for organizing legendary gaming tournaments and sharing cheat codes from the days of gaming yore.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/135",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0135.gif",
+  "name": "PixelPlaya",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

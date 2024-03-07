@@ -1,0 +1,24 @@
+{
+  "description": "Born in the bustling alleys of the digital metropolis of WebtrES club, Feline Flicker is a retro-style bot with a flair for the dramatic. Decked out in a vibrant rossoCorsa box frame, this bot's love for high speeds and fast-paced adventure is as striking as its crimson exterior. The cat-themed buttons are a testament to its lightning-quick reflexes, reminiscent of the feline agility that inspired its design. Its arms and legs are of the classic variety, suggesting a nod to the old-school arcades where it first learned to navigate the electric nightlife. The cat-inspired screen, with glowing yellow eyes, serves as a window into its soul, revealing a depth of curiosity and an insatiable thirst for knowledge. Feline Flicker prowls the neon-lit sidewalks of the information superhighway, a guardian of forgotten data and a seeker of the club's most intriguing secrets.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/685",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0685.gif",
+  "name": "Feline Flicker",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the bustling pixel mines of the retro gaming universe, Forge Pixelton is a master of creation and repair. With a chassis of shiny black and the classic console buttons, he's a nostalgic nod to the gamers of yesteryear. His arms and legs, forged from the strongest digital steel, allow him to wield his trusty hammer with precision, ensuring each pixel is perfectly placed. His screen, which perpetually displays the hypnotic patterns of the 'snake' game, is a tribute to one of the earliest digital pastimes. Forge is a beloved member of the WebtrES club, where he's known for his ability to fix any glitch and bring old-school gaming charm to the digital realm.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/731",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0731.gif",
+  "name": "Forge Pixelton",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Retro Rex hails from an alternate pixelated universe where 8-bit is the way of life. His shiny black body is reminiscent of the classic arcade machines, and his retro console buttons are a nostalgic nod to a bygone era of gaming. With arms and legs that carry the design of timeless video game characters, he walks among the WebtrES club members as a living tribute to digital history. The red and black screen on his face is known to flash in patterns that mimic the games of yesteryear, and his cool shades give him an air of mystery. Rex spends his time sharing tales of pixel adventures and high scores, all the while searching for the ultimate Easter egg that could unlock the secrets to the next level of existence.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/892",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0892.gif",
+  "name": "Retro Rex",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "In the heart of the bustling metropolis of Cybernetic Forge City, ForgeScreen Flexton stands out with his glistening shiny yellow box-like exterior and classic button array. This digital artisan hails from the renowned Foundry district, where his sturdy arms and legs were forged from the finest pixelated steel, capable of crafting virtual wonders. Flexton's red and black screen face is known for expressing the most intense emotions in the spectrum, from fiery passion to abyssal contemplation. By day, Flexton is an unassuming screen in a sea of high-tech, but by night, he transforms into a hero of the WebtrES Club, using his unique abilities to solve puzzles that encrypt the gates to digital dimensions. With his trusty hammer, he's not only a master of creation but also a protector, ready to dismantle any malware that threatens the digital cosmos.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/881",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0881.gif",
+  "name": "ForgeScreen Flexton",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

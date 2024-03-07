@@ -1,0 +1,24 @@
+{
+  "description": "Sergeant Pixel hails from the digital forests of WebtrES, where the foliage is as green as his sturdy boxy frame. With a love for all things vintage, his retro console buttons are a nod to the classic gaming era that he holds dear. His arms and legs, reminiscent of a soldier's, are not just for show; they're a testament to his commitment to protecting the virtual realms. Pixel's screen face, with its classic arcade expression, lights up in the familiar glow of yesteryear's gaming machines, always ready to lead a campaign against any cyber threat. He's a pixelated warrior, a guardian of the bygone bytes, and an esteemed member of the WebtrES club, where the old school meets the digital frontier.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/837",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0837.gif",
+  "name": "Sergeant Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "Forged in the depths of the WebtrES club's mythical foundry, Cataldo the Forge Master is a being of creation and craftsmanship. With a box coated in the finest rossoCorsa hue\u2014a nod to the speed and passion encapsulated in Italian sports cars\u2014Cataldo exudes an aura of confidence and power. His classic screen face is often illuminated with the fierce concentration of a master at work, while his cat-themed buttons hint at his playful, whimsical side that surfaces when the anvil cools. His sturdy foundry arms and legs, built to withstand the heat of molten metals and the strength needed to hammer steel into masterpieces, are always ready for action, whether he's crafting the next legendary weapon or shaping the destiny of the digital realm. Cataldo's tale is one of fire, iron, and a relentless drive to create, making him a beloved and awe-inspiring member of the WebtrES club.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/199",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0199.gif",
+  "name": "Cataldo the Forge Master",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "Emerging from the foundries of the virtual world, Forge Master Vixel is known for his shiny black casing and laser screen that can cut through the toughest of codes. His classic buttons are reminiscent of the early days of arcade machines, but don't let his retro look fool you; Vixel is as high-tech as they come. With arms and legs forged in the digital fires, he wields his hammer with the precision of a craftsman, sculpting and shaping data at will. As a prominent member of the WebtrES club, he is the go-to artisan when any member needs custom firmware upgrades or repairs. Vixel's legend has grown as the creator of some of the most intricate and secure networks in the virtual landscape, ensuring that the club's digital assets remain protected from any threats.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/457",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0457.gif",
+  "name": "Forge Master Vixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

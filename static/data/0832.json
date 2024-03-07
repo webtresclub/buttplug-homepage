@@ -1,0 +1,28 @@
+{
+  "description": "In the pixelated world of WebtrES, Catalyst the Crafty is known for his legendary crafting skills and cool demeanor. Born from the fiery forges of the Foundry district, he boasts arms and legs of the sturdiest iron, capable of swinging his trusty hammer to forge the digital destinies of all. His vibrant orange exterior is a beacon of creativity and energy. The classic buttons on his chest are a nod to his traditional values, respecting the old ways of pixel craftsmanship. But make no mistake, Catalyst is far from old-fashioned. His screen displays the clever gaze of a cat, representing his sharp wit and ability to always land on his feet, no matter the challenge. Topping off his unique look is a pair of sleek shades, shielding his eyes from the bright sparks of his creations and adding an air of mystery to his persona. Always ready for action, Catalyst the Crafty is a beloved figure in the WebtrES club, hammering away at the anvil of innovation.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/832",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0832.gif",
+  "name": "Catalyst the Crafty",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

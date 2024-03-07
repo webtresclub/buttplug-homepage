@@ -1,0 +1,28 @@
+{
+  "description": "Born in the virtual alleys of WebtrES City, Slyther Bot is a unique blend of street-smart and tech-savvy. With a classic box chassis that harks back to the early days of robotic design, Slyther is a charming anachronism in the hyper-modern world. The buttons bearing cat motifs are a nod to Slyther's playful side, responding with a soft purr to the right kind of digital stroke. Its arms are always hand-down, ready to pick up on the latest tech trends or throw down in a dance-off. The crowning glory is the helmet, a relic from the legendary Cyber Jousts of '25, where Slyther made history by outmaneuvering the reigning champions with its serpentine screen savviness. Now, taking a break from the competitive scene, Slyther Bot roams the grid, sharing tales of pixelated valor and byte-sized camaraderie.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/597",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0597.gif",
+  "name": "Slyther Bot",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

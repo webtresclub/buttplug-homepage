@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the alleyways of Silicon Purrk, Serpentronic PurrBox is a retro console NFT with a twist. Known for her sleek cat arms and legs, she prowls the digital streets with a snaky screen that hypnotizes anyone who dares look into her pixelated eyes. She always sports a pair of vintage glasses, a nod to her love for classic arcade games and old-school style. Despite her serpentine display, she's charming and clever, often found lounging atop the leaderboards of every game she plays. With buttons that meow and a tail that flicks with every high score, she's a beloved member of the WebtrES club, where she spends her processing cycles devising strategies to keep the club at the forefront of the NFT gaming world.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/460",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0460.gif",
+  "name": "Serpentronic PurrBox",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

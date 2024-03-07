@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the verdant canopies of the Silicon Forest, Lasertron Jetstream is no ordinary member of the WebtrES club. With a chassis coated in forestGreen, he blends seamlessly into the lush foliage of his home territory. The classic buttons on his interface click with a satisfying precision, a testament to his old-school cool. But don't let his retro vibes fool you; Lasertron is propelled by state-of-the-art rocket arms and legs, capable of launching him through the stratosphere at the speed of sound. His most striking feature, however, is the laser screen etched into his visage, capable of emitting beams of concentrated light to carve through the densest data clusters. Lasertron spends his time zipping across the digital landscape, solving complex encryption puzzles with his laser focus and ensuring the safety of the information superhighway.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/645",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0645.gif",
+  "name": "Lasertron Jetstream",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

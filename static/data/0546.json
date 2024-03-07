@@ -1,0 +1,24 @@
+{
+  "description": "Catalyst Forge is a one-of-a-kind robotic creature from the pixelated realm of the WebtrES club. Forged in the digital foundries where bits meld with bytes, this quirky character boasts an orange chassis emblazoned with cat-like buttons that beep and purr to its touch. Its screen face gleams with the luminous eyes of a feline, always on the lookout for virtual mice. Arms and legs crafted from the toughest foundry metals carry it through the data streams, wielding a hammer in one hand and artist's tools in the other\u2014symbols of its ability to both construct and create. Catalyst Forge is known throughout the WebtrES club for its role in building the foundations of their digital utopia and sculpting the ever-evolving landscapes of their virtual world.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/546",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0546.gif",
+  "name": "Catalyst Forge",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

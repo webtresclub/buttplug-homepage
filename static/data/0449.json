@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the pixelated alleyways of WebtrES city, Forge Feline Flex is renowned for its unique combination of feline finesse and industrial strength. With a box fashioned after the stealthy nighttime prowlers and a classic button configuration that's reminiscent of the arcade era, this character stands out in any digital crowd. Its arms and legs, forged in the fires of the digital foundry, bear the marks of molten metal and heavy industry. The cat screen face, complete with a sly grin, hints at a mischievous intellect behind those cool, shade-clad eyes. Known for crafting gadgets in the dimly-lit workshops of the virtual world, Forge Feline Flex is a true artisan of the digital age, always ready to lend a robotic hand or hatch a cunning plan with the aid of its trusty hammer and wrench.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/449",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0449.gif",
+  "name": "Forge Feline Flex",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

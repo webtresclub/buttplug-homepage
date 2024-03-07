@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the digital frontiers of the WebtrES club, Major Pixel is a storied veteran of countless cyber skirmishes. With his sturdy soldier-grade box frame and matching arms and legs, he's been known to stand steadfast against any malware onslaught. Adorned with classic buttons that have withstood the test of time, he operates with a no-nonsense efficiency. His screen, though classic, displays a gaze that can pierce through the toughest of firewalls. And let's not forget those signature glasses \u2014 those aren't just for looks. They're equipped with advanced scanning technology, ensuring that no digital threat goes unnoticed. Major Pixel might look like he's from an earlier era of pixelated graphics, but make no mistake, his tactical prowess on the cyber battlefield is as sharp as ever.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/90",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0090.gif",
+  "name": "Major Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

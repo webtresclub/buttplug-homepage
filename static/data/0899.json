@@ -1,0 +1,24 @@
+{
+  "description": "Sergeant Pixel is a battle-hardened member of the WebtrES club, known for his unwavering courage and classic combat strategies. His box, reflecting his soldier background, is made from a rare digital alloy that can withstand the fiercest cyber onslaughts. The classic buttons he proudly wears are medals of honor, each representing a major victory in the battle against viruses and malware. With his classic screen displaying a fierce battle visage, Sergeant Pixel leads his digital comrades with a blend of old-school tactics and modern, pixel-perfect precision. Whether navigating the treacherous terrains of the deep web or safeguarding the club's digital assets, Sergeant Pixel stands as a beacon of strength and reliability in an ever-evolving virtual world.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/899",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0899.gif",
+  "name": "Sergeant Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

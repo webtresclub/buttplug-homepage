@@ -1,0 +1,24 @@
+{
+  "description": "In the pixelated valleys of the WebtrES club lies the legend of Commander PixelBlast, an NFT with a retro console for a body and a screen that emits powerful laser visuals. Once a frontline arcade machine in the Great Game Wars, Commander PixelBlast now serves as a valiant guardian of digital nostalgia. With buttons that have felt the press of a million gamers and arms and legs built from the toughest soldier's armor, this commander stands as a sentinel for the retro games that shaped countless childhoods. His screen, though often displaying a simple, playful expression, can switch to combat mode, unleashing a dazzling laser light show that captivates and deters any would-be digital trespassers. Commander PixelBlast reminisces about the good ol' days while keeping a watchful eye over the WebtrES club, ensuring that the spirit of classic gaming remains alive and well.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/102",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0102.gif",
+  "name": "Commander PixelBlast",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

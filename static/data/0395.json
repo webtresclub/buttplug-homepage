@@ -1,0 +1,28 @@
+{
+  "description": "CircuitRacer Mark is a legendary figure in the WebtrES club, known for his blazing speed and quick reflexes in the virtual race tracks of the digital realm. His box chassis is coated in the iconic rossoCorsa, a color that symbolizes his passion for racing and his impressive winning streak. Equipped with classic buttons, arms, and legs, Mark is a master of old-school maneuvers, outperforming his competitors with precision and grace. His standard screen face displays an ever-confident smile, while the helmet add-on he wears is a tribute to his idol, the greatest pixelated racers of yesteryear. Mark's story is one of ambition, where a love for racing and dedication to practice made him a frontrunner in the high-stakes world of competitive gaming within the WebtrES universe.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/395",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0395.gif",
+  "name": "CircuitRacer Mark",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

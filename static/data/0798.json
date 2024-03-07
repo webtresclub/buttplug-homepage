@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the digital depths of the WebtrES club, Serpent Strike Commander is a legendary figure known for his tactical prowess and cybernetic enhancements. With a soldier's box symbolizing his commitment to the cause, he commands respect and authority. The classic buttons on his chest serve as a reminder of his adherence to the traditional values of honor and strategy. His arms and legs, powered by rocket technology, allow for rapid deployment and agility in the most chaotic of digital battlegrounds. The snake screen portrays his cunning and resourceful nature, always planning two steps ahead of his adversaries. The helmet, a state-of-the-art piece of equipment, is both a protective gear and a symbol of leadership. The Serpent Strike Commander is a hero among the pixelated warriors, always ready to lead the charge into the heart of the data storm.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/798",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0798.gif",
+  "name": "Serpent Strike Commander",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

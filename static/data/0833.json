@@ -1,0 +1,24 @@
+{
+  "description": "Once the purring heart of the WebtrES club's nightly entertainment, Circuit Whiskers dazzled members with his witty cat-themed games and purrfectly programmed puns. Born in the hub of Silicon Alley, Circuit Whiskers was the brainchild of a group of quirky programmers who loved cats as much as they loved coding. His iconic orange casing was modeled after the fiery sunsets over the digital plains of the web, and his cat button interface was a hit among the club's feline-friendly members. However, one fateful night, during a particularly intense round of 'Chase the Cyber Mouse,' his screen suffered a catastrophic crack. Now, with a broken screen that only displays the static memory of his last game, Circuit Whishkers stands by, waiting for the day when a skilled technician will restore his screen to its former glory and he can once again host the most meowvelous gaming sessions in the WebtrES club.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/833",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0833.gif",
+  "name": "Circuit Whiskers",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

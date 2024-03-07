@@ -1,0 +1,24 @@
+{
+  "description": "Pixel Purrfection is an enigmatic member of the WebtrES club known for his mysterious charm and digital dexterity. As a creature composed of both technology and feline features, he straddles the line between the digital realm and the cozy corners of a cat lover's home. His box-shaped body is adorned with cat-like buttons and his screen glows with the soft light of a cat's gaze. With classic arms and legs, Pixel Purrfection is capable of performing nimble acrobatics, which he often uses to entertain other club members or to sneak into places where he can glean insider information on the latest tech trends. Despite his playful nature, he has a reputation for being a sage advisor on cybersecurity matters, always ready with a witty quip or a purring word of wisdom. His tail is ever-twitching, a sign that he's plugged into the pulse of the ever-evolving world of the web.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/574",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0574.gif",
+  "name": "Pixel Purrfection",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

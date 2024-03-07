@@ -1,0 +1,24 @@
+{
+  "description": "Forged in the heat of the old school arcades, Pixelton Forge, or 'Pix' to his friends, hails from the pixelated depths of the WebtrES club. With arms and legs crafted from the sturdiest digital foundry metal, Pix is known for his ability to withstand the most intense gaming sessions. His box is designed after a retro console, complete with the classic red and black buttons that bring a wave of nostalgia to all who encounter him. Pix's screen face always displays the iconic 'snake' game, a tribute to the early days of mobile gaming. Despite his sturdy exterior, Pix has a soft spot for the classics and spends his time curating a collection of retro games, each one holding a special memory of the countless hours spent in electronic amusement.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/524",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0524.gif",
+  "name": "Pixelton Forge",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

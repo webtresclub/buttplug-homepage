@@ -1,0 +1,24 @@
+{
+  "description": "Once the leading edge of gaming technology, ForgeMaster Flex was the go-to arcade machine for the hottest games in the neon-lit halls of the 80s. However, a fateful encounter with a rogue player who took losing a bit too seriously left his screen with a distinctive spiderweb crack. Unfazed, Flex picked up his trusty hammer and wrench, deciding that if he couldn't run games, he'd build them instead. He became a legend in the WebtrES club for his ability to forge new paths where others saw dead ends, embodying the spirit of creativity and resilience in the face of adversity.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/66",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0066.gif",
+  "name": "ForgeMaster Flex",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

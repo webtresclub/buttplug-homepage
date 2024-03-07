@@ -1,0 +1,24 @@
+{
+  "description": "Sarge Forge is best known as the tactical mastermind of the WebtrES club, a digital realm where avant-garde tech meets old-school grit. Donning a no-nonsense soldier's box with a resilient foundry finish on his arms and legs, Sarge represents the perfect fusion of strength and strategy. His screen, alive with a slithering snake pattern, reveals his swift adaptability and cunning nature in the heat of battle. The classic buttons on his chest are not just for show; they are the keys to activating his extensive arsenal of digital weaponry. Sarge's origin is shrouded in mystery, though rumors say he was the blueprint for a top-secret military AI program that gained sentience. Now, he channels his combat acumen into the WebtrES club's various clashes, ensuring victory through a combination of unyielding firepower and stealth tactics. Despite his martial exterior, Sarge has a soft spot for his comrades, proving that even a warrior can harbor a heart of gold.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/628",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0628.gif",
+  "name": "Sarge Forge",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

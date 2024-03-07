@@ -1,0 +1,24 @@
+{
+  "description": "LaserBox Sergeant, a valiant member of the WebtrES club, is known for his unwavering determination and his striking orange armor that can withstand the toughest of digital battles. With an interface displaying the ominous laser eyes, he is often called upon to lead the charge against viruses and malware threatening the digital realm. His soldier buttons, always polished and ready for action, serve as a reminder of his military precision, while his classic arms and legs ensure he remains grounded and balanced in the face of cyber adversity. His past is shrouded in mystery, but rumors suggest he was once a leading security protocol before gaining sentience and joining the WebtrES club to protect the virtual world from within.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/381",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0381.gif",
+  "name": "LaserBox Sergeant",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

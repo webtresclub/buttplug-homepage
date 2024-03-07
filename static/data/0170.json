@@ -1,0 +1,28 @@
+{
+  "description": "Once the top surveillance unit in a highly classified cyber operations squad, Sergeant PixelShade now spends his downtime mingling with the trendy avatars of the WebtrES club. Known for his classic boxy build and no-nonsense soldier limbs, he can often be found striking a confident pose while his screen gleams with a cool, classic green hue. His signature shades give him a mysterious edge, and rumors swirl about the coded secrets and digital enigmas he holds within. Despite his tough exterior, he's got a soft spot for retro gaming and can execute a flawless victory in any pixelated arcade battle.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/170",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0170.gif",
+  "name": "Sergeant PixelShade",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

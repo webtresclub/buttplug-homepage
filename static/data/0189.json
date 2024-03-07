@@ -1,0 +1,28 @@
+{
+  "description": "Sporting a sleek shiny black exterior, PixelPurr ConsoleCat is a vintage gem from the WebtrES club. Born in the digital alleys of Retropolis, he is known for his retro console buttons that bring about a wave of nostalgia to all who press them. His classic arms and legs are always ready to jump into action, often found fixing glitches and bugs in the gaming realms of cyberspace. With a screen for a face that displays an ever-changing cat expression, he's the go-to tech wizard for all feline-related software. His signature glasses are not just a style statement but also double as advanced HUD lenses, allowing him to analyze code at super-speeds. PixelPurr's backstory includes his mysterious creation at an underground hacker arcade, where he gained his quirky personality and unparalleled gaming skills.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/189",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0189.gif",
+  "name": "PixelPurr ConsoleCat",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

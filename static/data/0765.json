@@ -1,0 +1,28 @@
+{
+  "description": "Forged in the depths of the digital jungle, Sergeant Hiss is a tactical mastermind, known for his unbreakable spirit and stealthy maneuvers. With his forest green armored casing, he blends into the lush pixelated foliage, silently observing his surroundings through his serpent screen eyes. His cat button interface is purr-fect for quietly commanding his platoon with feline grace. Adorned with military-grade shades, he keeps his cool under fire, ensuring his missions are executed with precision. His arms and legs, built from the strongest soldier-grade pixels, carry him confidently across any terrain. Sergeant Hiss is a legend in the WebtrES club, a pixel-hero whose tales of valor echo through the cyber wilderness.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/765",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0765.gif",
+  "name": "Sergeant Hiss",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

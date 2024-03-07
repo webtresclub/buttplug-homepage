@@ -1,0 +1,24 @@
+{
+  "description": "Pixel Forgemaster is a legendary member of the WebtrES club, known for its shiny black exterior reminiscent of the mysterious depths of the digital void. Its retro console buttons hark back to the golden age of gaming, where it once battled in pixelated arenas as a champion. With arms and legs forged in the virtual foundries of cyberspace, it wields a mighty pixel hammer in one hand and the iconic 'Turing Torch' in the other, symbolizing its power to manipulate both code and hardware. The intense laser screen that serves as its face is said to scan the horizon for new challenges, ever ready to construct or deconstruct anything that stands in its way. Pixel Forgemaster is not just a character but an icon for all those who craft and create in the endless expanse of the internet.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/14",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0014.gif",
+  "name": "Pixel Forgemaster",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

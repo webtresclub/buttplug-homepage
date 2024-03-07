@@ -1,0 +1,28 @@
+{
+  "description": "Commander Pixel is a legendary figure in the WebtrES club, known for his striking rossoCorsa box with a classic screen that harks back to the golden age of gaming. His buttons might remind you of a retro console, but don't let the nostalgia fool you; this warrior is anything but outdated. With arms and legs built for battle, he's a soldier who's seen his share of digital skirmishes. His shades aren't just for show\u2014they're his mark of cool under pressure. Commander Pixel is the one you call when the game gets tough and you need a leader who can level up the situation with pixel-perfect precision.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/677",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0677.gif",
+  "name": "Commander Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

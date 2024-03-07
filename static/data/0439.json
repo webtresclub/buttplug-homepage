@@ -1,0 +1,24 @@
+{
+  "description": "BlastPixel was once the pinnacle of entertainment in the WebtrES arcade club, a beloved retro console that everyone lined up to play. Decked out in a vibrant orange chassis and equipped with rocket limbs, BlastPixel could jump between arcade tables with ease, bringing joy to gamers everywhere. However, an unfortunate encounter with an over-enthusiastic player left its screen cracked, rendering its once crisp pixel graphics into a jumbled array of abstract art. But fear not, for BlastPixel's adventures didn't end there. Its broken screen became a badge of honor, symbolizing its dedication to providing endless fun. Now, BlastPixel is on a quest to find a rare component to fix its screen, journeying across the digital landscape of WebtrES club, and sharing tales of the golden era of gaming.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/439",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0439.gif",
+  "name": "BlastPixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

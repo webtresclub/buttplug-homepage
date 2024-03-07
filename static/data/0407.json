@@ -1,0 +1,24 @@
+{
+  "description": "With a chassis designed to resemble the sleek silhouette of a mysterious nocturnal feline, Feline Flare is a member of the elite WebtrES club known for her rapid ascend into the digital cosmos. Her red and black screen displays an enigmatic pattern that reflects her cunning and strategic thinking, a digital hunter in the boundless cyber wilderness. The cat-like button interface allows for swift and precise commands, making her a formidable competitor in virtual arenas. Feline Flare's rocket arms and legs aren't just for show; they propel her through the data streams at dazzling speeds, leaving a trail of pixelated stardust in her wake. She is the embodiment of agility and grace, with a dash of mystique, always landing on her feet, no matter how high the stakes or how far the fall.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/407",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0407.gif",
+  "name": "Feline Flare",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

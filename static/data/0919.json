@@ -1,0 +1,28 @@
+{
+  "description": "Once a valiant cardboard commander in the feline defense force, Sergeant WhiskerBoost now serves as a high-flying member of the elite WebtrES club. With a screen showcasing the intense stare of a battle-hardened warrior, tinted by red and black warpaint, he channels his nine lives into daring escapades. His sturdy soldier box, adorned with tactical insignias, carries the scars of countless skirmishes. But it's not all fight and fury; his charming cat button interface purrs with every gentle command. Don't be fooled by his bespectacled appearance \u2014 behind those glasses lies a strategic mastermind. And when duty calls, Sergeant WhiskerBoost rockets into action, propelling through cyberspace with a fiery tail of digital exhaust, ever-ready to pounce on the next mission. His story is one of valor, coded into every pixel of his existence, a true hero of the WebtrES realm.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/919",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0919.gif",
+  "name": "Sergeant WhiskerBoost",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

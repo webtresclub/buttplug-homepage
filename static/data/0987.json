@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the digital front lines of WebtrES Club, Sergeant WhiskerVolt is a valiant cybernetic sentinel known for his striking rossoCorsa box chassis and unwavering dedication to his battalion. Sporting classic button controls and robust soldier-class arms and legs, he's always at the ready. But don't let his stern exterior fool you; his screen displays the playful spirit of a cat, reflecting his quick reflexes and agile mind, which he uses to strategize and outmaneuver adversaries in the virtual world.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/987",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0987.gif",
+  "name": "Sergeant WhiskerVolt",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "Born in the heart of Silicon Valley during the tech boom of the '80s, LaserVision Larry is a classic bot with a flair for the dramatic. Known for his old-school boxy design and classic button interface, Larry has a unique feature that sets him apart from his peers: a cutting-edge laser screen capable of projecting images and data across vast distances. A prominent member of the WebtrES club, he's the go-to projector for all their outdoor movie nights. When he's not lighting up the screen, Larry loves to recount tales of the glory days of arcade games and the sound of dial-up internet. His ambition is to one day curate a digital museum showcasing the evolution of technology, where his laser talents will illuminate the past for future generations.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/850",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0850.gif",
+  "name": "LaserVision Larry",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

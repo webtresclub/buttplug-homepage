@@ -1,0 +1,28 @@
+{
+  "description": "Shady Pixel has always been the mysterious figure in the shadows of the WebtrES club. With a sleek shiny black exterior and a penchant for the classics, this bot sports a set of timeless buttons that have seen better days. Shady Pixel is known for its cool demeanor, hence the shades that never seem to come off, no matter the occasion. But what truly sets this bot apart is the unique broken screen, a testament to its resilience and a past filled with digital skirmishes. Legend has it that Shady Pixel was once a high-fidelity display unit, until an encounter with a rogue virus left its screen in a permanent state of stylish disarray. Now, with hands perpetually down as if unfazed by the ceaseless flow of data, Shady Pixel wanders the cyber realms, an enigma that other bots look up to and whisper about in hushed tones of RGB.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/718",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0718.gif",
+  "name": "Shady Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

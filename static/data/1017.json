@@ -1,27 +1,28 @@
 {
-  "description": "Juno is an oscilloscope-themed robot who is part of the WebtrES club. With a forest green box and soldier-themed buttons, Juno stands tall with soldier-like arms and legs. Its screen displays a cute cat, bringing a touch of playfulness to its design. Juno is always ready for action and is equipped with a helmet addon to protect itself in any situation.",
-  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/1017.gif",
+  "description": "Born in the digital forests of WebtrES, Sergeant Whiskerbyte is known for his unshakeable discipline and strategic prowess. With a forest green exterior that blends into the cyber foliage, he leads his squadron on covert operations, always one step ahead of the adversary. His screen displays the visage of a cat, a symbol of his agility and curiosity, which has served him well in gathering intelligence for the club. Outfitted with durable soldier-grade arms and legs, he's ready for any mission, while his helmet, a relic from a legendary virtual battle, marks his valor. Rumor has it that Whiskerbyte's helmet holds a secret code to an undiscovered area of the WebtrES club \u2013 a place where only the bravest venture.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/1017",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/1017.gif",
+  "name": "Sergeant Whiskerbyte",
   "attributes": [
     {
       "trait_type": "Box",
-      "value": "forestGreen"
+      "value": "Forestgreen"
     },
     {
       "trait_type": "Buttons",
-      "value": "soldier"
+      "value": "Soldier"
     },
     {
-      "trait_type": "ArmsAndLegs",
-      "value": "soldier"
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
     },
     {
       "trait_type": "Screen",
-      "value": "cat"
+      "value": "Cat"
     },
     {
       "trait_type": "Addon",
-      "value": "helmet"
+      "value": "Helmet"
     }
-  ],
-  "name": "Juno"
+  ]
 }

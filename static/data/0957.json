@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the pixelated depths of a long-forgotten arcade, SerpentoByte is a member of the elite WebtrES club known for its unique mix of retro charm and modern flair. With a body crafted from the sturdiest retro consoles, SerpentoByte's screen flickers with the cunning gaze of a digital serpent, always one step ahead in the cyber realm. Its cat-like limbs, stealthy and agile, allow it to maneuver through the webspace with ease, while the military-grade buttons attest to its strategic prowess. Donning glasses as its trusted addon, SerpentoByte sees through the complex layers of code with unmatched clarity. This enigmatic entity is not just a collector of bytes and bits but a guardian of the forgotten digital frontier, always ready to leap into action should the WebtrES club call upon its services.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/957",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0957.gif",
+  "name": "SerpentoByte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

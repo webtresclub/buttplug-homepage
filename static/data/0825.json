@@ -1,0 +1,24 @@
+{
+  "description": "Forged in the heart of a digital foundry, Catalyst Forge is a quirky automaton with a shiny black chassis and classic button controls that hark back to the golden era of arcade machines. Its arms and legs, made from the sturdiest foundry metals, are capable of crafting and repairing the most intricate digital creations. The most striking feature, however, is the cat face screen, which displays a range of emotions, from curiosity to contentment, adding a touch of whimsy to an otherwise robust constitution. Catalyst Forge is known throughout the WebtrES club for its knack for fixing broken code and its love for virtual fish.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/825",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0825.gif",
+  "name": "Catalyst Forge",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

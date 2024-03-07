@@ -1,0 +1,24 @@
+{
+  "description": "Born deep within the binary forests of Pixelia, Catalystic Pixelton is a unique member of the WebtrES club known for his forest green exterior and quirky love for all things feline. His screen always displays an enigmatic, cat-like grin that reflects his playful and mischievous nature. With classic arms and legs that allow him to traverse the digital landscape, he is a beloved character who specializes in bridging the gap between the ancient pixel arts and the modern world of NFTs. Whether he\u2019s assisting fellow club members in coding adventures or just spreading good vibes, Catalystic Pixelton is a true embodiment of the creativity and camaraderie that thrives within the WebtrES community.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/898",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0898.gif",
+  "name": "Catalystic Pixelton",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

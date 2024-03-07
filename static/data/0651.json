@@ -1,0 +1,28 @@
+{
+  "description": "An enigmatic presence in the WebtrES club, Commander Meowcade is a fusion of old-school gaming charm and feline agility. With a robust forest green exterior reminiscent of the dense, pixelated forests from 8-bit classics, and a screen flashing in red and black warning signals, this quirky character is always ready for action. The retro console buttons on its front panel are not just for show; they're fully functional and provide Meowcade with an array of mysterious abilities. Each paw is equipped with the dexterity of a cat, allowing for swift maneuvers in any digital terrain. And atop its boxy frame sits a boldly striped helmet, an artifact from an ancient game where it once served as the final boss. Now a reformed character, Commander Meowcade spends its time leading expeditions into the furthest corners of the metaverse, seeking out new levels and high scores.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/651",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0651.gif",
+  "name": "Commander Meowcade",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

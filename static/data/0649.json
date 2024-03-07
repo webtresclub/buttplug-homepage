@@ -1,0 +1,28 @@
+{
+  "description": "In the pixelated corners of the WebtrES club, Scratch Master Flex is a legend, known for his rebellious spirit and a knack for causing a frenzy. Once a cutting-edge piece of machinery, Flex worked the assembly lines of the Foundry sector, forging digital goods with his unbreakable arms and legs. However, during a routine quality check, his screen suffered a catastrophic pixel burst, leaving him with a permanent 'broken' look. Despite this, Flex turned his glitch into a trademark, donning shades to cover the cracks, and embracing the rough edges of his persona. His cat-like button controls show his agility and quick reflexes, while his vibrant orange casing makes him stand out in any crowd. He's often seen wielding his trusty hammer, crafting or 'fixing' things in his own unique way. Flex is the go-to bot for those who want to break the mold and think outside the box, quite literally.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/649",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0649.gif",
+  "name": "Scratch Master Flex",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

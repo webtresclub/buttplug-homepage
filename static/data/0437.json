@@ -1,0 +1,28 @@
+{
+  "description": "SlytherCircuit is a unique member of the WebtrES club known for its cunning digital prowess and mysterious aura. With a pixelated body that blurs the line between feline agility and serpentine stealth, this character is both enigmatic and charismatic. Sporting a cat-like box and limbs, SlytherCircuit navigates the cyber alleys with grace, while its snake-themed screen face flickers with the knowledge of a thousand networks. The classic buttons on its chest suggest a love for the retro, but don't be fooled by its old-school charm - this creature is as modern as they come, equipped with a helmet add-on that hints at its readiness for any digital adventure. SlytherCircuit is often seen as a guardian of the WebtrES club\u2019s secrets, keeping them safe from prying eyes with a watchful gaze and a sly, knowing smile that only a screen can convey.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/437",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0437.gif",
+  "name": "SlytherCircuit",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

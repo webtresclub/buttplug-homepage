@@ -1,0 +1,24 @@
+{
+  "description": "Commander Pixel, once a leading figure in the digital defense forces of the WebtrES club, now spends his days reminiscing about the pixelated battlefields of yesteryear. His box, adorned with the camouflage of a seasoned soldier, hints at countless virtual skirmishes. The retro console buttons he sports are a nod to his love for classic gaming, a passion that saw him through the toughest of times. His arms and legs, forged in the foundry of an ancient digital workshop, have been refashioned to withstand the heat of the most intense gaming sessions. And his screen, capable of emitting a strategic laser display, serves as a beacon for fellow gamers in the darkest hours of network outages. Despite the peaceful times, Commander Pixel keeps his hammer and trident ready, ever-prepared to defend the WebtrES club from rogue viruses and malware invasions, all while keeping the high score in every arcade game he encounters.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/601",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0601.gif",
+  "name": "Commander Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

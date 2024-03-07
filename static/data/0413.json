@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the cyber trenches of the WebtrES club, SerpentBot Sergeant Whiskers is a battle-hardened digital warrior with a flair for clandestine operations. His box, a striking rossoCorsa hue, is a nod to the high-speed pursuits he orchestrates in the virtual realm, while the cat-themed buttons are a playful tribute to his nine lives of code debugging. His arms and legs are modeled after the finest soldier prototypes, enabling him to execute precision maneuvers during data skirmishes. At the core of his being, the screen flickers with an enigmatic snake pattern, symbolizing his deep connection to cyberspace serpentine agility. Ever the strategist, Whiskers sports a pair of sleek shades\u2014an addon that shields his visual sensors from the harsh glare of binary suns and the flash of pixelated explosions. With a cigarette perpetually dangling from his mouth\u2014though it never seems to burn down\u2014this NFT exudes coolness under fire and an unshakable commitment to his mission: to protect and serve the digital frontiers of the WebtrES club.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/413",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0413.gif",
+  "name": "SerpentBot Sergeant Whiskers",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

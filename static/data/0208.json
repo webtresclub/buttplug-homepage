@@ -1,0 +1,24 @@
+{
+  "description": "Forge Master Pixel hails from the digital foundries of WebtrES club, a realm where code and metal are fused into creations of living art. With the classic box design that reminisces the golden era of gaming, Forge Master Pixel carries the wisdom of the old code. The classic buttons on its chassis are not just for show; they are the keys to unlocking the secrets of retro software. Its arms and legs, forged in the virtual fires of the Foundry, are robust enough to wield the hammer and wrench with precision, sculpting new worlds and repairing the old. The screen, while classic, displays expressions with a resolution that conveys an entire spectrum of emotions, from the bright pixels of joy to the dark pixels of contemplation. Forge Master Pixel is known among the WebtrES inhabitants as the keeper of the ancient games, a guardian of the pixelated past and an innovator leading the charge into the future of interactive entertainment.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/208",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0208.gif",
+  "name": "Forge Master Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

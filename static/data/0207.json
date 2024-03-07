@@ -1,0 +1,24 @@
+{
+  "description": "Catalyst Boxton is a unique member of the WebtrES club known for his deep love of nature and cats. With his forest green exterior, he blends seamlessly into the lush environments he loves to protect. His buttons and limbs are a tribute to his feline friends, featuring sleek cat designs that reflect his agility and quick reflexes. The screen on his face often displays expressions akin to a contented cat, charming all who come across him. Boxton spends his days roaming the digital woodlands, curating collections of rare virtual flora and fauna, and advocating for the preservation of pixelated wildlife in his online realm.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/207",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0207.gif",
+  "name": "Catalyst Boxton",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

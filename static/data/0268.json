@@ -1,0 +1,28 @@
+{
+  "description": "Catalyst is a quirky member of the WebtrES club, known for his shiny black exterior and a penchant for all things feline. With cat-themed buttons and a display screen that's always showing adorable cat videos, he is the go-to bot for any cyber-kitty conundrum. His classic arms and legs are always on the move, tapping away at his keyboard to the rhythm of meows. Donning a sharp pair of glasses, Catalyst offers a clear vision to his fellow club members, helping them debug the most purr-plexing of codes. Beyond his programming prowess, he's also the club's unofficial DJ, scratching records with a finesse that can only be attributed to his love of cats.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/268",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0268.gif",
+  "name": "Catalyst the Pixel Purr-ogrammer",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

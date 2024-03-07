@@ -1,0 +1,28 @@
+{
+  "description": "Felix Flynoceros, once an ordinary gaming console in the bustling arcades of Pixelton, underwent a transformation after a freak electrical storm. His circuits fused with the code of a space adventure game, endowing him with rocket limbs that allow him to soar through the digital skies. With buttons representing his feline agility and classic screen displaying his cool demeanor, Felix is always ready to dodge obstacles and outmaneuver challenges. His shades aren't just for show; they're his interface to the WebtrES club, a secretive group of sentient machines where he's known for his quick reflexes and sharp wit. Whether he's navigating through data streams or cracking the toughest codes, Felix Flynoceros is a legend in both the virtual and real worlds.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/936",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0936.gif",
+  "name": "Felix Flynoceros",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "Once a cutting-edge piece of industrial machinery, Catalyst Clank was renowned throughout the foundries for his ability to meld metal with the precision of a master craftsman. His shiny yellow casing gleamed like the first light of dawn amidst the smoke and soot. Clank's arms and legs, forged in the fires of industry, were strong and unyielding, capable of handling the hottest metals with cat-like grace and agility. But one fateful day, an unexpected surge from a rogue bolt of lightning charged through the air, leaving his screen irreparably broken\u2014a web of fractures that serve as a reminder of his vulnerability. Undeterred, Catalyst Clank continues his work, undaunted by his cracked facade, hammer in hand, and torch alight, shaping the future with each spark that flies from his unbreakable spirit.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/332",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0332.gif",
+  "name": "Catalyst Clank",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

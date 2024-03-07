@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the dense digital forests of the WebtrES club, Catalyst Cappy is a quirky bot known for its forest green box and the iconic cat screen that always seems to display a range of enigmatic expressions. Its classic arms and legs are the model of reliability, enabling it to traverse the cyber wilderness with ease. The helmet it dons is not just for protection; it's a symbol of the countless adventures it has embarked upon. Each button on its chest is a badge of honor, representing a unique skill or achievement in the virtual realm. Cappy is a beloved figure among its peers, always ready to lend a hand\u2014or a limb\u2014to those in need.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/834",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0834.gif",
+  "name": "Catalyst Cappy",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Cassiopeia Console, known to her friends as Cassie, is an enigmatic member of the WebtrES club with a shiny yellow chassis that gleams like the sun. She's a bit of a retro gaming enthusiast, her buttons reminiscent of a classic console, always ready to jump into action with a playful beep or boop. Cassie's not your average bot; her arms and legs are those of a sleek black cat, giving her a grace and agility that's unmatched in the digital realm. Her screen, however, holds a secret - a mesmerizing pattern that mimics the scales of a serpent, which she uses to entrance her opponents in virtual battles. Topping off her unique look is a sturdy helmet, a reminder of her adventurous spirit and the countless digital worlds she has explored. Cassie is not just part of the WebtrES club, she's an icon of retro-futuristic style and gaming prowess.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/882",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0882.gif",
+  "name": "Cassiopeia Console",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

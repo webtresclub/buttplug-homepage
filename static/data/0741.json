@@ -1,0 +1,24 @@
+{
+  "description": "JetSet Blastoid was once a legendary gaming console from the golden age of arcade cabinets, adored for its shiny black exterior and retro console buttons that offered countless hours of pixelated fun. But one fateful night, during a marathon session of intergalactic games, something extraordinary happened. A freak bolt of cosmic energy surged through its circuits, granting JetSet consciousness and transforming its arms and legs into powerful rocket thrusters. Now, it soars through the WebtrES club universe, seeking out both classic gaming challenges and modern digital adventures. Its screen may be classic, but JetSet's spirit is as vibrant and dynamic as the ever-changing digital landscape it explores.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/741",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0741.gif",
+  "name": "JetSet Blastoid",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from a long line of cyber felines, Major WhiskerByte is known for his shiny black exterior and cat-themed button interface, which purrs with each command. A veteran of numerous digital skirmishes, his soldier-class arms and legs are testament to his tactical prowess and agility in overcoming firewalls and encryption barricades. Behind his classic screen face lies a strategic mind, sharpened by complex algorithms and data battles. His glasses aren't just for show; they're advanced optics with scanning capabilities, allowing him to analyze and decode information streams in real time. Major WhiskerByte is a respected member of the elite WebtrES club, where he serves as the chief of cyber defense, keeping the digital realm safe and secure.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/575",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0575.gif",
+  "name": "Major WhiskerByte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

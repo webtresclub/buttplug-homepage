@@ -1,0 +1,28 @@
+{
+  "description": "Born in the pixelated plains of the 8-bit universe, Commander WhiskerByte is a valiant defender of all vintage video game realms. With a retro console for a body and a feline operating system, WhiskerByte is always on alert for glitches and bugs that threaten to disrupt the nostalgia harmony. Equipped with a soldier's arms and legs, WhiskerByte marches tirelessly across game cartridges of old, ensuring each level plays out as intended. The helmet atop adds an extra layer of protection against the corruptive forces of forgotten save files. WhiskerByte is not merely a relic of a bygone era but a guardian of timeless entertainment, forever commanding respect in the WebtrES club.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/172",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0172.gif",
+  "name": "Commander WhiskerByte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

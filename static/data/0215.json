@@ -1,0 +1,24 @@
+{
+  "description": "Catarocket Screenblast hails from a neon-lit pixel dimension where vintage tech and futuristic dreams collide. As a renowned member of the WebtrES club, this enigmatic entity sports a classic boxy frame, reminiscent of the golden era of arcade games. With buttons featuring quirky cat-inspired icons, Catarocket Screenblast is both whimsical and fiercely independent. Its arms and legs are composed of powerful rockets, propelling it through cyberspace at the speed of light. The laser screen face, though minimalist, is capable of projecting intense energy beams, which it uses to carve intricate designs into the fabric of the digital realm. With an affinity for retro aesthetics and a penchant for high-octane adventures, Catarocket Screenblast is the go-to being for anyone looking to add a touch of nostalgia and a blast of excitement to their virtual escapades.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/215",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0215.gif",
+  "name": "Catarocket Screenblast",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

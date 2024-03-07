@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the bustling alleys of Meowtropolis, Captain Whisker Thrusters is a distinguished member of the elite WebtrES club. Once the bravest feline in the cardboard battalion, he was known for his daring escapades and unmatched agility. After a mysterious encounter with a rogue scientist, Whisker found himself outfitted with state-of-the-art rocket limbs, which he now uses to soar above the city, keeping an eye out for any trouble and sometimes just chasing the odd laser dot for old times' sake. His screen face, eternally set to the expression of a cat, displays his mood with pixel-perfect precision, while his stylish glasses hint at an intellect sharpened by years of strategic encounters. Captain Whisker Thrusters is a hero to some, a legend to others, and a friend to all in the WebtrES community.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/36",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0036.gif",
+  "name": "Captain Whisker Thrusters",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

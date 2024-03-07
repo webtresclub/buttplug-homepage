@@ -1,0 +1,28 @@
+{
+  "description": "Once a high-ranking feline officer in the Galactic Armada, Sergeant Whiskerblast now navigates the metaverse as a member of the elite WebtrES club. His box, adorned with sharp cat-like ears, hints at his keen senses and agility. The buttons of a soldier, battle-worn and proud, are a testament to his countless victories. Equipped with arms and legs powered by rocket thrusters, he leaps across digital landscapes at breakneck speeds. The screen he carries is broken\u2014a relic from a skirmish in the Pixel Wars, where he valiantly fought off a virus invasion to save his squadron. The shades he wears are not just for style; they're a cutting-edge interface that scans the environment, ensuring he's always ready for any challenge. Despite the damage to his screen, Sergeant Whiskerblast's spirit remains unbroken, and his dedication to the WebtrES club is unwavering.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/503",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0503.gif",
+  "name": "Sergeant Whiskerblast",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

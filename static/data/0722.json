@@ -1,0 +1,28 @@
+{
+  "description": "Once a cutting-edge console of the arcade era, Commander Byte led legions of pixels into countless battles across the digital realms. His shiny yellow exterior may have lost some of its luster over time, but it still gleams with the aura of old-school cool. The retro console buttons on his face might look inviting, but beware\u2014they're programmed to launch a devastating combo move if pressed in the secret sequence. His arms and legs, reinforced through countless digital skirmishes, bear the mark of a true pixel soldier. The broken screen is a badge of honor, a scar from the time he protected his fellow games from a virus invasion. The shades he wears aren't just for style\u2014they're equipped with advanced HUD capabilities, allowing him to scan his surroundings and spot incoming threats. Despite the wear and tear, Commander Byte remains a heroic figure in the WebtrES club, standing ready to defend the digital frontier with a cool head and a steady hand.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/722",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0722.gif",
+  "name": "Commander Byte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

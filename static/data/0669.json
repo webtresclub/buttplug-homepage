@@ -1,0 +1,24 @@
+{
+  "description": "LaserPawz is a high-tech feline bot from the WebtrES club known for its sleek rossoCorsa box finish and classic button configuration. Designed originally as a mascot for an underground racing crew, it found its way into the club due to its unique laser screen which it uses to display race times and hypnotic patterns. Its cat-like arms and legs give it an agile and playful personality, making it a favorite amongst members who enjoy a good mix of style and function. When it's not lounging around the clubhouse, LaserPawz can often be found chasing digital mice or entertaining members with its laser light shows.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/669",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0669.gif",
+  "name": "LaserPawz",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

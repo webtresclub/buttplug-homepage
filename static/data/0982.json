@@ -1,0 +1,24 @@
+{
+  "description": "PixelPlasma is a quirky character from the WebtrES club who hails from the golden era of arcade games. With its classic boxy shape and retro console buttons, it reminisces about the days when 8-bit was the pinnacle of gaming technology. PixelPlasma's arms are always ready for action, positioned hand down as if it's about to reach for a joystick and navigate through a maze of pixelated challenges. Its screen lights up with a laser display, not just a fancy visual gimmick, but a symbol of its razor-sharp focus and ability to cut through any digital dilemma. Despite its retro vibes, PixelPlasma is very much a forward-thinker and loves to strategize over complex games, always seeking to beat the high score in life's metaphorical arcade.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/982",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0982.gif",
+  "name": "PixelPlasma",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

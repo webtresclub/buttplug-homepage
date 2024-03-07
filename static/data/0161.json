@@ -1,0 +1,28 @@
+{
+  "description": "Once the go-to gaming console in the golden era of arcades, PixelPurr ShadeBlaster is a legend in the WebtrES club. Known for his slick shades and the classic red and black screen that entertained millions, he's now enjoying his retirement by reminiscing about the good old days with fellow retro enthusiasts. With cat-like reflexes encoded into his buttons, he's still unbeatable at his own games. ShadeBlaster spends his time swapping stories of high scores and legendary game sessions, forever a reminder of a bygone era of pixelated fun.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/161",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0161.gif",
+  "name": "PixelPurr ShadeBlaster",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

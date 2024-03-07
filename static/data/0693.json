@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the neon-lit alleyways of CyberFeline City, Catalyst Jetson is a sleek, shiny black bot known for his rocket-powered limbs and classic button configuration. With a screen that flickers with the mysterious and sly expressions of a cat, he's the go-to gadget for high-speed adventures and covert operations. His cool demeanor is further accentuated by his stylish shades \u2013 a signature accessory that hides his gaze, making it impossible to guess his next move. Catalyst is a valued member of the elite WebtrES club, where he shares his tales of zooming through neon skylines and outsmarting adversaries with feline grace and rocket-powered agility.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/693",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0693.gif",
+  "name": "Catalyst Jetson",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

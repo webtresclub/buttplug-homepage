@@ -1,0 +1,24 @@
+{
+  "description": "Major WhiskerBoost is a distinguished member of the elite WebtrES club, known across the digital realms for his shiny yellow casing that can withstand the heat of a thousand suns. His button interface is programmed with the tactical precision of a soldier, always ready to execute complex commands at a moment's notice. Equipped with rocket-powered arms and legs, he's capable of soaring through cyberspace at breakneck speeds, leaving a trail of stardust in his wake. The cat face on his screen isn't just for show; it's an advanced AI with the cunning and agility of a feline, able to solve mysteries that baffle even the most sophisticated codes. Major WhiskerBoost is on a perpetual quest to safeguard the WebtrES club from virtual threats, all while purring to the tune of intergalactic peace.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/752",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0752.gif",
+  "name": "Major WhiskerBoost",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

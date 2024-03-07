@@ -1,0 +1,28 @@
+{
+  "description": "Blaze Rocketshades is a high-flying member of the exclusive WebtrES club known for his quick ascents and cool demeanor. With an orange box chassis that can withstand extreme temperatures, classic button controls for precision navigation, and rocket-powered arms and legs, Blaze is always ready to launch into action at a moment's notice. His screen displays a classic pixelated charm and his signature shades give him that extra cool factor whether he's orbiting above the Earth or lounging in the club's zero-gravity lounge. Blaze lives for adventure, leaving a trail of pixelated fire in the sky and inspiring both digital and organic lifeforms with his unflappable style and the ability to find the fun in any situation.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/119",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0119.gif",
+  "name": "Blaze Rocketshades",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

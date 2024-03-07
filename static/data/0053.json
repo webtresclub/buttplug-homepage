@@ -1,0 +1,24 @@
+{
+  "description": "Born in the digital depths of a pixelated forest, Forgepaw is a creature of creation and curiosity. With a forest green box for a body symbolizing the lush canopy where he was pixelated into existence, Forgepaw proudly wears cat buttons, a tribute to his nimble feline friends. His arms and legs are crafted from the strongest foundry pixels, enabling him to craft anything from digital tools to works of art. The red and black screen that serves as his face often flickers with the concentrated glare of a master at work. By day, Forgepaw is a blacksmith of bits and bytes, hammering away at code and components to forge the finest pixelated paraphernalia. By night, his hammer and pixel tongs create art that glows with the essence of the WebtrES club\u2014an exclusive collective of unique entities who shape the digital world with their creativity and charisma.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/53",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0053.gif",
+  "name": "Forgepaw the Pixel Smith",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

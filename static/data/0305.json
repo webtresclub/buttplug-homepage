@@ -1,0 +1,24 @@
+{
+  "description": "LazerByte was once a top-of-the-line gaming system in the pixelated world of WebtrES club, where retro tech thrives. Encased in a shiny yellow chassis that could rival the sun's glow, LazerByte was the life of every pixel party. With his retro console buttons, he could program any game from scratch, becoming the ultimate arcade legend. His arms, often hanging casually by his sides, were deceptively skilled at joysticking through the toughest levels. LazerByte's screen, capable of emitting intense laser graphics, was his signature feature, mesmerizing onlookers with a light show that could outshine the stars. Despite his laid-back appearance, LazerByte's circuitry hums with the vibrant energy of a bygone era, bringing nostalgia and high scores to all who befriend him.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/305",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0305.gif",
+  "name": "LazerByte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

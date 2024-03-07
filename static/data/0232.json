@@ -1,0 +1,24 @@
+{
+  "description": "Glitchy Green was once the heart of the arcade, a place where the digital and the natural world collided in a symphony of bleeps and bloops. His forest green casing blended in with the digital forests he used to render, providing a backdrop to countless pixelated adventures. Despite his classic button configuration inviting the touch of many eager gamers, time wasn't kind to Glitchy. One fateful day, his screen succumbed to the heavy hands of an overzealous player, leaving him with a broken display that oddly resembled a pixelated spider web. But even with his handDown position, as if he's taking a well-deserved rest, Glitchy never lost his spirit. He found solace in the WebtrES club, where he shares tales of his 8-bit glory days and dreams of a day when he'll be restored to his former glory.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/232",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0232.gif",
+  "name": "Glitchy Green",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Spectro Byte is a quirky little bot from the digitized city of Pixelton. With an orange casing that's as vibrant as a sunset, he's a standout member of the WebtrES club. He's been equipped with classic button controls, which give him a charmingly retro vibe that harks back to the golden era of arcade games. His arms and legs are of the traditional model, sturdy enough to let him bust a move when the 8-bit beats drop. Spectro's most noteworthy accessory is his thick-framed glasses, which aren't just for show; they're actually high-tech lenses that help him analyze and debug the toughest of codes. He\u2019s the go-to bot when any member of the WebtrES club runs into a computational conundrum, and he approaches every challenge with a calculated coolness that's both reassuring and inspiring.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/942",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0942.gif",
+  "name": "Spectro Byte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

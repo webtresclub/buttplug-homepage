@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the digital depths of the WebtrES club, PixelPunk Console was once a centerpiece in an 80s arcade, where it dazzled gamers with its shiny black casing and retro console buttons. It lived through countless battles, joystick jousts, and high-score heroics. However, after a fateful encounter with a frustrated gamer who couldn't beat the top score, its screen met with an untimely crack. Now, with arms down and spirit undeterred, PixelPunk Console wears its broken screen like a badge of honor, reminding all of its resilience and the countless pixels it has rendered. Despite its glitched appearance, it still manages to flash the occasional nostalgic game scene, forever a testament to the golden era of gaming.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/678",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0678.gif",
+  "name": "PixelPunk Console",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

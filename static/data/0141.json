@@ -1,0 +1,28 @@
+{
+  "description": "Born in the digital alleys of WebtrES city, Professor Whiskertron is a quirky machine with a passion for both feline finery and academia. The broken screen he sports is a badge of honor from his years of research on the fragility of pixelated dimensions, while the cat buttons show his never-ending love for his purring pixel pets. Often seen with his signature glasses that are a testament to his scholarly status, Professor Whiskertron spends his cycles curating the most exquisite collection of virtual yarn and teaching young NFTs about the rich history and culture of their blockchain-based world.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/141",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0141.gif",
+  "name": "Professor Whiskertron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

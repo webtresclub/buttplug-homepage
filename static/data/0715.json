@@ -1,0 +1,28 @@
+{
+  "description": "Pixel Purrer is a unique member of the WebtrES club, known for his love of retro gaming and cool composure. With a box shaped like a cat's head and a screen that perpetually plays the classic game Snake, he's a nostalgic sight in the digital world. His retro console buttons and classic arms and legs give him an old-school vibe, while the sleek shades he wears speak to his laid-back, too-cool-for-school attitude. Pixel Purrer spends his days reminiscing about the golden era of gaming and hosting throwback game nights for fellow club members.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/715",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0715.gif",
+  "name": "Pixel Purrer",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

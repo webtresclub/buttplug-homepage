@@ -1,0 +1,24 @@
+{
+  "description": "Once the centerpiece of a bustling arcade on a space station orbiting the retro-futuristic planet of Pixelon, Blastroid Retroburn is a rare collectible from the WebtrES club known for his shiny black casing and love for classic gaming. His retro console buttons have been pushed by countless gamers, executing perfect maneuvers in pixelated universes. Yet, in an unfortunate encounter with a rogue space joystick, his screen suffered a crack, which now displays a permanent, albeit stylish, glitch that resembles an intergalactic spider. Not to be slowed down, Blastroid embraced his new aesthetic and installed rocket arms and legs, allowing him to jet off to different corners of the cosmos, sharing tales of coin-ops and high scores. His unique blend of vintage charm and space-age technology makes him a beloved relic among the interstellar arcade enthusiast community.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/810",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0810.gif",
+  "name": "Blastroid Retroburn",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

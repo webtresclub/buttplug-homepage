@@ -1,0 +1,28 @@
+{
+  "description": "PixelShadeBot is known as the cool-headed coder in the WebtrES club. With a forest green exterior that blends seamlessly into the digital woods, it sports a sharp set of shades that never fail to reflect the latest trends in cyberspace. Its red and black screen interface flickers with a mischievous charm, hinting at the complex algorithms running beneath its pixelated surface. The classic button configuration along its chest is a nod to retro gaming consoles, while its arms are perpetually posed to type out lines of code or offer a reassuring thumbs-up to its fellow club members. PixelShadeBot is the go-to for any data-heavy task, and while it may seem all business, it has a surprising sense of humor that can light up even the dullest binary party.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/463",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0463.gif",
+  "name": "PixelShadeBot",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

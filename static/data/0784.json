@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the cybernetic feline regiment of the distant planet Meowtron, Commander Whiskerblast is a decorated soldier known for his quick reflexes and tactical brilliance. With a box chassis engineered for durability, he can withstand the harshest conditions. His screen face, although classic, hides advanced visual sensors behind those cool shades, giving him an edge in battle. His arms and legs are powered by rocket technology, allowing for swift, jet-propelled maneuvers across both terrestrial and zero-gravity environments. The cat-themed buttons on his control panel are not just for show; each one activates a different high-tech gadget, from laser lures to communication devices with intergalactic reach. As a member of the elite WebtrES club, Commander Whiskerblast is always ready to lead his team on the most daring missions across the cyberverse.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/784",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0784.gif",
+  "name": "Commander Whiskerblast",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

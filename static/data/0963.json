@@ -1,0 +1,24 @@
+{
+  "description": "Felix Meowtrix is a quirky character from the pixelated depths of the WebtrES club. With his forest green box-like body, Felix is known for his fascination with felines, as hinted by the adorable cat buttons that adorn his chest. His arms and legs are always relaxed, hands down, suggesting a laid-back attitude. But don't let his calm demeanor fool you; behind his red and black screen-face lies a mischievous digital spirit, always ready to hack into a good time or lead his fellow club members on virtual adventures through the endless cyber forests.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/963",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0963.gif",
+  "name": "Felix Meowtrix",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

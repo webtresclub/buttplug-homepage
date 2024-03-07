@@ -1,0 +1,28 @@
+{
+  "description": "Once the most decorated officer in the digital army, Major Meowza has seen more pixelated battles than any other member of the WebtrES club. Clad in his iconic rossoCorsa chassis, he's impossible to miss on the field. His arms and legs, though modeled after a soldier's, are now committed to more peaceful endeavors following the great bit war. Despite his screen being cracked from a harsh encounter with a data corruption bomb, Major Meowza's spirit remains unbreakable. His cat-themed buttons hail back to his days in the feline infantry, where agility and reflexes were his best allies. The glasses, a recent addon, are a nod to his newfound love for strategy and deep learning. They say his tactical prowess is only matched by his heart of gold code.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/220",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0220.gif",
+  "name": "Major Meowza",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

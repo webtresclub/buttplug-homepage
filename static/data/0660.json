@@ -1,0 +1,24 @@
+{
+  "description": "Born in the golden era of pixelated adventure, PixelPurr Console was once the life of every party, offering endless entertainment with its retro games. However, after a fateful encounter with a rogue joystick, its screen suffered a dramatic crack, forever altering its display into an abstract web of pixels. Refusing to retire, PixelPurr adapted, using its cat-like limbs to roam the digital landscape of the WebtrES club, offering a unique gaming experience that blends nostalgia with its newfound glitchy charm. Its battery pack, though worn, still holds the charge of the good old days, powering PixelPurr through each new encounter with both curiosity and a touch of arcade flair.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/660",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0660.gif",
+  "name": "PixelPurr Console",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

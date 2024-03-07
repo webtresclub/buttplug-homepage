@@ -1,0 +1,24 @@
+{
+  "description": "Once a leading figure in the digital battlefields, Sergeant PixelBrick is a decorated hero in the WebtrES club. Clad in his iconic rossoCorsa armor, he led countless campaigns against malware and viruses. His classic buttons have been pressed under extreme conditions, coordinating cyber defenses with precision. The soldier-like arms and legs speak of his relentless combat training and dedication to the virtual frontlines. However, during the infamous Zero-Day Siege, his screen was struck by a sophisticated cyber weapon, leaving it with a lasting crack \u2013 a battle scar he wears with pride. Undeterred by this setback, Sergeant PixelBrick continues his vigil, a steadfast guardian of the cyber realm.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/95",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0095.gif",
+  "name": "Sergeant PixelBrick",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

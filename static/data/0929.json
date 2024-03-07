@@ -1,0 +1,28 @@
+{
+  "description": "Part of the elite WebtrES club, Catalyst Serpentine is known for her cunning digital strategies and swift online movements. Donning sophisticated shades, she stays incognito while surfing the data streams of the cyber realm. Her box, shaped like a cat's head, symbolizes her agile and independent nature. With classic buttons that have stood the test of time, she navigates the net with precision. Her most notable features are her rocket arms and legs, which allow her to blast off to extraordinary virtual heights at a moment's notice. The snake screen is her interface to the digital world, highlighting her adaptability and charm, capable of hypnotizing her adversaries with just a glance. Catalyst is not just a member of WebtrES; she is a legend whispered about in chat rooms and forums across the internet.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/929",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0929.gif",
+  "name": "Catalyst Serpentine",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

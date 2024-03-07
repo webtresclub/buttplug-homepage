@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the digital outskirts of WebtrES, Felix Ignitor is a unique entity known for his blazing speed and fiery personality. With an orange chassis that reflects his vibrant energy, he maneuvers through the datascape with his rocket arms and legs, leaving a trail of code contrails in his wake. The cat-shaped buttons on his console reveal his playful side, an homage to the cyber-creatures that once roamed the net. Felix\u2019s red and black screen flickers like the embers of a virtual fire, a window into his complex processing core. Always ahead of the curve, his stylish glasses aren\u2019t just a fashion statement\u2014they're advanced sensors that help him analyze and adapt to the ever-changing web. An explorer at heart, Felix is on an endless quest for knowledge, seeking out the hidden and forgotten corners of the digital frontier.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/501",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0501.gif",
+  "name": "Felix Ignitor",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

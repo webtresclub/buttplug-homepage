@@ -1,0 +1,24 @@
+{
+  "description": "Once the sleekest entertainment unit in the alley of Silicon Purr, Catalyst Crackle was known for his vibrant orange casing and purr-fectly smooth broadcasts. However, after a curious cat-like leap gone awry, he ended up with a shattered screen \u2013 a spiderweb of stories and static. Unperturbed, Catalyst embraced his new look, boasting that each crack allowed him to broadcast even more diverse and eccentric content. With his classic buttons still operational, he keeps the spirit of old-school tech alive, while his feline limbs ensure he always lands on his feet, ready to dazzle and entertain the members of the WebtrES club with his uniquely glitchy charm.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/721",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0721.gif",
+  "name": "Catalyst Crackle",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

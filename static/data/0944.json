@@ -1,0 +1,28 @@
+{
+  "description": "An enigmatic figure in the WebtrES club, Cataclysmic Pixel is known for its unique combination of feline agility and retro technology. Majestic yet mysterious, it roams the digital landscapes of cyberspace, leaving behind a trail of curiosity and intrigue. With a classic boxy frame reminiscent of the earliest days of computing and buttons that have been pressed by the who's who of pixelated personae, Cataclysmic Pixel is both a relic and a revolution. Its screen, cracked from a fateful encounter with a rogue computer virus, tells a tale of resilience, while the casually perched shades speak to its cool demeanor under pressure. Rumor has it that Cataclysmic Pixel is the gatekeeper to a vault of ancient internet secrets, but only the most adventurous netizens have a chance of discovering the truth.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/944",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0944.gif",
+  "name": "Cataclysmic Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

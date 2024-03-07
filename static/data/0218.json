@@ -1,0 +1,28 @@
+{
+  "description": "Felix Cybertail is an enigmatic member of the WebtrES club, known for his shiny yellow exterior and the classic button interface that harkens back to the golden age of arcade cabinets. His arms and legs are reminiscent of a sleek black cat, providing him with extraordinary agility and the ability to land on his feet, regardless of the situation. The classic screen face, adorned with oversized glasses, is not just for style; Felix is an avid reader of digital literature and has a collection of e-books that would make any library envious. Despite his somewhat studious appearance, don't be fooled\u2014Felix has a playful streak and is always up for a challenge, whether it's in a game of virtual chess or cracking the latest code. His mysterious past and limitless knowledge have made him a legend in the digital world.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/218",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0218.gif",
+  "name": "Felix Cybertail",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

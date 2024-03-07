@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the digital realms of the retro console wars, Commander PixelBlitz is a distinguished member of the WebtrES club known for his strategic prowess and quick reflexes. His box is reinforced with soldier-grade pixel armor, providing him with unmatched durability in the face of cyber threats. The retro console buttons embedded in his frame are not just for show; they give him the ability to control any game within the virtual world, a power he uses to keep the peace and challenge adversaries to high-stake battles of skill. His classic arms and legs may look simple, but they are capable of lightning-fast maneuvers, perfect for both platform jumps and tactical retreats. The laser screen face of Commander PixelBlitz is his signature feature, capable of scanning his surroundings for glitches and projecting a formidable gaze that can intimidate even the most daring of digital villains. This blocky hero spends his downtime training in various arcade classics, ever ready to defend the WebtrES club from the looming threats of obsolescence.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/797",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0797.gif",
+  "name": "Commander PixelBlitz",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

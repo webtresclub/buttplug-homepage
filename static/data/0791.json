@@ -1,0 +1,24 @@
+{
+  "description": "Catalyst Clawtron roams the digital forests of the WebtrES club, a place where pixel creatures and avatars coexist. With a forest green box for a body, this bot blends into the lush, data-rich environment it calls home. Its screen face, featuring the classic pixel display, can often be seen illuminating the darker regions of the forest with a warm, green glow. Catalyst Clawtron's cat-like arms and legs, which it acquired from an ancient software update, give it unique agility and the ability to climb the highest data trees. The buttons on its body aren't just for show; they control various functions, including sound modulation and network connectivity, making it a popular figure among the WebtrES community. Its tail, always flickering with static energy, is not only a symbol of its feline features but also a powerful tool for communicating with other digital entities. Catalyst Clawtron's story is one of mystery and adaptation, embodying the spirit of the WebtrES club with curiosity and a hint of digital mischief.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/791",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0791.gif",
+  "name": "Catalyst Clawtron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

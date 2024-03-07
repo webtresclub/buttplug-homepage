@@ -1,0 +1,28 @@
+{
+  "description": "In the pixelated corners of the WebtrES club, there's an enigmatic figure known as Catalystic Purr-grammer. With a classic boxy frame that harks back to the dawn of computing and classic buttons that resonate with a retro charm, this NFT stands out in the digital crowd. Donning a pair of sleek glasses, Catalystic is the embodiment of intellect and style. The most intriguing part, however, is the seamless blend of technology and feline agility, reflected in the cat-like arms and legs, and a screen showcasing a charming cat's face. This creature of the web is revered for its ability to code with both speed and grace, often seen tapping away at unseen keyboards, creating software that's as efficient as it is whimsical. With a coffee mug always at the ready, Catalystic Purr-grammer is the go-to digital entity for any coding conundrum or when one needs a purr-fect line of code.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/636",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0636.gif",
+  "name": "Catalystic Purr-grammer",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Catalyst Helm is a unique member of the WebtrES club with a passion for combining the old with the new. With a classic box design and traditional buttons, Catalyst Helm exudes a nostalgic vibe that harkens back to the early days of computing. However, there's a twist \u2014 this quirky character has been upgraded with the robust Foundry arms and legs, giving it a sturdy and reliable build for all adventures. The notable screen showcasing an enigmatic cat face adds to its allure, often causing others to feel a sense of calm and curiosity when they gaze upon it. But what truly sets Catalyst Helm apart is the helmet add-on, a symbol of its readiness to embark on daring digital quests. Rumor has it that the helmet isn't just for show \u2014 it's said to hold secret powers that protect Catalyst Helm's data core from virtual hazards, making it a sought-after companion in the WebtrES realm.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/367",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0367.gif",
+  "name": "Catalyst Helm",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

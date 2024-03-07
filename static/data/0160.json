@@ -1,0 +1,24 @@
+{
+  "description": "PixelPurr Lasertron hails from the neon-lit alleys of CyberFeline City, a place where retro tech and cat-like agility merge into one. Originally a classic console in a forgotten arcade, a freak power surge zapped Lasertron to life. With buttons shaped like cat paws and limbs to match, it roams the digital landscape, its screen now capable of emitting hypnotic laser patterns to mesmerize any onlooker. Lasertron's mission is to preserve the nostalgia of pixelated games, all while using its quirky charm to bring joy to members of the exclusive WebtrES club.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/160",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0160.gif",
+  "name": "PixelPurr Lasertron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

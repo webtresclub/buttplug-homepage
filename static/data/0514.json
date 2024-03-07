@@ -1,0 +1,24 @@
+{
+  "description": "Born in the neon-lit arcades of the 1980s, LaserByte is a legend in the WebtrES club. With a retro console for a body and a screen that can project laser visuals, LaserByte is the life of every digital party. His classic button configuration is a hit with old-school gamers, and his moves are as smooth as the joystick maneuvers he was famous for. Whether busting out pixelated dance moves or hosting gaming marathons, LaserByte is a blast from the past who knows how to light up the future.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/514",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0514.gif",
+  "name": "LaserByte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

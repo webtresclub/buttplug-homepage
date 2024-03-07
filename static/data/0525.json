@@ -1,0 +1,24 @@
+{
+  "description": "Pixel Whiskers is a retro-inspired NFT from the WebtrES club, known for his quirky charm and slightly glitchy demeanor due to his broken screen. He was once the darling of an underground arcade, channeling the spirit of classic video games with his cat-like box design and old-school buttons. His playful yet unpredictable nature can be attributed to the cracks that run through his screen, often causing spontaneous digital fireworks that amuse and bewilder his digital companions. Despite his technical flaws, Pixel Whiskers is a beloved figure in the WebtrES community, often seen leading the charge in virtual rallies and promoting the preservation of vintage electronic aesthetics.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/525",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0525.gif",
+  "name": "Pixel Whiskers",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

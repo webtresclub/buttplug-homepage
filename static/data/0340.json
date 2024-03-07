@@ -1,0 +1,28 @@
+{
+  "description": "Catalyst FelineFrame is the most enigmatic member of the WebtrES club. Built in the neon-lit labs of CatTech Industries, Catalyst was designed as an experiment to bridge the gap between sentient machines and feline agility. With a shiny yellow exoskeleton capable of reflecting even the dimmest lights of the cyber alleys, Catalyst is a sight to behold. Its cat-like arms and legs provide unparalleled dexterity, allowing it to navigate both the digital and physical worlds with ease. The red and black screen that serves as its face is usually seen displaying a mysterious grin, hinting at the secrets it holds within its advanced circuitry. The shades that Catalyst sports are not just for show; they are high-tech sensory filters that allow it to detect various forms of data and energy signatures. Catalyst FelineFrame is a wanderer at heart, often seen on the rooftops of the cityscape, gazing into the horizon, pondering the next adventure.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/340",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0340.gif",
+  "name": "Catalyst FelineFrame",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

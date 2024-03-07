@@ -1,0 +1,24 @@
+{
+  "description": "Catalyst the Craftbot hails from the lush pixel forests of WebtrES, where he was once a diligent constructor bot. His forest green casing blends seamlessly with the canopies he cherishes. Catalyst is known for his peculiar cat-shaped buttons that meow with every press, a quirk programmed by his whimsical creator. With sturdy foundry-forged arms and legs, he's built to withstand the rigors of heavy crafting. Alas, his screen suffered a shattering blow during a tree-felling mishap, which left him with a unique spiderweb crack pattern. This hasn't dampened his spirits, however, as he now wields his trusty pixel hammer with even more determination. Catalyst has become a symbol of resilience and resourcefulness, inspiring fellow bots with his can-do attitude even in the face of unexpected glitches.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/153",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0153.gif",
+  "name": "Catalyst the Craftbot",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

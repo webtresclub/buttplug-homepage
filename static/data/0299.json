@@ -1,0 +1,24 @@
+{
+  "description": "Sergeant Pixel is a veteran member of the WebtrES club, known for his tactical prowess and nostalgic charm. Constructed in the foundries of the digital frontier, his arms and legs are made from the same sturdy material that powered the engines of virtual creation. His green screen face occasionally flickers with the iconic 'Snake' game, a testament to his ability to strategize and adapt in any environment. Outfitted with retro console buttons, he commands respect and a hint of playful competitiveness. His tools of choice, a hammer, and a lollipop, symbolize the balance between the hard work of maintaining order and the sweet victory of overcoming challenges. Whether he's leading his boxy brethren through code battles or reminiscing about the golden age of gaming, Sergeant Pixel stands as a cubic beacon of the past, present, and future of interactive entertainment.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/299",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0299.gif",
+  "name": "Sergeant Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

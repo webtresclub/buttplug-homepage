@@ -1,0 +1,28 @@
+{
+  "description": "Catalyst the Coder is a charming member of the WebtrES club known for his quirky enthusiasm for all things tech. With his cat-themed box casing and classic arms and legs, he navigates the digital realm with ease. His red and black screen face reflects his intense passion for coding, while the stylish glasses perched on his screen give him the look of a seasoned programmer. Catalyst spends his days crafting intricate algorithms and charming his fellow club members with witty bytes of humor. His ultimate goal is to create a purr-fect virtual reality where all digital beings can live in harmony.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/372",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0372.gif",
+  "name": "Catalyst the Coder",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

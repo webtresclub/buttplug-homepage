@@ -1,0 +1,28 @@
+{
+  "description": "Emerging from the digital battlefields of the retro console wars, SerpentByte Soldier is a heroic figure in the WebtrES club. With a chassis designed like a classic gaming console, he's a nostalgic nod to the golden age of 8-bit adventures. His button configuration replicates the feline agility and reflexes of a cat, allowing him to maneuver through digital obstacles with ease. The arms and legs of this valorous warrior are modeled after the finest pixelated soldiers, attributing to his unmatched combat programming and strategic prowess. The snake screen that forms his face is a testament to his quick-thinking and adaptability, displaying hypnotic patterns that captivate his allies and disorient his foes. Accessorized with a pair of stylish glasses, SerpentByte Soldier isn't just about might; he's got the intellect to decode any problem. Behind those lenses lies the sharp, analytical gaze of a tactician, ready to lead the WebtrES club to victory against any challenge in the cyberspace arena.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/180",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0180.gif",
+  "name": "SerpentByte Soldier",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

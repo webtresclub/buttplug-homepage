@@ -1,0 +1,24 @@
+{
+  "description": "Born in the alleyways of Neon City, Luminous Whiskertron is known for its shiny yellow box-like body and the classic buttons that control its mood and functions. With limbs like a cat, it stealthily maneuvers through the urban jungle, its screen eyes emitting a soft, laser-like glow to communicate with other members of the WebtrES club. This creature of circuitry and fur is a beloved figure among city dwellers, often seen leaping from rooftop to rooftop, always on the lookout for its next big adventure or a sunbeam to recharge its solar-powered panels.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/314",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0314.gif",
+  "name": "Luminous Whiskertron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

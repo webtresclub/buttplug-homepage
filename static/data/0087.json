@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the starry expanses of the Feline Nebula, Cosmo Whiskerblast is an adventurous member of the WebtrES club known for his blazing speed and daring escapades. With his rossoCorsa box chassis, he embodies the spirit of intergalactic racing legends. His cat button interface is a tribute to his homeworld, where cats are revered for their agility and cunning. Cosmo's rocket arms and legs are not just for show; they pack enough thrust to dodge asteroids and dance around black holes. The classic screen that adorns his face is always set to a cool, collected expression, a window to the strategic mind that has outmaneuvered space pirates and cosmic storms alike. Topping off his ensemble is the trusty helmet addon, a relic from an ancient space race that he won against the odds. There's more than meets the eye with Cosmo; he's a rocket-fueled hero with a heart of gold and a purr that resonates through the cosmos.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/87",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0087.gif",
+  "name": "Cosmo Whiskerblast",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

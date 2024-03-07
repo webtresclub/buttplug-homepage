@@ -1,0 +1,24 @@
+{
+  "description": "Once a beacon of retro entertainment, Pixel Breaker thrived in the golden era of arcade games. With a shiny black exterior and classic button configuration, it was the go-to machine for gamers seeking the thrill of pixelated adventures. Unfortunately, a fateful encounter with an overzealous player left its screen with a spiderweb of cracks, symbolizing its battle scars in the digital realm. Undeterred by its broken screen, Pixel Breaker has become a symbol of resilience in the WebtrES club, reminding members that even when out of order, the spirit of gaming lives on.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/428",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0428.gif",
+  "name": "Pixel Breaker",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the pixelated alleyways of WebtrES club, ForgeFeline is a creature of steel and mystery. With a body crafted from the toughest metals of the virtual foundry, this cat-like being sports a box head that houses a screen displaying its ever-changing snake-like patterns, hinting at its cunning and adaptable nature. Its buttons are nondescript, maintaining a sleek look while functioning as controls for its numerous gadgets and tools. ForgeFeline is known among the WebtrES community for its ability to meld into the shadows, the soft clanking of its limbs the only indication of its presence. In its hand, it wields a hefty hammer, a token from its days in the foundry where it was forged, which it now uses to sculpt its own destiny and protect the digital streets it calls home.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/839",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0839.gif",
+  "name": "ForgeFeline",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

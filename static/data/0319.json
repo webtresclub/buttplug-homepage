@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the fiery depths of the digital foundry, ForgeFury is a member of the elite WebtrES club known for his unmatched strength and fiery spirit. With a box painted in the vibrant shade of Rosso Corsa and classic buttons that evoke a sense of timeless strength, he stands tall and proud. His arms and legs, forged from the strongest metals in the virtual foundry, are capable of crafting and shaping digital destinies. The red and black screen on his face displays a visage that is both intimidating and captivating, reflecting his intense and passionate nature. As a master craftsman in the world of WebtrES, ForgeFury is not only a builder of structures but also a forger of bonds among all club members.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/319",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0319.gif",
+  "name": "ForgeFury",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

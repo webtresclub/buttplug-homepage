@@ -1,0 +1,24 @@
+{
+  "description": "A strategic genius from the pixelated planet of Arcadia, Commander PixelPaws was once a top-ranking officer in the Feline Defense Force. After a freak accident involving an experimental laser console, he merged with an old-school gaming system, giving him the ability to project powerful laser grids and manipulate digital realms. His arms and legs were transformed into nimble cat appendages, enhancing his agility and reflexes. Now, as a key member of the WebtrES club, he uses his unique abilities to outmaneuver virtual adversaries and protect the cyberworld from rogue malware entities.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/912",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0912.gif",
+  "name": "Commander PixelPaws",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

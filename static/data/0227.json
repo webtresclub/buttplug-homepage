@@ -1,0 +1,24 @@
+{
+  "description": "Forged in the heart of a digital foundry, Cataclysmic Clank is the embodiment of a high-tech anvil and artisan spirit. This shiny black robotic creature, a prominent member of the WebtrES club, sports a classic green-pixel screen that flashes mischievously. It's known for crafting pixel-perfect masterpieces with its foundry-sculpted limbs, and its cat button interface purrs with each press, instilling a sense of intrigue and charm. Equipped with a pixelated hammer in one hand and a pair of tongs clutching a glowing pixel ember in the other, Cataclysmic Clank is always ready to forge new connections and create digital marvels within the vast metaverse.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/227",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0227.gif",
+  "name": "Cataclysmic Clank",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

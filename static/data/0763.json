@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the digital realms of 8-bit battles, Commander Pixel is a valiant warrior of the WebtrES club known for his strategic prowess in pixelated warfare. With a box modeled after a retro gaming console, and buttons that have seen more battles than most pixels ever will, he's a hero who can navigate through the toughest of games. His arms and legs are that of a digital soldier, always ready to leap into action. The screen he proudly wears displays his classic green face, always set in a determined expression. Whether he's leading his pixelated comrades through a maze of enemy fire or standing guard over the digital frontiers, Commander Pixel is the embodiment of nostalgic valor and pixel-perfect courage.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/763",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0763.gif",
+  "name": "Commander Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

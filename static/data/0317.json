@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the pixelated depths of the WebtrES club, ForgeMaster Flex is a bot of steel and grit. With a box tinted the color of the deepest forest green, Flex is known for his unyielding resolve. His buttons are of the classic variety, reflecting a preference for the timeless over the trendy. Flex's arms and legs were forged in the most renowned foundries, built to withstand the harshest conditions. The classic screen he wears is a window to his old-school soul, always displaying his mood with an 8-bit flair. Never seen without his signature shades, Flex exudes coolness\u2014even in the heat of the foundry. He is a master craftsman, shaping the future with his trusty pixel hammer in one hand and the blueprints of destiny in the other. Despite his rough exterior, ForgeMaster Flex has a core program dedicated to crafting a better digital world, one block at a time.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/317",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0317.gif",
+  "name": "ForgeMaster Flex",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

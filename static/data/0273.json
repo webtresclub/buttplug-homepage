@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the retro-futuristic landscapes of the pixelated universe, Sergeant PixelBlitz is a valiant member of the WebtrES club known for his shiny yellow exterior and laser-screen vision. Once a console in the high-stakes world of 8-bit battles, he was awarded with the retro-console buttons of honor for his strategic prowess. His arms and legs, forged in the heat of digital conflict, are those of a soldier, always ready for action. Despite his tough exterior, PixelBlitz has a soft spot for old-school gaming and often reminisces about the days when joysticks and cartridges ruled the world. He now spends his time in the club safeguarding the realm of vintage games and ensuring that the legacy of pixel power lives on.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/273",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0273.gif",
+  "name": "Sergeant PixelBlitz",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

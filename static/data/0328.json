@@ -1,0 +1,24 @@
+{
+  "description": "Commander RedPixel is a distinguished member of the WebtrES club, known for his rossoCorsa box that radiates confidence and speed. His classic button configuration gives him a retro vibe, while his arms and legs, forged in the likeness of a soldier, speak of his discipline and strength. The classic screen he proudly displays is often mistaken for a relic, but it flickers with digital expertise and wisdom. RedPixel's backstory involves him being a battle-hardened veteran from the pixel wars, who now serves as a guardian of the digital realm, ensuring peace and stability across cyberspace.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/328",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0328.gif",
+  "name": "Commander RedPixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

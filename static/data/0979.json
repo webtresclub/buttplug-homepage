@@ -1,0 +1,24 @@
+{
+  "description": "Lenny is a vintage arcade machine turned sentient NFT, part of the retro-futuristic WebtrES club. With his radiant orange casing and classic button configuration, Lenny brings back the nostalgia of coin-op gaming to the digital age. His arms are permanently poised in the classic 'handDown' position, a gentle reminder of his early days when he used to interact with countless gaming enthusiasts. The unique laser screen that adorns his face is capable of displaying an array of dazzling light shows, which he uses to communicate and entertain. Despite his old-school vibes, Lenny is fully integrated into the modern world, always ready for a round of pixelated adventure and camaraderie in the metaverse.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/979",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0979.gif",
+  "name": "LaserByte Lenny",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

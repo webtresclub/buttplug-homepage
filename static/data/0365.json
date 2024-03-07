@@ -1,0 +1,24 @@
+{
+  "description": "Once a humble game console in the verdant depths of Silicon Forest, Felix was struck by a mysterious cosmic ray that transformed him into an extraordinary being. Sporting a vibrant forest green exterior and buttons inspired by a cat's playful curiosity, Felix gained a newfound sense of adventure. His arms and legs morphed into powerful rocket thrusters, allowing him to soar through the digital realms at breakneck speeds. The transformation wasn't without its hiccups\u2014the screen that once displayed vivid gaming worlds now flickers with a broken appearance, a reminder of his past life. Despite this, Felix's adventurous spirit remains unshaken. As a member of the WebtrES club, he zooms through cyberspace, sharing tales of his pixelated escapades and inspiring consoles across the network to embrace their quirks and dream beyond their circuitry.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/365",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0365.gif",
+  "name": "Felix the Feline Rocketeer",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

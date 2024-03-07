@@ -1,0 +1,28 @@
+{
+  "description": "Forged in the digital foundries of WebtrES club, Serpentron Helmclaw is a formidable figure with a chassis patterned after a calico cat and a screen that flickers with the hypnotic essence of a snake. With classic button controls and sturdy foundry arms and legs, Helmclaw is known for the tactical helmet add-on that conceals an advanced AI capable of solving the most cryptic puzzles. As a guardian of digital treasures, Helmclaw roams the data streams, ever watchful for cyber threats, and uses its pixelated hammer to forge new paths in the virtual world.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/43",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0043.gif",
+  "name": "Serpentron Helmclaw",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

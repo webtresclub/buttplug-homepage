@@ -1,0 +1,24 @@
+{
+  "description": "Sergeant Hiss is a valiant member of the WebtrES club, known for his striking orange boxy frame and the intriguing cat-themed buttons that adorn his console. With arms and legs built for combat, this soldier has seen many digital battles, always facing his adversaries with the tactical cunning of a serpent\u2014which is fitting, given his screen proudly displays a snake, symbolizing his quick reflexes and strategic mindset. Despite his combat-ready appearance, Sergeant Hiss is a guardian at heart, protecting the cyber realm with fierce loyalty and an unshakeable sense of duty.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/440",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0440.gif",
+  "name": "Sergeant Hiss",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

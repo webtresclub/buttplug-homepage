@@ -1,0 +1,28 @@
+{
+  "description": "Catalyst Clyde is a retro bot with an adventurous spirit, known for his rosso corsa boxy frame that reflects his love for speed and vintage race cars. His laid-back personality is symbolized by his cool shades, which he never removes, claiming they help him see the world in a more 'chill' light. Despite his broken screen, a reminder of a daring escapade gone wrong while chasing digital mice in the cyber alleyways, Clyde remains the life of the party in the WebtrES club. His cat-themed buttons are a nod to his curious and independent nature, often leading him to unexpected situations. With arms perpetually relaxed at his sides, Clyde is always ready to lend a hand, or rather a thumbs-up, to his fellow club members, encouraging them to find the fun in every pixel.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/424",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0424.gif",
+  "name": "Catalyst Clyde",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "CattySerpentron is a unique member of the WebtrES club, known for its classic boxy shape and a distinct combination of feline agility and serpentine cunning. With arms and legs shaped like a cat's, it moves with a graceful stealth, perfect for sneaking into the most secure data vaults. Its screen displays the mesmerizing patterns of a snake, which not only captivate its audience but also hide an advanced encryption algorithm. Perched on its 'face' are a pair of glasses, an addon that signifies its scholarly nature and expertise in ancient programming languages. CattySerpentron is a master of both charm and code, making it an invaluable asset in the digital frontier.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/534",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0534.gif",
+  "name": "CattySerpentron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

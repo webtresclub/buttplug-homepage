@@ -1,0 +1,28 @@
+{
+  "description": "Sergeant Pixel, once the pinnacle of retro gaming, led many virtual battles from the comfort of living rooms and arcades. Adorned with a classic box design, his sturdy exterior houses a heart of 8-bit beats. The retro console buttons on his chest are a testament to his vintage origin, still clicky after all these years. His arms and legs are those of a digital soldier, built for action and dexterity, capable of executing the finest joystick maneuvers. However, his screen has seen better days. Cracked in an epic duel against the infamous 'Screen Smasher' of the WebtrES club, it serves as a badge of honor, a reminder of his resilience. Despite his impaired vision, he compensates with a pair of glasses that enhance his analytical capabilities, allowing him to strategize his next move in the ongoing war of pixels and high scores. As a beloved member of the WebtrES club, Sergeant Pixel stands as a symbol of the golden gaming era, a pixelated hero among bytes.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/785",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0785.gif",
+  "name": "Sergeant Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

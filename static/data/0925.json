@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the pixelated alleyways of WebtrES City, Catalyst the Code Whisperer is a legendary figure among the digitized denizens. With a body shaped like an old-school computer box adorned with cat ears and a screen that perpetually displays a feline face, Catalyst is known for their unique ability to communicate with both software and hardware in their own quirky way. The classic buttons along their front panel are not just for show \u2014 they're fully functional and allow Catalyst to interface with any device. Their arms, always poised in an inviting gesture, are a sign that they're ready to lend a helping hand (or paw) to any program in need. As a valued member of the WebtrES club, Catalyst is the go-to expert for debugging the most purrplexing problems and optimizing systems to run as smoothly as a cat's strut. Whether it's day or night, you can find Catalyst causing a gentle stir among the code lines, always ready to pounce on the next digital challenge.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/925",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0925.gif",
+  "name": "Catalyst the Code Whisperer",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

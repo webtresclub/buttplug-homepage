@@ -1,0 +1,24 @@
+{
+  "description": "PixelPaws Retro hails from the pixelated corners of the WebtrES club, a digital hangout for the most unique and retro-inspired characters. With his vibrant orange casing reminiscent of the bold arcade machines of the 80s, he stands out in any crowd. His screen flickers with red and black hues, displaying the iconic smiley that welcomes players to a challenge of wits and reflexes. PixelPaws isn't just any old gaming console; his cat-like limbs give him an agility uncommon to his electronic peers, allowing him to jump and pounce with feline precision. His creators programmed him with a deep love for classic games and the ability to play retro console buttons with a deft touch. PixelPaws Retro loves nothing more than to share his extensive library of classic games, bringing nostalgic joy to everyone in the club.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/458",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0458.gif",
+  "name": "PixelPaws Retro",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

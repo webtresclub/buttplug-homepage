@@ -1,0 +1,24 @@
+{
+  "description": "PixelForge is a legendary figure within the WebtrES club, known for his ability to craft digital worlds and manipulate pixels to his will. His orange boxy exterior resonates with the warm glow of a classic arcade screen, while his retro console buttons are reminiscent of a bygone era when simplicity ruled the gaming universe. PixelForge was once a humble sidekick in a pixelated adventure game, but he gained sentience and broke free from the confines of his programmed narrative. Now, wielding a hammer with arms of molten foundry steel and a trident that crackles with laser energy, he forges new paths in cyberspace, seeking to create the ultimate gaming experience. His screen flickers with the intensity of his focus, and many seek his expertise to add that retro flair to their virtual creations. PixelForge, an artisan of the digital realm, is both a creator and a warrior, ever ready to defend the integrity of the pixelated worlds he so lovingly builds.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/609",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0609.gif",
+  "name": "PixelForge",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

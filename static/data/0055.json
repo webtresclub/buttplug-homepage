@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the virtual alleyways of the bustling WebtrES district, LazrPaws is a digital entity with an affinity for feline agility and high-tech shenanigans. Sporting an orange chassis that resonates with the warm glow of a sunset, this NFT character is known for its cat-like appendages that grant it extraordinary dexterity in the cyberworld. The most distinctive feature, however, is the advanced laser screen technology that flickers across its face, casting beams of red light that can dazzle and bewilder onlookers. As a member of the elusive WebtrES club, LazrPaws uses its unique abilities to navigate through layers of cyberspace, often leaving a trail of light-hearted chaos in its wake. Its buttons are playful yet functional, emitting soft 'meows' that serve as both a whimsical signature and a subtle warning to anyone who might underestimate the craftiness of this pixelated prowler.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/55",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0055.gif",
+  "name": "LazrPaws",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Forged in the heart of the digital foundry, Pixel Pionix is a heroic figure with a classic box head that radiates the charm of the golden era of gaming. Its screen features the iconic green glow of retro consoles, reminiscent of countless hours spent mastering games that would define generations. The retro console buttons are a tactile tribute to the days when gaming was all about the 'click' and the 'clack' of physical buttons under your fingers. Pixel Pionix is not all play though; its arms and legs, crafted from the strongest materials in the foundry, are built for adventure and resilience. Topping off its unique look is the rare helmet addon, a symbol of its readiness to explore both the vast digital landscapes and the unknowns of the WebtrES club universe. Pixel Pionix isn't just a member of the club; it's a protector of the pixelated past and a pioneer in the realm of interactive nostalgia.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/569",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0569.gif",
+  "name": "Pixel Pionix",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

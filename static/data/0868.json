@@ -1,0 +1,28 @@
+{
+  "description": "Major Whiskertron is a valiant member of the elite feline pixel battalion known as the WebtrES club. Adorned with a rugged soldier box pattern, he stands ready to defend his digital domain. His screen, lit with red and black, indicates he's always in battle mode, analyzing strategies and combat maneuvers. The cat-shaped buttons hint at his agility and nine-life resilience, allowing him to maneuver through the most complex terrains. Classic arms and legs give him a timeless edge, able to adapt to both retro and modern virtual environments. The helmet atop his head is not just for show; it's an advanced tactical gear piece equipped with sensors to detect incoming threats. Major Whiskertron's story is one of honor, mystery, and a hint of digital purr-fection, holding the line in the pixelated frontiers of the online world.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/868",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0868.gif",
+  "name": "Major Whiskertron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

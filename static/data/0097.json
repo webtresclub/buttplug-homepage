@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the obscure digital alleys of WebtrES city, Catalyst the Scholar is a curious amalgamation of feline agility and digital prowess. With a chassis painted in the boldest shade of rossoCorsa, this NFT character exudes a sense of passion and speed, embodying the spirit of a cat poised to pounce. Each button represents a chapter of knowledge in Catalyst's vast library of information, with the cute cat paw design signifying a playful approach to data processing. The cat-like arms and legs reinforce Catalyst's nimbleness, allowing it to execute tasks with both precision and grace. The distinctive screen face, featuring a cat's visage, beams with an enigmatic charm that beckons onlookers to discover the secrets it holds within its pixelated depths. To top it off, Catalyst dons a pair of stylish glasses, indicative of its scholarly nature and insatiable thirst for learning. Whether it's browsing through the annals of cyber history or decoding ancient algorithms, Catalyst the Scholar is an erudite companion in the ever-evolving narrative of the WebtrES club.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/97",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0097.gif",
+  "name": "Catalyst the Scholar",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

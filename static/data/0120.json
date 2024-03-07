@@ -1,0 +1,24 @@
+{
+  "description": "Pixel Purrade is a vintage-inspired character from the eclectic WebtrES club, known for his love of old-school video games and his charmingly retro console buttons. With hands always ready to play and legs that seem to stand firm like the steadfast arcade machines of yore, he carries the spirit of the 80s arcade halls. His screen displays a classic red and black pixel art smile, evoking the nostalgia of early gaming days. Despite his digital exterior, Pixel Purrade has a warm and inviting personality, making him a beloved fixture in the WebtrES community.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/120",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0120.gif",
+  "name": "Pixel Purrade",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

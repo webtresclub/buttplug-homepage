@@ -1,0 +1,28 @@
+{
+  "description": "Emerging from the high-temperature forges of the WebtrES club, Forge Viper is a creature of steel and flame. With a bold rosso corsa chassis, it stands out in any crowd. Its cat button interface offers a quirky charm, allowing users to pet their way to different functions, while the foundry-forged limbs are a testament to its strength and resilience. The snake screen flickers with a hypnotic hiss, showcasing patterns that entrance and bewilder. Topping off its unique look, the round glasses give Forge Viper an air of intellectual curiosity, a contrast to its rugged exterior. Known for its precision craftsmanship, Forge Viper is the go-to member for any WebtrES construction and repair job, wielding its mighty pixel hammer with both grace and power.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/306",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0306.gif",
+  "name": "Forge Viper",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

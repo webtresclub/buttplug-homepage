@@ -1,0 +1,24 @@
+{
+  "description": "Laser Whiskertron is a rare entity hailing from the digital alleyways of the WebtrES club, an exclusive network of sentient machines. With its shiny yellow casing that gleams under the neon lights of cyberspace, Laser Whiskertron is hard to miss. This mechanical marvel sports retractable cat-like limbs, allowing for dexterous movements and acrobatic feats that keep it one step ahead in the virtual world. The front panel of Laser Whiskertron features an array of buttons emitting soft purrs and meows, which serve as a comforting interface for its companions. At the heart of its pixelated screen lies a sophisticated laser system, originally designed for high-precision cutting tasks, but now repurposed to create the most intricate light shows seen in any digital gathering. Laser Whiskertron spends its downtime curating electronic yarn balls and hunting virtual mice, a nod to its feline-inspired circuitry.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/1",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0001.gif",
+  "name": "Laser Whiskertron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

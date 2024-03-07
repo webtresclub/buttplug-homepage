@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the verdant expanses of the Digital Forest, Professor Pixel is a revered member of the WebtrES club. Renowned for his vast knowledge stored within his red and black screen, he is often seen pondering complex algorithms and solving the mysteries of the digital world. His forest green box exterior blends seamlessly with his natural habitat, while the classic buttons and arms reflect his traditional values in an ever-evolving digital age. His glasses are not just a fashion statement but a tool that sharpens his vision, allowing him to see through the most intricate codes. Despite his serious demeanor, Professor Pixel has a playful side, often engaging in recreational pixel art creations that are admired across the digital realm.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/473",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0473.gif",
+  "name": "Professor Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

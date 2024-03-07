@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the deep pixel forests of WebtrES, ForgeMaster Flex is a legendary craftsman known for his remarkable ability to shape both software and hardware with the power of his laser screen and mighty forge hammer. As a member of the esteemed WebtrES club, Flex spends his days perfecting his creations, from enchanted algorithms to unbreakable firewalls. His forest green box is a symbol of his connection to the digital wilderness, where he draws inspiration, while his classic buttons represent a deep respect for the time-honored traditions of coding. With arms and legs forged from the strongest virtual steel, Flex is always ready to defend his domain from cyber threats or to hammer out the next groundbreaking tech.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/906",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0906.gif",
+  "name": "ForgeMaster Flex",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

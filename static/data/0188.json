@@ -1,0 +1,24 @@
+{
+  "description": "Originally designed by a quirky inventor with a passion for felines and space travel, Catalyst Jetpaws is an extraordinary member of the WebtrES club. His box, screen, buttons, and even his rocket arms and legs are all influenced by cat aesthetics, which gives him an adorable yet adventurous look. Catalyst is known for his rocket-powered escapades, soaring through cyberspace with the agility of a cat and the speed of a comet. He's not just a regular member; he's become the mascot for all those who dream of combining their love for pets with the infinite possibilities of technology and space.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/188",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0188.gif",
+  "name": "Catalyst Jetpaws",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

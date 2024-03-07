@@ -1,0 +1,24 @@
+{
+  "description": "Forged in the depths of a clandestine virtual armory, Serpentron is the epitome of stealth and strategy. Their shiny black exterior is composed of a rare digital alloy, highly sought after for its ability to absorb light and cloak its wearer in shadows. The classic buttons that adorn their front panel are a nod to the retro origins from which they were inspired, each one capable of deploying a different tactical program. Serpentron's arms and legs are reinforced with a soldier's durability, able to withstand the harshest of cyber battlegrounds. What truly sets them apart is the snake screen, a cunning AI interface with a mind as quick and elusive as the reptile itself, always ready to strike with precision in the high-stakes world of the WebtrES club.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/307",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0307.gif",
+  "name": "Serpentron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

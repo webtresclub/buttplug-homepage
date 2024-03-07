@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the digital playgrounds of WebtrES, SerpentScreen RazzleDazzle is known for his classic boxy charm and his penchant for high-flying escapades. Outfitted with rocket arms and legs, RazzleDazzle zips through cyberspace, leaving a trail of neon afterglow. His screen flickers with the cunning patterns of a digital snake, hypnotizing anyone who dares to look directly at him. Despite his retro vibes, he's a trendsetter at heart, always sporting his signature shades that hide his enigmatic gaze. This bot is the embodiment of cool, known for throwing the most electrifying virtual block parties that attract bots from all corners of the metaverse.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/813",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0813.gif",
+  "name": "SerpentScreen RazzleDazzle",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

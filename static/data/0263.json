@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the neon-lit arcade halls of the WebtrES club, Rocket Retroblast is the embodiment of old-school cool with a futuristic twist. Built with a classic box design and traditional buttons, Retroblast takes players on a nostalgia trip with its pixel-perfect screen that displays games from an era when 8-bit was king. But don't let the retro aesthetics fool you; with rocket-powered arms and legs, Rocket Retroblast is always ready to zoom into action, bringing a blast from the past to the modern digital frontier. Whether you're looking to dominate the high scores or just reminisce about the golden age of gaming, Rocket Retroblast is your go-to companion in the WebtrES universe.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/263",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0263.gif",
+  "name": "Rocket Retroblast",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

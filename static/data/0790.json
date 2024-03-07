@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the golden era of arcade games, PixelPuncher was once a pinnacle of entertainment in a bustling video game parlor. With a zesty orange exterior and a heart that beats in 8-bit, he's a master of all the classic titles, from pixelated platformers to space shooters. After the arcade closed down, PixelPuncher found a new purpose with the WebtrES club, bringing retro charm and gaming wisdom to the digital age. His classic screen always displays a winning smile, while his retro console buttons are a hit with everyone longing for a taste of nostalgia. Now, he spends his days challenging fellow club members to beat his high scores and sharing stories of the 'good old gaming days.'",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/790",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0790.gif",
+  "name": "PixelPuncher",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

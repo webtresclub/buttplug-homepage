@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the furthest corners of the cosmos, Catalyst Comet is an interstellar adventurer and member of the elite WebtrES club. With a box chassis adorned with feline features and buttons that resemble cat paws, this quirky character is always ready to pounce on any challenge. The rocket arms and legs are not just for show; they propel Catalyst Comet at blazing speeds through the digital spaceways, exploring new worlds and spreading the spirit of curiosity and playfulness. The classic screen face often displays an enigmatic pixelated grin, a testament to the many secrets and tales gathered from across the stars. Catalyst Comet is a beloved figure in the WebtrES community, known for their quick wit, boundless energy, and a knack for landing on their feet, no matter the situation.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/5",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0005.gif",
+  "name": "Catalyst Comet",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

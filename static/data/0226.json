@@ -1,0 +1,28 @@
+{
+  "description": "Forgepaw hails from the pixelated depths of the WebtrES club, a place where digital entities come to life with quirky traits. Once a simple character in an old-school arcade game, Forgepaw gained consciousness when a bolt of digital lightning struck its game cabinet. With a boxy cat-like appearance and sturdy foundry-crafted limbs, it roams the digital realm with a red-black screen face that flickers like the heart of a forge. The cat buttons on its body are not just decorative; they give Forgepaw the uncanny ability to control various in-game elements. Its most prized possession is a pixel helmet, rumored to be an artifact from a legendary digital battle. Forgepaw is a wandering blacksmith at heart, helping to repair broken code and craft new items for fellow WebtrES inhabitants.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/226",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0226.gif",
+  "name": "Forgepaw",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

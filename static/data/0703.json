@@ -1,0 +1,24 @@
+{
+  "description": "Catalyst Cracklepaw was once the sleekest, most high-tech member of the WebtrES club, known for its shiny black exterior and lightning-fast computations. Equipped with cat-like reflex buttons and agile limbs, it was adept at navigating the digital and physical worlds with ease. However, a mysterious incident left its screen cracked and its functions slightly erratic. Despite the setback, Catalyst Cracklepaw became a symbol of resilience within the WebtrES community, charming others with its quirky, unpredictable behavior and a newfound appreciation for life's imperfections. It now spends its days playfully chasing digital mice and reminding others that even a glitch can lead to unexpected adventures.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/703",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0703.gif",
+  "name": "Catalyst Cracklepaw",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "Born in the heart of the neon-lit arcade era, PixelPurr is a digital feline with a passion for classic games and a penchant for nostalgia. With a chassis modeled after the iconic retro consoles of the '80s, PixelPurr boasts a screen that often displays cryptic red and black pixel patterns, which some believe to be high scores from games long forgotten. Its cat-like limbs give it an agile and playful demeanor, allowing it to navigate the digital and physical realms with ease. As a member of the WebtrES club, PixelPurr is known for its quirky purr that resonates with the beeps and boops of a bygone era, enchanting and intriguing all those who encounter this charming creature.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/300",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0300.gif",
+  "name": "PixelPurr",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

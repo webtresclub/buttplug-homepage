@@ -1,0 +1,28 @@
+{
+  "description": "Emerging from the molten cores of the digital foundry, Serpentron Forge is a master craftsman with a flair for the dramatic. His shiny black exterior is as polished as the high-end gadgets he assembles with his foundry-cast arms and legs. The classic buttons on his chest flash rhythmically as he works, a silent symphony of productivity. His snake-like screen displays an ever-shifting pattern, mesmerizing all who dare to stare too long. But it's not just his work that makes Serpentron a standout in the WebtrES club; it's also his keen eye for style, emphasized by his sleek, reflective glasses that give him an air of intelligence and mystery. Rumor has it he's the go-to bot for the most exclusive upgrades and tech modifications, a reputation he upholds with every swing of his trusty pixelated hammer.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/861",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0861.gif",
+  "name": "Serpentron Forge",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the neon-drenched alleyways of Cyber City, Lazyrion is a sleek bot with a shiny black box exterior that glistens under the streetlights. Known for his classic button controls, he's a hit at the retro arcades where he can manipulate games with ease, thanks to his trusty classic arms and legs. But don't let his old-school appearance fool you; Lazyrion's screen packs a futuristic punch with laser vision that can cut through virtual reality barriers. A valued member of the WebtrES club, he uses his high-tech abilities to lead his crew through cyberspace adventures and protect the digital realm from rogue viruses.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/646",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0646.gif",
+  "name": "Lazyrion",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

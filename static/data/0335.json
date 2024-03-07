@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the digital frontlines of the WebtrES club, Sergeant Whiskerbyte is a battle-hardened soldier with a twist. With a screen showcasing the classic cat smile, this pixel warrior brings a unique mix of fierceness and playfulness to the battlefield. Despite his tough exterior and soldier's arms and legs, Whiskerbyte has a soft spot for his feline companions, symbolized by his cat-themed buttons. He's often seen strategizing his next move or leading his troop of virtual comrades into the next skirmish with a blend of tactical prowess and nine lives\u2019 worth of courage.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/335",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0335.gif",
+  "name": "Sergeant Whiskerbyte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

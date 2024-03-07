@@ -1,0 +1,24 @@
+{
+  "description": "Once the vanguard of the digital frontier, Sergeant Whiskerfuse is a battle-scarred veteran from the Great Cyber Skirmishes. Known for his strategic prowess and the agility of a feline, he led numerous successful campaigns in the byte-sized battlegrounds. With his classic control buttons, he managed complex operations with a tap of a button. However, in an unfortunate encounter with the notorious Pixel Platoon, his screen got cracked in a fierce data clash. Despite his now broken display, this old soldier hasn't lost his spark. Discharged from active duty, he now mentors young cadets at the WebtrES Academy, teaching them the art of code and combat, with tales of his nine digital lives and the scratches to prove it.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/585",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0585.gif",
+  "name": "Sergeant Whiskerfuse",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "In the digital alleys of WebtrES club, Pixel Patcher is a legendary figure. Once a prime arcade console, he now wears his broken screen like a badge of honor, reminiscing about the golden days of gaming. With his retro console buttons, he can transport you to the nostalgic eras of gaming with a single press. His shades are not just for style; they shield his vision from the glitches of the modern world. Despite the cracks in his screen and the countless battles he's endured, Pixel Patcher's spirit remains unshattered, ready to game on in the ever-evolving world of pixels and code.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/781",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0781.gif",
+  "name": "Pixel Patcher",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the digital jungles of the WebtrES club, Slytherin SerpentByte is a quirky blend of modern tech and vintage aesthetics. With a classic boxy frame and sturdy classic arms and legs, this bot has a nostalgic vibe that appeals to retro enthusiasts. Its screen flickers with the cunning patterns of a digital snake, ever-changing and hypnotic, a nod to its shrewd intellect and ability to adapt to any challenge. The cat-shaped buttons add a touch of whimsy, suggesting a playful side to SerpentByte's otherwise serious demeanor. Topping off its unique look is a pair of round glasses, giving it the air of a seasoned scholar with stories to tell of the early internet days. Slytherin SerpentByte is known in the WebtrES community for its enigmatic presence and encyclopedic knowledge of cyberspace lore.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/304",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0304.gif",
+  "name": "Slytherin SerpentByte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

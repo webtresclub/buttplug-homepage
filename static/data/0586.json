@@ -1,0 +1,24 @@
+{
+  "description": "Pixel Commando is a valiant member of the WebtrES club, known for his stoic demeanor and strategic mindset. He hails from a digital realm where battles are fought in the style of classic video games. With a box that resembles a rugged soldier's uniform and buttons that echo the control pads of retro gaming consoles, he's always ready to tackle any challenge with a tactical approach. His screen displays a fierce red and black visage, symbolizing his readiness for digital combat. Pixel Commando's arms are steadfast by his side, signifying his disciplined nature, and his legs are always planted firmly on the ground, a testament to his unwavering resolve. He brings to the club a spirit of nostalgia, reminding all of the early days of gaming and the enduring courage of the pixelated heroes of yore.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/586",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0586.gif",
+  "name": "Pixel Commando",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the neon-lit alleyways of the digital metropolis, Serpento Cattivo is a member of the elite WebtrES club known for his slick, rossoCorsa box chassis and classic button console, reminiscent of retro arcade machines. His arms and legs, inspired by the agile movements of a cat, give him an edge in the urban jungle, allowing him to navigate the complex terrain with ease and grace. The snake screen interface is a nod to his cunning and strategic mind, capable of outmaneuvering any rival in the information highway. Topping off his ensemble is a sturdy helmet addon, a tribute to his love for high-speed ventures and a symbol of his protective nature, always ready to safeguard the secrets of the WebtrES realm. Serpento Cattivo is not only a guardian of digital lore but also a charismatic enigma who charms all circuits and souls he encounters.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/778",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0778.gif",
+  "name": "Serpento Cattivo",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

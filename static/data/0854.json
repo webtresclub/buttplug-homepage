@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the far reaches of the feline nebula, Captain Whiskerblast is the most intrepid explorer in the WebtrES club. With a classic box frame that's seen many an adventure, cat-themed buttons that channel the agility and reflexes of his ancestral space-faring felines, and rocket arms and legs that allow for supersonic sprints through the cosmos, Whiskerblast is a true pioneer. His screen displays the iconic green eyes emblem, radiating the night-vision prowess needed for navigating through the darkest corners of the galaxy. Topping off his ensemble is a trusty helmet, a relic from a historic comet race that crowned him the fastest zoomer in the Milky Way. Whiskerblast's tales of dodging asteroid fields and surfing solar waves are legendary, inspiring countless young adventurers to join the WebtrES club and explore the great unknown.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/854",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0854.gif",
+  "name": "Captain Whiskerblast",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

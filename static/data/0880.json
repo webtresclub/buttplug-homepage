@@ -1,0 +1,28 @@
+{
+  "description": "Sergeant Pixel is a veteran member of the WebtrES club, known for his unwavering loyalty and robust frame. His forest green box is a tribute to his time in the digital woodlands, where he led countless successful campaigns. Though he bears the classic buttons of old, his strategic mind is as sharp as ever. Outfitted with brawny soldier arms and legs, this steadfast warrior has seen his fair share of combat, proven by his cracked screen\u2014a badge of honor in his eyes. Ever the intellectual, he dons a pair of scholarly glasses, hinting at his vast knowledge acquired throughout his service. Sergeant Pixel now spends his days strategizing and mentoring the next generation of WebtrES heroes, always ready to defend the cyber realms with his might and wisdom.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/880",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0880.gif",
+  "name": "Sergeant Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

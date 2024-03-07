@@ -1,0 +1,24 @@
+{
+  "description": "PixelPaws is a quirky NFT character from the WebtrES club, known for its unique blend of feline charm and retro gaming aesthetics. With a body that resembles an old-school gaming console, complete with iconic red and black buttons, PixelPaws has become a beloved figure among gaming enthusiasts and cat lovers alike. Its arms and legs, forged from the sturdy metals of the foundry, give it an air of resilience and strength, while the cat-themed screen face displays expressions as playful as a kitten chasing after a laser pointer. Despite its somewhat heavy-duty appendages, PixelPaws enjoys nothing more than a good cuddle session after a long day of crafting digital adventures in the pixelated realms of yesteryears' games.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/544",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0544.gif",
+  "name": "PixelPaws",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

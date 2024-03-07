@@ -1,0 +1,24 @@
+{
+  "description": "Crafted from the finest circuits of Silicon Alley, Sergeant Whiskerbyte is the feline-faced pixel warrior of the WebtrES club. With a shiny yellow box for a body and cat-like screen eyes that can scan through terabytes of data in a blink, this soldier's arms and legs are always ready for digital combat. The classic buttons on its chest serve as a control panel for its numerous abilities, including hacking into rogue networks, encrypting secret files, and deploying tactical support to its teammates during cyber skirmishes. Whiskerbyte's tale is one of valor and vigilance, tirelessly patrolling the data streams to keep the digital realm secure. With a meow that resonates through subroutines and a purr that calms even the most troubled software, Sergeant Whiskerbyte is the guardianship personified in the WebtrES club's ongoing battle to maintain order in the ever-evolving internet landscape.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/948",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0948.gif",
+  "name": "Sergeant Whiskerbyte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

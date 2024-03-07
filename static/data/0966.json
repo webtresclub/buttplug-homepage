@@ -1,0 +1,24 @@
+{
+  "description": "Catalyst Flex is a high-spirited bot from the vibrant pixel dimension of WebtrES Club, known for its shiny yellow box and the whimsical cat-imprinted buttons. This bot sports classic arms and legs that are always on the move, dancing to the rhythm of the digital world. Its screen, featuring a funky red and black pattern, reflects its bold and playful personality. Catalyst Flex was designed to spread joy and entertainment across the web, leaving a trail of laughter and mischief wherever it goes.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/966",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0966.gif",
+  "name": "Catalyst Flex",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

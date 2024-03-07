@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the digital alleyways of WebtrES club, Catalyst Codepurr is known for her uncanny ability to solve complex algorithms with a single flick of her tail. Decked out with classic buttons that chime melodically when pressed, she wears her iconic glasses not just for style, but also to analyze data streams at an optical level. Her arms and legs, adorned with the sleekness of a feline, allow her to navigate the virtual world with grace and agility. Her boxy frame might fool some into thinking she's just another piece of quaint hardware, but make no mistake\u2014Catalyst Codepurr is a cyber-savvy feline with a knack for hacking through the toughest firewalls while still landing on her feet.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/73",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0073.gif",
+  "name": "Catalyst Codepurr",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

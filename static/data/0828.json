@@ -1,0 +1,24 @@
+{
+  "description": "SerpentPixel is a vintage gaming console brought to life, a member of the elusive WebtrES club known for its nostalgia-inducing charm. Sporting a classic beige box with a familiar green screen, it has a unique feature: adorable cat buttons that purr when pressed! SerpentPixel's arms and legs are always in a relaxed 'hand down' position, reflecting its laid-back attitude. On its screen, you'll often find a pixelated snake game, which is not only SerpentPixel's favorite pastime but also the source of its name. It spends its digital days reminiscing the golden era of arcade games and bringing joy to those who appreciate the simpler, yet endlessly entertaining classics of the gaming world.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/828",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0828.gif",
+  "name": "SerpentPixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

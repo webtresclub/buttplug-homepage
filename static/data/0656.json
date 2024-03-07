@@ -1,0 +1,24 @@
+{
+  "description": "PixelPit Viper hails from the neon-lit arcades of the digital realm, where retro games cast long shadows and the scent of nostalgia fills the air. Born with a rossoCorsa box casing, Viper is the speed demon of the WebtrES club, known for zipping through games with lightning-fast reflexes. The retroConsole buttons on his interface are a testament to his old-school gaming prowess, echoing the sounds of a bygone era with every click and tap. His classic arms and legs bear the marks of countless joystick battles, and his screen is forever etched with the hypnotic dance of the snake game, a pixelated challenge he has mastered beyond any digital creature's imagination. PixelPit Viper isn't just a gamer; he's a relic of the past, a symbol of the golden age of gaming, and a friend to those who remember the joy of high scores and the thrill of just one more game.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/656",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0656.gif",
+  "name": "PixelPit Viper",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

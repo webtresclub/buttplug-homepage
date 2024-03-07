@@ -1,0 +1,24 @@
+{
+  "description": "Forged in the distant galaxy of Pyronia, Sergeant Blaze is an elite member of the WebtrES club known for his shiny black armor that absorbs light from nearby stars, empowering his laser vision. His arms and legs are equipped with advanced rocket technology, allowing him to maneuver through the cosmos with unparalleled agility. The soldier buttons on his chest are a tribute to his service in the Intergalactic Defense Fleet, where he earned his stripes by defending planets from rogue asteroids. Sergeant Blaze's tale is one of bravery and might, as he continues to patrol the digital realms, ensuring the safety and order of the WebtrES club's virtual space.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/701",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0701.gif",
+  "name": "Sergeant Blaze",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

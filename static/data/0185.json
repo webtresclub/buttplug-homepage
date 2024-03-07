@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the digital battlegrounds of WebtrES, Sergeant SerpentByte is a tactical genius with a heart of silicon. With his classic box chassis and no-nonsense classic buttons, he's a reminder of the old school era where pixels were large and memories small. His arms and legs are the embodiment of a soldier; sturdy and always ready for action. The snake screen is his unique tactical interface, allowing him to slither through data streams and decode encrypted messages with ease. His glasses are not just a fashion statement but a pair of advanced scanning devices, providing him with augmented reality overlays and real-time battlefield analytics. Sergeant SerpentByte is a valued member of the WebtrES club, always ready to lead his digital comrades through the most challenging firewalls and into the heart of the net.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/185",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0185.gif",
+  "name": "Sergeant SerpentByte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

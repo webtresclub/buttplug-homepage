@@ -1,0 +1,28 @@
+{
+  "description": "Pixel Forge is a legendary craftsman in the WebtrES club, known for his exceptional skill in creating and fixing anything electronic. Born in the digital forests of Silicon Glade, he dons a forest green box shell, which camouflages him amongst the circuit trees. His screen displays the intense red and black colors of the ancient lava flows from the Mount of CPUs, symbolizing his fiery passion for retro gaming consoles, which is hinted at by his button interfaces. Equipped with arms and legs made of the strongest alloys from the Foundry Valleys, he wields a hammer in one hand and pliers in the other\u2014tools of his trade that have seen countless repairs and creations. Over his screen, he sports a pair of glasses, an artifact that not only sharpens his vision but also lets him see the underlying code of the world. Pixel Forge is a cornerstone member of the WebtrES club, where he is always ready to lend a hand or a tool to those in need of his masterful touch.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/670",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0670.gif",
+  "name": "Pixel Forge",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

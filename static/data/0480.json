@@ -1,0 +1,24 @@
+{
+  "description": "Emerging from the high-temperature forges of the WebtrES club universe, ForgeVision Lazzaro is known for his fiery red 'rossoCorsa' casing and precise laser screen that can project blueprints from his mind's eye into reality. With 'classic' buttons that echo the timeless designs of the past, he brings a sense of nostalgia to every creation. His 'foundry' arms and legs, forged in the heart of star-fueled furnaces, are capable of crafting the most intricate and enduring artifacts. Legend has it that wherever Lazzaro's hammer and tongs lay, revolutionary inventions are born, turning raw materials into technological marvels that pave the way for the future of WebtrES.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/480",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0480.gif",
+  "name": "ForgeVision Lazzaro",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

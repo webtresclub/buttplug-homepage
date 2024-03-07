@@ -1,0 +1,28 @@
+{
+  "description": "From the neon-lit corners of the retro arcade alleys comes PixelPurr Pro, a feline entity with a love for vintage games and classic style. With a chassis shaped like a cat and equipped with a retro console interface, PixelPurr Pro brings an 8-bit flair to the WebtrES club. Donning sleek shades, this cool cat is known for its laid-back demeanor and quick reflexes, perfect for dodging pixels and outsmarting opponents in any digital showdown. Despite its chilled appearance, PixelPurr Pro is a competitive spirit at the heart of the club's gaming events, always ready to press play on a new challenge.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/719",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0719.gif",
+  "name": "PixelPurr Pro",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

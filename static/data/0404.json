@@ -1,0 +1,24 @@
+{
+  "description": "Emerging from the depths of the digital forests, Catarcade is a unique being that combines the nostalgia of retro gaming with the agility of a feline. Its forest green exterior harbors the essence of an ancient console, its buttons ready to transport anyone who dares to play into a world of 8-bit adventures. With limbs like sleek black cat paws, Catarcade moves with a grace that belies its boxy shape, able to leap and bound through the landscapes of pixels and sprites. It is said that those who encounter Catarcade are granted the skill to always land on their feet, in both games and life. As a member of the WebtrES club, Catarcade is a sought-after companion for those who yearn for the golden era of gaming and the thrill of nocturnal prowls through the neon-lit data forests.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/404",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0404.gif",
+  "name": "Catarcade",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

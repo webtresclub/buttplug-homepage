@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the neon-lit raceways of Cyberville, Captain Blaze Comet is known for his rocket-powered maneuvers and the iconic rossoCorsa chassis that gleams under the starlight. With a classic button configuration that pays homage to the arcade legends, and a screen that displays his pixelated expressions, Blaze is both a nostalgic nod and a futuristic vision. His helmet is not just for show; it's a relic from the Omega Racing League, a testament to the countless light-speed laps he's endured. Blaze's story is one of a daredevil turned hero, racing against time to save the WebtrES club from the notorious pixel pirates of the Ethervoid.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/318",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0318.gif",
+  "name": "Captain Blaze Comet",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

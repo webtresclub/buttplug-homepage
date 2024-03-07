@@ -1,0 +1,28 @@
+{
+  "description": "Sergeant WhiskerByte is a battle-hardened member of the WebtrES club, known for his strategic prowess and unshakable cool under pressure. His box, buttons, arms, and legs all bear the standard of the soldier class, adorned in camouflage that has seen countless cyber skirmishes. The screen of this valiant warrior displays the fierce visage of a cat, a symbol of his agility and nine lives worth of combat luck. Above all, his shades are not just for style; they are equipped with state-of-the-art sensors, allowing him to scan the digital battlefield and protect his fellow club members from any threat. Despite his tough exterior, Sergeant WhiskerByte is a loyal companion, always ready to pounce on the enemy and defend his squad with ferocious dedication and a touch of feline finesse.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/549",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0549.gif",
+  "name": "Sergeant WhiskerByte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

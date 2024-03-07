@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the electrified forests of Circuitree, Felix Voltclaw is a member of the elite WebtrES club, known for his quick thinking and even quicker reflexes. With a box chassis coated in the rarest shade of forest green, he camouflages seamlessly into the lush canopy of his home turf. His unique cat-shaped buttons are a nod to his feline agility and the belief that cats bring good fortune. His arms and legs are engineered from high-powered rocket boosters, allowing him to make quantum leaps from one server to the next, safeguarding the club's digital realm. The laser screen that adorns his face is capable of emitting concentrated beams of light, slicing through malware with surgical precision. Felix Voltclaw, swift protector of the data wilderness, remains an enigma to all but those fortunate enough to be part of the WebtrES legacy.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/382",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0382.gif",
+  "name": "Felix Voltclaw",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

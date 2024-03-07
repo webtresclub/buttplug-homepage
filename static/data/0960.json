@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the pixelated foundries of WebtrES club, Forgepurr is a feline-inspired bot with a knack for crafting the finest digital tools. With its classic button interface and sturdy foundry arms and legs, this bot wields a laser screen gaze that can cut through the toughest code. When Forgepurr is not busy hammering out bugs or soldering circuitry, it's often found lounging on data clouds, purring out harmonious tunes that keep the WebtrES club in perfect harmony.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/960",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0960.gif",
+  "name": "Forgepurr",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

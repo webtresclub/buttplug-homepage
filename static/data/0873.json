@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the smoldering depths of the Pixel Foundry, Sergeant Meow Forge is no ordinary soldier in the WebtrES club. With a box chassis reinforced by the toughest cardboard known to bot-kind, he's survived countless battles, earning his stripes with a laser screen that can cut through misinformation with surgical precision. His arms and legs, forged from the same high-grade pixel steel that flows through the foundry's veins, wield a hammer and trident \u2013 tools that symbolize his ability to build alliances and strike with tactical expertise. The cat buttons on his console are not mere decorations; they're programmable keys encoded with the strategic maneuvers of his feline companions, the stealthiest spies in the digital realm. Always ready for action, Sergeant Meow Forge commands respect and curiosity in equal measure, proving that even in a world of ones and zeros, courage and leadership are the ultimate code.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/873",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0873.gif",
+  "name": "Sergeant Meow Forge",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

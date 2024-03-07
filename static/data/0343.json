@@ -1,0 +1,24 @@
+{
+  "description": "Forged in the digital foundries of WebtrES club, Catalyst Serpentine is an enigmatic figure. With a box as shiny as a sunbeam and buttons that purr with a feline grace, this character is both alluring and mysterious. Its screen displays the hypnotic patterns of a serpent, captivating all who gaze upon it. Legend has it that Catalyst Serpentine was once a master blacksmith's console, hammering out virtual realms with pixel precision. Now, as part of the WebtrES club, it crafts not only objects but also the fate of digital destinies, with arms and legs as sturdy as the foundries that birthed them.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/343",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0343.gif",
+  "name": "Catalyst Serpentine",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

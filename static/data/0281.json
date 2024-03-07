@@ -1,0 +1,24 @@
+{
+  "description": "Born from a cosmic burst in the neon-lit arcades of the digital universe, RetroRay is a shiny yellow bot with a passion for all things vintage. With arms and legs of the classic 8-bit era and a screen that displays his love for retro gaming, RetroRay spends his days reminiscing about the golden age of gaming. His buttons may be reminiscent of a retro console, but don't be fooled, RetroRay is well-equipped to navigate the complexities of the WebtrES club. He's a collector of pixelated memories and a connoisseur of chiptune music, always ready to share a story or two about the legendary game battles of yesteryears. Whether you need tips on defeating old-school bosses or just want to bask in the nostalgia of low-res graphics, RetroRay is your go-to bot.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/281",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0281.gif",
+  "name": "PixelPals RetroRay",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

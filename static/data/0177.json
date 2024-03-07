@@ -1,0 +1,24 @@
+{
+  "description": "Once the cherished companion of a seasoned arcade champion, PixelPatched Pete is an NFT member of the exclusive WebtrES club, known for its collection of digital entities with a retro flair. Pete's vibrant orange casing and retro console buttons are a throwback to the golden era of gaming. Unfortunately, Pete's screen suffered a mysterious crack which, instead of ending his digital life, granted him a unique charisma among the club's members. Now, he roams the pixelated realms of cyberspace, sharing tales of pixel battles and the glory days of high scores with anyone who reminisces about the nostalgia of arcade games. Despite his broken screen, Pete's unyielding spirit makes him a beloved figure, always ready to reboot for the next digital adventure.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/177",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0177.gif",
+  "name": "PixelPatched Pete",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

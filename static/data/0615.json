@@ -1,0 +1,28 @@
+{
+  "description": "Once a central piece of a bustling arcade, Sparky Pixelhammer now wanders the digital plains of WebtrES club, searching for a new purpose after a fateful encounter with a rogue gamer left his screen in a state of disrepair. With arms and legs forged from the finest pixels of the foundry level and a pair of glasses that have seen better days, Sparky reminiscences about the golden era of 8-bit adventures. Despite his broken screen, he carries an indestructible hammer from the retro realm and a resolve as strong as his pixelated physique. Sparky is a beloved character who has turned his glitch into a trademark, attracting a following of nostalgic fans and sympathetic sprites alike.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/615",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0615.gif",
+  "name": "Sparky Pixelhammer",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

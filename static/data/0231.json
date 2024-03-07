@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from a pixelated dimension where arcade games are sentient, Blaze RocketScreen lives up to his name with a vibrant orange chassis and rocket-powered limbs that let him soar through the digital skies with ease. His red and black screen face is always set in a determined expression, hinting at his unwavering focus and fiery spirit. Blaze is known in the WebtrES club for his ability to navigate through the most intricate of circuits and codes with the precision only a classic gamer could muster. His buttons, though classic, trigger actions in the digital realm that are anything but old school. With a reputation as the fastest rocketeer in the digital realm, Blaze is always ready for an adventure that challenges his speed and wits.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/231",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0231.gif",
+  "name": "Blaze RocketScreen",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

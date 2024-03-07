@@ -1,0 +1,24 @@
+{
+  "description": "Emerging from the depths of the digital foundry, PixelPurr ForgeMaster is an enigmatic NFT character known for his rugged foundry arms and his passion for retro gaming. His origins are a mystery, but legends speak of a time when he was the heart of an arcade, bringing joy to players with his endless library of classic games. After an unfortunate incident involving a rogue joystick and an intense game of 'Spider Smash', his screen cracked, giving him a permanent mark of valor. Despite this, he remains a master craftsman, wielding his hammer with precision to forge new realities within the broken pixels of his screen. PixelPurr is on a quest to find the ultimate game cartridge that will not only fix his screen but also unlock the next level of his existence. Until then, he keeps his game face on, literally, and tackles life with the tenacity of a true arcade champion.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/362",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0362.gif",
+  "name": "PixelPurr ForgeMaster",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

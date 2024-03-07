@@ -1,0 +1,24 @@
+{
+  "description": "SerpentByte is a quirky member of the WebtrES club, known for his love of puzzles and all things serpentine. With an orange box for a body and a screen that perpetually displays a snake game, SerpentByte is a hit at any digital party. His classic button configuration is reminiscent of the golden age of arcade games, and his hands are always positioned down as if ready to challenge a newcomer to a game of snake. Despite his pixelated appearance, SerpentByte is a master of strategy and often surprises his peers with his quick thinking and problem-solving skills. In the virtual world of WebtrES, he's the go-to guy when you're in a digital bind and need a clever way out.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/357",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0357.gif",
+  "name": "SerpentByte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

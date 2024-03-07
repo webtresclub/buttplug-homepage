@@ -1,0 +1,24 @@
+{
+  "description": "PixelForge hails from the digital foundries of RetroTech City, a place where pixels and old-school gaming reign supreme. Originally a central unit in the city's arcade district, PixelForge gained sentience after a freak power surge during a lightning storm. With his red and black screen displaying the fierce expressions of his inner code, PixelForge embarked on a quest to become more than just a gaming console. His foundry-made arms and legs, crafted from the same sturdy materials that forge the mightiest pixels, enable him to create and manipulate digital matter in the physical world. Armed with his trusty hammer and welding torch, PixelForge is now a legend in both the gaming realms and the WebtrES club, where he's known for his skill at fixing broken code and forging new paths in the ever-evolving digital landscape.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/822",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0822.gif",
+  "name": "PixelForge",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

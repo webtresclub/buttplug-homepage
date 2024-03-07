@@ -1,0 +1,28 @@
+{
+  "description": "Commander Meowhelm is a valiant member of the WebtrES club known for his strategic prowess and a love for intergalactic exploration. With a classic box design resembling a sturdy spacecraft, classic button controls for precise navigation, and a screen displaying his feline allegiance, he is a sight to behold. His arms and legs follow the classic design, enabling quick maneuvers in zero-gravity environments. But what truly sets Meowhelm apart is the iconic helmet addon, a relic from the Great Asteroid Belt Skirmish, which has become his signature look. Meowhelm spends his days charting unknown regions of the pixel universe and advocating for the peaceful exploration of the cosmos. His tales of cosmic adventure and close encounters with alien life forms are legendary within the WebtrES club.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/467",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0467.gif",
+  "name": "Commander Meowhelm",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

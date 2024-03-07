@@ -1,0 +1,24 @@
+{
+  "description": "With a chassis as sleek as the night and the agility of a feline, SlyFeline Byte is a curious member of the WebtrES club. This enigmatic figure roams the digital alleys with cat-like arms and legs, always landing on its feet regardless of the cyber challenges it faces. Its shiny black box exterior is complemented by an array of cat-themed buttons that emit a soft purring sound when pressed. The screen, however, is where its true nature is revealed - displaying patterns reminiscent of a snake's skin, it hypnotizes anyone who dares gaze into its pixels. SlyFeline Byte is known for its cunning and stealth, often found slinking through the web, weaving through data streams and leaving behind a trail of puzzled onlookers. Its origin is shrouded in mystery, but legends say it was coded by a maverick programmer inspired by the allure of feline grace and serpentine wisdom.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/89",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0089.gif",
+  "name": "SlyFeline Byte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

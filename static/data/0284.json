@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the neon-soaked alleyways of Pixel City, RetroRacer Zoom is a legend in the underground retro gaming circuits. Clad in a chassis of the most vibrant rosso corsa, he's a charming rogue with an insatiable need for speed. With arms and legs modified for rocket-powered maneuvers, he's as swift on his feet as he is quick-witted. The retro console buttons on his front panel are a tribute to the classic games he has mastered over the years, and his screen always displays an ever-moving snake, paying homage to the iconic game that started it all for him. His eyewear isn't just for show; those glasses are state-of-the-art tech, allowing him to analyze and simulate game strategies in microseconds. A member of the prestigious WebtrES club, RetroRacer Zoom is always ready to blast off to his next gaming adventure or to outmaneuver opponents in a virtual showdown.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/284",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0284.gif",
+  "name": "RetroRacer Zoom",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

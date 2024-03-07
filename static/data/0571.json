@@ -1,0 +1,28 @@
+{
+  "description": "PixelPurr ConsoleCat is a digital entity from the retro digital dimension known as the WebtrES club. With a classic box chassis and retro console buttons, ConsoleCat is a connoisseur of old-school video games and an avid collector of cartridges from worlds that many have forgotten. The cat screen face of ConsoleCat displays a range of pixelated expressions that reflect its mood and reactions during game sessions. It's known for always having its hand down, ready to press play on the next adventure. The stylish glasses are not just a fashion statement; they're equipped with the latest in visual enhancement algorithms, allowing ConsoleCat to spot hidden Easter eggs and secrets in every game it plays. Despite its cool demeanor and focus on gaming achievements, ConsoleCat is a friendly companion in the WebtrES world, always willing to lend a helping hand\u2014or paw\u2014to fellow digital denizens in need.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/571",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0571.gif",
+  "name": "PixelPurr ConsoleCat",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

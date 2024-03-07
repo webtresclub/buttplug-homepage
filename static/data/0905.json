@@ -1,0 +1,24 @@
+{
+  "description": "Retro Whiskertron is a quirky member of the WebtrES club, known for its vivid orange boxy frame and classic green screen. It stands out with its retro console buttons, which remind one of the golden age of arcade gaming. Rumor has it that Retro Whiskertron was once a highly sought-after gaming console in a trendy arcade, where it absorbed the essence of every game played on it. Now equipped with nimble cat limbs, it roams the digital world with a playful spirit, combining a love for vintage games with cat-like agility. Whether it's jumping through forums or curling up in the cozy corners of chat rooms, Retro Whiskertron brings a touch of nostalgia and feline finesse to the club.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/905",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0905.gif",
+  "name": "Retro Whiskertron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

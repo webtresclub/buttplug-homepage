@@ -1,0 +1,24 @@
+{
+  "description": "JetProp PixelVenture was once a cutting-edge console in a world dominated by retro gaming. Born in the golden age of 8-bit adventures, PixelVenture was the first of its kind to be fitted with experimental rocket limbs, enabling it to ascend beyond its peers in the world of arcade cabinets and into the digital clouds of gaming Valhalla. With its classic box design and iconic red and black screen, JetProp became a celebrated figure in the WebtrES Club, known for its rare ability to transform any gaming session into an explosive experience. Despite the wear and tear of countless pixel battles, it continues to burn bright with the flames of nostalgia, powering through pixels and memories alike.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/324",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0324.gif",
+  "name": "JetProp PixelVenture",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the neon-lit alleyways of the WebtrES club, PixelPurr Lasertron is a quirky blend of retro gaming nostalgia and feline agility. With a box styled after classic gaming consoles of yore, and buttons that hark back to the age of arcade machines, Lasertron is a walking tribute to the golden era of video games. Its screen is not just for show; it emits a mesmerizing laser display that doubles as a communication method, hypnotizing onlookers with its pulsating patterns. The cat-like limbs of Lasertron give it the grace and poise of a digital panther, allowing it to navigate the virtual world with ease. Although it might seem like a mere gaming machine brought to life, PixelPurr Lasertron is actually a sophisticated AI designed to ensure the WebtrES club remains the coolest spot in the pixelated universe.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/121",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0121.gif",
+  "name": "PixelPurr Lasertron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

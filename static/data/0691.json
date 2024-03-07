@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the digital depths of an 80s arcade machine, Pixel Serpent Spectacles is a retro-console inspired NFT with a passion for classic gaming and a knack for coding slithery software. With its shiny yellow casing and iconic round glasses, it stands out in the WebtrES club as the go-to bot for nostalgic game nights and hacking marathons. While it might have its hand down, ready to relax, don't be fooled; this bot's mind is always racing through the next level of its snake game. Its fellow club members rely on Pixel's encyclopedic knowledge of gaming history and quick-witted tech support.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/691",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0691.gif",
+  "name": "Pixel Serpent Spectacles",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

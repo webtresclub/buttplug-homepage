@@ -1,0 +1,28 @@
+{
+  "description": "Cleofus is an enigmatic character hailing from the digital alleyways of WebtrES club. His shiny black casing shimmers like a starless night sky, while his retro console buttons hint at a nostalgia for a time when pixels were the height of visual technology. Despite his rather serious appearance, Cleofus's limbs tell a different tale; they are sprightly, cat-like appendages that allow him to deftly navigate the complex web of cyberspace. His screen, adorned with a serpentine pattern, slithers with a hypnotic grace, a nod to his ability to charm and outwit any antivirus software he encounters. Sporting round glasses, Cleofus is not just a lover of bygone games but also a whiz at writing sleek algorithms. With his blend of old-school charm and new-age smarts, Cleofus spends his time coding up a storm and reminiscing about the golden age of arcade games, all while staying one step ahead of the digital curve.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/337",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0337.gif",
+  "name": "Cleofus the Retro Coder",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

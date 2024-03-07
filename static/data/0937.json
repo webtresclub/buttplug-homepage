@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the neon-tinged alleyways of CyberFeline City, Comet Whisker is known for his uncanny agility and speed. With a classic box design equipped with cat button controls, he's a swift strategist in the WebtrES club. His legs and arms have been upgraded with rocket boosters, allowing for interstellar jumps and lightning-fast moves. The snake screen interface is a nod to his cunning and adaptability, always ready to outmaneuver any opponent. His trusty helmet, adorned with the colors of a distant galaxy, protects his circuitry as he zooms through the digital realms. Comet Whisker is a beloved hero in his home district, where tales of his daring adventures keep the kittens inspired and the old cats reminiscing about the golden era of space explorers.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/937",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0937.gif",
+  "name": "Comet Whisker",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

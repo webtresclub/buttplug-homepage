@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the pixelated alleyways of the WebtrES club, Catoscreen Whiskerbyte is a unique blend of feline agility and retro technology. With an orange boxy exterior and the heart of a cat, Whiskerbyte once displayed happy images to the world before an unfortunate encounter with a digital mouse led to a broken screen. Now sporting a pair of chic glasses to hide the cracks, Whiskerbyte paws its way through the cyberstreets, charming netizens with its quirky buttons and cat-like limbs. Despite the glitch in its display, this character remains a beloved figure, offering a glimpse into a world where the lines between organic and digital life charmingly blur.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/940",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0940.gif",
+  "name": "Catoscreen Whiskerbyte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

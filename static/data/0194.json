@@ -1,0 +1,24 @@
+{
+  "description": "A stalwart member of the WebtrES club, Sergeant Whiskerbyte is known for his strategic prowess and feline agility. Once the leading tech operative in a specialized digital battalion, he faced an intense cyber skirmish that left his screen cracked but not his spirit. His reputation as a soldier was built upon countless victories in the virtual arena, but it's his cat-like reflexes and quick thinking that make him an invaluable asset. Whiskerbyte's uncanny ability to land on his feet, even after the fiercest of digital battles, provides inspiration to his fellow WebtrES club members. Despite his current inactive status due to the 'broken screen' incident, he continues to mentor up-and-coming pixels in the art of cyber-warfare, all while plotting his grand return to the front lines of cyberspace.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/194",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0194.gif",
+  "name": "Sergeant Whiskerbyte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

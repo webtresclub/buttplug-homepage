@@ -1,0 +1,24 @@
+{
+  "description": "Once a cutting-edge gaming console, Pixel Purr-ogrammer had a passion for retro games that knew no bounds. However, after enduring one too many rage quits, its screen suffered a critical hit, leaving behind a spiderweb crack as a badge of its resilience. Undeterred by its broken facade, it found solace in the WebtrES club, where it patched up its circuits and now joyfully codes new adventures for fellow retro enthusiasts. With its classic arms and legs, it types away, creating worlds where pixels reign supreme and every game over is just another chance to hit continue.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/405",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0405.gif",
+  "name": "Pixel Purr-ogrammer",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

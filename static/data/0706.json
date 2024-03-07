@@ -1,0 +1,28 @@
+{
+  "description": "PixelPurr hails from the vibrant digital world of WebtrES, where retro gaming consoles come to life. With a box shaped like a classic console and a screen displaying the curious eyes of a cat, PixelPurr is the embodiment of vintage gaming and feline mischief. This quirky character has arms and legs positioned in a relaxed stance, always ready for a casual stroll through the pixelated landscapes of its home. The cat-themed buttons suggest that every press brings a playful purr or meow, endearing PixelPurr to everyone in the club. Topping off this unique appearance is a helmet, a souvenir from intergalactic travels to distant arcade worlds. PixelPurr's adventures are not just about gaming; they're about exploring the endless possibilities within the pixel realms of the WebtrES club, making friends, and pressing the right buttons to bring joy and nostalgia to all.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/706",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0706.gif",
+  "name": "PixelPurr",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

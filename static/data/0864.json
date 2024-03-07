@@ -1,0 +1,24 @@
+{
+  "description": "Once a frontline combat simulator for military strategy games, Sgt. Pixel Vanguard was renowned in the digital arenas for his tactical brilliance. With a shiny black chassis that reflects the neon battlegrounds of cyberspace, he's a formidable presence in the WebtrES club. His classic button interface harks back to an era where precision and timing were key, and his red and black screen display still flickers with the intensity of a warrior in the heat of battle. Retired from virtual combat, he now dedicates his time to strategizing the digital defenses of the WebtrES club, ensuring the safety and integrity of its virtual parameters. His soldier-like arms and legs, built for action, now serve a more peaceful purpose, as he guides new members through the complex world of NFTs and blockchain ethics.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/864",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0864.gif",
+  "name": "Sgt. Pixel Vanguard",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

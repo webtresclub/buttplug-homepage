@@ -1,0 +1,24 @@
+{
+  "description": "PixelPlay Greg hails from the dense circuit forests of Silicon Valley, where vintage tech thrives and the sound of 8-bit melodies fills the air. Once a celebrated console at the heart of many gaming marathons, Greg's screen suffered a fateful crack during an intense session of 'Pixel Pioneers.' Despite his broken screen, Greg's spirit remains unshattered. He wears his crack like a badge of honor, a reminder of the countless hours he's dedicated to entertaining gamers from all walks of life. With his retro console buttons, he can still transport any player back to the golden age of gaming. His classic arms and legs, though blocky, are surprisingly agile, allowing him to navigate the real world with the same dexterity as the in-game characters he once displayed. Greg is now a valued member of the WebtrES club, sharing tales of pixelated adventures and inspiring a new generation of gamers to appreciate the beauty of retro gaming.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/519",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0519.gif",
+  "name": "PixelPlay Greg",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

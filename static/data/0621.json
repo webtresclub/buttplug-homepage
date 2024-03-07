@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the neon-drenched alleyways of CyberFeline City, Catalyst Laserpaw is a sleek, shiny black box with a penchant for high-tech mischief. With his cat-like buttons, arms, and legs, he slinks through the shadows, always on the lookout for adventure. His screen glows with a laser intensity that can cut through the digital ether like a hot knife through butter. Catalyst is a renowned member of the WebtrES club, known for his swift reflexes and his ability to hack into any system with a mere flick of his tail. Despite his rogue-like demeanor, Catalyst has a heart of gold and uses his skills to protect the data of the innocent from the grasping claws of cyber villains.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/621",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0621.gif",
+  "name": "Catalyst Laserpaw",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

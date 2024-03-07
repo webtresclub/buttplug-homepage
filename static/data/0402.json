@@ -1,0 +1,24 @@
+{
+  "description": "PixelPunk Glitch hails from a neon-lit arcade alley where he was once the king of all machines. Sporting a retro console box and classic button configuration, he was the go-to entertainment for gamers of all ages. Unfortunately, after a fierce thunderstorm, a power surge left his screen cracked, and his once vivid display now flickers with the ghost of pixels past. Despite his broken screen, Glitch wears his scars proudly, reminiscing about the golden days of gaming and always ready to share tales of pixelated adventures with anyone who longs for a dash of nostalgia. As a member of the WebtrES club, he has found a new purpose, inspiring digital beings to embrace their imperfections and find strength in their unique stories.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/402",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0402.gif",
+  "name": "PixelPunk Glitch",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the pixelated expanses of the WebtrES club, Commander Whiskertron is a feline-inspired bot known for her tactical acumen and mysterious origins. Her classic box chassis houses advanced circuitry, allowing her to process data at lightning speeds. The cat-themed buttons and appendages reflect her agility and balance, traits that make her an unrivaled scout in digital reconnaissance missions. The red and black screen serves as a canvas for displaying complex emotions and commands, striking fear into adversaries with its intense glow. Her helmet, a relic from a forgotten virtual battlefield, is said to boost her already impressive strategic capabilities. Rumors suggest that Commander Whiskertron's quest is to find the ultimate digital yarn ball\u2014a metaphysical source of infinite wisdom and power.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/26",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0026.gif",
+  "name": "Commander Whiskertron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

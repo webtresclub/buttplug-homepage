@@ -1,0 +1,24 @@
+{
+  "description": "Commander Pixel once led the elite pixelated forces of the RetroConsole Republic, navigating through the toughest levels and defeating 8-bit adversaries with tactical precision. After a legendary career, Pixel hung up his military stripes and now battles in the digital realms of classic games, bringing a strategic edge to every arcade challenge he encounters. As part of the WebtrES club, his commanding presence and red-black screen visor, reminiscent of the fierce digital wars of yesteryear, inspire nostalgia and respect among all retro gaming enthusiasts.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/619",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0619.gif",
+  "name": "Commander Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

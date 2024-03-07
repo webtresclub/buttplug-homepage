@@ -1,0 +1,24 @@
+{
+  "description": "Glitchy Goldbyte was once the centerpiece of a high-tech amusement arcade, basking in the limelight of children's laughter and neon glows. However, after a fateful power surge, Goldbyte's screen shattered, leaving a web of cracks that now only display a fragmented world. Despite this setback, Goldbyte became a legend in the WebtrES club for being the most upbeat and resilient member, always finding a way to entertain and inspire with tales of the arcade era and the mysterious digital realms beyond the screen.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/316",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0316.gif",
+  "name": "Glitchy Goldbyte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    }
+  ]
+}

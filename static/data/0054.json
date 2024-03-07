@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the digital battlefields of the retro gaming dimension, Commander PixelBlitz is a valiant warrior known for his strategic prowess and unbreakable will. With a screen that flickers like the red and black heart of a battlefield and buttons that have seen more presses than the most classic of arcades, he commands respect and nostalgia in equal measure. His arms and legs are forged from the same code as the greatest pixelated soldiers, giving him strength and agility that defy his blocky appearance. The helmet atop his box is not just for show; it's a relic from a legendary campaign, where PixelBlitz turned the tide of a console war with a single, well-placed combo move. Now a member of the elite WebtrES club, he stands ever-ready to dive into action, his screen glowing with the fire of a thousand retro explosions.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/54",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0054.gif",
+  "name": "Commander PixelBlitz",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

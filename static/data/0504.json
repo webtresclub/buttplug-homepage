@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the dense digital woodlands of the WebtrES club, Major Whiskertron is an enigmatic figure known for his tactical prowess and mysterious aura. Clad in a forest green box with the insignia of an elite pixel soldier, he served in numerous virtual confrontations that shaped the landscape of the cyber wilderness. His 'classic' arms and legs are a testament to his old-school approach to digital combat, rooted in the earliest days of pixel warfare. The cat screen that adorns his visage is a homage to his feline-like reflexes and agility, traits that have earned him respect among his peers. Completing his look are the iconic shades, a signature addon that not only shield his eyes from the glaring sunsets of the digital horizon but also cloak his thoughts from friend and foe alike. Major Whiskertron is a true enigma, a warrior whose stories are whispered across the network, inspiring both wonder and intrigue.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/504",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0504.gif",
+  "name": "Major Whiskertron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

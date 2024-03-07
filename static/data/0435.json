@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the retro-futuristic city of Pixelonia, Cataclysmic Pixel is a quirky character in the WebtrES club. Known for his classic boxy appearance and iconic red and black screen, he displays a wide range of emotions using simple pixel patterns. His cat-shaped buttons, which he is particularly proud of, give him an air of playfulness amidst the other members. As a walking piece of nostalgic technology, Cataclysmic Pixel embodies the spirit of the 80s arcade era, always ready to bring fun and a bit of mischief to the digital realm.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/435",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0435.gif",
+  "name": "Cataclysmic Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

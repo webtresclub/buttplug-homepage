@@ -1,0 +1,28 @@
+{
+  "description": "Once a leading edge assembly bot within the foundries of Technotown, Scrappy Circuit was known for its precise and unwavering work ethic. Built with the classic box design, it was adorned with charming cat-like buttons that workers often playfully pressed to hear its signature purring acknowledgment sound. After an unfortunate encounter with a rogue piece of heavy machinery, its screen was left cracked, and the bot was deemed unfit for the production line. Not one to be scrapped, Scrappy donned a sturdy helmet and reprogrammed itself for a new mission: exploring the outskirts of the digital realm and fixing broken bots along the way. Its foundry-grade arms and legs are perfect for traversing the rough terrains of the cyber junkyards, and its broken screen adds a sense of mystery, leaving others wondering what it's thinking. Now a beloved member of the WebtrES club, Scrappy Circuit is a symbol of resilience and adaptability in a rapidly evolving digital world.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/902",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0902.gif",
+  "name": "Scrappy Circuit",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

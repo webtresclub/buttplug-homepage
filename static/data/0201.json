@@ -1,0 +1,28 @@
+{
+  "description": "Felix AlloyPaws is a crafty feline figure from the exclusive WebtrES club, known for his unique combination of cat-like cunning and industrial strength. Born in the pixelated alleyways of Silicon City, Felix rapidly rose to fame with his remarkable ability to forge digital solutions out of thin air. His box, adorned with cat ears, and his screen, featuring a charming nose and whiskers, are a nod to his agility and nine-life resilience. The foundry arms and legs give a metallic clank with each calculated step, symbolizing his robust and unyielding nature. Felix is rarely seen without his signature glasses, which he claims to enhance his already purr-fect vision, allowing him to spot trends and opportunities before anyone else. Behind those reflective lenses, he plots his next big project - to mesh the physical and virtual realms into a playground for both humans and AI to explore and enjoy.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/201",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0201.gif",
+  "name": "Felix AlloyPaws",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

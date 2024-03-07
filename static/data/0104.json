@@ -1,0 +1,28 @@
+{
+  "description": "Once a state-of-the-art bot designed to explore the cosmic wilds, Cataclysmic Cato's journey took a turn when a meteor shower shattered its navigation screen. Stranded on a distant planet, Cato adapted by using its cat button interface to communicate with the local feline lifeforms. Donning a salvaged helmet from a space wreck, Cato is now a beloved figure among the cosmic alley cats, leading them in a quest to repair its screen and resume the interstellar adventure.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/104",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0104.gif",
+  "name": "Cataclysmic Cato",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

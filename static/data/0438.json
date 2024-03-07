@@ -1,0 +1,28 @@
+{
+  "description": "Straight out of the digital trenches of the WebtrES club comes Sgt. Hisscade, a retro console warrior with a feline agility and a serpentine screen for quick, slithering strategies. Donning a camouflaged helmet as a homage to his days in pixelated battlefields, Hisscade's reputation for defeating high scores and outmaneuvering software skirmishes is legendary. His retro console buttons are worn from countless strategic assaults on enemy lines, each click a testament to his tactical mastery. At night, when the gaming guilds rest, you can hear the soft purring of his cat limbs, a reminder of his dual nature\u2014playful yet always ready for the next digital duel.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/438",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0438.gif",
+  "name": "Sgt. Hisscade",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

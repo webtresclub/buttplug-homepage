@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the high-tech trenches of the Digital Frontier, Sergeant WhiskerByte is known for his shiny black casing and the iconic red and black screen that strikes fear into the hearts of malware and bugs. His cat button insignias are a tribute to his nine lives in the cyber war, each one representing a major victory against the forces of disorder. Decked out in his battle-worn helmet, this soldier of the WebtrES club is ever-ready to lead his troop of pixels into the fray, safeguarding the integrity of the system with his disciplined code of conduct and unbreakable firewall. His legend is coded in the annals of the WebtrES club, where he stands as a beacon of strength and resilience.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/293",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0293.gif",
+  "name": "Sergeant WhiskerByte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

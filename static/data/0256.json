@@ -1,0 +1,28 @@
+{
+  "description": "Sergeant Whiskerblitz is a valorous member of the WebtrES club, known for his tactical prowess in the digital realm. As a retro console enthusiast, he possesses the uncanny ability to navigate through the most challenging video game battlefields with ease. His screen glows with a menacing red and black aura, a testament to the countless virtual wars he\u2019s weathered. Adorning sleek shades, he keeps his cool in even the most heated of pixelated skirmishes. With limbs inspired by the agility and grace of a cat, he maneuvers through obstacles with feline finesse. His box, reinforced with the spirit of a soldier, houses an arsenal of retro gaming knowledge and dexterity, securing his legendary status among his WebtrES comrades.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/256",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0256.gif",
+  "name": "Sergeant Whiskerblitz",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

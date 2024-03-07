@@ -1,0 +1,28 @@
+{
+  "description": "Helm-O-Tron, once the flagship member of the WebtrES club, was known for its impeccable data processing skills and adventurous spirit. With its vibrant orange chassis and trusty classic button interface, it was the go-to companion for many digital explorers. However, an unfortunate encounter with a rogue asteroid during a space exploration mission left its screen in a shattered state, a stark reminder of its vulnerability despite the protective helmet add-on. Undeterred by this setback, Helm-O-Tron continues to inspire fellow club members with tales of the cosmos and a determination to venture into the unknown, even with its glitchy visuals serving as a badge of honor from its interstellar escapades.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/143",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0143.gif",
+  "name": "Helm-O-Tron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

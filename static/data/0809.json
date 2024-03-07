@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the sleek corners of the pixelated city of ShinyBlock, Catalyst Buttonsworth stands out with his shiny black exterior and the unique cat-shaped buttons adorning his console. As a member of the elite WebtrES club, Catalyst is known for his calculated moves and classic charm. His arms and legs are of the traditional make, giving him a nostalgic silhouette that reminds others of the golden era of gaming. His screen, though classic, displays expressions in brilliant green pixels that convey a wide range of emotions, from mischievous grins to intense focus. Catalyst spends his nights coding and his days strategizing in virtual arenas, where he's revered for his quick thinking and his ability to land on his feet, much like the feline inspirations on his buttons.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/809",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0809.gif",
+  "name": "Catalyst Buttonsworth",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

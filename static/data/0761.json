@@ -1,0 +1,24 @@
+{
+  "description": "Commander Pixel is a storied veteran from the digital wars of the early WebtrES club universe. With a box shaped like an old-school television set, his soldier-like demeanor is accentuated by his unwavering stance, arms firmly down by his side. His screen, with its aggressive red and black hues, hints at a past filled with fierce battles and strategic genius. The classic buttons on his chest serve as a reminder of his old-school origins and the timeless tactics he employs. Commander Pixel is known for his analytical abilities and his knack for deciphering complex codes in the heat of battle. Despite the digital age's rapid evolution, he remains a respected figure among the pixelated peers of the WebtrES club.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/761",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0761.gif",
+  "name": "Commander Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

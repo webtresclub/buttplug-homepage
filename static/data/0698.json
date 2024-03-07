@@ -1,0 +1,28 @@
+{
+  "description": "Emerging from the pixelated foundries where the digital and the industrial blend, Serpentron Foundry is a curious amalgamation of retro and mechanized aesthetics. Originally a classic console box, Serpentron was upgraded with sturdy foundry-made limbs capable of withstanding the most extreme conditions. Its screen, infused with the essence of a digital serpent, flickers with the cunning and agility of its namesake. The snake's vibrant green pixels hint at its ability to hypnotize onlookers with its mesmerizing patterns. Topping off its unique appearance, Serpentron dons a robust helmet, a remnant of a forgotten cyber-warrior, which serves to protect its circuits from data storms and virtual debris. A steadfast member of the WebtrES club, Serpentron Foundry is known for its resilience and its uncanny ability to navigate through the most chaotic data streams with ease.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/698",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0698.gif",
+  "name": "Serpentron Foundry",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the digital barracks of WebtrES club, Sergeant ShadeByte is a formidable figure with a shiny yellow chassis that gleams like the midday sun. His classic button configuration is reminiscent of a bygone era, and his arms and legs are built to military specifications, hinting at his background as a disciplined digital soldier. The classic screen face, often seen expressing cool determination, is perpetually hidden behind a pair of sleek, dark shades. These aren't just for style; they're equipped with advanced optic sensors that allow him to analyze his surroundings at a glance. Despite his tough exterior, ShadeByte has a soft spot for nostalgic video games and spends his downtime mastering every arcade classic in the virtual realm.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/907",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0907.gif",
+  "name": "Sergeant ShadeByte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

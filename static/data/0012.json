@@ -1,0 +1,28 @@
+{
+  "description": "Sergeant WhiskerBytes is a battle-hardened member of the WebtrES club, known for his strategic prowess and unyielding courage in the face of digital skirmishes. Donning a soldier's box with the unmistakable camo pattern, he's seen his share of action, and the scars to prove it are evident in his broken screen. His arms and legs reflect the classic design of the earliest WebtrES warriors, sturdy and reliable. But WhiskerBytes isn't all about war; his cat buttons hint at his softer side, revealing his affinity for feline companionship during offline hours. His glasses, though cracked, are a testament to his keen eye for detail and sharp tactical analysis. Sergeant WhiskerBytes may have faced many a virtual battle, but his spirit remains unbroken, inspiring fellow club members with tales of his pixelated valor.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/12",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0012.gif",
+  "name": "Sergeant WhiskerBytes",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

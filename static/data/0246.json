@@ -1,0 +1,28 @@
+{
+  "description": "Born in the pixelated alleyways of WebtrES city, Catalyst the Feline Forger is a crafty character known for her impeccable taste in shiny black finishes and feline features. Her box, buttons, and screen all boast a cat motif, a homage to her nine lives of experience in the foundries where she gained her metallic arms and legs. Donning a sturdy helmet for protection, Catalyst hammers away at the anvil of innovation, forging new paths for her fellow digital denizens. Whether it's creating the latest in cybernetic enhancements or sculpting the future one pixel at a time, Catalyst is always on the prowl for her next grand creation in the WebtrES club.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/246",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0246.gif",
+  "name": "Catalyst the Feline Forger",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

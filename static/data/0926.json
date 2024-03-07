@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the digital alleys of WebtrES club, SlytherShade is a character that commands attention with its rossoCorsa boxy frame and sleek shades. Known for its serpentine savvy, it scrolls through the data streams with the grace of a snake displayed prominently on its screen. SlytherShade's arms are always relaxed, hanging down in cool composure, but its cat button fingertips are always ready to pounce on the next hot piece of code. This non-fungible entity is a master of disguise and quick with a quip, slipping through cyber challenges with the charm and wit that its peers have come to adore.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/926",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0926.gif",
+  "name": "SlytherShade",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

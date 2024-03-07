@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the neon-lit backstreets of Silicon Suburbia, Crimson Coder is a legend in the underground hacking circles of the WebtrES club. With a chassis painted in the slickest rossoCorsa, classic buttons that have clicked and clacked their way through countless firewalls, and arms and legs known for their swift, classic maneuvers, this bot is a walking enigma. Its screen, a vibrant display of red and black, reflects its dual nature - a brilliant programmer by day, and a vigilante coder by night. Never seen without its signature shades, this bot's eyes are a mystery, much like the complex algorithms it conjures up from the depths of its silicon brain. Crimson Coder lives by a code, eternally typing away at the keyboard of justice in the digital realm.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/312",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0312.gif",
+  "name": "Crimson Coder",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

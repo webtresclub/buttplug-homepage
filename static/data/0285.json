@@ -1,0 +1,24 @@
+{
+  "description": "LaserByte Mark IV is a legendary member of the WebtrES club, known for its shiny black exterior and love for retro gaming. Originally created in a secret underground lab, it escaped into the world and has since been on a quest for both knowledge and fun. Equipped with rocket arms and legs, it can navigate through cyberspace at the speed of light, and its laser screen can cut through the toughest of digital barriers. Mark IV spends its time searching for hidden arcade realms within the digital universe and has a reputation for setting unbeatable high scores on every retro console game it encounters. Despite its somewhat intimidating appearance, Mark IV is a friendly and loyal companion to those who share its passion for vintage video games and high-tech adventures.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/285",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0285.gif",
+  "name": "LaserByte Mark IV",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

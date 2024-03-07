@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the neon-lit alleyways of the digital metropolis DigiCity, Voltar Crimson is a notorious member of the WebtrES club. Known for his shiny yellow box exterior and classic button controls, he is a beacon of retro charm in a world of sleek modernity. Voltar's arms are often seen casually hanging by his sides, exuding an air of relaxed confidence. However, his most striking feature is his screen, which glows with an intense red and black hue, casting an alluring yet enigmatic light wherever he goes. Voltar's love for 8-bit beats and pixelated parties is legendary, and he's often found spinning tracks at the hottest underground data clubs, mesmerizing the crowd with his hypnotic screen patterns. Despite his cool demeanor, Voltar has a circuit board of gold, always ready to lend a hand or a listening ear to a fellow club member in need.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/390",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0390.gif",
+  "name": "Voltar Crimson",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

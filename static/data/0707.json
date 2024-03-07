@@ -1,0 +1,24 @@
+{
+  "description": "Sergeant Voltz is a high-ranking officer from the digital dimension of WebtrES club, known for his shiny yellow exterior and laser-screen visage that intimidates his foes. With his classic button control panel, he commands respect and issues orders with efficiency. His arms and legs are that of a seasoned soldier, having been through countless cyber skirmishes. Voltz's laser screen is not just for show; it's equipped with state-of-the-art scanning technology, capable of detecting anomalies in the code-scape from miles away. Despite his stern appearance, Voltz is a protector at heart, always ready to deploy his tactical prowess to safeguard the data realms and his fellow WebtrES inhabitants.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/707",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0707.gif",
+  "name": "Sergeant Voltz",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

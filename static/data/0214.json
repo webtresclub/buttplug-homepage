@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the neon-lit alleyways of 8-bit city, PixelPurr Console is a member of the exclusive WebtrES club known for its vintage charm and tech-savvy members. This quirky character sports a vibrant orange box for a body, reminiscent of the classic gaming consoles from the golden era of video games. Its screen face features a cat, a nod to its nine lives of gaming experience and its ability to always land on its feet, no matter the challenge. The retro console buttons on its front panel have felt the press of countless fingers, each one eager to explore new pixelated worlds. PixelPurr's classic arms and legs may seem simple, but they're built for durability, having withstood marathon gaming sessions and the occasional rage quit. A true nostalgia ambassador, PixelPurr Console brings together the old-school gaming community with its purrfect combination of retro aesthetics and timeless fun.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/214",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0214.gif",
+  "name": "PixelPurr Console",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

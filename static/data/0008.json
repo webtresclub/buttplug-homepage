@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the effervescent pixel lands of WebtrES, Catalyst Jet is known for its classic box design with a twist of feline flair. Featuring cat-inspired buttons that meow melodically with every push, this bot charms its way through cyberspace. Its rocket arms and legs, paired with a fiery propulsion system, allow it to soar through the digital cosmos at breakneck speeds. The striking red and black screen adds an air of mystique, reflecting its bold and adventurous spirit. To top it off, Catalyst Jet sports sleek, stylish glasses, which are not just a fashion statement but also double as advanced scanners to decode hidden messages in the net's deepest layers.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/8",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0008.gif",
+  "name": "Catalyst Jet",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

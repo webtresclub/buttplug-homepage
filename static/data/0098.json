@@ -1,0 +1,28 @@
+{
+  "description": "PixelPilot Retro is an enigmatic member of the WebtrES club, known for his love of vintage gaming and aeronautics. His classic box-shaped body boasts a screen that glows with a red and black pattern, reminiscent of the old-school games that he's programmed to master. The retro console buttons on his front panel have been mashed by the fingers of countless gamers during epic late-night sessions. His arms and legs are of the classic make, sturdy and reliable, reminiscent of the 8-bit era's pixelated charm. But what really sets PixelPilot Retro apart is his iconic helmet\u2014an addon that hints at his side hobby of exploring digital skies in simulated flight adventures. Whether he's landing pixelated planes or beating high scores, PixelPilot Retro lives in a nostalgic loop of beeps, boops, and the golden age of gaming.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/98",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0098.gif",
+  "name": "PixelPilot Retro",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

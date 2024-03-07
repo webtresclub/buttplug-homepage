@@ -1,0 +1,24 @@
+{
+  "description": "Forged in the digital forges of the WebtrES club, PixelSquad Commander stands tall and resolute. Its shiny black box is reminiscent of the classic arcade cabinets, where many battles were fought and high scores achieved. The retro console buttons on its front panel beep and click with a satisfying nostalgia, attesting to its heritage. Its arms and legs, built like those of a soldier, are a testament to its unwavering resolve in the face of endless waves of pixelated enemies. The classic screen, with its minimalistic green glow, displays the iconic symbols of its digital prowess. PixelSquad Commander is not just a relic of a bygone era; it's a beacon for the retro-futuristic warriors who yearn for the days of joysticks and 8-bit anthems.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/216",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0216.gif",
+  "name": "PixelSquad Commander",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "Born in a digital petri dish where pixels dance and code is king, Cataclysmic Rocketbot is the epitome of feline cybernetic prowess fused with rocket-propelled agility. With a classic box design and trusty classic buttons, it navigates the virtual world of WebtrES club with precision. Its arms and legs, powered by the latest in rocket technology, allow for blazing speeds and incredible feats of aerial acrobatics. However, it's the unique cat screen that reveals its true nature\u2014a curious, playful soul with a purring processor that echoes through the data streams. Whether it's chasing digital mice or exploring the farthest reaches of the web, Cataclysmic Rocketbot is always on the hunt for the next adventure.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/988",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0988.gif",
+  "name": "Cataclysmic Rocketbot",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

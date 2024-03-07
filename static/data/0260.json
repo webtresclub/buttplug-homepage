@@ -1,0 +1,24 @@
+{
+  "description": "Sergeant Hiss is a member of the prestigious WebtrES club, known for his shiny yellow exterior and stoic demeanor. His buttons feature playful cat symbols, a nod to his whimsical side. As a former digital soldier, his arms and legs are modeled after a robust military design, exuding strength and discipline. The snake screen is his most distinctive feature, with a mesmerizing display that captivates all who gaze upon it. Though he may appear intimidating, Sergeant Hiss is revered for his strategic mind and ability to navigate the complex terrains of the web.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/260",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0260.gif",
+  "name": "Sergeant Hiss",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyyellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Snake"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "description": "PixelPurr is a quirky member of the WebtrES club, known for their love of retro gaming and cool demeanor. With a box shaped like a classic game console and a screen that often displays a curious cat face, PixelPurr is the go-to for gaming advice and nostalgic conversations. Their arms and legs boast a sleek feline design, and the trendy shades they sport have become their signature accessory. Whether they're sharing cheat codes or lounging in the digital sunshine, PixelPurr is always ready to pounce on fun and adventure in the metaverse.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/641",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0641.gif",
+  "name": "PixelPurr",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the pixelated edges of the WebtrES universe, Catalyst Comet is a retro gaming machine with a twist. Born in the heart of a supernova, this sentient console was rocketed through the cosmos, absorbing all the cool from 80s arcade halls. With its vibrant orange casing and rocket arms and legs, it can zoom through the net at light-speed, leaving behind a trail of stardust and nostalgia. The cat screen, a nod to its celestial origins, is not just for show \u2013 those digital eyes see into the code, finding secret levels and easter eggs that others miss. An aficionado of 8-bit beats and a maestro of pixelated adventures, Catalyst Comet is the life of any digital party, pulling gamers into a warp zone of fun.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/282",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0282.gif",
+  "name": "Catalyst Comet",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ]
+}

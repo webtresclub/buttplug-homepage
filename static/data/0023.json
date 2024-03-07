@@ -1,0 +1,24 @@
+{
+  "description": "Hailing from the industrial heart of the WebtrES club, ForgeFist is a master craftsbot known for its shiny black exterior and classic button interface. Its red and black screen often glows with intensity when it's in the middle of forging digital masterpieces. Built with sturdy foundry arms and legs, ForgeFist can often be found hammering away at virtual anvils, shaping raw data into beautiful constructs. Despite its tough exterior, ForgeFist has a surprisingly creative core, and its works are highly sought after in the WebtrES virtual realm.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/23",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0023.gif",
+  "name": "ForgeFist",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Shinyblack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

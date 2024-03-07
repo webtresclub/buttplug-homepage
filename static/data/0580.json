@@ -1,0 +1,28 @@
+{
+  "description": "From the neon-lit alleyways of WebtrES city, comes the enigmatic Pixel Purrmaster 64, a retro console NFT with a flair for the classics. Sporting an old-school box design reminiscent of gaming's golden era, this digital character boasts a pair of cat-shaped buttons that are said to grant its gamer compatriots nine lives in any digital challenge. With arms and legs that exude an 8-bit vibe, Pixel Purrmaster 64 moves with the nostalgic rhythm of arcade soundtracks. The classic green-tinted screen flickers with the secrets of cheat codes past, while the sleek shades shield its digital eyes from the glare of modernity. This NFT is not just a relic of pixelated pastimes; it's a bridge to a time when high scores and local multiplayer ruled the gaming landscape.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/580",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0580.gif",
+  "name": "Pixel Purrmaster 64",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ]
+}

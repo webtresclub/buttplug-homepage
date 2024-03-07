@@ -1,0 +1,28 @@
+{
+  "description": "As the strategic mind behind WebtrES club's most thrilling adventure games, Commander Meowvellous is a legend in the digital world. With an orange boxy frame symbolizing his strong and sturdy nature, and soldier button detailing that pays homage to his tactical prowess, he's not one to shy away from a challenge. His arms and legs, reminiscent of a swift and agile cat, allow him to navigate through the toughest of pixels with grace and precision. The red and black screen face reflects his bold personality and fierce determination, while the glasses he dons are not just for show\u2014they're high-tech sensors that scan for potential fun and engagement in every corner of the WebtrES universe. Whether you're looking for a leader to guide you through the digital wilderness or a companion for your next gaming quest, Commander Meowvellous is your go-to character.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/787",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0787.gif",
+  "name": "Commander Meowvellous",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

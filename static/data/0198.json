@@ -1,0 +1,24 @@
+{
+  "description": "RetroRacer is the embodiment of speed and nostalgia. Born in the pixelated depths of the earliest gaming universes, he sports a vibrant rossoCorsa box chassis that turns heads wherever he zooms by. His retroConsole buttons are reminiscent of the arcade era, bringing a touch of classic cool to the high-tech WebtrES club. With arms and legs powered by rocket thrusters, RetroRacer is always at the forefront of adventure, leaving a trail of pixel dust in his wake. His piercing laser screen cuts through the digital fog, scanning for hidden levels and Easter eggs that have yet to be uncovered. RetroRacer's quest is to find and secure the most exclusive digital collectibles, making him a sought-after ally in the ever-expanding universe of virtual rarity.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/198",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0198.gif",
+  "name": "RetroRacer",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

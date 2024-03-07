@@ -1,0 +1,24 @@
+{
+  "description": "Forged in the foundries of the gaming universe, PixelSmash is a legendary figure in the WebtrES club. With a box design inspired by the classic era of arcade cabinets, this character's retroConsole buttons hark back to a time when gaming was all about skill and perseverance. His arms and legs, crafted from the strongest materials of the foundry, are both a tribute to the building blocks of the digital world and a nod to the robust hardware that powered the first gaming revolutions. PixelSmash's screen, featuring a dynamic red and black display, is rumored to be capable of flashing retro game patterns that can hypnotize any onlooker. Legend has it that PixelSmash was once the guardian of a long-lost arcade, and now he roams the virtual space of WebtrES club, challenging members to beat his high scores and share in the glory of the golden age of gaming.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/228",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0228.gif",
+  "name": "PixelSmash",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Redblack"
+    }
+  ]
+}

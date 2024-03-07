@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the pixelated alleyways of the WebtrES club, Catsby the Crafty is an industrious bot with a penchant for retro gaming and DIY projects. His orange casing shines bright like the neon signs of arcade halls, and the retro console buttons he flaunts are a nostalgic nod to the golden era of gaming. Catsby's arms and legs are forged from the finest foundry cast-offs, a testament to his resourcefulness and ability to create something great from the discarded. The cat screen that illuminates his face with a gentle glow is not just for show; it's a window into his soul, displaying his mood with various feline expressions. Always prepared, Catsby sports a pair of stylish glasses, giving him that intellectual edge and a look that says he means business. Whether he's hammering out solutions to complex puzzles or twisting wires into the next great invention, Catsby the Crafty is a beloved member of the WebtrES club, always ready for the next challenge that comes his way.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/726",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0726.gif",
+  "name": "Catsby the Crafty",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Glasses"
+    }
+  ]
+}

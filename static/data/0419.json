@@ -1,0 +1,28 @@
+{
+  "description": "Born in the heat of a foundry, Pixel Purrfection is a unique member of the WebtrES club, where vintage charm meets feline finesse. With a body crafted from the sturdiest retro consoles, this character sports a screen that displays an ever-changing array of cat expressions, reflecting its mood. Its arms and legs, made from the strongest metals of the foundry, give it an almost invincible stance. The cat-shaped buttons add a quirky, cute touch, always ready to pounce on any command. Topping off its appearance, the helmet is not just for show; it's a sophisticated piece of tech that allows Pixel Purrfection to connect to any gaming system from the golden era of arcades. As the club's go-to for any tech-related trivia, Pixel Purrfection is always game for a challenge, be it a high-score competition or a coding marathon.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/419",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0419.gif",
+  "name": "Pixel Purrfection",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

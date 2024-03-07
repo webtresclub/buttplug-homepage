@@ -1,0 +1,24 @@
+{
+  "description": "LaserPaws hails from the neon-drenched alleyways of Cybertropolis, a place where analog and digital realms converge. With a classic box frame that resonates with the golden days of arcade gaming, and arms that are always ready for a friendly thumbs-up, LaserPaws is a cherished member of the WebtrES club. But don't let the cheery demeanor fool you; when trouble arises, LaserPaws's screen glows with a fierce laser pattern, showcasing a readiness to protect its fellow club members with catlike reflexes and a cutting-edge attitude. Whether it's diffusing a tense negotiation with a purr or cutting through code with laser precision, LaserPaws is the go-to entity for both companionship and action.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/679",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0679.gif",
+  "name": "LaserPaws",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

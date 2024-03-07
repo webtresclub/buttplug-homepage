@@ -1,0 +1,28 @@
+{
+  "description": "Hailing from the neon-lit alleyways of Cybertown, Captain Whiskertron is a legendary figure in the WebtrES club. With an orange box chassis that gleams like the sunset on a digital horizon, this feline-inspired bot is known for its quick reflexes and purr-fect precision. The cat-shaped buttons on its control panel are not just for show; they're programmed with advanced AI algorithms that allow it to land on its rocket-powered limbs no matter the height from which it jumps. Its classic screen face displays a range of pixelated expressions, conveying emotions as complex as any cybernetic creature can. Atop its square head sits a battle-worn helmet, a testament to its countless adventures through the data streams. Captain Whiskertron spends its days zooming through the web, safeguarding the virtual world from rogue viruses and ensuring the free flow of information for all netizens.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/433",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0433.gif",
+  "name": "Captain Whiskertron",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "description": "Originating from the neon-lit alleyways of the digital metropolis WebtrES, Catalystic Ray is a smooth-talking feline-robot hybrid known for his sharp wit and even sharper laser screen. His bright orange box chassis is as vibrant as his personality, and the classic buttons on his front panel light up in sync with his moods. With cat-like agility and limbs, he navigates the virtual world with ease, leaving a trail of bemused smiles and pixelated hearts in his wake. His favorite pastime is leaping across rooftops under the cybernetic sky, chasing data mice and unraveling the mysteries of the WebtrES club with his laser-sharp focus.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/551",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0551.gif",
+  "name": "Catalystic Ray",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}

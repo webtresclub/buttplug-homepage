@@ -1,0 +1,24 @@
+{
+  "description": "LaserPaws is a high-energy feline cyborg from the bustling neon streets of WebtrES city. With a box chassis coated in the sleekest rossoCorsa paint, this cool cat is known for its love of late-night zoomies and laser-chasing escapades. Its state-of-the-art laser screen display can project the most intricate light patterns, which not only make for fantastic light shows but also serve as a cunning defense mechanism against any robo-mice daring enough to cross its path. The cat-like buttons and limbs give LaserPaws lightning-fast reflexes and the agility of a real feline, allowing it to navigate the urban jungle with ease. By day, LaserPaws can be found lounging on sunlit windowsills of high-tech scrap shops, but by night, it transforms into the guardian of the alleyways, keeping its circuitry sharp and its claws sharper.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/283",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/0283.gif",
+  "name": "LaserPaws",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Laser"
+    }
+  ]
+}
