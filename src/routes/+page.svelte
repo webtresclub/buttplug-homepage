@@ -49,7 +49,6 @@ $: if ($account && $loadReady) {
 }
 
 </script>
-
     <div class="hero" data-theme="dark">
         <div class="text-justify p-8 mx-auto max-w-4xl">
             <p class="text-lg mb-6">
@@ -105,11 +104,12 @@ $: if ($account && $loadReady) {
                 <div class="card mx-auto">
                     <div class="card__image">
                         <a href="/buttpluggy/{id}">
-                            <img width="276" height="276" src="/images/{id}.gif" alt={traits[String(id)]} />
+                            <img width="276" height="276" src="/images/{('00000'+id).slice(-4)}.gif" alt={traits[String(id)]} />
                         </a>
                     </div>
                     <div class="card__content">
-                        <h3>#{id} - {traits[String(id)]}</h3>
+                        <h3>Buttplugy #{id}</h3>
+                        <!--<small>{traits[String(id)]}</small>-->
                     </div>
                 </div>
             {/each}

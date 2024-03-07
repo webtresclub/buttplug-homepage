@@ -9,7 +9,7 @@ const id = $page.params.id;
 
 <div class="max-w-sm mx-auto mt-2 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
     <a href="#">
-        <img class="rounded-t-lg w-full" src="/images/{id}.gif" alt="" />
+        <img class="rounded-t-lg w-full" src="/images/{('00000'+id).slice(-4)}.gif" alt="" />
     </a>
     <div class="p-5">
         <a href="#">
