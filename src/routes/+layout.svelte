@@ -33,7 +33,7 @@ onMount(() => { initWeb3() });
 </header>
 
 
-<main class="container flex-grow">
+<main class="flex-grow">
   <slot />
 </main>
 
