@@ -1,7 +1,10 @@
 <script lang="ts">
 import Breadcrumbs from '$lib/Breadcrumbs.svelte';
 import {page} from '$app/stores';
+import slugify from 'slug';
+
 export let data;
+
 
 const id = $page.params.id;
 
@@ -30,7 +33,7 @@ const id = $page.params.id;
                 <div class="flex items-center border-t py-1">
                     <div class="px-4">✔️</div>
                     <div class="">
-                        <a href="/attributes" class="font-bold hover:cursor hover:text-white hover:underline">{a.trait_type}: {a.value}</a><br />
+                        <a href="/attributes/{slugify(a.trait_type+'-'+a.value)}" class="font-bold hover:cursor hover:text-white hover:underline">{a.trait_type}: {a.value}</a><br />
                         {data.grouped[a.trait_type+'-'+a.value]} buttpluggies have this trait.
                     </div>
                 </div>
