@@ -51,7 +51,7 @@
   </main>
 {:else}
 <main class="container">
-  <h3 style="margin-top: 20px">My Buttpluggies Gallery</h3>
+  <h3 style="margin-top: 20px">My Mainnet Buttpluggies Gallery</h3>
   <div class="space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-12 md:space-y-0">
     {#each nfts as nft (nft.name)}
       <div class="card mx-auto">
