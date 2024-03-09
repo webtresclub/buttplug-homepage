@@ -5,8 +5,8 @@
 	import { account, loadReady } from '$lib/store';
 
 	let nfts = [];
-	const ALCHEMY_API_KEY = 'KmDy5q8IZQLOWy8cKhEZB6tUcZgiAsRn';
-	const ALCHEMY_API_URL = `https://eth-mainnet.g.alchemy.com/v2/${ALCHEMY_API_KEY}`;
+	const ALCHEMY_API_KEY = import.meta.env.VITE_ALCHEMY_API_KEY;
+	const ALCHEMY_API_URL = import.meta.env.VITE_ALCHEMY_API_URL;
 	const buttpluggiesContractAddress = '0x0000420538CD5AbfBC7Db219B6A1d125f5892Ab0';
 
 	const web3 = new Web3(ALCHEMY_API_URL);
@@ -40,7 +40,16 @@
 		getButtpluggies();
 	}
 </script>
-
+{#if !$account}
+<main class="container">
+  <h3 style="margin-top: 20px">First connect your wallet</h3>
+</main>
+{:else if $account && nfts.length === 0}
+  <main class="container">
+    <h3 style="margin-top: 20px">You still don't own any Buttplug! Go mine one!</h3>
+    <a href="/mine" role="button">Mine your Buttpluggy</a> <br />
+  </main>
+{:else}
 <main class="container">
   <h3 style="margin-top: 20px">My Buttpluggies Gallery</h3>
   <div class="space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-12 md:space-y-0">
@@ -52,12 +61,12 @@
           </a>
         </div>
         <div class="card__content">
-          <h2>{nft.name}</h2>
+          <h3>{nft.name}</h3>
           <p>ID: {nft.tokenId.slice(-4)}</p>
           <!-- <p>{nft.description}</p> -->
         </div>
       </div>
     {/each}
   </div>
-  
 </main>
+{/if}
