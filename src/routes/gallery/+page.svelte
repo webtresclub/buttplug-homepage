@@ -29,13 +29,7 @@
 			// Create a gallery of the NFTs
 			nfts = response.ownedNfts.filter((nft) => {
 				return nft.contract.address == buttpluggiesContractAddress;
-				// return ({
-				//   name: nft.name,
-				//   description: nft.description,
-				//   image: nft.image_url
-				// })
 			});
-			console.log({ nfts });
 			return nfts;
 		} catch (e) {
 			console.error({ e });
@@ -48,16 +42,18 @@
 </script>
 
 <main class="container">
+  <h3 style="margin-top: 20px">My Buttpluggies Gallery</h3>
   <div class="space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-12 md:space-y-0">
     {#each nfts as nft (nft.name)}
       <div class="card mx-auto">
         <div class="card__image">
-          <a href="" target="_blank">
+          <a href={`https://opensea.io/assets/ethereum/${buttpluggiesContractAddress}/${nft.tokenId}`} target="_blank">
             <img width="276" height="276" src={nft.image.cachedUrl} alt={nft.name} />
           </a>
         </div>
         <div class="card__content">
           <h2>{nft.name}</h2>
+          <p>ID: {nft.tokenId.slice(-4)}</p>
           <!-- <p>{nft.description}</p> -->
         </div>
       </div>
