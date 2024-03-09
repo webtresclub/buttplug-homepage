@@ -36,7 +36,7 @@
                 <div class="flex">
                 {#each data.attributes[attr][value].slice(0,7) as i}
                 <a href="/buttpluggy/{i}" on:mouseenter={() => {hovered = i}} on:mouseleave={() => {hovered = 0}}>
-                  <img src="{(hovered == i) ? '/images/' : '/images_small/'}{('00000'+i).slice(-4) + ((hovered == i) ? '.gif' : '.png')}" alt="Buttpluggy {i}" class="p-1 h-16 w-16" />
+                  <img src="{(hovered == i) ? '/images/' : '/images_small/'}{('00000'+i).slice(-4) + ((hovered == i) ? '.gif' : '.png')}" alt="Buttpluggy {i}" class="p-1 block h-16 w-16" />
                 </a>
                 {/each}
                 </div>

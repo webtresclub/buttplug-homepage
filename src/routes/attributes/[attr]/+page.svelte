@@ -29,7 +29,7 @@ const attr = $page.params.attr;
     <div class="flex flex-grow flex-wrap">
       {#each ids as id}
       <a href="/buttpluggy/{id}" on:mouseenter={() => {hovered = id}} on:mouseleave={() => {hovered = 0}}>
-        <img src="{(hovered == id) ? '/images/' : '/images_small/'}{('00000'+id).slice(-4) + ((hovered == id) ? '.gif' : '.png')}" alt="Buttpluggy {id}" class="p-1 h-16 w-16" />
+        <img src="{(hovered == id) ? '/images/' : '/images_small/'}{('00000'+id).slice(-4) + ((hovered == id) ? '.gif' : '.png')}" alt="Buttpluggy {id}" class="p-1 h-16 w-16 block" />
       </a>
       {/each}
     </div>
