@@ -2,6 +2,8 @@
   export let data = {};
 
   import Breadcrumbs from '$lib/Breadcrumbs.svelte';
+
+  let hovered = 0;
 </script>
 
 <Breadcrumbs>
@@ -32,10 +34,10 @@
               <td>{data.attributes[attr][value].length}</td>
               <td>
                 <div class="flex">
-                {#each Array(8) as _, i}
-                <a href="/buttpluggy/{data.attributes[attr][value][i]}">
-                  <img src="/images_small/{('00000'+data.attributes[attr][value][i]).slice(-4)}.png" alt="Buttpluggy {data.attributes[attr][value][i]}" width="64"/>
-                </a>                  
+                {#each data.attributes[attr][value].slice(0,7) as i}
+                <a href="/buttpluggy/{i}" on:mouseenter={() => {hovered = i}} on:mouseleave={() => {hovered = 0}}>
+                  <img src="{(hovered == i) ? '/images/' : '/images_small/'}{('00000'+i).slice(-4) + ((hovered == i) ? '.gif' : '.png')}" alt="Buttpluggy {i}" class="p-1 h-16 w-16" />
+                </a>
                 {/each}
                 </div>
               </td>
