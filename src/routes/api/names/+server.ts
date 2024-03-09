@@ -12,7 +12,5 @@ export async function POST({request}) {
     for (const id of r) {
         ret[id] = data[id].name;
     }
-    
-
 	return json(ret);
 }
