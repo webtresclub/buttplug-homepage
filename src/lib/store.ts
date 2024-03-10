@@ -36,7 +36,6 @@ export function initWeb3() {
     // transports: ['http', 'ws'], // Optional - defaults to ['http', 'ws']
     // ...wagmiOptions // Optional - Override createConfig parameters
   })
-  window.c = _config
   
   // 3. Create modal
   const _modal = createWeb3Modal({

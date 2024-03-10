@@ -7,7 +7,7 @@ import { parseAbi } from 'viem'
 import { writable, get } from 'svelte/store';
 
 /// @dev Ethereum mainnet & sepolia address of the collection
-const BUTTPLUGGY = '0x0000420538CD5AbfBC7Db219B6A1d125f5892Ab0';
+export const BUTTPLUGGY = '0x0000420538CD5AbfBC7Db219B6A1d125f5892Ab0';
 
 const abi = parseAbi([
     //  ^? const abi: readonly [{ name: "balanceOf"; type: "function"; stateMutability:...
