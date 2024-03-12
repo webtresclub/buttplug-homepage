@@ -1,10 +1,9 @@
 <script lang="ts">
 	import { BUTTPLUGGY } from '$lib/contracts';
-	import { Alchemy, Network } from 'alchemy-sdk';
+	import data from '$lib/data';
 	import { account, chainId, loadReady } from '$lib/store';
 
 	let nfts = [];
-	const ALCHEMY_API_KEY = import.meta.env.VITE_ALCHEMY_API_KEY;
 	let loading = true;
 
 	async function loadNfts() {
@@ -14,20 +13,9 @@
 		} catch (err) {
 			/* empty */
 		}
-
-		const graph_url = 'https://api.studio.thegraph.com/proxy/67825/buttpluggy/v0.0.4/';
 		
-		// const query = `query myQuery($owner: Bytes!){
-		// 			buttpluggyNfts(where: {owner: $owner}){
-		// 				id
-		// 				owner {
-		// 					id
-		// 				}
-		// 			}
-		// 		}`;
-
-		const query = `{
-					buttpluggyNfts{
+		const query = `query myQuery($owner: Bytes!){
+					buttpluggyNfts(where: {owner: $owner}){
 						id
 						owner {
 							id
@@ -36,12 +24,7 @@
 				}`;
 
 		const options = {
-			owner: $account
-		};
-
-		const settings = {
-			apiKey: ALCHEMY_API_KEY,
-			network: $chainId != 1 ? Network.ETH_SEPOLIA : Network.ETH_MAINNET
+			owner: $account.toLowerCase()
 		};
 
 		try {
@@ -56,20 +39,17 @@
 				})
 			});
 
-			const data = await response.json();
-			console.log({ data })
-			nfts = data.data.buttpluggyNfts;
-
-			// const alchemy = new Alchemy(settings);
-
-			// // Get the NFTs owned by the wallet
-			// const response = await alchemy.nft.getNftsForOwner($account, { excludeFilters: 'SPAM' });
-			// // Create a gallery of the NFTs
-			// nfts = response.ownedNfts.filter((nft) => {
-			// 	return nft.contract.address == BUTTPLUGGY;
-			// });
-
-			// localStorage.setItem('ntfs-' + $chainId + $account, JSON.stringify(nfts));
+			const responseData = await response.json();
+			console.log({ responseData })
+			
+			const ids = responseData.data.buttpluggyNfts.map((nft) => nft.id);
+			console.log({ ids })
+			for(let i=0;i<ids.length;i++){
+				nfts.push(data[ids[i]])
+			}
+			console.log({ nfts })
+			// nfts = responseData.data.buttpluggyNfts;
+			localStorage.setItem('ntfs-' + $chainId + $account, JSON.stringify(nfts));
 		} catch (err) {
 			alert('unexpected error');
 			console.error('err');
@@ -101,18 +81,18 @@
 	{:else}
 		<h3 class="mt-5">My Mainnet Buttpluggies Gallery</h3>
 		<div class="space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-12 md:space-y-0">
-			{#each nfts as nft (nft.id)}
+			{#each nfts as nft}
 				<div class="card mx-auto" >
+					{console.log(nft)}
 					<div class="card__image">
-						<!-- <a href="https://opensea.io/assets/ethereum/{BUTTPLUGGY}/{nft.tokenId}" target="_blank">
-							<img class="h-64 w-64 block" src={nft.image.cachedUrl} alt={nft.name} />
-						</a> -->
+						<!-- <a href="https://opensea.io/assets/ethereum/{BUTTPLUGGY}/{nft.id}" target="_blank"> -->
+							<img class="h-64 w-64 block" src={nft.image} alt={nft.name} />
+						<!-- </a> -->
 					</div>
 					<div class="card__content">
-						<!-- <h3>{nft.name}</h3> -->
-						<p>ID: {nft.id.slice(-4)}</p>
+						<h3>{nft.name}</h3>
+						<p>ID: {nft}</p>
 						<!-- <p>{nft.description}</p> -->
-						<!-- hay que agregarle al subgraph las propiedades de 'name' y e 'imageUrl' -->
 					</div>
 				</div>
 			{/each}
