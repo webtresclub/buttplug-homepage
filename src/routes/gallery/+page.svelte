@@ -40,15 +40,15 @@
 			});
 
 			const responseData = await response.json();
-			console.log({ responseData })
 			
 			const ids = responseData.data.buttpluggyNfts.map((nft) => nft.id);
-			console.log({ ids })
 			for(let i=0;i<ids.length;i++){
+				data[ids[i]].id = ids[i];
+				console.log(ids[i])
 				nfts.push(data[ids[i]])
 			}
-			console.log({ nfts })
-			// nfts = responseData.data.buttpluggyNfts;
+
+			localStorage.clear()
 			localStorage.setItem('ntfs-' + $chainId + $account, JSON.stringify(nfts));
 		} catch (err) {
 			alert('unexpected error');
@@ -83,15 +83,14 @@
 		<div class="space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-12 md:space-y-0">
 			{#each nfts as nft}
 				<div class="card mx-auto" >
-					{console.log(nft)}
 					<div class="card__image">
-						<!-- <a href="https://opensea.io/assets/ethereum/{BUTTPLUGGY}/{nft.id}" target="_blank"> -->
-							<img class="h-64 w-64 block" src={nft.image} alt={nft.name} />
+						<a href="https://opensea.io/assets/ethereum/{BUTTPLUGGY}/{nft.id}" target="_blank">
+							<img class="h-64 w-64 block" src="/images/{('00000'+nft.id).slice(-4)}.gif" alt={nft.name} />
 						<!-- </a> -->
 					</div>
 					<div class="card__content">
 						<h3>{nft.name}</h3>
-						<p>ID: {nft}</p>
+						<p>ID: {nft.id}</p>
 						<!-- <p>{nft.description}</p> -->
 					</div>
 				</div>
