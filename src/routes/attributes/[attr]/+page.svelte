@@ -1,10 +1,14 @@
 <script lang="ts">
 import Breadcrumbs from '$lib/Breadcrumbs.svelte';
 import {page} from '$app/stores';
-import slugify from 'slug';
+import shuffle from '$lib/shuffle.js'
 
 export let data;
 
+
+$:ids = [...shuffle(data.ids)];
+
+let hovered = 0;
 
 const attr = $page.params.attr;
 
@@ -23,9 +27,9 @@ const attr = $page.params.attr;
     <h1 class="text-4xl">{attr}</h1>
 
     <div class="flex flex-grow flex-wrap">
-      {#each data.ids as id}
-      <a href="/buttpluggy/{id}">
-        <img src="/images_small/{('00000'+id).slice(-4)}.png" alt="Buttpluggy {id}" class="p-1" width="64"/>
+      {#each ids as id}
+      <a href="/buttpluggy/{id}" on:mouseenter={() => {hovered = id}} on:mouseleave={() => {hovered = 0}}>
+        <img src="{(hovered == id) ? '/images/' : '/images_small/'}{('00000'+id).slice(-4) + ((hovered == id) ? '.gif' : '.png')}" alt="Buttpluggy {id}" class="p-1 h-16 w-16 block" />
       </a>
       {/each}
     </div>
