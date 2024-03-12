@@ -10,18 +10,18 @@
 		loading = true;
 		try {
 			nfts = JSON.parse(localStorage.getItem('ntfs-' + $chainId + $account) || '[]');
-			if(nfts.length > 0) {
+			if (nfts.length > 0) {
 				loading = false;
 				return;
 			}
 		} catch (err) {
 			/* empty */
 		}
-		
+
 		const query = `query myQuery($owner: Bytes!){
-					buttpluggyNfts(where: {owner: $owner}){
+					owners(where: {id: $owner}){
 						id
-						owner {
+						nfts {
 							id
 						}
 					}
@@ -44,11 +44,11 @@
 			});
 
 			const responseData = await response.json();
-			
-			const ids = responseData.data.buttpluggyNfts.map((nft) => nft.id);
-			for(let i=0;i<ids.length;i++){
+
+			const ids = responseData.data.owners[0].nfts.map((nft) => nft.id);
+			for (let i = 0; i < ids.length; i++) {
 				data[ids[i]].id = ids[i];
-				nfts.push(data[ids[i]])
+				nfts.push(data[ids[i]]);
 			}
 
 			localStorage.clear();
@@ -85,11 +85,16 @@
 		<h3 class="mt-5">My Mainnet Buttpluggies Gallery</h3>
 		<div class="space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-12 md:space-y-0">
 			{#each nfts as nft}
-				<div class="card mx-auto" >
+				<div class="card mx-auto">
 					<div class="card__image">
 						<a href="https://opensea.io/assets/ethereum/{BUTTPLUGGY}/{nft.id}" target="_blank">
-							<img class="h-64 w-64 block" src="/images/{('00000'+nft.id).slice(-4)}.gif" alt={nft.name} />
-						<!-- </a> -->
+							<img
+								class="h-64 w-64 block"
+								src="/images/{('00000' + nft.id).slice(-4)}.gif"
+								alt={nft.name}
+							/>
+							<!-- </a> -->
+						</a>
 					</div>
 					<div class="card__content">
 						<h3>{nft.name}</h3>
