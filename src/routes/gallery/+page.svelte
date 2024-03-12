@@ -1,7 +1,8 @@
 <script lang="ts">
 	import { BUTTPLUGGY } from '$lib/contracts';
-	import data from '$lib/data';
 	import { account, chainId, loadReady } from '$lib/store';
+	
+	const GRAPHQL_URL = 'https://api.studio.thegraph.com/proxy/67825/buttpluggy/v0.0.4/';
 
 	let nfts = [];
 	let loading = true;
@@ -12,7 +13,6 @@
 			nfts = JSON.parse(localStorage.getItem('ntfs-' + $chainId + $account) || '[]');
 			if (nfts.length > 0) {
 				loading = false;
-				return;
 			}
 		} catch (err) {
 			/* empty */
@@ -32,7 +32,7 @@
 		};
 
 		try {
-			const response = await fetch('/api', {
+			const response = await fetch(GRAPHQL_URL, {
 				method: 'POST',
 				headers: {
 					'content-type': 'application/json'
@@ -45,13 +45,10 @@
 
 			const responseData = await response.json();
 
-			const ids = responseData.data.owners[0].nfts.map((nft) => nft.id);
-			for (let i = 0; i < ids.length; i++) {
-				data[ids[i]].id = ids[i];
-				nfts.push(data[ids[i]]);
+			if (responseData.data.owners.length > 0) {
+				nfts = responseData.data.owners[0].nfts.map((nft) => nft.id);
 			}
-
-			localStorage.clear();
+			
 			localStorage.setItem('ntfs-' + $chainId + $account, JSON.stringify(nfts));
 		} catch (err) {
 			alert('unexpected error');
@@ -84,21 +81,19 @@
 	{:else}
 		<h3 class="mt-5">My Mainnet Buttpluggies Gallery</h3>
 		<div class="space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-12 md:space-y-0">
-			{#each nfts as nft}
+			{#each nfts as nftId}
 				<div class="card mx-auto">
 					<div class="card__image">
-						<a href="https://opensea.io/assets/ethereum/{BUTTPLUGGY}/{nft.id}" target="_blank">
+						<a href="https://opensea.io/assets/ethereum/{BUTTPLUGGY}/{nftId}" target="_blank">
 							<img
 								class="h-64 w-64 block"
-								src="/images/{('00000' + nft.id).slice(-4)}.gif"
-								alt={nft.name}
+								src="/images/{('00000' + nftId).slice(-4)}.gif"
 							/>
 							<!-- </a> -->
 						</a>
 					</div>
 					<div class="card__content">
-						<h3>{nft.name}</h3>
-						<p>ID: {nft.id}</p>
+						<h3>Buttpluggy #{nftId}</h3>
 						<!-- <p>{nft.description}</p> -->
 					</div>
 				</div>
