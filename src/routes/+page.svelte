@@ -86,8 +86,10 @@ $: if ($account && $loadReady) {
                 {/if}
 
                 <div class="flex items-center">   
-                    <a href="/mine" role="button">Mine your Buttpluggy</a> <br />
+                    <a href="/mine" role="button">Mine your Buttpluggy</a>
                     <a href="/claim" class="ml-2" class:opacity-50={!canClaim} class:cursor-not-allowed={!canClaim} role="button">Claim</a>
+                    <a href="/gallery" class="ml-2" role="button">Your Buttpluggies</a>
+                    <a href="/attributes" class="ml-2" role="button">Gallery</a>
                 </div>
             {/if}
         </div>
