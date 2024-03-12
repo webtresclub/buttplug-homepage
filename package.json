@@ -31,6 +31,7 @@
     "@sveltejs/vite-plugin-svelte": "^3.0.2",
     "@wagmi/connectors": "^4.1.14",
     "@web3modal/wagmi": "^4.0.11",
+    "phaser": "^3.80.1",
     "slug": "^9.0.0",
     "viem": "^2.7.16"
   },
