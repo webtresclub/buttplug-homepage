@@ -10,6 +10,10 @@
 		loading = true;
 		try {
 			nfts = JSON.parse(localStorage.getItem('ntfs-' + $chainId + $account) || '[]');
+			if(nfts.length > 0) {
+				loading = false;
+				return;
+			}
 		} catch (err) {
 			/* empty */
 		}
@@ -44,11 +48,10 @@
 			const ids = responseData.data.buttpluggyNfts.map((nft) => nft.id);
 			for(let i=0;i<ids.length;i++){
 				data[ids[i]].id = ids[i];
-				console.log(ids[i])
 				nfts.push(data[ids[i]])
 			}
 
-			localStorage.clear()
+			localStorage.clear();
 			localStorage.setItem('ntfs-' + $chainId + $account, JSON.stringify(nfts));
 		} catch (err) {
 			alert('unexpected error');
