@@ -8,7 +8,7 @@
 
 
 	let globalStatus = 'idle';
-  let workers = [];
+  	let workers = [];
 	let results = [];
 
 	let totalCores = 1;
@@ -180,6 +180,34 @@
 		results = [...results];
 	}
 </script>
+
+<svelte:head>
+	<!-- HTML Meta Tags -->
+	<title>Mine yout Buttplugy</title>
+	<meta name="description" content="Explore Buttplug NFTs, a unique collection of 1,024 oscilloscope visuals on Ethereum, crafted by the Webtr3s community. Mine yours today!">
+
+	<!-- Facebook Meta Tags -->
+	<meta property="og:url" content="https://www.buttpluggy.com/mine">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="Buttplugs, a Huff powered NFT pixel art collection">
+	<meta property="og:description" content="Explore Buttplug NFTs, a unique collection of 1,024 oscilloscope visuals on Ethereum, crafted by the Webtr3s community. Mine yours today!">
+	<!--
+	You can generate this image URL dynamically: https://ogcdn.net/e4b8c678-7bd5-445d-ba03-bfaad510c686/v3/{site_text}/{title_text}/{image_url}/og.png
+	Replace the variables in the brackets with your own values and use this URL in the image tag below this comment. Ensure values are URL encoded.
+	For more information, read: https://www.opengraph.xyz/blog/how-to-implement-dynamic-open-graph-images
+	-->
+	<meta property="og:image" content="https://ogcdn.net/e4b8c678-7bd5-445d-ba03-bfaad510c686/v3/buttpluggy.com/Buttplugs%2C%20a%20Huff%20powered%20NFT%20collection/https%3A%2F%2Fopengraph.b-cdn.net%2Fproduction%2Fdocuments%2F987f816e-a24f-4e2d-affa-8c4fed634f39.png%3Ftoken%3D8J3BbdhXhFu2Y5rAHyj5GnRZsks-yyeeFluAFll4JLM%26height%3D1200%26width%3D1200%26expires%3D33247040340/og.png">
+
+	<!-- Twitter Meta Tags -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta property="twitter:domain" content="buttpluggy.com">
+	<meta property="twitter:url" content="https://www.buttpluggy.com/mine">
+	<meta name="twitter:title" content="Buttplugs, a Huff powered NFT pixel art collection">
+	<meta name="twitter:description" content="Explore Buttplug NFTs, a unique collection of 1,024 oscilloscope visuals on Ethereum, crafted by the Webtr3s community. Mine yours today!">
+	<meta name="twitter:image" content="https://ogcdn.net/e4b8c678-7bd5-445d-ba03-bfaad510c686/v3/buttpluggy.com/Buttplugs%2C%20a%20Huff%20powered%20NFT%20collection/https%3A%2F%2Fopengraph.b-cdn.net%2Fproduction%2Fdocuments%2F987f816e-a24f-4e2d-affa-8c4fed634f39.png%3Ftoken%3D8J3BbdhXhFu2Y5rAHyj5GnRZsks-yyeeFluAFll4JLM%26height%3D1200%26width%3D1200%26expires%3D33247040340/og.png">
+
+	<!-- Meta Tags Generated via https://www.opengraph.xyz -->
+</svelte:head>
 
 <main class="container">
 	<article class="bg-gray-900">
