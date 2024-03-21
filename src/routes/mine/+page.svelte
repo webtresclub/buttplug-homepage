@@ -214,7 +214,7 @@
 	<meta name="fc:frame:button:1" content="Mine your Buttpluggy NFT">
 	<meta name="fc:frame:button:1:action" content="post">
 	<meta name="fc:frame:image:aspect_ratio" content="1:1">
-	<meta name="fc:frame:post_url" content="https://buttpluggy.com/api/frame-redir">
+	<meta name="fc:frame:post_redirect" content="https://buttpluggy.com/api/frame-redir">
 </svelte:head>
 
 <main class="container">
