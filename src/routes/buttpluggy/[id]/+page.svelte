@@ -17,7 +17,7 @@ const id = $page.params.id;
 	<meta name="description" content="{data.buttplug.description}">
 
 	<!-- Facebook Meta Tags -->
-	<meta property="og:url" content="https://www.buttpluggy.com/mine">
+	<meta property="og:url" content="https://www.buttpluggy.com/buttpluggy/{id}">
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="Buttpluggy #{id} - {data.buttplug.name}">
 	<meta property="og:description" content="{data.buttplug.description}">
@@ -26,15 +26,15 @@ const id = $page.params.id;
 	Replace the variables in the brackets with your own values and use this URL in the image tag below this comment. Ensure values are URL encoded.
 	For more information, read: https://www.opengraph.xyz/blog/how-to-implement-dynamic-open-graph-images
 	-->
-	<meta property="og:image" content="/images_small/{('00000'+id).slice(-4)}.png">
+	<meta property="og:image" content="https://www.buttpluggy.com/images_small/{('00000'+id).slice(-4)}.png">
 
 	<!-- Twitter Meta Tags -->
 	<meta name="twitter:card" content="summary_large_image">
 	<meta property="twitter:domain" content="buttpluggy.com">
-	<meta property="twitter:url" content="https://www.buttpluggy.com/mine">
+	<meta property="twitter:url" content="https://www.buttpluggy.com/buttpluggy/{id}">
 	<meta name="twitter:title" content="Buttpluggy #{id} - {data.buttplug.name}">
 	<meta name="twitter:description" content="{data.buttplug.description}">
-	<meta name="twitter:image" content="/images_small/{('00000'+id).slice(-4)}.png">
+	<meta name="twitter:image" content="https://www.buttpluggy.com/images_small/{('00000'+id).slice(-4)}.png">
 
 	<!-- Meta Tags Generated via https://www.opengraph.xyz -->
 </svelte:head>
