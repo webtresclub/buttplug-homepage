@@ -207,6 +207,14 @@
 	<meta name="twitter:image" content="https://ogcdn.net/e4b8c678-7bd5-445d-ba03-bfaad510c686/v3/buttpluggy.com/Buttplugs%2C%20a%20Huff%20powered%20NFT%20collection/https%3A%2F%2Fopengraph.b-cdn.net%2Fproduction%2Fdocuments%2F987f816e-a24f-4e2d-affa-8c4fed634f39.png%3Ftoken%3D8J3BbdhXhFu2Y5rAHyj5GnRZsks-yyeeFluAFll4JLM%26height%3D1200%26width%3D1200%26expires%3D33247040340/og.png">
 
 	<!-- Meta Tags Generated via https://www.opengraph.xyz -->
+
+	<meta name="fc:frame" content="vNext">
+	<meta name="og:image" content="https://buttpluggy.com/main.png">
+	<meta name="fc:frame:image" content="https://buttpluggy.com/main.png">
+	<meta name="fc:frame:button:1" content="Mine your Buttpluggy NFT">
+	<meta name="fc:frame:button:1:action" content="post">
+	<meta name="fc:frame:image:aspect_ratio" content="1:1">
+	<meta name="fc:frame:post_url" content="https://buttpluggy.com/mine">
 </svelte:head>
 
 <main class="container">
