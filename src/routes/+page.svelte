@@ -72,48 +72,69 @@
 	}
 </script>
 
-<div class="hero" data-theme="dark">
-	<div class="text-justify p-8 mx-auto max-w-4xl">
-		<p class="text-lg mb-6">
-			<span class="font-semibold">1024</span> unique collectible oscilloscope visuals with proof of
-			ownership preserved on the Ethereum blockchain. Presented by the <b>WebtrES</b> community, the
-			Buttpluggy (huffplug) project is a trailblazer in the next chapter of CryptoArt evolution.
-		</p>
-		<p class="text-lg mb-6">
-			As one of the pioneering projects utilizing the <span class="font-semibold">Huff</span>
-			programming language, Buttpluggy stand as a testament to innovation and craftsmanship in the world
-			of "Non-Fungible Tokens". Meticulously designed with the
-			<span class="font-semibold">Huffmate</span>
-			libraries, these tokens represent a fusion of artistry and technical prowess.
-		</p>
-		<p class="text-lg mb-6">
-			Since their inception by the Spanish-speaking hacker collective, Buttpluggy have garnered
-			attention and admiration. Paying homage to the traditions set by iconic predecessors like
-			CryptoPunks, while also setting new standards and benchmarks, they are a must-have in any
-			digital art enthusiast's collection.
-		</p>
-		<p class="text-lg">
-			Join us in this journey as we redefine the boundaries of art and technology, one Buttpluggy at
-			a time.
-		</p>
-		<div>
-			{#if !$loadReady}
-				<!-- <p>Loading wallect connect...</p>-->
-			{:else if !$account}
-				<p>First connect your wallet</p>
-				<button
-					on:click={() => {
-						$modal.open();
-					}}
-					class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900"
-					>Connect</button
-				>
-			{:else}
-				{#if userOnMerkle && canClaim}
-					<span class="text-xl font-bold">
-						Congratulations, you are in the merkle tree and can mint without mining:
-					</span><br />
-				{/if}
+    <svelte:head>
+        <!-- HTML Meta Tags -->
+        <title>Buttplugs, a Huff powered NFT pixel art collection</title>
+        <meta name="description" content="Explore Buttplug NFTs, a unique collection of 1,024 oscilloscope visuals on Ethereum, crafted by the Webtr3s community. Mine yours today!">
+
+        <!-- Facebook Meta Tags -->
+        <meta property="og:url" content="https://www.buttpluggy.com/">
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="Buttplugs, a Huff powered NFT pixel art collection">
+        <meta property="og:description" content="Explore Buttplug NFTs, a unique collection of 1,024 oscilloscope visuals on Ethereum, crafted by the Webtr3s community. Mine yours today!">
+        <!--
+        You can generate this image URL dynamically: https://ogcdn.net/e4b8c678-7bd5-445d-ba03-bfaad510c686/v3/{site_text}/{title_text}/{image_url}/og.png
+        Replace the variables in the brackets with your own values and use this URL in the image tag below this comment. Ensure values are URL encoded.
+        For more information, read: https://www.opengraph.xyz/blog/how-to-implement-dynamic-open-graph-images
+        -->
+        <meta property="og:image" content="https://ogcdn.net/e4b8c678-7bd5-445d-ba03-bfaad510c686/v3/buttpluggy.com/Buttplugs%2C%20a%20Huff%20powered%20NFT%20collection/https%3A%2F%2Fopengraph.b-cdn.net%2Fproduction%2Fdocuments%2F987f816e-a24f-4e2d-affa-8c4fed634f39.png%3Ftoken%3D8J3BbdhXhFu2Y5rAHyj5GnRZsks-yyeeFluAFll4JLM%26height%3D1200%26width%3D1200%26expires%3D33247040340/og.png">
+
+        <!-- Twitter Meta Tags -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta property="twitter:domain" content="buttpluggy.com">
+        <meta property="twitter:url" content="https://www.buttpluggy.com/">
+        <meta name="twitter:title" content="Buttplugs, a Huff powered NFT pixel art collection">
+        <meta name="twitter:description" content="Explore Buttplug NFTs, a unique collection of 1,024 oscilloscope visuals on Ethereum, crafted by the Webtr3s community. Mine yours today!">
+        <meta name="twitter:image" content="https://ogcdn.net/e4b8c678-7bd5-445d-ba03-bfaad510c686/v3/buttpluggy.com/Buttplugs%2C%20a%20Huff%20powered%20NFT%20collection/https%3A%2F%2Fopengraph.b-cdn.net%2Fproduction%2Fdocuments%2F987f816e-a24f-4e2d-affa-8c4fed634f39.png%3Ftoken%3D8J3BbdhXhFu2Y5rAHyj5GnRZsks-yyeeFluAFll4JLM%26height%3D1200%26width%3D1200%26expires%3D33247040340/og.png">
+
+        <!-- Meta Tags Generated via https://www.opengraph.xyz -->
+    </svelte:head>
+
+    <div class="hero" data-theme="dark">
+        <div class="text-justify p-8 mx-auto max-w-4xl">
+            <p class="text-lg mb-6">
+                <span class="font-semibold">1024</span> unique collectible oscilloscope visuals with proof of 
+                ownership preserved on the Ethereum blockchain. Presented by the <b>WebtrES</b> community, the 
+                Buttpluggy (huffplug) project is a trailblazer in the next chapter of CryptoArt evolution. 
+            </p>
+            <p class="text-lg mb-6">
+            As one of the pioneering projects utilizing the <span class="font-semibold">Huff</span> programming 
+            language, Buttpluggy stand as a testament to innovation and craftsmanship in the world of 
+            "Non-Fungible Tokens". Meticulously designed with the <span class="font-semibold">Huffmate</span> 
+            libraries, these tokens represent a fusion of artistry and technical prowess. 
+            </p>
+            <p class="text-lg mb-6">
+            Since their inception by the Spanish-speaking hacker collective, Buttpluggy have garnered attention 
+            and admiration. Paying homage to the traditions set by iconic predecessors like CryptoPunks, while 
+            also setting new standards and benchmarks, they are a must-have in any digital art enthusiast's 
+            collection.
+            </p>
+            <p class="text-lg">
+            Join us in this journey as we redefine the boundaries of art and technology, one Buttpluggy at a time.
+            </p>
+            <div>
+            {#if !$loadReady}
+                <!-- <p>Loading wallect connect...</p>-->
+            {:else if !$account}
+                <p>First connect your wallet</p>
+                <button on:click={() => { $modal.open() }}
+				class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">Connect</button>
+            {:else}
+                {#if userOnMerkle && canClaim}
+                    <span class="text-xl font-bold">
+                        Congratulations, you are in the merkle tree and can mint without mining:
+                    </span><br />
+                {/if}
 
 				<div class="flex items-center">
 					<a href="/mine" role="button">Mine your Buttpluggy</a>
