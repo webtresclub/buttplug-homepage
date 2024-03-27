@@ -9,7 +9,7 @@
 	import { onMount } from 'svelte';
 
 	let userOnMerkle = false;
-	let randomIds = [];
+	let idsArr = [];
 	let lastIds = [];
 	let traits = {};
 
@@ -47,19 +47,14 @@
 
 			const responseData = await response.json();
 			lastIds = responseData.data.buttpluggyNfts.map((nft) => [nft.id, nft.owner.id]);
+
+			idsArr = lastIds.map((id) => id[0]);
+			traits = await fetchData(JSON.stringify(idsArr));
 		} catch (e) {
 			alert('Unexpected error');
 			console.error({ e });
 		}
 	};
-
-	onMount(async () => {
-		for (let i = 0; i < 6; i++) {
-			randomIds.push(Math.floor(Math.random() * 1024) + 1);
-		}
-		randomIds = [...new Set(randomIds)];
-		traits = await fetchData(JSON.stringify(randomIds));
-	});
 
 	let canClaim = false;
 	$: if ($loadReady) {
