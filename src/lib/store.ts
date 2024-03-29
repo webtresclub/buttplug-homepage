@@ -25,7 +25,7 @@ export function initWeb3() {
   const metadata = {
     name: 'Buttpluggy',
     description: 'Buttpluggy',
-    url: 'https://buttplug-homepage.vercel.app/', // origin must match your domain & subdomain
+    url: 'https://buttpluggy.com/', // origin must match your domain & subdomain
     icons: ['https://avatars.githubusercontent.com/u/37784886']
   }
 
