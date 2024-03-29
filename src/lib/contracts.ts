@@ -16,8 +16,9 @@ const abi = parseAbi([
 
     'function mint(uint256 nonce) external',
     'function mintWithMerkle(bytes32[] calldata proofs) external',
-    'function currentDifficulty() public view returns (uint256)',
-    'function salt() public view returns (bytes32)',
+    'function currentDifficulty() external view returns (uint256)',
+    'function salt() external view returns (bytes32)',
+    'function ownerOf(uint256 tokenId) external view returns (address)',
     'event Transfer(address indexed from, address indexed to, uint256 value)',
     'error ErrUnauthorized()',
     'error ErrUnsafeRecipient()',
@@ -33,6 +34,18 @@ export async function haveClaimButtplug(user: `0x${string}`) {
         abi,
         functionName: 'claimed',
         args: [user],
+        blockTag: 'safe',
+    });
+    
+    return data;
+}
+
+export async function ownerOf(buttpluggy) {
+    const data = await readContract(get(config), {
+        address: BUTTPLUGGY,
+        abi,
+        functionName: 'ownerOf',
+        args: [buttpluggy],
         blockTag: 'safe',
     });
     
