@@ -9,3 +9,6 @@ node_modules
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 /rust-service-worker/target
+*/target/wasm32-unknown-unknown/*
+*/target/release/*
+*/target/debug/*
