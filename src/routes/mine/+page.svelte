@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { currentDifficultyAndSalt, totalMinted, difficulty, salt, mint } from '$lib/contracts';
+	import { currentDifficultyAndSalt, totalMinted, difficulty, salt, mint, ownerOf } from '$lib/contracts';
 	import { loadReady, modal, account } from '$lib/store';
 	import { keccak256, encodePacked } from 'viem';
 	import { onMount } from 'svelte';
@@ -53,7 +53,7 @@
 		coresSelected = Math.ceil(totalCores / 2);
 	});
 
-	function useNonce() {
+	async function useNonce() {
 		const _nonce = prompt('Enter the nonce (hexa or number) to mint the buttplug:');
 		if (_nonce) {
 			const nonce = BigInt(_nonce);
@@ -71,11 +71,16 @@
 				);
 				return;
 			}
+
+			const buttpluggyId = (hashNumber % 1024n) + 1n;
+			const owner = await ownerOf(buttpluggyId);
+						
 			// @todo CHECK THAT THE BUTTPLUGGY IS NOT ALREADY MINTED
 			globalStatus = 'idle';
 			results.push({
 				nonce,
-				buttplug: (hashNumber % 1024n) + 1n
+				buttplug: buttpluggyId,
+				owner
 			});
 
 			results = [...results];
@@ -146,10 +151,12 @@
 
 				workers[i].start = workers[i].start || Date.now();
 
-				worker.onmessage = function (event) {
+				worker.onmessage = async function (event) {
 					if (event.data.results.nonce) {
 						console.log('Worker' + i, event.data.results);
-						foundNonce(event.data.results);
+						const buttpluggyId = (BigInt('0x' + event.data.results.hash) % 1024n) + 1n;
+						const owner = await ownerOf(buttpluggyId);
+						foundNonce(event.data.results, owner);
 						doStop();
 						clearInterval(intervalCount);
 						return;
@@ -179,17 +186,17 @@
 		workers = [...workers];
 	}
 
-	function foundNonce({ nonce, hash }) {
+	function foundNonce({ nonce, hash }, owner) {
 		console.log('Found nonce', nonce, hash);
 		nonce = BigInt('0x' + nonce);
 		hash = BigInt('0x' + hash);
 		console.log(hash, (hash % 1024n) + 1n);
 
-		// @todo CHECK THAT THE BUTTPLUG IS NOT ALREADY MINTED
 		doStop();
 		results.push({
 			nonce,
-			buttplug: (hash % 1024n) + 1n
+			buttplug: (hash % 1024n) + 1n,
+			owner
 		});
 		results = [...results];
 	}
@@ -271,11 +278,8 @@
 			<div class="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">
 				{#if !$account}
 					<p>First connect your wallet</p>
-					<button
-						on:click={() => {
-							$modal.open();
-						}}
-						class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900"
+					<button on:click={() => { $modal.open(); }}
+						class="blue-connect-btn"
 					>
 						Connect
 					</button>
@@ -356,28 +360,42 @@
 		{#each results as data}
 			<div class="font-mono">
 				Buttpluggy id: {data.buttplug} - Nonce: {data.nonce}
+			</div>
+			<div class="w-52">
 				<img
 					src="/images/{('0000' + data.buttplug).slice(-4)}.gif"
 					class="w-52 h-52"
 					alt="Buttplug {data.buttplug}"
 				/>
-			</div>
-			<button
-				class="btn"
-				on:click={() => {
-					mintButtplug(data.nonce);
-				}}>Mint Buttpluggy #{data.buttplug}</button
-			>
+				<button
+					disabled={data.owner != '0x0000000000000000000000000000000000000000'}
+					class="rounded-b-lg w-52 bg-blue-500 text-white p-2 text-center cursor-pointer select-none"
+					on:click={() => {
+						mintButtplug(data.nonce);
+					}}>Mint Buttpluggy #{data.buttplug}</button> 
+				</div>
+			{#if data.owner != '0x0000000000000000000000000000000000000000'}
+				<p class >Already minted by {data.owner}</p>
+			{/if}
 			<hr />
 		{/each}
 	</article>
 </main>
 
-<style>
+<style lang="postcss">
 	.core-button {
 		@apply rounded border border-slate-500 w-6 h-6 text-center mx-1 cursor-pointer select-none;
 	}
 	.core-button:hover {
 		@apply bg-slate-500 text-white;
 	}
+	.blue-connect-btn {
+		@apply inline-flex justify-center items-center py-3 px-5 
+		text-base font-medium text-center text-white rounded-lg 
+		bg-blue-700;
+	}
+	.blue-connect-btn:hover { @apply bg-blue-800; }
+	.blue-connect-btn:focus { @apply ring-4 ring-blue-300; }
+	.blue-connect-btn:dark:focus { @apply ring-blue-900; }
+
 </style>
