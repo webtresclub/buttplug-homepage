@@ -33,6 +33,7 @@ export function initWeb3() {
     chains: [mainnet, sepolia], // required
     projectId, // required
     metadata, // required
+    ssr:false,
     // transports: ['http', 'ws'], // Optional - defaults to ['http', 'ws']
     // ...wagmiOptions // Optional - Override createConfig parameters
   })
