@@ -48,9 +48,17 @@
 		currentDifficultyAndSalt();
 	}
 
-	onMount(async () => {
+	onMount(() => {
 		totalCores = navigator.hardwareConcurrency;
 		coresSelected = Math.ceil(totalCores / 2);
+
+		const reloadInterval = setInterval(() => {
+			currentDifficultyAndSalt();
+		}, 1000 * 60); // every minute just in case
+
+		return () => {
+			clearInterval(reloadInterval);
+		};
 	});
 
 	async function useNonce() {
