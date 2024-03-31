@@ -30,17 +30,17 @@
 		expectedTime = Math.pow(16, Number($difficulty)) / Math.floor(totalSpeed);
 	}
 
-	function secondsToDayHMS(d) {
-		d = Number(d);
-		var days = Math.floor(d / 86400);
-		var h = Math.floor((d % 86400) / 3600);
-		var m = Math.floor(((d % 86400) % 3600) / 60);
-		var s = Math.floor(((d % 86400) % 3600) % 60);
+	function secondsToDayHMS(_d) {
+		const d = Number(_d);
+		const days = Math.floor(d / 86400);
+		const h = Math.floor((d % 86400) / 3600);
+		const m = Math.floor(((d % 86400) % 3600) / 60);
+		const s = Math.floor(((d % 86400) % 3600) % 60);
 
-		var dDisplay = days > 0 ? days + (days == 1 ? ' day, ' : ' days, ') : '';
-		var hDisplay = h > 0 ? h + (h == 1 ? ' hour, ' : ' hours, ') : '';
-		var mDisplay = m > 0 ? m + (m == 1 ? ' minute, ' : ' minutes, ') : '';
-		var sDisplay = s > 0 ? s + (s == 1 ? ' second' : ' seconds') : '';
+		const dDisplay = days > 0 ? days + (days == 1 ? ' day, ' : ' days, ') : '';
+		const hDisplay = h > 0 ? h + (h == 1 ? ' hour, ' : ' hours, ') : '';
+		const mDisplay = m > 0 ? m + (m == 1 ? ' minute, ' : ' minutes, ') : '';
+		const sDisplay = s > 0 ? s + (s == 1 ? ' second' : ' seconds') : '';
 		return dDisplay + hDisplay + mDisplay + sDisplay;
 	}
 
