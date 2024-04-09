@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { currentDifficultyAndSalt, totalMinted, difficulty, salt, mint, ownerOf } from '$lib/contracts';
+	import { chainTimestamp, getTimestamp, currentDifficultyAndSalt, totalMinted, difficulty, salt, mint, ownerOf } from '$lib/contracts';
 	import { loadReady, modal, account } from '$lib/store';
 	import { keccak256, encodePacked } from 'viem';
 	import { onMount } from 'svelte';
@@ -22,8 +22,12 @@
 
 	let globalStart;
 	let globalElapsed;
-
-	let intervalCount;
+	let deltaChange
+	
+	$: if($totalMinted && $chainTimestamp && $difficulty ) {
+		const changeDate = ($totalMinted - ($difficulty - 5n) * ($difficulty - 5n)) * 86400n + 1708108000n;	
+		deltaChange = Number(changeDate) - Number($chainTimestamp);
+	}
 
 	$: if (workers.length > 0 && workers[0].hashPerSecond > 0 && $difficulty > 0) {
 		totalSpeed = workers.reduce((total, w) => total + w.hashPerSecond, 0);
@@ -46,9 +50,11 @@
 
 	$: if ($loadReady) {
 		currentDifficultyAndSalt();
+		getTimestamp();
 	}
 
 	onMount(() => {
+		
 		totalCores = navigator.hardwareConcurrency;
 		coresSelected = Math.ceil(totalCores / 2);
 
@@ -56,8 +62,13 @@
 			currentDifficultyAndSalt();
 		}, 1000 * 60); // every minute just in case
 
+		const intervalTimestamp = setInterval(() => {
+			if($chainTimestamp && $chainTimestamp > 0n) $chainTimestamp = $chainTimestamp + 1n;
+		}, 1000); // every 5 minutes
+		
 		return () => {
 			clearInterval(reloadInterval);
+			clearInterval(intervalTimestamp);
 		};
 	});
 
@@ -296,8 +307,15 @@
 			<hr />
 			{#if $account}
 				<div class="mt-6 p-4 mx-auto text-left font-mono">
+					{#if deltaChange > 0 }
+					<span class="text-red-500">
+							Difficulty decrease in: {secondsToDayHMS(parseInt(deltaChange))}
+					</span>
+					<br />						
+					{/if}
 					Total Minted: {$totalMinted}/1024<br />
 					User wallet: {$account}<br />
+					
 					Current difficulty: {$difficulty}<br />
 					Current salt: {$salt}<br />
 					<!-- Min 1 worker Max cores.length-->

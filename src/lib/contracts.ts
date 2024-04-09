@@ -13,7 +13,6 @@ const abi = parseAbi([
     //  ^? const abi: readonly [{ name: "balanceOf"; type: "function"; stateMutability:...
     'function claimed(address user) view returns (bool)',
     'function totalMinted() external view returns (uint256)',
-
     'function mint(uint256 nonce) external',
     'function mintWithMerkle(bytes32[] calldata proofs) external',
     'function currentDifficulty() external view returns (uint256)',
@@ -77,6 +76,7 @@ export async function mint(nonce) {
 export const difficulty = writable();
 export const salt = writable();
 export const totalMinted = writable();
+export const chainTimestamp = writable();
 
 export async function currentDifficultyAndSalt() {   
     const _config = get(config);
@@ -109,4 +109,23 @@ export async function currentDifficultyAndSalt() {
     });
     
     return unwatch;
+}
+
+// use multicall to get current timestamp
+export async function getTimestamp() {   
+    const data = await readContract(get(config), {
+        address: '0xeefBa1e63905eF1D7ACbA5a8513c70307C1cE441', // makerdao multicall
+        abi: [{
+            inputs: [],
+            name: "getCurrentBlockTimestamp",
+            outputs: [{ name: "", type: "uint256" }],
+            stateMutability: "view",
+            type: "function",
+        }],
+        functionName: 'getCurrentBlockTimestamp',
+        args: [],
+    });
+
+    chainTimestamp.set(data);
+    
 }
