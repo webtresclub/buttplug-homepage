@@ -22,7 +22,8 @@
 
 	let globalStart;
 	let globalElapsed;
-	let deltaChange
+	let deltaChange;
+	let intervalCount;
 	
 	$: if($totalMinted && $chainTimestamp && $difficulty ) {
 		const changeDate = ($totalMinted - ($difficulty - 5n) * ($difficulty - 5n)) * 86400n + 1708108000n;	
