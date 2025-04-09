@@ -36,15 +36,15 @@
 					<img src="/favicon.gif" alt="Buttpluggy" class="mr-1" />
 				</div>
 				<hgroup class="m-0">
-					<h1 class="text-2xl"><a href="/" class="text-white">Buttplugs <small class="text-xs">(UwU)</small></a></h1>
+					<h1 class="text-2xl"><a href="/">Buttplugs <small class="text-xs">(UwU)</small></a></h1>
 					<p class="hidden lg:inline"><span class="text-sm">A Huff NFT collection</span></p>
 				</hgroup>
 			</div>
 			<nav>
 				<ul class="text-xs lg:text-sm" style="list-style: none">
-					<li><a href="/mine"><span class="hidden lg:inline text-white">🌱 </span>Mint</a></li>
+					<li><a href="/mine"><span class="hidden lg:inline">🌱 </span>Mint</a></li>
 					<li class="hidden lg:inline">
-						<a href="https://opensea.io/collection/buttpluggy" class="text-white!important" target="_blank">🌊 OpenSea</a>
+						<a href="https://opensea.io/collection/buttpluggy" target="_blank">🌊 OpenSea</a>
 					</li>
 					<li class="hidden md:inline">
 						<a href="https://github.com/webtresclub/huffplug/tree/main/src" target="_blank">
@@ -177,8 +177,10 @@
 
 <style>
 	@reference "../app.css";
-	a:hover {
-		@apply underline text-slate-100;
+
+	:root {
+		--pico-primary: #ffffffd0;
+		--pico-primary-hover: #fff;
 	}
 
 	footer .container section:first-of-type {
