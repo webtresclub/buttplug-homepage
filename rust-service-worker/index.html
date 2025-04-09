@@ -1,74 +1,67 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<title>WASM hasher</title>
+		<script>
+			let globalStatus = 'idle';
+			let workers = [];
 
-<head>
-  <meta charset="UTF-8">
-  <title>WASM hasher</title>
-  <script>
+			function terminateWorkers() {
+				workers.forEach((w) => {
+					w.terminate();
+				});
+				workers = [];
+			}
 
-    let globalStatus = 'idle';
-    let workers = [];
+			function mine(selectedCores) {
+				terminateWorkers();
+				globalStatus = 'mine';
+				const cores = Math.min(selectedCores, Math.min(navigator.hardwareConcurrency, 20));
 
-    function terminateWorkers() {
-      workers.forEach(w => {
-        w.terminate();
-      });
-      workers = [];
-    }
+				let workers = [];
+				for (let i = 0; i < cores; i++) {
+					const worker = new Worker('worker.js', { type: 'module' });
+					workers[i] = { worker: worker, status: 'init', start: 0, end: 0, hashPerSecond: 0 };
 
-    function mine(selectedCores) {
-      terminateWorkers();
-      globalStatus = 'mine'
-      const cores = Math.min(selectedCores, Math.min(navigator.hardwareConcurrency, 20));
+					let time;
 
-      let workers = [];
-      for (let i = 0; i < cores; i++) {
-        const worker = new Worker('worker.js', { type: 'module' });
-        workers[i] = {worker: worker, status: 'init', start: 0, end: 0, hashPerSecond: 0};
+					worker.onmessage = function (event) {
+						// console.log('Worker' + i, event.data.status);
+						workers[i].status = event.data.status;
 
-        let time;
+						workers[i].start = Date.now();
 
-        worker.onmessage = function(event) {
-          // console.log('Worker' + i, event.data.status);
-          workers[i].status = event.data.status;
+						worker.onmessage = function (event) {
+							if (event.data.results.nonce) {
+								console.log('Worker' + i, event.data.results);
+								terminateWorkers();
+							}
+							workers[i].hashPerSecond = Math.floor(
+								1000000 / ((Date.now() - workers[i].start) / 1000)
+							);
+							workers[i].start = Date.now();
+							console.log('Worker' + i + ', hash/sec:', workers[i].hashPerSecond);
+							workers[i].end = 0;
 
-          workers[i].start = Date.now();
+							// loop
+							worker.postMessage({
+								wallet: '6CA6d1e2D5347Bfab1d91e883F1915560e09129D',
+								salt: '851e34d5f1de39b1758b00f0040ae4ab4f3bc8c5631b4a8463144022de2cf428',
+								difficulty: 9
+							});
+						};
 
-          worker.onmessage = function(event) {
-            if (event.data.results.nonce) {
-              console.log('Worker' + i, event.data.results);
-              terminateWorkers();
-            }
-            workers[i].hashPerSecond = Math.floor(1000000 / ((Date.now() - workers[i].start) / 1000))
-            workers[i].start = Date.now();
-            console.log("Worker"+i+", hash/sec:", workers[i].hashPerSecond);
-            workers[i].end = 0;
+						worker.postMessage({
+							wallet: '6CA6d1e2D5347Bfab1d91e883F1915560e09129D',
+							salt: '851e34d5f1de39b1758b00f0040ae4ab4f3bc8c5631b4a8463144022de2cf428',
+							difficulty: 9
+						});
+					};
+				}
+				workers = [...workers];
 
-            // loop
-            worker.postMessage({
-              wallet: "6CA6d1e2D5347Bfab1d91e883F1915560e09129D",
-              salt: "851e34d5f1de39b1758b00f0040ae4ab4f3bc8c5631b4a8463144022de2cf428",
-              difficulty: 9
-            });
-
-          }
-
-          worker.postMessage({
-            wallet: "6CA6d1e2D5347Bfab1d91e883F1915560e09129D",
-            salt: "851e34d5f1de39b1758b00f0040ae4ab4f3bc8c5631b4a8463144022de2cf428",
-            difficulty: 9
-          });
-
-            
-        };        
-      }
-      workers = [...workers];
-
-    
-              
-
-
-/*
+				/*
         async function run() {
             await init();
             
@@ -104,8 +97,8 @@
             };
             worker.postMessage('Hello from the main thread!');
             */
-console.log("Lets hash");
-            /*
+				console.log('Lets hash');
+				/*
 
 	id="mine"{
 		return function mine(workerCount, handleResult) {
@@ -143,20 +136,18 @@ console.log("Lets hash");
 		};
 	}
   */
-        //}
-}
-setTimeout(() => {
-  
-  document.getElementById('mine').addEventListener('click', () => {
-    mine(2);
-  });
-}, 100);
-    </script>
-</head>
+				//}
+			}
+			setTimeout(() => {
+				document.getElementById('mine').addEventListener('click', () => {
+					mine(2);
+				});
+			}, 100);
+		</script>
+	</head>
 
-<body>
-  <h1>Check the console for the addition result</h1>
-  <button id="mine">Run</button>
-</body>
-
+	<body>
+		<h1>Check the console for the addition result</h1>
+		<button id="mine">Run</button>
+	</body>
 </html>

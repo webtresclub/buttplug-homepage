@@ -1,5 +1,14 @@
 <script lang="ts">
-	import { chainTimestamp, getTimestamp, currentDifficultyAndSalt, totalMinted, difficulty, salt, mint, ownerOf } from '$lib/contracts';
+	import {
+		chainTimestamp,
+		getTimestamp,
+		currentDifficultyAndSalt,
+		totalMinted,
+		difficulty,
+		salt,
+		mint,
+		ownerOf
+	} from '$lib/contracts';
 	import { loadReady, modal, account } from '$lib/store';
 	import { keccak256, encodePacked } from 'viem';
 	import { onMount } from 'svelte';
@@ -24,9 +33,10 @@
 	let globalElapsed;
 	let deltaChange;
 	let intervalCount;
-	
-	$: if($totalMinted && $chainTimestamp && $difficulty ) {
-		const changeDate = ($totalMinted - ($difficulty - 5n) * ($difficulty - 5n) + 1n) * 86400n + 1708108000n;	
+
+	$: if ($totalMinted && $chainTimestamp && $difficulty) {
+		const changeDate =
+			($totalMinted - ($difficulty - 5n) * ($difficulty - 5n) + 1n) * 86400n + 1708108000n;
 		deltaChange = Number(changeDate) - Number($chainTimestamp);
 	}
 
@@ -55,7 +65,6 @@
 	}
 
 	onMount(() => {
-		
 		totalCores = navigator.hardwareConcurrency;
 		coresSelected = Math.ceil(totalCores / 2);
 
@@ -64,9 +73,9 @@
 		}, 1000 * 60); // every minute just in case
 
 		const intervalTimestamp = setInterval(() => {
-			if($chainTimestamp && $chainTimestamp > 0n) $chainTimestamp = $chainTimestamp + 1n;
+			if ($chainTimestamp && $chainTimestamp > 0n) $chainTimestamp = $chainTimestamp + 1n;
 		}, 1000); // every 5 minutes
-		
+
 		return () => {
 			clearInterval(reloadInterval);
 			clearInterval(intervalTimestamp);
@@ -94,7 +103,7 @@
 
 			const buttpluggyId = (hashNumber % 1024n) + 1n;
 			const owner = await ownerOf(buttpluggyId);
-						
+
 			// @todo CHECK THAT THE BUTTPLUGGY IS NOT ALREADY MINTED
 			globalStatus = 'idle';
 			results.push({
@@ -298,7 +307,10 @@
 			<div class="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">
 				{#if !$account}
 					<p>First connect your wallet</p>
-					<button on:click={() => { $modal.open(); }}
+					<button
+						on:click={() => {
+							$modal.open();
+						}}
 						class="blue-connect-btn"
 					>
 						Connect
@@ -308,15 +320,15 @@
 			<hr />
 			{#if $account}
 				<div class="mt-6 p-4 mx-auto text-left font-mono">
-					{#if deltaChange > 0 }
-					<span class="text-red-500">
+					{#if deltaChange > 0}
+						<span class="text-red-500">
 							Difficulty decrease in: {secondsToDayHMS(parseInt(deltaChange))}
-					</span>
-					<br />						
+						</span>
+						<br />
 					{/if}
 					Total Minted: {$totalMinted}/1024<br />
 					User wallet: {$account}<br />
-					
+
 					Current difficulty: {$difficulty}<br />
 					Current salt: {$salt}<br />
 					<!-- Min 1 worker Max cores.length-->
@@ -399,17 +411,19 @@
 					class="rounded-b-lg w-52 bg-blue-500 text-white p-2 text-center cursor-pointer select-none"
 					on:click={() => {
 						mintButtplug(data.nonce);
-					}}>Mint Buttpluggy #{data.buttplug}</button> 
-				</div>
+					}}>Mint Buttpluggy #{data.buttplug}</button
+				>
+			</div>
 			{#if data.owner != '0x0000000000000000000000000000000000000000'}
-				<p class >Already minted by {data.owner}</p>
+				<p class>Already minted by {data.owner}</p>
 			{/if}
 			<hr />
 		{/each}
 	</article>
 </main>
 
-<style lang="postcss">
+<style>
+	@reference "../../app.css";
 	.core-button {
 		@apply rounded border border-slate-500 w-6 h-6 text-center mx-1 cursor-pointer select-none;
 	}
@@ -421,8 +435,13 @@
 		text-base font-medium text-center text-white rounded-lg 
 		bg-blue-700;
 	}
-	.blue-connect-btn:hover { @apply bg-blue-800; }
-	.blue-connect-btn:focus { @apply ring-4 ring-blue-300; }
-	.blue-connect-btn:dark:focus { @apply ring-blue-900; }
-
+	.blue-connect-btn:hover {
+		@apply bg-blue-800;
+	}
+	.blue-connect-btn:focus {
+		@apply ring-4 ring-blue-300;
+	}
+	.blue-connect-btn:dark:focus {
+		@apply ring-blue-900;
+	}
 </style>
