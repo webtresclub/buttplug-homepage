@@ -1,28 +1,28 @@
 {
-  "description": "Catalyst the Craftbot hails from the lush pixelated forests of the WebtrES club, a realm where creativity and digital craftsmanship merge seamlessly. With a box chassis painted in the deep shades of forest green, Catalyst is a robot who embodies the spirit of nature within the world of technology. Each button on Catalyst's front panel is whimsically adorned with cat faces, a nod to his feline-like curiosity and agility. His arms and legs are forged from the finest foundry metals, giving him the sturdy build required for his many crafting adventures. The screen, a classic display, beams with a warm, inviting glow, reflecting his friendly and approachable personality. Perched on his screen are a pair of glasses, not just a stylish accessory but a symbol of his keen eye for detail and precision in all his creations. Armed with a hammer in one hand and a wrench in the other, Catalyst is always ready to repair, build, or invent whatever the day may bring. Whether he's piecing together virtual constructs or tinkering with code, Catalyst the Craftbot is an indispensable member of the WebtrES community, always forging ahead to the future of digital innovation.",
-  "external_url": "https://www.buttpluggy.com/buttpluggy/1018",
-  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/1018.gif",
-  "name": "Catalyst the Craftbot",
-  "attributes": [
-    {
-      "trait_type": "Box",
-      "value": "Forestgreen"
-    },
-    {
-      "trait_type": "Buttons",
-      "value": "Cat"
-    },
-    {
-      "trait_type": "Arms and legs",
-      "value": "Foundry"
-    },
-    {
-      "trait_type": "Screen",
-      "value": "Classic"
-    },
-    {
-      "trait_type": "Addon",
-      "value": "Glasses"
-    }
-  ]
+	"description": "Catalyst the Craftbot hails from the lush pixelated forests of the WebtrES club, a realm where creativity and digital craftsmanship merge seamlessly. With a box chassis painted in the deep shades of forest green, Catalyst is a robot who embodies the spirit of nature within the world of technology. Each button on Catalyst's front panel is whimsically adorned with cat faces, a nod to his feline-like curiosity and agility. His arms and legs are forged from the finest foundry metals, giving him the sturdy build required for his many crafting adventures. The screen, a classic display, beams with a warm, inviting glow, reflecting his friendly and approachable personality. Perched on his screen are a pair of glasses, not just a stylish accessory but a symbol of his keen eye for detail and precision in all his creations. Armed with a hammer in one hand and a wrench in the other, Catalyst is always ready to repair, build, or invent whatever the day may bring. Whether he's piecing together virtual constructs or tinkering with code, Catalyst the Craftbot is an indispensable member of the WebtrES community, always forging ahead to the future of digital innovation.",
+	"external_url": "https://www.buttpluggy.com/buttpluggy/1018",
+	"image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/1018.gif",
+	"name": "Catalyst the Craftbot",
+	"attributes": [
+		{
+			"trait_type": "Box",
+			"value": "Forestgreen"
+		},
+		{
+			"trait_type": "Buttons",
+			"value": "Cat"
+		},
+		{
+			"trait_type": "Arms and legs",
+			"value": "Foundry"
+		},
+		{
+			"trait_type": "Screen",
+			"value": "Classic"
+		},
+		{
+			"trait_type": "Addon",
+			"value": "Glasses"
+		}
+	]
 }

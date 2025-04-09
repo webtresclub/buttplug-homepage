@@ -1,18 +1,11 @@
-import { createWeb3Modal, defaultWagmiConfig } from '@web3modal/wagmi'
+// main.ts
+import { createAppKit } from '@reown/appkit';
+import { mainnet, sepolia } from '@reown/appkit/networks';
+import { WagmiAdapter } from '@reown/appkit-adapter-wagmi';
 
+export const networks = [mainnet, sepolia];
 
-import { mainnet, sepolia } from "viem/chains";
-
-import { reconnect } from '@wagmi/core'
-import { watchAccount, watchChainId, getAccount } from '@wagmi/core'
-
-import { writable, derived } from "svelte/store";
-
-// const projectId = import.meta.env.VITE_WEB3MODAL_PROJECT_ID;
-const projectId = "619498c450ee42530036acb486570472";
-
-
-// export const provider = writable();
+import { writable, derived } from 'svelte/store';
 
 export const modal = writable();
 export const config = writable();
@@ -21,51 +14,51 @@ export const loadReady = writable(false);
 export const account = writable();
 
 export function initWeb3() {
-  // 2. Create wagmiConfig
-  const metadata = {
-    name: 'Buttpluggy',
-    description: 'Buttpluggy',
-    url: 'https://buttpluggy.com/', // origin must match your domain & subdomain
-    icons: ['https://avatars.githubusercontent.com/u/37784886']
-  }
+	// 1. Get a project ID at https://cloud.reown.com
+	const projectId = '0779e27e27e83fb209a5a5633f70197a';
 
-  const _config = defaultWagmiConfig({
-    chains: [mainnet, sepolia], // required
-    projectId, // required
-    metadata, // required
-    ssr:false,
-    // transports: ['http', 'ws'], // Optional - defaults to ['http', 'ws']
-    // ...wagmiOptions // Optional - Override createConfig parameters
-  })
-  
-  // 3. Create modal
-  const _modal = createWeb3Modal({
-    wagmiConfig: _config,
-    projectId,
-    enableAnalytics: true // Optional - defaults to your Cloud configuration
-  });
+	// 2. Set up Wagmi adapter
+	const wagmiAdapter = new WagmiAdapter({
+		projectId,
+		networks
+	});
 
-  _modal.subscribeState(stateData => {
-    // lets set the ready after we have the selected network
-    loadReady.set(true);
-    
-    const dataAccount  = getAccount(_config);
-    if (dataAccount && dataAccount.address) {
-      account.set(dataAccount.address);
-    }
-  });
+	// 3. Configure the metadata
+	const metadata = {
+		name: 'Buttplugy',
+		description: 'AppKit Example',
+		url: 'https://reown.com/appkit', // origin must match your domain & subdomain
+		icons: ['https://assets.reown.com/reown-profile-pic.png']
+	};
 
-  reconnect(_config);
-  
-  modal.set(_modal);
-  config.set(_config);
+	// 3. Create the modal
+	const _modal = createAppKit({
+		adapters: [wagmiAdapter],
+		networks: [mainnet, sepolia],
+		metadata,
+		projectId,
+		features: {
+			analytics: true // Optional - defaults to your Cloud configuration
+		}
+	});
+
+	_modal.subscribeWalletInfo((stateData) => {
+		// lets set the ready after we have the selected network
+		loadReady.set(true);
+
+		const addressAccount = _modal.getAddress();
+		if (addressAccount) account.set(addressAccount);
+	});
+
+	modal.set(_modal);
+	config.set(wagmiAdapter.wagmiConfig);
 }
 
-export const chainId = derived(modal, $modal => {
-  if(!$modal) return 0;
-  try { 
-    return $modal.getState().selectedNetworkId;
-  } catch (e) {
-    return 0;
-  }
+export const chainId = derived(modal, ($modal) => {
+	if (!$modal || !$modal.getChainId) return 0;
+	try {
+		return $modal.getChainId();
+	} catch (e) {
+		return 0;
+	}
 });

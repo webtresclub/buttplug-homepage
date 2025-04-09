@@ -1,28 +1,28 @@
 {
-  "description": "Born in the alleyways of Silicon City, RetroCatz ShadeRunner is a legendary figure of the WebtrES club. With a chassis hued in the vibrant Rosso Corsa, this vintage console-inspired bot brings nostalgia and flair wherever it roams. Its arms and legs, modeled after a sleek feline, provide agility and grace, allowing it to navigate the digital and physical worlds with ease. The classic screen, nestled behind cool shades, reflects a soul wise beyond its circuitry, having witnessed the rise and fall of countless gaming empires. As a connoisseur of all things retro, RetroCatz ShadeRunner is the go-to source for arcade wisdom and pixelated tales of yore. It is said that those who glimpse its screen are instantly reminded of the golden age of gaming, where every button press was a new adventure.",
-  "external_url": "https://www.buttpluggy.com/buttpluggy/1016",
-  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/1016.gif",
-  "name": "RetroCatz ShadeRunner",
-  "attributes": [
-    {
-      "trait_type": "Box",
-      "value": "Rossocorsa"
-    },
-    {
-      "trait_type": "Buttons",
-      "value": "Retroconsole"
-    },
-    {
-      "trait_type": "Arms and legs",
-      "value": "Cat"
-    },
-    {
-      "trait_type": "Screen",
-      "value": "Classic"
-    },
-    {
-      "trait_type": "Addon",
-      "value": "Shades"
-    }
-  ]
+	"description": "Born in the alleyways of Silicon City, RetroCatz ShadeRunner is a legendary figure of the WebtrES club. With a chassis hued in the vibrant Rosso Corsa, this vintage console-inspired bot brings nostalgia and flair wherever it roams. Its arms and legs, modeled after a sleek feline, provide agility and grace, allowing it to navigate the digital and physical worlds with ease. The classic screen, nestled behind cool shades, reflects a soul wise beyond its circuitry, having witnessed the rise and fall of countless gaming empires. As a connoisseur of all things retro, RetroCatz ShadeRunner is the go-to source for arcade wisdom and pixelated tales of yore. It is said that those who glimpse its screen are instantly reminded of the golden age of gaming, where every button press was a new adventure.",
+	"external_url": "https://www.buttpluggy.com/buttpluggy/1016",
+	"image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/1016.gif",
+	"name": "RetroCatz ShadeRunner",
+	"attributes": [
+		{
+			"trait_type": "Box",
+			"value": "Rossocorsa"
+		},
+		{
+			"trait_type": "Buttons",
+			"value": "Retroconsole"
+		},
+		{
+			"trait_type": "Arms and legs",
+			"value": "Cat"
+		},
+		{
+			"trait_type": "Screen",
+			"value": "Classic"
+		},
+		{
+			"trait_type": "Addon",
+			"value": "Shades"
+		}
+	]
 }

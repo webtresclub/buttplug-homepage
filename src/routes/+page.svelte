@@ -51,7 +51,9 @@
 			idsArr = lastIds.map((id) => id[0]);
 			traits = await fetchData(JSON.stringify(idsArr));
 		} catch (e) {
-			alert('Unexpected error');
+			//alert('Unexpected error');
+			console.log('Unexpected error');
+			console.log('fail to fetch last ids');
 			console.error({ e });
 		}
 	};
@@ -123,8 +125,8 @@
 		</p>
 		<p class="text-lg mb-6">
 			As one of the pioneering projects utilizing the <span class="font-semibold">Huff</span>
-			programming language, Buttpluggy stand as a testament to innovation and craftsmanship in the
-			world of "Non-Fungible Tokens". Meticulously designed with the
+			programming language, Buttpluggy stand as a testament to innovation and craftsmanship in the world
+			of "Non-Fungible Tokens". Meticulously designed with the
 			<span class="font-semibold">Huffmate</span>
 			libraries, these tokens represent a fusion of artistry and technical prowess.
 		</p>

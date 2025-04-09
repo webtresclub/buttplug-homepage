@@ -1,24 +1,24 @@
 {
-  "description": "LaserByte V88, often called 'Vinnie' by his close friends, is a rare and vibrant character from the WebtrES club. With a box color of rossoCorsa that symbolizes his fiery passion for speed and competition, Vinnie is known for his quick reflexes and sharp focus. His retroConsole buttons hark back to the days of arcade glory, and he's a master at any game that requires precision and tactical thinking. Vinnie's classic arms and legs give him a timeless appeal, while his laser screen is capable of displaying intense graphics that can mesmerize an audience for hours. Vinnie's favorite pastime is organizing high-stakes gaming tournaments in the digital realm, where he is both a formidable opponent and an entertaining commentator.",
-  "external_url": "https://www.buttpluggy.com/buttpluggy/1009",
-  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/1009.gif",
-  "name": "LaserByte V88",
-  "attributes": [
-    {
-      "trait_type": "Box",
-      "value": "Rossocorsa"
-    },
-    {
-      "trait_type": "Buttons",
-      "value": "Retroconsole"
-    },
-    {
-      "trait_type": "Arms and legs",
-      "value": "Classic"
-    },
-    {
-      "trait_type": "Screen",
-      "value": "Laser"
-    }
-  ]
+	"description": "LaserByte V88, often called 'Vinnie' by his close friends, is a rare and vibrant character from the WebtrES club. With a box color of rossoCorsa that symbolizes his fiery passion for speed and competition, Vinnie is known for his quick reflexes and sharp focus. His retroConsole buttons hark back to the days of arcade glory, and he's a master at any game that requires precision and tactical thinking. Vinnie's classic arms and legs give him a timeless appeal, while his laser screen is capable of displaying intense graphics that can mesmerize an audience for hours. Vinnie's favorite pastime is organizing high-stakes gaming tournaments in the digital realm, where he is both a formidable opponent and an entertaining commentator.",
+	"external_url": "https://www.buttpluggy.com/buttpluggy/1009",
+	"image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/1009.gif",
+	"name": "LaserByte V88",
+	"attributes": [
+		{
+			"trait_type": "Box",
+			"value": "Rossocorsa"
+		},
+		{
+			"trait_type": "Buttons",
+			"value": "Retroconsole"
+		},
+		{
+			"trait_type": "Arms and legs",
+			"value": "Classic"
+		},
+		{
+			"trait_type": "Screen",
+			"value": "Laser"
+		}
+	]
 }

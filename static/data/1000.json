@@ -1,28 +1,28 @@
 {
-  "description": "Sergeant Pixel is the embodiment of digital valor, born from the retro gaming era and hardened by pixelated battles. Equipped with a console interface and donned in a camouflaged helmet, this member of the WebtrES club is known for strategizing in the most complex of virtual environments. His screen displays a snake, a throwback to one of the first and most iconic mobile games, symbolizing his ability to adapt and survive in any situation. With limbs trained in digital warfare and a steadfast resolve, Sergeant Pixel is always ready for the next challenge, be it in the realm of bits and bytes or the sprawling WebtrES universe.",
-  "external_url": "https://www.buttpluggy.com/buttpluggy/1000",
-  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/1000.gif",
-  "name": "Sergeant Pixel",
-  "attributes": [
-    {
-      "trait_type": "Box",
-      "value": "Soldier"
-    },
-    {
-      "trait_type": "Buttons",
-      "value": "Retroconsole"
-    },
-    {
-      "trait_type": "Arms and legs",
-      "value": "Soldier"
-    },
-    {
-      "trait_type": "Screen",
-      "value": "Snake"
-    },
-    {
-      "trait_type": "Addon",
-      "value": "Helmet"
-    }
-  ]
+	"description": "Sergeant Pixel is the embodiment of digital valor, born from the retro gaming era and hardened by pixelated battles. Equipped with a console interface and donned in a camouflaged helmet, this member of the WebtrES club is known for strategizing in the most complex of virtual environments. His screen displays a snake, a throwback to one of the first and most iconic mobile games, symbolizing his ability to adapt and survive in any situation. With limbs trained in digital warfare and a steadfast resolve, Sergeant Pixel is always ready for the next challenge, be it in the realm of bits and bytes or the sprawling WebtrES universe.",
+	"external_url": "https://www.buttpluggy.com/buttpluggy/1000",
+	"image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/1000.gif",
+	"name": "Sergeant Pixel",
+	"attributes": [
+		{
+			"trait_type": "Box",
+			"value": "Soldier"
+		},
+		{
+			"trait_type": "Buttons",
+			"value": "Retroconsole"
+		},
+		{
+			"trait_type": "Arms and legs",
+			"value": "Soldier"
+		},
+		{
+			"trait_type": "Screen",
+			"value": "Snake"
+		},
+		{
+			"trait_type": "Addon",
+			"value": "Helmet"
+		}
+	]
 }

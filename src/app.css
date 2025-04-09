@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/typography';
+
+body {
+	min-height: 935px;
+}

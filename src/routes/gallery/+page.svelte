@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { BUTTPLUGGY } from '$lib/contracts';
 	import { account, chainId, loadReady } from '$lib/store';
-	
+
 	const GRAPHQL_URL = 'https://api.studio.thegraph.com/proxy/67825/buttpluggy/v0.0.4/';
 
 	let nfts = [];
@@ -48,7 +48,7 @@
 			if (responseData.data.owners.length > 0) {
 				nfts = responseData.data.owners[0].nfts.map((nft) => nft.id);
 			}
-			
+
 			localStorage.setItem('ntfs-' + $chainId + $account, JSON.stringify(nfts));
 		} catch (err) {
 			alert('unexpected error');
@@ -85,10 +85,7 @@
 				<div class="card mx-auto">
 					<div class="card__image">
 						<a href="https://opensea.io/assets/ethereum/{BUTTPLUGGY}/{nftId}" target="_blank">
-							<img
-								class="h-64 w-64 block"
-								src="/images/{('00000' + nftId).slice(-4)}.gif"
-							/>
+							<img class="h-64 w-64 block" src="/images/{('00000' + nftId).slice(-4)}.gif" />
 							<!-- </a> -->
 						</a>
 					</div>
