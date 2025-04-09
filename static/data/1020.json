@@ -1,24 +1,24 @@
 {
-  "description": "Catalyst Console, or C.C. to his friends, is a legendary figure in the WebtrES club. Born from the union of vintage gaming and feline finesse, C.C.'s rossoCorsa chassis gleams with the luster of a classic arcade machine. His screen, ever displaying the enigmatic visage of a digital cat, hints at his mysterious origins from the pixelated alleys of Cyberville. With arms and legs of the most durable classic design, he's known for his retro style and ability to outlast any tech trend. His retroConsole buttons have felt the press of countless gamers seeking nostalgia, and each click tells a story of a bygone era. Despite his old-school appearance, C.C. is as sharp as the newest gadget, holding centuries of gaming wisdom within his circuitry. He spends his nights reminiscing about the golden age of gaming, and his days educating the younger generation of WebtrES about the glory of 8-bit adventures and high scores that were once a rite of passage.",
-  "external_url": "https://www.buttpluggy.com/buttpluggy/1020",
-  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/1020.gif",
-  "name": "Catalyst Console",
-  "attributes": [
-    {
-      "trait_type": "Box",
-      "value": "Rossocorsa"
-    },
-    {
-      "trait_type": "Buttons",
-      "value": "Retroconsole"
-    },
-    {
-      "trait_type": "Arms and legs",
-      "value": "Classic"
-    },
-    {
-      "trait_type": "Screen",
-      "value": "Cat"
-    }
-  ]
+	"description": "Catalyst Console, or C.C. to his friends, is a legendary figure in the WebtrES club. Born from the union of vintage gaming and feline finesse, C.C.'s rossoCorsa chassis gleams with the luster of a classic arcade machine. His screen, ever displaying the enigmatic visage of a digital cat, hints at his mysterious origins from the pixelated alleys of Cyberville. With arms and legs of the most durable classic design, he's known for his retro style and ability to outlast any tech trend. His retroConsole buttons have felt the press of countless gamers seeking nostalgia, and each click tells a story of a bygone era. Despite his old-school appearance, C.C. is as sharp as the newest gadget, holding centuries of gaming wisdom within his circuitry. He spends his nights reminiscing about the golden age of gaming, and his days educating the younger generation of WebtrES about the glory of 8-bit adventures and high scores that were once a rite of passage.",
+	"external_url": "https://www.buttpluggy.com/buttpluggy/1020",
+	"image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/1020.gif",
+	"name": "Catalyst Console",
+	"attributes": [
+		{
+			"trait_type": "Box",
+			"value": "Rossocorsa"
+		},
+		{
+			"trait_type": "Buttons",
+			"value": "Retroconsole"
+		},
+		{
+			"trait_type": "Arms and legs",
+			"value": "Classic"
+		},
+		{
+			"trait_type": "Screen",
+			"value": "Cat"
+		}
+	]
 }

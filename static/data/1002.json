@@ -1,24 +1,24 @@
 {
-  "description": "Sergeant Pixel is an illustrious member of the WebtrES club, known for his unyielding demeanor and strategic prowess. His classic box represents the timeless strength of his character, while his soldier buttons and arms and legs showcase his unshakeable discipline and combat readiness. The classic screen face, with its iconic green pixel smile, reflects his ability to maintain morale among his digital comrades. Sergeant Pixel's background includes leading numerous campaigns in the cyberspace wars, outsmarting malware platoons, and safeguarding the data integrity of his fellow club members. Despite his hardcore exterior, he is beloved for his old-school charm and his pixel-perfect sense of humor.",
-  "external_url": "https://www.buttpluggy.com/buttpluggy/1002",
-  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/1002.gif",
-  "name": "Sergeant Pixel",
-  "attributes": [
-    {
-      "trait_type": "Box",
-      "value": "Classic"
-    },
-    {
-      "trait_type": "Buttons",
-      "value": "Soldier"
-    },
-    {
-      "trait_type": "Arms and legs",
-      "value": "Soldier"
-    },
-    {
-      "trait_type": "Screen",
-      "value": "Classic"
-    }
-  ]
+	"description": "Sergeant Pixel is an illustrious member of the WebtrES club, known for his unyielding demeanor and strategic prowess. His classic box represents the timeless strength of his character, while his soldier buttons and arms and legs showcase his unshakeable discipline and combat readiness. The classic screen face, with its iconic green pixel smile, reflects his ability to maintain morale among his digital comrades. Sergeant Pixel's background includes leading numerous campaigns in the cyberspace wars, outsmarting malware platoons, and safeguarding the data integrity of his fellow club members. Despite his hardcore exterior, he is beloved for his old-school charm and his pixel-perfect sense of humor.",
+	"external_url": "https://www.buttpluggy.com/buttpluggy/1002",
+	"image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/1002.gif",
+	"name": "Sergeant Pixel",
+	"attributes": [
+		{
+			"trait_type": "Box",
+			"value": "Classic"
+		},
+		{
+			"trait_type": "Buttons",
+			"value": "Soldier"
+		},
+		{
+			"trait_type": "Arms and legs",
+			"value": "Soldier"
+		},
+		{
+			"trait_type": "Screen",
+			"value": "Classic"
+		}
+	]
 }

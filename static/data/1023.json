@@ -1,24 +1,24 @@
 {
-  "description": "Born in the digital realm of an 80s arcade, PixelPurr SerpentScreen is a curious mix of technology and mystery. With his retro console body and cunning snake screen, he's been charming gamers and glitching through the net looking for puzzles and secrets to solve. His cat-like limbs give him the agility to navigate through the wires and chips of old-school gaming rigs, while his stripey battery tail powers up his adventures. PixelPurr is part of the exclusive WebtrES club, where he's known for his slick moves and sly stratagems, always ready to lend a helping paw or offer a cryptic clue to those who dare to play the game of bytes and bits with him.",
-  "external_url": "https://www.buttpluggy.com/buttpluggy/1023",
-  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/1023.gif",
-  "name": "PixelPurr SerpentScreen",
-  "attributes": [
-    {
-      "trait_type": "Box",
-      "value": "Retroconsole"
-    },
-    {
-      "trait_type": "Buttons",
-      "value": "Retroconsole"
-    },
-    {
-      "trait_type": "Arms and legs",
-      "value": "Cat"
-    },
-    {
-      "trait_type": "Screen",
-      "value": "Snake"
-    }
-  ]
+	"description": "Born in the digital realm of an 80s arcade, PixelPurr SerpentScreen is a curious mix of technology and mystery. With his retro console body and cunning snake screen, he's been charming gamers and glitching through the net looking for puzzles and secrets to solve. His cat-like limbs give him the agility to navigate through the wires and chips of old-school gaming rigs, while his stripey battery tail powers up his adventures. PixelPurr is part of the exclusive WebtrES club, where he's known for his slick moves and sly stratagems, always ready to lend a helping paw or offer a cryptic clue to those who dare to play the game of bytes and bits with him.",
+	"external_url": "https://www.buttpluggy.com/buttpluggy/1023",
+	"image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/1023.gif",
+	"name": "PixelPurr SerpentScreen",
+	"attributes": [
+		{
+			"trait_type": "Box",
+			"value": "Retroconsole"
+		},
+		{
+			"trait_type": "Buttons",
+			"value": "Retroconsole"
+		},
+		{
+			"trait_type": "Arms and legs",
+			"value": "Cat"
+		},
+		{
+			"trait_type": "Screen",
+			"value": "Snake"
+		}
+	]
 }
