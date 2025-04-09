@@ -1,12 +1,12 @@
 import { config, chainId } from './store';
-import { readContract, writeContract, multicall, watchContractEvent } from '@wagmi/core';
+import { readContract, writeContract, multicall, watchContractEvent, getChainId } from '@wagmi/core';
 
 import { parseAbi } from 'viem';
 
 import { writable, get } from 'svelte/store';
 
 /// @dev Ethereum mainnet & sepolia address of the collection
-export const BUTTPLUGGY = '0x0000420538CD5AbfBC7Db219B6A1d125f5892Ab0';
+export const BUTTPLUGGY = '0x0000420538CD5AbfBC7Db219B6A1d125f5892Ab0' as `0x${string}`;
 
 const abi = parseAbi([
 	//  ^? const abi: readonly [{ name: "balanceOf"; type: "function"; stateMutability:...
@@ -27,7 +27,9 @@ const abi = parseAbi([
 ]);
 
 export async function haveClaimButtplug(user: `0x${string}`) {
-	const data = await readContract(get(config), {
+	const wagmiConfig = get(config);
+	if (!wagmiConfig) throw new Error('wagmiConfig not found');
+	const data = await readContract(wagmiConfig, {
 		address: BUTTPLUGGY,
 		abi,
 		functionName: 'claimed',
@@ -39,7 +41,9 @@ export async function haveClaimButtplug(user: `0x${string}`) {
 }
 
 export async function ownerOf(buttpluggy) {
-	const data = await readContract(get(config), {
+	const wagmiConfig = get(config);
+	if (!wagmiConfig) throw new Error('wagmiConfig not found');
+	const data = await readContract(wagmiConfig, {
 		address: BUTTPLUGGY,
 		abi,
 		functionName: 'ownerOf',
@@ -51,7 +55,9 @@ export async function ownerOf(buttpluggy) {
 }
 
 export async function mintWithMerkle(proofs) {
-	const data = await writeContract(get(config), {
+	const wagmiConfig = get(config);
+	if (!wagmiConfig) throw new Error('wagmiConfig not found');
+	const data = await writeContract(wagmiConfig, {
 		address: BUTTPLUGGY,
 		abi,
 		functionName: 'mintWithMerkle',
@@ -62,7 +68,9 @@ export async function mintWithMerkle(proofs) {
 }
 
 export async function mint(nonce) {
-	const data = await writeContract(get(config), {
+	const wagmiConfig = get(config);
+	if (!wagmiConfig) throw new Error('wagmiConfig not found');
+	const data = await writeContract(wagmiConfig, {
 		address: BUTTPLUGGY,
 		abi,
 		functionName: 'mint',
@@ -78,7 +86,10 @@ export const totalMinted = writable();
 export const chainTimestamp = writable();
 
 export async function currentDifficultyAndSalt() {
-	const _config = get(config);
+	const wagmiConfig = get(config);
+	if (!wagmiConfig) throw new Error('wagmiConfig not found');
+	const _chainId = get(chainId);
+	console.log({ _chainId });
 
 	const toWatch = {
 		contracts: [
@@ -87,19 +98,19 @@ export async function currentDifficultyAndSalt() {
 			{ address: BUTTPLUGGY, abi, functionName: 'totalMinted' }
 		]
 	};
-	//console.log(_config.getClient());
-	const data = await multicall(_config, toWatch);
+	//console.log(wagmiConfig.getClient());
+	const data = await multicall(wagmiConfig, toWatch);
 	difficulty.set(data[0].result);
 	salt.set(data[1].result);
 	totalMinted.set(data[2].result);
 
-	const unwatch = watchContractEvent(_config, {
+	const unwatch = watchContractEvent(wagmiConfig, {
 		address: BUTTPLUGGY,
 		abi,
-		chainId: get(chainId),
+		chainId: Number(_chainId),
 		eventName: 'Transfer',
 		async onLogs(logs) {
-			const data = await multicall(_config, toWatch);
+			const data = await multicall(wagmiConfig, toWatch);
 			difficulty.set(data[0].result);
 			salt.set(data[1].result);
 			totalMinted.set(data[2].result);
@@ -111,13 +122,16 @@ export async function currentDifficultyAndSalt() {
 
 // use multicall to get current timestamp
 export async function getTimestamp() {
-	const data = await readContract(get(config), {
-		address: '0xeefBa1e63905eF1D7ACbA5a8513c70307C1cE441', // makerdao multicall
+	const wagmiConfig = get(config);
+	if (!wagmiConfig) throw new Error('wagmiConfig not found');
+	const data = await readContract(wagmiConfig, {
+		address: get(chainId) === 11155111n ? '0x25Eef291876194AeFAd0D60Dff89e268b90754Bb' : '0xeefBa1e63905eF1D7ACbA5a8513c70307C1cE441', // makerdao multicall
 		abi: [
 			{
 				inputs: [],
 				name: 'getCurrentBlockTimestamp',
-				outputs: [{ name: '', type: 'uint256' }],
+				outputs: [{ name: 'timestamp', type: 'uint256' }],
+				payable: false,
 				stateMutability: 'view',
 				type: 'function'
 			}

@@ -3,17 +3,35 @@
 	import { account, loadReady } from '../lib/store';
 	import { haveClaimButtplug } from '$lib/contracts';
 
-	export let data;
+	interface NFTData {
+		id: string;
+		owner: {
+			id: string;
+		};
+		createdAt: string;
+	}
+
+	interface GraphQLResponse {
+		data: {
+			buttpluggyNfts: NFTData[];
+		};
+	}
+
+	interface PageData {
+		wallets: string[];
+	}
+
+	export let data: PageData;
 	const GRAPHQL_URL = 'https://api.studio.thegraph.com/proxy/67825/buttpluggy/version/latest/';
 
 	import { onMount } from 'svelte';
 
 	let userOnMerkle = false;
-	let idsArr = [];
-	let lastIds = [];
-	let traits = {};
+	let idsArr: string[] = [];
+	let lastIds: [string, string][] = [];
+	let traits: Record<string, string> = {};
 
-	async function fetchData(ids) {
+	async function fetchData(ids: string): Promise<Record<string, string>> {
 		const response = await fetch('/api/names', {
 			method: 'POST',
 			body: ids,
@@ -25,7 +43,7 @@
 		return await response.json();
 	}
 
-	const fetchLastIds = async () => {
+	const fetchLastIds = async (): Promise<void> => {
 		const query = `query {
 						buttpluggyNfts(first: 6, orderBy:createdAt, orderDirection: desc) {
 							id
@@ -45,7 +63,7 @@
 				body: JSON.stringify({ query })
 			});
 
-			const responseData = await response.json();
+			const responseData: GraphQLResponse = await response.json();
 			lastIds = responseData.data.buttpluggyNfts.map((nft) => [nft.id, nft.owner.id]);
 
 			idsArr = lastIds.map((id) => id[0]);
@@ -64,7 +82,7 @@
 		userOnMerkle = data.wallets.indexOf($account.toLowerCase()) > -1;
 		// if user is on merkle tree, lets see if he can claim (he could already claimed, only one per wallet)
 		if (userOnMerkle) {
-			haveClaimButtplug($account).then((result) => {
+			haveClaimButtplug($account as `0x${string}`).then((result) => {
 				// if result is false, user have not claimed yet, so he can claim
 				canClaim = !result;
 			});
@@ -220,7 +238,7 @@
 				these possibilities by allowing immutable, decentralized execution of complex code. This
 				innovation powers our Buttpluggies. Developed on Ethereum using the Huff programming
 				language and the Huffmate libraries, the Buttpluggy contract provides a transparent and
-				trustless method to trade and own these unique tokens. The code is not just stored; it’s
+				trustless method to trade and own these unique tokens. The code is not just stored; it's
 				brought to life on the blockchain, ensuring everyone can validate its fair execution.
 			</p>
 			<h2 class="text-2xl font-bold mb-4">How do I acquire a Buttpluggy?</h2>
