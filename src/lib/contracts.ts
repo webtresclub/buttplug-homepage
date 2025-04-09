@@ -117,7 +117,8 @@ export async function getTimestamp() {
 			{
 				inputs: [],
 				name: 'getCurrentBlockTimestamp',
-				outputs: [{ name: '', type: 'uint256' }],
+				outputs: [{ name: 'timestamp', type: 'uint256' }],
+				payable: false,
 				stateMutability: 'view',
 				type: 'function'
 			}

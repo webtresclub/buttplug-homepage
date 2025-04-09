@@ -2,16 +2,17 @@
 import { createAppKit } from '@reown/appkit';
 import { mainnet, sepolia } from '@reown/appkit/networks';
 import { WagmiAdapter } from '@reown/appkit-adapter-wagmi';
+import type { AppKit } from '@reown/appkit';
+import type { Config } from 'wagmi';
 
 export const networks = [mainnet, sepolia];
 
 import { writable, derived } from 'svelte/store';
 
-export const modal = writable();
-export const config = writable();
-export const loadReady = writable(false);
-
-export const account = writable();
+export const modal = writable<AppKit | null>(null);
+export const config = writable<Config | null>(null);
+export const loadReady = writable<boolean>(false);
+export const account = writable<`0x${string}` | null>(null);
 
 export function initWeb3() {
 	// 1. Get a project ID at https://cloud.reown.com
@@ -47,7 +48,7 @@ export function initWeb3() {
 		loadReady.set(true);
 
 		const addressAccount = _modal.getAddress();
-		if (addressAccount) account.set(addressAccount);
+		if (addressAccount) account.set(addressAccount as `0x${string}`);
 	});
 
 	modal.set(_modal);
@@ -55,10 +56,11 @@ export function initWeb3() {
 }
 
 export const chainId = derived(modal, ($modal) => {
-	if (!$modal || !$modal.getChainId) return 0;
+	if (!$modal || !$modal.getChainId) return 0n;
 	try {
-		return $modal.getChainId();
+		const chainId = $modal.getChainId();
+		return chainId ? BigInt(chainId) : 0n;
 	} catch (e) {
-		return 0;
+		return 0n;
 	}
 });

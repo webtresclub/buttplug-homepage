@@ -15,13 +15,34 @@
 
 	import NumberTween from './NumberTween.svelte';
 
+	interface WorkerData {
+		worker: Worker;
+		status: string;
+		start: number;
+		end: number;
+		loops: number;
+		hashPerSecond: number;
+	}
+
+	interface MiningResult {
+		nonce: bigint;
+		buttplug: bigint;
+		owner: string;
+	}
+
+	interface WorkerResult {
+		nonce: string;
+		hash: string;
+		status?: string;
+	}
+
 	const random = Math.floor(Math.random() * (1024 - 1 + 1) + 1)
 		.toString()
 		.padStart(4, '0');
 
 	let globalStatus = 'idle';
-	let workers = [];
-	let results = [];
+	let workers: WorkerData[] = [];
+	let results: MiningResult[] = [];
 
 	let totalCores = 1;
 	let coresSelected = 1;
@@ -29,10 +50,10 @@
 	let totalSpeed = 0;
 	let expectedTime = 0;
 
-	let globalStart;
-	let globalElapsed;
-	let deltaChange;
-	let intervalCount;
+	let globalStart: number;
+	let globalElapsed: number;
+	let deltaChange: number;
+	let intervalCount: ReturnType<typeof setInterval>;
 
 	$: if ($totalMinted && $chainTimestamp && $difficulty) {
 		const changeDate =
@@ -45,8 +66,7 @@
 		expectedTime = Math.pow(16, Number($difficulty)) / Math.floor(totalSpeed);
 	}
 
-	function secondsToDayHMS(_d) {
-		const d = Number(_d);
+	function secondsToDayHMS(d: number): string {
 		const days = Math.floor(d / 86400);
 		const h = Math.floor((d % 86400) / 3600);
 		const m = Math.floor(((d % 86400) % 3600) / 60);
@@ -87,10 +107,13 @@
 		if (_nonce) {
 			const nonce = BigInt(_nonce);
 			const hash = keccak256(
-				encodePacked(['address', 'bytes32', 'uint256'], [$account, $salt, nonce])
+				encodePacked(
+					['address', 'bytes32', 'uint256'],
+					[$account as `0x${string}`, $salt as `0x${string}`, nonce]
+				)
 			);
 			const hashNumber = BigInt(hash);
-			const expectedHash = '0x' + '0'.repeat(parseInt($difficulty));
+			const expectedHash = '0x' + '0'.repeat(parseInt($difficulty as string));
 			if (!hash.startsWith(expectedHash)) {
 				alert(
 					'The nonce is not valid, hash not starts with ' +
@@ -116,12 +139,14 @@
 		}
 	}
 
-	async function mintButtplug(nonce) {
+	async function mintButtplug(nonce: bigint) {
 		try {
 			await mint(nonce);
 			alert('Minted');
-		} catch (e) {
-			alert(e.message);
+		} catch (e: unknown) {
+			if (e instanceof Error) {
+				alert(e.message);
+			}
 		}
 	}
 
@@ -148,7 +173,7 @@
 		}
 	}
 
-	async function miningComplete(result) {
+	async function miningComplete(result: [string, number]) {
 		if (result[1] == -1) {
 			startMining();
 		} else {
@@ -172,15 +197,12 @@
 			const worker = new Worker('/js/rust-worker.js', { type: 'module' });
 			workers[i] = { worker: worker, status: 'init', start: 0, end: 0, loops: 0, hashPerSecond: 0 };
 
-			let time;
-
-			worker.onmessage = function (event) {
-				// console.log('Worker' + i, event.data.status);
-				workers[i].status = event.data.status;
+			worker.onmessage = function (event: MessageEvent<WorkerResult>) {
+				workers[i].status = event.data.status || '';
 
 				workers[i].start = workers[i].start || Date.now();
 
-				worker.onmessage = async function (event) {
+				worker.onmessage = async function (event: MessageEvent<{ results: WorkerResult }>) {
 					if (event.data.results.nonce) {
 						console.log('Worker' + i, event.data.results);
 						const buttpluggyId = (BigInt('0x' + event.data.results.hash) % 1024n) + 1n;
@@ -199,15 +221,15 @@
 
 					// loop
 					worker.postMessage({
-						wallet: $account.slice(2),
-						salt: $salt.slice(2),
+						wallet: ($account as `0x${string}`).slice(2),
+						salt: ($salt as `0x${string}`).slice(2),
 						difficulty: Number($difficulty)
 					});
 				};
 
 				worker.postMessage({
-					wallet: $account.slice(2),
-					salt: $salt.slice(2),
+					wallet: ($account as `0x${string}`).slice(2),
+					salt: ($salt as `0x${string}`).slice(2),
 					difficulty: Number($difficulty)
 				});
 			};
@@ -215,19 +237,25 @@
 		workers = [...workers];
 	}
 
-	function foundNonce({ nonce, hash }, owner) {
-		console.log('Found nonce', nonce, hash);
-		nonce = BigInt('0x' + nonce);
-		hash = BigInt('0x' + hash);
-		console.log(hash, (hash % 1024n) + 1n);
+	function foundNonce(result: WorkerResult, owner: string) {
+		if (!result.nonce || !result.hash) return;
+
+		console.log('Found nonce', result.nonce, result.hash);
+		const nonceBigInt = BigInt('0x' + result.nonce);
+		const hashBigInt = BigInt('0x' + result.hash);
+		console.log(hashBigInt, (hashBigInt % 1024n) + 1n);
 
 		doStop();
 		results.push({
-			nonce,
-			buttplug: (hash % 1024n) + 1n,
+			nonce: nonceBigInt,
+			buttplug: (hashBigInt % 1024n) + 1n,
 			owner
 		});
 		results = [...results];
+	}
+
+	$: if (deltaChange > 0) {
+		secondsToDayHMS(deltaChange);
 	}
 </script>
 
@@ -322,7 +350,7 @@
 				<div class="mt-6 p-4 mx-auto text-left font-mono">
 					{#if deltaChange > 0}
 						<span class="text-red-500">
-							Difficulty decrease in: {secondsToDayHMS(parseInt(deltaChange))}
+							Difficulty decrease in: {secondsToDayHMS(deltaChange)}
 						</span>
 						<br />
 					{/if}
@@ -414,8 +442,12 @@
 					}}>Mint Buttpluggy #{data.buttplug}</button
 				>
 			</div>
-			{#if data.owner != '0x0000000000000000000000000000000000000000'}
-				<p class>Already minted by {data.owner}</p>
+			{#if data && data?.owner != '0x0000000000000000000000000000000000000000'}
+				<p>
+					Already minted by <a href="https://etherscan.io/address/{data.owner}" target="_blank"
+						>{data.owner}</a
+					>
+				</p>
 			{/if}
 			<hr />
 		{/each}
