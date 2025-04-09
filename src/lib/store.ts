@@ -51,12 +51,14 @@ export function initWeb3() {
 		if (addressAccount) account.set(addressAccount as `0x${string}`);
 	});
 
+	_modal.subscribeState((newState) => console.log({newState}));
+
+
 	modal.set(_modal);
 	config.set(wagmiAdapter.wagmiConfig);
 }
 
 export const chainId = derived(modal, ($modal) => {
-	if (!$modal || !$modal.getChainId) return 0n;
 	try {
 		const chainId = $modal.getChainId();
 		return chainId ? BigInt(chainId) : 0n;
