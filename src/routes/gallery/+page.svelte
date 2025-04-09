@@ -4,7 +4,7 @@
 
 	const GRAPHQL_URL = 'https://api.studio.thegraph.com/proxy/67825/buttpluggy/v0.0.4/';
 
-	let nfts = [];
+	let nfts: string[] = [];
 	let loading = true;
 
 	async function loadNfts() {
@@ -15,7 +15,8 @@
 				loading = false;
 			}
 		} catch (err) {
-			/* empty */
+			console.error('err');
+			console.error(err);
 		}
 
 		const query = `query myQuery($owner: Bytes!){
@@ -28,7 +29,7 @@
 				}`;
 
 		const options = {
-			owner: $account.toLowerCase()
+			owner: $account?.toLowerCase()
 		};
 
 		try {
@@ -46,7 +47,7 @@
 			const responseData = await response.json();
 
 			if (responseData.data.owners.length > 0) {
-				nfts = responseData.data.owners[0].nfts.map((nft) => nft.id);
+				nfts = responseData.data.owners[0].nfts.map((nft: { id: string }) => nft.id);
 			}
 
 			localStorage.setItem('ntfs-' + $chainId + $account, JSON.stringify(nfts));
@@ -58,7 +59,7 @@
 		loading = false;
 	}
 
-	$: if ($loadReady && $chainId != 0 && $account) {
+	$: if ($loadReady && $chainId !== 0n && $account) {
 		loadNfts();
 	}
 </script>
@@ -85,6 +86,7 @@
 				<div class="card mx-auto">
 					<div class="card__image">
 						<a href="https://opensea.io/assets/ethereum/{BUTTPLUGGY}/{nftId}" target="_blank">
+							<!-- svelte-ignore a11y_missing_attribute -->
 							<img class="h-64 w-64 block" src="/images/{('00000' + nftId).slice(-4)}.gif" />
 							<!-- </a> -->
 						</a>
