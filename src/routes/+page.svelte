@@ -142,12 +142,37 @@
 			on Ethereum using <span class="font-bold">Huff</span>. Crafted by the
 			<b>Webtr3s</b> community, pushing pixel art into on-chain realms. No utility. Pure pleasure.
 		</p>
-		<div class="flex gap-4">
-			<a href="/mine" class="btn btn-primary btn-xl">🌱 Mine your Buttpluggy</a>
-			<a href="/attributes" class="btn btn-outline btn-xl">🖼 View Collection</a>
+		<div class="flex flex-col md:flex-row gap-4">
+			<a href="/mine" class="btn btn-primary md:btn-xl">🌱 Mine your Buttpluggy</a>
+			<a href="/attributes" class="btn btn-outline md:btn-xl">🖼 View Collection</a>
 			{#if canClaim}
-				<a href="/claim" class="btn btn-outline btn-xl">🎁 Claim your Buttpluggy</a>
+				<a href="/claim" class="btn btn-outline md:btn-xl">🎁 Claim your Buttpluggy</a>
 			{/if}
+		</div>
+	</div>
+</section>
+<!-- Story Hero with Video -->
+<section class="hero min-h-[75vh] bg-purple-900 text-white">
+	<div class="hero-content text-center flex-col max-w-3xl">
+		<h2 class="text-4xl font-bold mb-4">The Story Behind Buttpluggies</h2>
+		<p class="mb-6 text-lg text-purple-200">
+			Discover how a hacker collective used the Huff language to bring oscilloscope visuals to life on Ethereum.
+			This video dives into the technical process, the chaos, and the art behind the Buttpluggy experiment.
+		</p>
+		<div class="w-full flex justify-center">
+			<div class="card card-xl shadow-xl glass md:min-w-xl">
+				<figure class="w-full aspect-video">
+					<iframe
+						class="w-full h-full rounded-xl"
+						src="https://www.youtube.com/embed/33pkkKa4d4A?si=lsUL8yJPTGro2U9d"
+						title="YouTube video player"
+						frameborder="0"
+						allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+						referrerpolicy="strict-origin-when-cross-origin"
+						allowfullscreen
+					></iframe>
+				</figure>
+			</div>
 		</div>
 	</div>
 </section>
