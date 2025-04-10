@@ -12,3 +12,4 @@ vite.config.ts.timestamp-*
 */target/wasm32-unknown-unknown/*
 */target/release/*
 */target/debug/*
+/.vercel/
