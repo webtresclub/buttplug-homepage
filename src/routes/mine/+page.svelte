@@ -318,162 +318,111 @@
 	<meta name="fc:frame:button:3:target" content="https://buttpluggy.com/mine" /> -->
 </svelte:head>
 
-<main class="container">
-	<article class="bg-gray-900">
-		<div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16">
-			<h1
-				class="mb-4 text-2xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl dark:text-white"
-			>
-				Mine your Buttpluggy
-			</h1>
-			<p class="mb-8 text-lg font-normal text-gray-500 dark:text-gray-400">
-				You must find a nonce that when encrypting it with your wallet address and a salt through <code
-					class="display-inline!important">keccak256(encodePacked(YOUR_WALLET,SALT,NONCE))</code
-				>
-				results in a <code>bytes32</code> hex that starts with {$difficulty} zeroes.
-			</p>
-			<div class="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">
-				{#if !$account}
-					<p>First connect your wallet</p>
-					<button
-						on:click={() => {
-							$modal.open();
-						}}
-						class="blue-connect-btn"
-					>
-						Connect
-					</button>
-				{/if}
-			</div>
-			<hr />
-			{#if $account}
-				<div class="mt-6 p-4 mx-auto text-left font-mono">
-					{#if deltaChange > 0}
-						<span class="text-red-500">
-							Difficulty decrease in: {secondsToDayHMS(deltaChange)}
-						</span>
-						<br />
-					{/if}
-					Total Minted: {$totalMinted}/1024<br />
-					User wallet: {$account}<br />
+<div class="max-w-5xl mx-auto p-6">
+	<div class="prose dark:prose-invert">
+		<h1 class="text-4xl font-bold">Mine your Buttpluggy</h1>
+		<p class="text-lg">
+			You must find a nonce such that <code>keccak256(encodePacked(YOUR_WALLET, SALT, NONCE))</code>
+			results in a
+			<code>bytes32</code> hash starting with <strong>{$difficulty}</strong> zeroes.
+		</p>
+	</div>
 
-					Current difficulty: {$difficulty}<br />
-					Current salt: {$salt}<br />
-					<!-- Min 1 worker Max cores.length-->
-					<div class="flex items-center mx-auto mb-1">
-						Workers:
-						<span on:click={() => (coresSelected == 1 ? 1 : coresSelected--)} class="core-button"
-							>-</span
-						>
-						{coresSelected}
-						<span
-							on:click={() => (coresSelected == totalCores ? totalCores : coresSelected++)}
-							class="core-button">+</span
-						>
-					</div>
-				</div>
-				<br />
-				{#if globalStatus == 'idle'}
-					<button
-						on:click={() => {
-							mineToggle();
-						}}
-						class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900"
-					>
-						Start mine
-					</button>
-				{:else}
-					<button
-						on:click={() => {
-							mineToggle();
-						}}
-						class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-gray-900 rounded-lg border border-gray-300 hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800"
-					>
-						Stop mining
-					</button>
-				{/if}
-				<button
-					on:click={() => {
-						useNonce();
-					}}
-					class="bg-transparent inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-gray-900 rounded-lg border border-gray-300 hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800"
-				>
-					Use a nonce
-				</button>
+	{#if !$account}
+		<div class="mt-4">
+			<button class="btn btn-primary" on:click={() => $modal.open()}>Connect Wallet</button>
+		</div>
+	{/if}
+
+	{#if $account}
+		<div class="mt-6 bg-base-200 rounded-xl p-4 space-y-2">
+			{#if deltaChange > 0}
+				<p class="text-warning">Difficulty decrease in: {secondsToDayHMS(deltaChange)}</p>
 			{/if}
+			<p>Total Minted: {$totalMinted}/1024</p>
+			<p>User wallet: {$account}</p>
+			<p>Current difficulty: {$difficulty}</p>
+			<p>Current salt: {$salt}</p>
+			<div class="flex items-center gap-2">
+				<span>Workers:</span>
+				<button class="btn btn-xs" on:click={() => (coresSelected == 1 ? 1 : coresSelected--)}
+					>-</button
+				>
+				<span>{coresSelected}</span>
+				<button
+					class="btn btn-xs"
+					on:click={() => (coresSelected == totalCores ? totalCores : coresSelected++)}>+</button
+				>
+			</div>
 		</div>
 
+		<div class="mt-6 flex gap-2 flex-wrap">
+			{#if globalStatus == 'idle'}
+				<button class="btn btn-primary" on:click={mineToggle}>Start Mining</button>
+			{:else}
+				<button class="btn btn-outline btn-error" on:click={mineToggle}>Stop Mining</button>
+			{/if}
+			<button class="btn btn-outline" on:click={useNonce}>Use a nonce</button>
+		</div>
+	{/if}
+
+	<div class="mt-8 space-y-4">
 		{#each workers as w, i}
-			<div class="font-mono">
+			<div class="text-sm font-mono">
 				{#if w.hashPerSecond > 0}
 					Worker{i} speed: <NumberTween currentNumber={w.hashPerSecond} /> hash/sec
 					{#if w.status == 'stop'}
-						- <span class="bg-red-600">STOPPED</span>
-					{/if}
+						- <span class="text-error">STOPPED</span>{/if}
 				{:else}
-					<span class="font-bold text-green-400">Worker{i} Starting</span>
+					<span class="text-success font-bold">Worker{i} Starting</span>
 				{/if}
 			</div>
 		{/each}
-		{#if workers.length > 0 && workers[0].hashPerSecond > 0}
-			<div class="font-mono text-white">
-				Total speed: {Math.floor(totalSpeed / 1000)} KH/s<br />
-				Expect to mine one in {secondsToDayHMS(expectedTime)} (aprox based con current hashrate)<br
-				/>
-				Time elapsed: {secondsToDayHMS(globalElapsed / 1000)}
-			</div>
-		{/if}
+	</div>
 
+	{#if workers.length > 0 && workers[0].hashPerSecond > 0}
+		<div class="mt-4 font-mono text-sm">
+			Total speed: {Math.floor(totalSpeed / 1000)} KH/s<br />
+			Expected time: {secondsToDayHMS(expectedTime)}<br />
+			Time elapsed: {secondsToDayHMS(globalElapsed / 1000)}
+		</div>
+	{/if}
+
+	<div class="mt-8 grid grid-cols-2 md:grid-cols-4 gap-6">
 		{#each results as data}
-			<div class="font-mono">
-				Buttpluggy id: {data.buttplug} - Nonce: {data.nonce}
-			</div>
-			<div class="w-52">
-				<img
-					src="/images/{('0000' + data.buttplug).slice(-4)}.gif"
-					class="w-52 h-52"
-					alt="Buttplug {data.buttplug}"
-				/>
-				<button
-					disabled={data.owner != '0x0000000000000000000000000000000000000000'}
-					class="rounded-b-lg w-52 bg-blue-500 text-white p-2 text-center cursor-pointer select-none"
-					on:click={() => {
-						mintButtplug(data.nonce);
-					}}>Mint Buttpluggy #{data.buttplug}</button
-				>
-			</div>
-			{#if data && data?.owner != '0x0000000000000000000000000000000000000000'}
-				<p>
-					Already minted by <a href="https://etherscan.io/address/{data.owner}" target="_blank"
-						>{data.owner}</a
+			<div class="card bg-base-200 shadow-md">
+				<figure>
+					<img
+						src={`/images/${('0000' + data.buttplug).slice(-4)}.gif`}
+						alt="Buttplug {data.buttplug}"
+					/>
+				</figure>
+				<div class="card-body">
+					<a href="/buttpluggy/{data.buttplug}" target="_blank" class="card-title"
+						>Buttpluggy #{data.buttplug}</a
 					>
-				</p>
-			{/if}
-			<hr />
+					<p class="font-mono text-sm overflow-auto">Nonce: {data.nonce}</p>
+					{#if data.owner == '0x0000000000000000000000000000000000000000'}
+						<button class="btn btn-primary" on:click={() => mintButtplug(data.nonce)}>Mint</button>
+					{:else}
+						<p class="text-sm text-white/60">
+							Already minted by <a
+								href={`https://etherscan.io/address/${data.owner}`}
+								target="_blank"
+								class="link">{data.owner}</a
+							>
+						</p>
+					{/if}
+				</div>
+			</div>
 		{/each}
-	</article>
-</main>
+	</div>
+</div>
 
 <style>
 	@reference "../../app.css";
-	.core-button {
-		@apply rounded border border-slate-500 w-6 h-6 text-center mx-1 cursor-pointer select-none;
-	}
-	.core-button:hover {
-		@apply bg-slate-500 text-white;
-	}
-	.blue-connect-btn {
-		@apply inline-flex justify-center items-center py-3 px-5 
-		text-base font-medium text-center text-white rounded-lg 
-		bg-blue-700;
-	}
-	.blue-connect-btn:hover {
-		@apply bg-blue-800;
-	}
-	.blue-connect-btn:focus {
-		@apply ring-4 ring-blue-300;
-	}
-	.blue-connect-btn:dark:focus {
-		@apply ring-blue-900;
+
+	code {
+		@apply text-sm bg-base-300 px-1 rounded;
 	}
 </style>

@@ -51,8 +51,7 @@ export function initWeb3() {
 		if (addressAccount) account.set(addressAccount as `0x${string}`);
 	});
 
-	_modal.subscribeState((newState) => console.log({newState}));
-
+	_modal.subscribeState((newState) => console.log({ newState }));
 
 	modal.set(_modal);
 	config.set(wagmiAdapter.wagmiConfig);
