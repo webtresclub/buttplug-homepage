@@ -24,8 +24,6 @@
 	export let data: PageData;
 	const GRAPHQL_URL = 'https://api.studio.thegraph.com/proxy/67825/buttpluggy/version/latest/';
 
-	import { onMount } from 'svelte';
-
 	let userOnMerkle = false;
 	let idsArr: string[] = [];
 	let lastIds: [string, string][] = [];
@@ -134,172 +132,62 @@
 	<!-- Meta Tags Generated via https://www.opengraph.xyz -->
 </svelte:head>
 
-<div class="hero" data-theme="dark">
-	<div class="text-justify p-8 mx-auto max-w-4xl">
-		<p class="text-lg mb-6">
-			<span class="font-semibold">1024</span> unique collectible oscilloscope visuals with proof of
-			ownership preserved on the Ethereum blockchain. Presented by the <b>WebtrES</b> community, the
-			Buttpluggy (huffplug) project is a trailblazer in the next chapter of CryptoArt evolution.
+<!-- Hero -->
+<section class="hero min-h-[85vh] bg-cyan-800 text-center">
+	<div class="hero-content flex-col">
+		<img src="/favicon.gif" alt="Buttpluggy Logo" class="w-20 h-20 animate-bounce" />
+		<h1 class="text-5xl font-bold tracking-tight">Buttpluggy NFTs</h1>
+		<p class="py-6 max-w-2xl text-lg">
+			<span class="font-semibold">1,024</span> degenerately adorable oscilloscope artworks, minted
+			on Ethereum using <span class="font-bold">Huff</span>. Crafted by the
+			<b>Webtr3s</b> community, pushing pixel art into on-chain realms. No utility. Pure pleasure.
 		</p>
-		<p class="text-lg mb-6">
-			As one of the pioneering projects utilizing the <span class="font-semibold">Huff</span>
-			programming language, Buttpluggy stand as a testament to innovation and craftsmanship in the world
-			of "Non-Fungible Tokens". Meticulously designed with the
-			<span class="font-semibold">Huffmate</span>
-			libraries, these tokens represent a fusion of artistry and technical prowess.
-		</p>
-		<p class="text-lg mb-6">
-			Since their inception by the Spanish-speaking hacker collective, Buttpluggy have garnered
-			attention and admiration. Paying homage to the traditions set by iconic predecessors like
-			CryptoPunks, while also setting new standards and benchmarks, they are a must-have in any
-			digital art enthusiast's collection.
-		</p>
-		<p class="text-lg">
-			Join us in this journey as we redefine the boundaries of art and technology, one Buttpluggy at
-			a time.
-		</p>
-		<div>
-			{#if !$loadReady}
-				<!-- <p>Loading wallect connect...</p>-->
-			{:else if !$account}
-				<p>First connect your wallet</p>
-				<button
-					on:click={() => {
-						$modal.open();
-					}}
-					class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900"
-					>Connect</button
-				>
-			{:else}
-				{#if userOnMerkle && canClaim}
-					<span class="text-xl font-bold">
-						Congratulations, you are in the merkle tree and can mint without mining:
-					</span><br />
-				{/if}
-
-				<div class="flex items-center">
-					<a href="/mine" role="button">Mine your Buttpluggy</a>
-					<a
-						href="/claim"
-						class="ml-2"
-						class:opacity-50={!canClaim}
-						class:cursor-not-allowed={!canClaim}
-						role="button">Claim</a
-					>
-					<a href="/gallery" class="ml-2" role="button">Your Buttpluggies</a>
-					<a href="/attributes" class="ml-2" role="button">Gallery</a>
-				</div>
+		<div class="flex gap-4">
+			<a href="/mine" class="btn btn-primary">🌱 Mine your Buttpluggy</a>
+			<a href="/attributes" class="btn btn-outline">🖼 View Collection</a>
+			{#if canClaim}
+				<a href="/claim" class="btn btn-outline">🎁 Claim your Buttpluggy</a>
 			{/if}
 		</div>
 	</div>
-</div>
+</section>
 
-<hr />
-<main class="container">
-	{#if lastIds.length}
-		<h3>These are the latest Buttpluggies</h3>
+<!-- About -->
+<section class="py-16 px-4 bg-base-100">
+	<div class="max-w-4xl mx-auto space-y-10 text-left">
+		<h2 class="text-3xl font-bold">What makes them special?</h2>
+		<p class="text-lg">
+			Each Buttpluggy is a unique visual encoded in low-level Huff, rendered as oscilloscope-style
+			art, and permanently stored on IPFS. It’s raw, generative, and on-chain—true crypto art with
+			no fluff.
+		</p>
 
-		<div class="space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-12 md:space-y-0">
-			{#each lastIds as id}
-				<a href="/buttpluggy/{id[0]}">
-					<div class="card mx-auto">
-						<div class="card__image">
-							<img
-								width="276"
-								height="276"
-								src="/images/{('00000' + id[0]).slice(-4)}.gif"
-								alt={traits[String(id[0])]}
-							/>
-						</div>
-						<div class="card__content">
-							<h3>Buttplugy #{id[0]}</h3>
-							<small>Minted by {id[1].slice(0, 6) + '...' + id[1].slice(-4)}</small>
-						</div>
-					</div>
-				</a>
-			{/each}
-		</div>
-	{/if}
+		<h2 class="text-3xl font-bold">Why Huff?</h2>
+		<p class="text-lg">
+			Huff lets us write ultra-efficient smart contracts. Buttpluggies aren’t just art—they're
+			gas-optimized bytecode masterpieces, signed and sealed on Ethereum.
+		</p>
 
-	<hr />
-	<article>
-		<div class=" p-8 mx-auto max-w-4xl">
-			<h2 class="text-2xl font-bold mb-4">What is a Buttplug?</h2>
-			<p class="text-lg mb-6">
-				Buttpluggies are intricate visual representations of oscilloscopes, shaped by algorithmic
-				designs. While many display complex waveform patterns, some unique Buttplugs showcase unique
-				aesthetics, influenced by digital artistry and the hacker spirit. Each one has a distinct
-				profile page detailing its features, ownership, and sale status.
-			</p>
+		<h2 class="text-3xl font-bold">How to get one?</h2>
+		<ol class="list-decimal list-inside text-lg space-y-2">
+			<li>Connect your wallet (like MetaMask).</li>
+			<li>Check if you're whitelisted (owning 2+ Webtr3s POAPs helps).</li>
+			<li>Mine a Buttpluggy by solving a proof-of-work hash puzzle.</li>
+			<li>Claim and flex your Buttpluggy.</li>
+		</ol>
 
-			<h2 class="text-2xl font-bold mb-4">What's the background?</h2>
-			<p class="text-lg mb-6">
-				While cryptocurrencies like Bitcoin revolutionized digital transactions, Ethereum expanded
-				these possibilities by allowing immutable, decentralized execution of complex code. This
-				innovation powers our Buttpluggies. Developed on Ethereum using the Huff programming
-				language and the Huffmate libraries, the Buttpluggy contract provides a transparent and
-				trustless method to trade and own these unique tokens. The code is not just stored; it's
-				brought to life on the blockchain, ensuring everyone can validate its fair execution.
-			</p>
-			<h2 class="text-2xl font-bold mb-4">How do I acquire a Buttpluggy?</h2>
-			<ul class="text-lg mb-6 list-disc pl-8">
-				<li>
-					Start by downloading and setting up a Web3 browser extension, such as MetaMask. This will
-					connect websites (upon your authorization) to your Ethereum wallet.
-				</li>
-				<li>
-					If it's a new account, make sure to purchase some $ETH. MetaMask provides an easy way to
-					buy $ETH from platforms like Coinbase.
-				</li>
-				<li>
-					If you possess two or more POAPs from the WebtrES community, you might be whitelisted to
-					mint a Buttpluggy directly. Check your eligibility on our platform.
-				</li>
-				<li>
-					Alternatively, you can also mine a Buttpluggy. The minting process involves generating a
-					nonce that, when hashed, meets specific criteria (like a prefixed number of zeros). The
-					difficulty for this task varies, based on the days elapsed since the contract deployment
-					and the number of Buttplugs already minted, making it similar to the MoonCats rescue
-					mechanism.
-				</li>
-				<li>
-					Once the extension is active and you've verified your eligibility or mined a Buttpluggy,
-					our website will provide interfaces enabling you to bid, buy, or sell Buttplugs
-					seamlessly.
-				</li>
-			</ul>
+		<h2 class="text-3xl font-bold">Join the community</h2>
 
-			<h2 class="text-2xl font-bold mb-4">Frequently Asked Questions</h2>
+		<h2 class="text-3xl font-bold">Open source</h2>
+		<p class="text-lg">
+			We believe in transparency. <a href="https://github.com/webtresclub/huffplug">Our code</a> is open-source,
+			allowing anyone to verify and contribute. Buttpluggies are not just collectibles; they’re a movement.
+		</p>
+	</div>
+</section>
 
-			<h3 class="text-xl mb-3">Where are the visuals for the Buttplugs stored?</h3>
-			<p class="text-lg mb-6">
-				The visuals for the Buttplugs are stored on the InterPlanetary File System (IPFS), a
-				decentralized and distributed file system. By leveraging IPFS, we ensure that each
-				Buttpluggy visual is permanently accessible, resistant to censorship, and not reliant on any
-				single point of failure. Users can easily retrieve and verify their Buttpluggy visuals from
-				IPFS at any time.
-			</p>
-
-			<h3 class="text-xl mb-3">Are Buttplugs ERC-721 tokens?</h3>
-			<p class="text-lg mb-6">
-				Absolutely! Buttplugs are minted as ERC-721 tokens, adhering to the standards that govern
-				most collectible assets on the Ethereum blockchain.
-			</p>
-
-			<h3 class="text-xl mb-3">Are there any transaction fees?</h3>
-			<p class="text-lg mb-6">
-				No additional fees are levied for Buttpluggy transactions through our integrated
-				marketplace. However, standard Ethereum gas fees will apply.
-			</p>
-
-			<p class="text-lg mb-6">
-				For more insights into the technical specifics, feel free to explore the contract and its
-				associated code on <a
-					href="https://github.com/webtresclub/huffplug"
-					class="underline text-blue-500"
-					target="_blank">Github</a
-				>. For further inquiries, drop us an email at buttplugs@webtrES.io
-			</p>
-		</div>
-	</article>
-</main>
+<!-- CTA -->
+<section class="bg-base-200 py-12 text-center">
+	<h2 class="text-2xl font-bold mb-4">Ready to mint yours?</h2>
+	<a href="/mine" class="btn btn-accent btn-wide text-lg">🚀 Launch the Miner</a>
+</section>

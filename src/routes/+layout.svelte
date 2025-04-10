@@ -1,5 +1,4 @@
 <script lang="ts">
-	import '@picocss/pico';
 	import '../app.css';
 
 	import { onMount } from 'svelte';
@@ -7,6 +6,8 @@
 	import { dev } from '$app/environment';
 	import { initWeb3 } from '../lib/store';
 
+	import Header from './Header.svelte';
+	// import Footer from './Footer.svelte';
 	onMount(() => {
 		initWeb3();
 	});
@@ -28,47 +29,66 @@
 	{/if}
 </svelte:head>
 
-<div class="flex flex-col min-h-screen">
-	<header class="backdrop-blur-md border-b border-b-slate-800" style="background: #0b0d10">
-		<div class="container flex justify-between py-2">
-			<div class="flex flex-block py-2 items-center">
-				<div class="w-10 h-10">
-					<img src="/favicon.gif" alt="Buttpluggy" class="mr-1" />
+<div class="min-h-screen flex flex-col bg-base-100 text-base-content font-sans">
+	<Header />
+
+	<!-- El contenido principal se inyecta acá -->
+	<slot />
+
+	<!--<Footer />-->
+	<!-- src/lib/components/Footer.svelte -->
+	<footer class="mt-0 bg-[#0b0d10] text-white/70 text-[0.84rem] tracking-[1px]">
+		<div class="container mx-auto px-4 py-8">
+			<div class="flex flex-col divide-y divide-white/10 space-y-4">
+				<div class="flex flex-col md:flex-row md:justify-between md:items-center gap-2 py-2">
+					<div class="text-white/30">SOCIALS</div>
+					<div class="flex flex-wrap gap-x-4">
+						<a href="https://twitter.com/webtresclub" target="_blank">𝕏 / Twitter</a>
+						<a href="https://github.com/webtresclub/huffplug" target="_blank">GitHub</a>
+					</div>
 				</div>
-				<hgroup class="m-0">
-					<h1 class="text-2xl"><a href="/">Buttplugs <small class="text-xs">(UwU)</small></a></h1>
-					<p class="hidden lg:inline"><span class="text-sm">A Huff NFT collection</span></p>
-				</hgroup>
+
+				<div class="flex flex-col md:flex-row md:justify-between md:items-center gap-2 py-2">
+					<div class="text-white/30">PLATFORM</div>
+					<div class="flex flex-wrap gap-x-4">
+						<a href="/mine">Mine</a>
+						<a href="/claim">Claim</a>
+						<a href="/attributes">Attributes</a>
+					</div>
+				</div>
+
+				<div class="flex flex-col md:flex-row md:justify-between md:items-center gap-2 py-2">
+					<div class="text-white/30">COLLECTION</div>
+					<div class="flex flex-wrap gap-x-4">
+						<a href="https://opensea.io/collection/buttpluggy" target="_blank">OpenSea</a>
+						<a href="/about">About</a>
+						<a href="/faq">FAQ</a>
+					</div>
+				</div>
+
+				<div class="flex flex-col md:flex-row md:justify-between md:items-center gap-2 py-2">
+					<div class="text-white/30">LEGAL</div>
+					<div class="flex flex-wrap gap-x-4">Code licensed MIT, docs CC BY-SA 4.0.</div>
+				</div>
 			</div>
-			<nav>
-				<ul class="text-xs lg:text-sm" style="list-style: none">
-					<li><a href="/mine"><span class="hidden lg:inline">🌱 </span>Mint</a></li>
-					<li class="hidden lg:inline">
-						<a href="https://opensea.io/collection/buttpluggy" target="_blank">🌊 OpenSea</a>
-					</li>
-					<li class="hidden md:inline">
-						<a href="https://github.com/webtresclub/huffplug/tree/main/src" target="_blank">
-							<span class="hidden lg:inline">💻 </span>Source Code</a
-						>
-					</li>
-					<li>
-						<w3m-button></w3m-button>
-					</li>
-				</ul>
-			</nav>
+
+			<div
+				class="mt-6 text-white/30 text-[0.7rem] flex flex-col md:flex-row md:justify-between md:items-center"
+			>
+				<span>Buttpluggy © {new Date().getFullYear()}</span>
+				<span class="hidden md:inline px-2">–</span>
+				<span class="mt-1 md:mt-0">A WebtrES Club Project</span>
+			</div>
 		</div>
-	</header>
+	</footer>
 
-	<main class="flex-grow">
-		<slot />
-	</main>
-
+	<!--
 	<footer>
 		<div class="container border-t border-slate-700 pt-4 mt-2">
 			<section>
-				<!-- <h1>Buttplug!</h1> -->
+				< !-- <h1>Buttplug!</h1> -- >
 				<nav class="links">
-					<!--
+					< !--
           TODO: Add a link to the latest release
           this code has been inspired by pico css homepage
         <ul>
@@ -107,7 +127,7 @@
               target="_blank">React</a></li>
           <li><a class="secondary" href="/examples">All</a></li>
         </ul>
-        -->
+        -- >
 				</nav>
 				<p class="build-info">
 					Designed by <a
@@ -168,179 +188,10 @@
 			</section>
 			<section>
 				<p>
-					Code licensed
-					<!--<a rel="noopener noreferrer" class="secondary" href="/LICENSE.md" target="_blank">MIT</a>-->
-					MIT, docs CC BY-SA 4.0.
+
 				</p>
 			</section>
 		</div>
 	</footer>
+-->
 </div>
-
-<style>
-	@reference "../app.css";
-
-	:root {
-		--pico-primary: #ffffffd0;
-		--pico-primary-hover: #fff;
-	}
-
-	footer .container section:first-of-type {
-		display: grid;
-		grid-template-areas: 'logo' 'links' 'resources' 'built';
-		-moz-column-gap: calc(var(--pico-spacing) * 2);
-		column-gap: calc(var(--pico-spacing) * 2);
-		row-gap: calc(var(--pico-spacing) * 2);
-		justify-content: stretch;
-		font-size: 14px;
-	}
-
-	@media (min-width: 768px) {
-		footer .container section:first-of-type {
-			grid-template-columns: auto 1fr;
-			grid-template-areas: 'logo links' 'built built' 'resources resources';
-			row-gap: calc(var(--pico-spacing) * 2);
-			justify-content: space-around;
-		}
-	}
-
-	@media (min-width: 1024px) {
-		footer .container section:first-of-type {
-			grid-template-columns: 1fr 2fr;
-			grid-template-areas: 'logo links' 'built links' 'resources links';
-			row-gap: var(--pico-spacing);
-		}
-	}
-
-	@media (min-width: 1280px) {
-		footer .container section:first-of-type {
-			-moz-column-gap: calc(var(--pico-spacing) * 4);
-			column-gap: calc(var(--pico-spacing) * 4);
-		}
-	}
-
-	footer .container section:first-of-type svg.pico-icon {
-		grid-area: logo;
-	}
-
-	footer .container section:first-of-type nav.links {
-		--pico-nav-element-spacing-vertical: 0.125rem;
-		--pico-nav-link-spacing-vertical: 0.125rem;
-		display: grid;
-		grid-template-columns: 1fr 1fr;
-		-moz-column-gap: calc(var(--pico-spacing) * 3);
-		column-gap: calc(var(--pico-spacing) * 3);
-		row-gap: calc(var(--pico-spacing) * 2);
-		grid-area: links;
-		align-items: start;
-		width: -moz-fit-content;
-		width: fit-content;
-	}
-
-	@media (min-width: 576px) {
-		footer .container section:first-of-type nav.links {
-			-moz-column-gap: calc(var(--pico-spacing) * 6);
-			column-gap: calc(var(--pico-spacing) * 6);
-		}
-	}
-
-	@media (min-width: 768px) {
-		footer .container section:first-of-type nav.links {
-			grid-template-columns: 1fr 1fr 1fr 1fr;
-			-moz-column-gap: calc(var(--pico-spacing) * 2);
-			column-gap: calc(var(--pico-spacing) * 2);
-			justify-content: flex-end;
-			width: 100%;
-		}
-	}
-
-	@media (min-width: 1024px) {
-		footer .container section:first-of-type nav.links {
-			margin-left: auto;
-		}
-	}
-
-	@media (min-width: 1280px) {
-		footer .container section:first-of-type nav.links {
-			-moz-column-gap: calc(var(--pico-spacing) * 4);
-			column-gap: calc(var(--pico-spacing) * 4);
-			margin-left: auto;
-		}
-	}
-
-	footer .container section:first-of-type nav.links ul {
-		display: grid;
-		margin-inline: calc(var(--pico-nav-element-spacing-horizontal) * -1);
-	}
-
-	footer .container section:first-of-type nav.links ul li {
-		display: block;
-	}
-
-	footer .container section:first-of-type nav.links ul li strong a {
-		color: currentColor;
-	}
-
-	footer .container section:first-of-type p.build-info {
-		grid-area: built;
-		margin-bottom: 0;
-		color: var(--pico-muted-color);
-		text-wrap: balance;
-	}
-
-	footer .container section:first-of-type ul.resources {
-		display: grid;
-		grid-template-columns: repeat(4, 1fr);
-		-moz-column-gap: calc(var(--pico-spacing) / 2);
-		column-gap: calc(var(--pico-spacing) / 2);
-		grid-area: resources;
-		width: -moz-fit-content;
-		width: fit-content;
-		margin-bottom: 0;
-		padding: 0;
-	}
-
-	footer .container section:first-of-type ul.resources li {
-		margin: 0;
-		list-style: none;
-	}
-
-	footer .container section:first-of-type ul.resources li svg {
-		display: inline-block;
-		width: auto;
-		height: 1rem;
-	}
-
-	footer .container section:first-of-type ul.resources li svg.icon-npm {
-		transform: scale(1.5);
-		transform-origin: left;
-	}
-
-	footer .container section:last-of-type {
-		margin-block: calc(var(--pico-spacing) * 2);
-		padding-top: calc(var(--pico-spacing) * 2);
-		border-top: var(--pico-border-width) solid var(--pico-muted-border-color);
-		font-size: 12px;
-	}
-
-	footer .container section:last-of-type p {
-		margin-bottom: 0;
-		color: var(--pico-muted-color);
-	}
-
-	@media (min-width: 576px) {
-		footer .container section:last-of-type p {
-			display: inline;
-		}
-
-		footer .container section:last-of-type p:not(:first-of-type) {
-			margin-inline-start: calc(var(--pico-spacing) / 2);
-		}
-	}
-
-	footer .container section:last-of-type p code {
-		padding: 0;
-		background-color: transparent;
-		font-size: 1em;
-	}
-</style>
