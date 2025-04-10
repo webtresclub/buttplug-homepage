@@ -143,10 +143,10 @@
 			<b>Webtr3s</b> community, pushing pixel art into on-chain realms. No utility. Pure pleasure.
 		</p>
 		<div class="flex gap-4">
-			<a href="/mine" class="btn btn-primary">🌱 Mine your Buttpluggy</a>
-			<a href="/attributes" class="btn btn-outline">🖼 View Collection</a>
+			<a href="/mine" class="btn btn-primary btn-xl">🌱 Mine your Buttpluggy</a>
+			<a href="/attributes" class="btn btn-outline btn-xl">🖼 View Collection</a>
 			{#if canClaim}
-				<a href="/claim" class="btn btn-outline">🎁 Claim your Buttpluggy</a>
+				<a href="/claim" class="btn btn-outline btn-xl">🎁 Claim your Buttpluggy</a>
 			{/if}
 		</div>
 	</div>
