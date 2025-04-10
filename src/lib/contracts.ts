@@ -1,5 +1,11 @@
 import { config, chainId } from './store';
-import { readContract, writeContract, multicall, watchContractEvent, getChainId } from '@wagmi/core';
+import {
+	readContract,
+	writeContract,
+	multicall,
+	watchContractEvent,
+	getChainId
+} from '@wagmi/core';
 
 import { parseAbi } from 'viem';
 
@@ -125,7 +131,10 @@ export async function getTimestamp() {
 	const wagmiConfig = get(config);
 	if (!wagmiConfig) throw new Error('wagmiConfig not found');
 	const data = await readContract(wagmiConfig, {
-		address: get(chainId) === 11155111n ? '0x25Eef291876194AeFAd0D60Dff89e268b90754Bb' : '0xeefBa1e63905eF1D7ACbA5a8513c70307C1cE441', // makerdao multicall
+		address:
+			get(chainId) === 11155111n
+				? '0x25Eef291876194AeFAd0D60Dff89e268b90754Bb'
+				: '0xeefBa1e63905eF1D7ACbA5a8513c70307C1cE441', // makerdao multicall
 		abi: [
 			{
 				inputs: [],
