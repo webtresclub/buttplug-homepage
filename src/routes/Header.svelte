@@ -45,12 +45,12 @@
 
 	<!-- Desktop Nav -->
 	<nav class="flex-none gap-2 hidden sm:flex">
-		<a href="/mine" class="btn btn-sm btn-ghost">🌱 Mint</a>
-		<a href="/attributes" class="btn btn-sm btn-ghost">🖼 Gallery</a>
-		<a href="https://opensea.io/collection/buttpluggy" target="_blank" class="btn btn-sm btn-ghost"
+		<a href="/mine" class="btn btn-sm lg:btn-lg btn-ghost">🌱 Mint</a>
+		<a href="/attributes" class="btn btn-sm lg:btn-lg btn-ghost">🖼 Gallery</a>
+		<a href="https://opensea.io/collection/buttpluggy" target="_blank" class="btn btn-sm lg:btn-lg btn-ghost"
 			>🌊 OpenSea</a
 		>
-		<a href="https://github.com/webtresclub/huffplug" target="_blank" class="btn btn-sm btn-ghost"
+		<a href="https://github.com/webtresclub/huffplug" target="_blank" class="btn btn-sm lg:btn-lg btn-ghost"
 			>💻 GitHub</a
 		>
 	</nav>
