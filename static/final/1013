@@ -1,0 +1,29 @@
+{
+  "description": "Shady Pixelbot hails from the depths of the Silicon Forest, a digital realm where the trees are circuit boards and the rivers run with pure data. With his forest green exterior, he blends seamlessly into the lush, pixelated undergrowth. Classic buttons gleam on his chest, a clear sign of his love for the traditional ways of his ancestors, who computed in the era of floppy disks and dial-up modems. His arms are always open in a warm, albeit angular, welcome, ready to assist any lost traveler seeking guidance through the maze of information. Shady Pixelbot sports a pair of sleek shades, a token from an old friend and a reminder that despite the brightness of the screen, one must always keep cool under the glare of incoming data. Whether he's dancing to the rhythm of binary beats or deciphering ancient code, Shady Pixelbot is a true legend in the WebtrES club, always ready to lend a hand or a humorous quip, a pixelated friend in a high-definition world.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/1013",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/1013.gif",
+  "name": "Shady Pixelbot",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Forestgreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Handdown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ],
+  "animation_url": "https://buttplugs.org/assets/4115"
+}

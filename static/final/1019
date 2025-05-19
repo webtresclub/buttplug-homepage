@@ -1,0 +1,25 @@
+{
+  "description": "From the digital depths of the WebtrES club, Catalyst Foundry emerges with a striking rossoCorsa exterior and a heart of pixelated feline charm. This NFT, known for its unique screen that always displays a watchful cat's gaze, symbolizes the agility and curiosity of its animated spirit animal. Crafted with arms and legs from the toughest materials in the virtual foundry, Catalyst Foundry is not only a collector's delight but also a symbol of resilience and adaptability in the fast-paced meta world. Whether wielding a hammer or adjusting to the latest trends, this digital denizen is ready to tackle any challenge in the ever-evolving landscape of the internet.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/1019",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/1019.gif",
+  "name": "Catalyst Foundry",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Rossocorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    }
+  ],
+  "animation_url": "https://buttplugs.org/assets/4121"
+}

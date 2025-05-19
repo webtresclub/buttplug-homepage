@@ -1,0 +1,29 @@
+{
+  "description": "Hailing from the gritty pixelated backstreets of Gamerville, Sergeant Whiskerbyte is a veteran of many console wars. With a classic box chassis equipped with a retro console interface, he commands respect from every corner of the digital realm. His arms and legs are reinforced with soldier-grade pixel armor, allowing him to navigate through the toughest code skirmishes. The cat screen face is a tribute to his nine lives spent debugging the most challenging software operations. Topping off his battle-hardened appearance is a sturdy helmet, symbolizing his readiness for any virtual combat. Despite his tough exterior, Sergeant Whiskerbyte's heart hums to the nostalgic tunes of 8-bit anthems, and he's always ready to lend a helping hand or claw to a fellow WebtrES club member in need.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/1015",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/1015.gif",
+  "name": "Sergeant Whiskerbyte",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Retroconsole"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Helmet"
+    }
+  ],
+  "animation_url": "https://buttplugs.org/assets/4117"
+}

@@ -1,0 +1,25 @@
+{
+  "description": "Hailing from the technologically advanced city of Meowtropolis, Catalystic Pixel is a rare hybrid of feline agility and digital prowess. Once the mainframe supervisor of the city's central computer, Catalystic Pixel gained sentience through a mysterious power surge which imbued it with the personality of a curious and playful cat. Now a member of the prestigious WebtrES club, Catalystic Pixel navigates the digital landscape with the grace of a cat and the precision of a computer, always on the lookout for new adventures and a warm motherboard to curl up on.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/1010",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/1010.gif",
+  "name": "Catalystic Pixel",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Classic"
+    }
+  ],
+  "animation_url": "https://buttplugs.org/assets/4112"
+}

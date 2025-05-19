@@ -1,0 +1,29 @@
+{
+  "description": "Once a decorated soldier in the Meowtary Forces, Sergeant WhiskerBlast was known for his bravery and indomitable spirit. After a fierce battle that left his screen cracked, he was honorably discharged. Unwilling to retire quietly, he equipped himself with rocket arms and legs, ensuring he could still zoom into action whenever needed. His signature shades, a token from his last mission, hide the scars of war but not the fierce determination in his eyes. He now leads a vigilante group known as the WebtrES Club, defending the digital frontier against cyber threats with his cat-like reflexes and explosive agility.",
+  "external_url": "https://www.buttpluggy.com/buttpluggy/1001",
+  "image": "ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ/1001.gif",
+  "name": "Sergeant WhiskerBlast",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Arms and legs",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Shades"
+    }
+  ],
+  "animation_url": "https://buttplugs.org/assets/4097"
+}
