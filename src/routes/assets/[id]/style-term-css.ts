@@ -1,5 +1,4 @@
-
-    *{margin:0;padding:0;box-sizing:border-box}
+const style = `*{margin:0;padding:0;box-sizing:border-box}
     html,body{height:100%;width:100%;background:#000;font-family:monospace;overflow:hidden}
 
     /* splash container fills the whole window */
@@ -107,4 +106,6 @@
 
             #cmd:focus {
                 outline: 0
-            }
+            }`;
+
+            export default style;

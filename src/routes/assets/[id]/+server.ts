@@ -2,17 +2,12 @@ import { error } from '@sveltejs/kit';
 import data from '$lib/data.json';
 import attributes from '$lib/attributes-group.json';
 
-import fs from 'fs';
-import { cwd } from 'process';
-
-
-const style = fs.readFileSync(cwd()+'/static/style-term.css', 'utf8');
-const termJS = fs.readFileSync(cwd()+'/static/term.js', 'utf8');
+import styleTerm from './style-term-css';
+import termJS from './term';
 
 
 /** @type {import('./$types').RequestHandler} */
 export async function GET({ request, params }) {
-
 	const id = parseInt(params.id || '0');
 	const validId = id > 0 && id < 1025;
 	if (!validId) {
@@ -21,14 +16,12 @@ export async function GET({ request, params }) {
 
     const fullId = ('00000'+id).slice(-4);
 
-
-console.log(cwd())
     const html = `<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8"/>
 <title>Pluggy Splash</title>
-<style>${style}</style>
+<style>${styleTerm}</style>
 </head>
 <body>
 <div id="splash">
