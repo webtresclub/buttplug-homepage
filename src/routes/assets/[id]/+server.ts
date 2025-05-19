@@ -4,8 +4,8 @@ import minify from '@node-minify/core';
 import htmlMinifier from '@node-minify/html-minifier';
 import cssnano from '@node-minify/cssnano';
 import babelMinify from '@node-minify/babel-minify';
-
-import { readFile } from 'node:fs/promises';
+import terminalCSS from './term-css';
+import termJS from './termJS';
 
 import data from '$lib/data.json';
 import attributes from '$lib/attributes-group.json';
@@ -13,17 +13,14 @@ import attributes from '$lib/attributes-group.json';
 let minifiedHtml: string | undefined;
 
 async function getHTML() {
-	const cssFileContents = await readFile('./static/term.css', 'utf8'); // Lee el archivo como texto
-
 	const minifiedCss = (await minify({
 		compressor: cssnano,
-		content: cssFileContents
+		content: terminalCSS
 	})) as string;
 
-	const jsFileContents = await readFile('./static/term.js', 'utf8'); // Lee el archivo como texto
 	const minifiedJS = (await minify({
 		compressor: babelMinify,
-		content: jsFileContents
+		content: termJS
 	})) as string;
 
 	const html = `<!DOCTYPE html>

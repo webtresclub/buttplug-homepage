@@ -1,3 +1,4 @@
+const styleCSS = `
 * {
 	margin: 0;
 	padding: 0;
@@ -153,3 +154,6 @@ body {
 #cmd:focus {
 	outline: 0;
 }
+`;
+
+export default styleCSS;

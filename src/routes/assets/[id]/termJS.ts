@@ -1,3 +1,4 @@
+const terminalJS = `
 function boot(fullId) {
 	const $ = (q) => document.querySelector(q);
 	const splash = $('#splash'),
@@ -48,14 +49,14 @@ function boot(fullId) {
 		wrap.style.display = 'block';
 		inp.focus();
 
-		const helpText = `Available commands: 
+		const helpText = \`Available commands: 
     help     - this message
     clear    - clear screen
     ping     - prints 'pong'
     gif      - re-show Pluggy
     clock    - show a large clock (Esc to return)
     screensaver - bouncing Pluggy logo
-    exit     - go back to idle splash`;
+    exit     - go back to idle splash\`;
 
 		/* NEW – allow rich inline HTML ------------------------------------ */
 		function printHTML(html) {
@@ -75,9 +76,9 @@ function boot(fullId) {
 		}
 
 		printImage('https://buttpluggy.com/images_small/' + fullId + '.png', 64);
-		printLine("Welcome to Pluggy OS!\nType 'help' to begin.");
+		printLine("Welcome to Pluggy OS!\\nType 'help' to begin.");
 
-		printLine('\nLinks');
+		printLine('\\nLinks');
 		printLink('OpenSea Collection', 'https://opensea.io/collection/buttpluggy');
 		printLink('Mint a Buttpluggy', 'https://buttpluggy.com/mine');
 
@@ -89,7 +90,7 @@ function boot(fullId) {
 		/* utilities */
 		function printLine(t) {
 			const div = document.createElement('div');
-			div.textContent = t + '\n';
+			div.textContent = t + '\\n';
 			out.appendChild(div);
 			out.scrollTop = out.scrollHeight;
 		}
@@ -239,3 +240,6 @@ function boot(fullId) {
 		});
 	}
 }
+`;
+
+export default terminalJS;
