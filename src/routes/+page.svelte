@@ -156,8 +156,9 @@
 	<div class="hero-content text-center flex-col max-w-3xl">
 		<h2 class="text-4xl font-bold mb-4">The Story Behind Buttpluggies</h2>
 		<p class="mb-6 text-lg text-purple-200">
-			Discover how a hacker collective used the Huff language to bring oscilloscope visuals to life on Ethereum.
-			This video dives into the technical process, the chaos, and the art behind the Buttpluggy experiment.
+			Discover how a hacker collective used the Huff language to bring oscilloscope visuals to life
+			on Ethereum. This video dives into the technical process, the chaos, and the art behind the
+			Buttpluggy experiment.
 		</p>
 		<div class="w-full flex justify-center">
 			<div class="card card-xl shadow-xl glass md:min-w-xl">

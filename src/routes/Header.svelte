@@ -8,7 +8,9 @@
 					<span class="font-bold">Buttplugs</span>
 					<small class="hidden lg:inline text-sm text-base-content/70 ml-1">(UwU)</small>
 				</h1>
-				<p class="text-xs hidden lg:inline md:text-sm text-base-content/60 -mt-1">A Huff NFT collection</p>
+				<p class="text-xs hidden lg:inline md:text-sm text-base-content/60 -mt-1">
+					A Huff NFT collection
+				</p>
 			</div>
 		</a>
 	</div>
@@ -24,7 +26,12 @@
 					viewBox="0 0 24 24"
 					stroke="currentColor"
 				>
-					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+					<path
+						stroke-linecap="round"
+						stroke-linejoin="round"
+						stroke-width="2"
+						d="M4 6h16M4 12h16M4 18h16"
+					/>
 				</svg>
 			</label>
 			<ul
