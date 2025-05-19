@@ -57,6 +57,6 @@
 
 	<!-- WalletConnect button -->
 	<div class="flex-none ml-4">
-		<w3m-button />
+		<w3m-button></w3m-button>
 	</div>
 </header>
