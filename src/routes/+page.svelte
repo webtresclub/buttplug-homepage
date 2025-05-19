@@ -135,7 +135,7 @@
 <!-- Hero -->
 <section class="hero min-h-[85vh] bg-cyan-800 text-center">
 	<div class="hero-content flex-col">
-		<img src="/favicon.gif" alt="Buttpluggy Logo" class="w-20 h-20 animate-bounce" />
+		<img src="/favicon.gif" alt="Buttpluggy Logo" class="w-20 animate-bounce" />
 		<h1 class="text-5xl font-bold tracking-tight">Buttpluggy NFTs</h1>
 		<p class="py-6 max-w-2xl text-lg">
 			<span class="font-semibold">1,024</span> degenerately adorable oscilloscope artworks, minted
