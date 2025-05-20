@@ -58,11 +58,15 @@
 	<div
 		class="w-full max-w-sm mx-auto bg-base-200 rounded-xl shadow-xl border border-base-300 overflow-hidden"
 	>
+		
+		<iframe class="w-full aspect-square object-cover" src="/assets/${id}" title={`Buttpluggy ${id} preview`}></iframe>
+		<!--
 		<img
 			class="w-full aspect-square object-cover"
 			src={`/images/${('00000' + id).slice(-4)}.gif`}
 			alt={`Buttpluggy ${id}`}
 		/>
+		-->
 
 		<div class="p-5 space-y-4">
 			<h2 class="text-2xl font-bold text-primary">Buttpluggy #{id}</h2>
