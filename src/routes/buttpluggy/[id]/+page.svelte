@@ -59,7 +59,7 @@
 		class="w-full max-w-sm mx-auto bg-base-200 rounded-xl shadow-xl border border-base-300 overflow-hidden"
 	>
 		
-		<iframe class="w-full aspect-square object-cover" src="/assets/${id}" title={`Buttpluggy ${id} preview`}></iframe>
+		<iframe class="w-full aspect-square object-cover" src="/assets/{id}" title={`Buttpluggy ${id} preview`}></iframe>
 		<!--
 		<img
 			class="w-full aspect-square object-cover"
