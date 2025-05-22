@@ -1,11 +1,11 @@
 <script lang="ts">
-	import Breadcrumbs from '$lib/Breadcrumbs.svelte';
-	import { page } from '$app/stores';
+	import { page } from '$app/state';
 	import slugify from 'slug';
 
-	export let data;
+	const { data } = $props();
 
-	const id = $page.params.id;
+	const id = $derived(page.params.id);
+
 </script>
 
 <svelte:head>
