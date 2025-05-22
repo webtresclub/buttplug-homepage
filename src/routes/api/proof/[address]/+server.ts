@@ -4,7 +4,7 @@ import proofs from '$lib/proofs.json';
 
 // @dev this will be necesary only if merkle tree is too big
 
-const proofsParsed = {};
+const proofsParsed: { [key: string]: unknown } = {};
 for (const proof of proofs) {
 	proofsParsed[proof.wallet.toLowerCase()] = proof.proof;
 }
