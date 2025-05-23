@@ -1,0 +1,47 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/typography';
+
+.blue { color: #4da6ff; }
+.green { color: #0f0; }
+.yellow { color: #ffe066; }
+
+body {
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  background: #010101;
+}
+
+#output-wrapper {
+  background: #000;
+  background-color: #101010;
+  font-family: monospace;
+  font-size: 14px;
+  width: 100%;
+  color: #0f0;
+  overflow-y: auto;
+}
+
+#output-wrapper a, #output-wrapper a:visited {
+  color: #364dff;
+}
+
+#output-wrapper a:hover {
+  color: #ff0;
+  text-decoration: none;
+}
+
+#output-wrapper a::before {
+  content: "🔗";
+  margin-right: .5em;
+  text-decoration: none !important;
+}
+
+#hint {
+  background: #000c;
+  border-radius: 4px;
+  color: #0f0;
+  font-size: 13px;
+  padding: 3px 6px;
+}
+

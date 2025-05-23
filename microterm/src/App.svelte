@@ -1,13 +1,15 @@
 <script lang="ts">
-    import "./term.css"
 	
 	import { onMount } from 'svelte';
-	import { page } from '$app/state';
 
 	import historyPlugin from './historyplugin';
 
 
-	const { data } = $props();
+	const page = {
+    params: {
+      id: '1'
+    }
+  };
 
 	const id = $derived(page.params.id);
 	const fullId = $derived(('00000' + page.params.id).slice(-4));
@@ -72,7 +74,7 @@ return null;
 			}
 		},
 		gif: async () => {
-			pushOutput(`<div><img src="https://buttpluggy.com/images/0038.gif" alt="Pluggy" style="width: 64px; height: 64px; image-rendering: pixelated;"></div>`, 'html');
+			pushOutput(`<div><img src="https://buttpluggy.com/images/${fullId}.gif" alt="Pluggy" style="width: 64px; height: 64px; image-rendering: pixelated;"></div>`, 'html');
 			return null;
 		},
 		clock: async () => {
@@ -320,7 +322,7 @@ return null;
 <!-- svelte-ignore a11y_no_noninteractive_element_interactions -->
 <div
 	id="output-wrapper"
-	class="h-screen w-full font-mono flex flex-col whitespace-pre-wrap overflow-y-auto pb-0.5 text-sm"
+	class="h-screen w-full font-mono flex flex-col whitespace-pre-wrap overflow-y-auto pb-0.5 text-sm pl-0.5"
 	class:hidden={showSplash}
 	bind:this={outputEl}
 	onclick={() => inputEl?.focus()}
