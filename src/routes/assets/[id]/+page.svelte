@@ -284,13 +284,13 @@ return null;
 	<div 
 		id="splash" 
 		class="fixed inset-0 flex items-center justify-center cursor-pointer transition-transform duration-600 ease-in-out"
-		on:click={handleSplashClick}
-		on:keydown={(e) => {
+		onclick={handleSplashClick}
+		onkeydown={(e) => {
 			if (e.key === 'Enter' || e.key === ' ' || e.key === 'Escape') {
 				handleSplashClick();
 			}
 		}}
-		on:mousemove={(e) => {
+		onmousemove={(e) => {
 			const hint = document.getElementById('hint');
 			if (hint) {
 				hint.style.left = (e.clientX + 4) + 'px';
@@ -323,8 +323,8 @@ return null;
 	class="h-screen w-full font-mono flex flex-col whitespace-pre-wrap overflow-y-auto pb-0.5 text-sm"
 	class:hidden={showSplash}
 	bind:this={outputEl}
-	on:click={() => inputEl?.focus()}
-	on:keydown={(e) => { if (e.key === 'Enter') { inputEl?.focus(); e.preventDefault(); } }}
+	onclick={() => inputEl?.focus()}
+	onkeydown={(e) => { if (e.key === 'Enter') { inputEl?.focus(); e.preventDefault(); } }}
 	tabindex="0"
 	role="region"
 	aria-label="Terminal output"
@@ -345,7 +345,7 @@ return null;
 	<div id="input-wrapper" class="  items-center relative font-mono w-full">
 		<input
 		  bind:value={input}
-		  on:keydown={handleKeydown}
+		  onkeydown={handleKeydown}
 		  bind:this={inputEl}
 		  class="bg-transparent outline-none border-none flex-grow pl-4"
 		  autocomplete="off"
@@ -354,9 +354,34 @@ return null;
 		  spellcheck="false"
 		/>
 	  </div>
+<!--
+	  <div id="input" contenteditable="true"></div>
+	-->
 </div>
 
 <style>
+
+
+#input {
+    position: relative;
+    caret-color: transparent;
+}
+/* Puts a blinking square after the content as replacement for caret */
+#input[contenteditable="true"]:after {
+    content: "■";
+    animation: cursor 1s infinite;
+    animation-timing-function: step-end;
+    margin-left: 1px;
+}
+/* Inserts the > before terminal input */
+#input:before {
+    content: ">";
+    position: absolute;
+    padding-left: 1.5rem;
+    left: 0;
+}
+
+
 /* aplica el $ antes del input, dentro del contenedor */
 #input-wrapper::before {
   content: '$';
