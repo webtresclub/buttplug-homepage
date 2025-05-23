@@ -1,5 +1,11 @@
 <script lang="ts">
-	import { modal } from '$lib/store';
+	import { onMount } from 'svelte';
+
+	import { initWeb3 } from '$lib/store';
+
+	import Header from './Header.svelte';
+	import Footer from './Footer.svelte';
+	
 	import { account, loadReady } from '../lib/store';
 	import { haveClaimButtplug } from '$lib/contracts';
 
@@ -87,6 +93,11 @@
 		}
 		fetchLastIds();
 	}
+
+	onMount(() => {
+		initWeb3();
+	});
+
 </script>
 
 <svelte:head>
@@ -131,6 +142,8 @@
 
 	<!-- Meta Tags Generated via https://www.opengraph.xyz -->
 </svelte:head>
+
+<Header />
 
 <!-- Hero -->
 <section class="hero min-h-[85vh] bg-cyan-800 text-center">
@@ -217,3 +230,6 @@
 	<h2 class="text-2xl font-bold mb-4">Ready to mint yours?</h2>
 	<a href="/mine" class="btn btn-accent btn-wide text-lg">🚀 Launch the Miner</a>
 </section>
+
+
+<Footer />
