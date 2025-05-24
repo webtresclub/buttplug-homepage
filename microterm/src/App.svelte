@@ -20,6 +20,7 @@
 	let inputEl: HTMLInputElement;
 	let outputEl: HTMLDivElement;
 	let showSplash = $state(true);
+  let currentState = $state('splash');
 	let clockCanvas: HTMLCanvasElement | null = null;
 	let clockInterval: number | null = null;
 	let screensaverCanvas: HTMLCanvasElement | null = null;
@@ -189,7 +190,8 @@ return null;
 			return null;
 		},
 		exit: async () => {
-			showSplash = true;
+			currentState = 'splash';
+      showSplash = true;
 			return null;
 		}
 	};
@@ -240,6 +242,7 @@ return null;
 
 	function handleSplashClick() {
 		showSplash = false;
+    currentState = 'terminal';
 		inputEl.focus();
 		setTimeout(() => {
 			inputEl.focus();
@@ -269,7 +272,6 @@ return null;
 
 	/* ─ init once in browser ─ */
 	onMount(async () => {
-				window.ss = scrollToBottom;
 		scrollToBottom();
 		pushOutput(`
 				<div><img src="https://buttpluggy.com/images_small/${fullId}.png" width="64" style="image-rendering:pixelated;"></div>
@@ -277,12 +279,12 @@ return null;
 				<div class="green">Links</div>
 				<div><a href="https://opensea.io/collection/buttpluggy" target="_blank">OpenSea Collection</a></div>
 				<div><a href="https://buttpluggy.com/mine" target="_blank">Mint a Buttpluggy</a></div>
-				<div><a href="https://opensea.io/item/ethereum/0x0000420538cd5abfbc7db219b6a1d125f5892ab0/${id}" target="_blank">[Buttpluggy #${fullId}] on OpenSea</a></div>
+				<div><a href="https://opensea.io/item/ethereum/0x0000420538cd5abfbc7db219b6a1d125f5892ab0/${id}" target="_blank">[Buttpluggy #${id}] on OpenSea</a></div>
 		`, 'html');
 	});
 </script>
 
-{#if showSplash}
+{#if currentState === 'splash'}
 	<div 
 		id="splash" 
 		class="fixed inset-0 flex items-center justify-center cursor-pointer transition-transform duration-600 ease-in-out"
@@ -323,7 +325,7 @@ return null;
 <div
 	id="output-wrapper"
 	class="h-screen w-full font-mono flex flex-col whitespace-pre-wrap overflow-y-auto pb-0.5 text-sm pl-0.5"
-	class:hidden={showSplash}
+	class:hidden={currentState !== 'terminal'}
 	bind:this={outputEl}
 	onclick={() => inputEl?.focus()}
 	onkeydown={(e) => { if (e.key === 'Enter') { inputEl?.focus(); e.preventDefault(); } }}
@@ -361,8 +363,15 @@ return null;
 	-->
 </div>
 
-<style>
 
+{#if currentState === 'game'}
+  
+<div>
+  TODO: implement game emulator load logic here
+</div>
+{/if}
+
+<style>
 
 #input {
     position: relative;
