@@ -436,8 +436,6 @@ return null;
 	opacity: 1;
 }
 
-
-
 #hint {
   background: #000c;
   border-radius: 4px;

@@ -4,8 +4,7 @@ import {
 	writeContract,
 	multicall,
 	watchContractEvent,
-	getChainId
-} from '@wagmi/core';
+} from '@wagmi/core/actions';
 
 import { parseAbi } from 'viem';
 
