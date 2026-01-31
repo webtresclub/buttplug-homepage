@@ -3,7 +3,10 @@ import tailwindcss from '@tailwindcss/vite';
 
 /** @type {import('vite').UserConfig} */
 const config = {
-	plugins: [tailwindcss(), sveltekit()]
+	plugins: [tailwindcss(), sveltekit()],
+	ssr: {
+		noExternal: ['@reown/appkit-wallet', '@walletconnect/logger']
+	}
 };
 
 export default config;
