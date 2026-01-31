@@ -1,16 +1,18 @@
 <script lang="ts">
-	import { BUTTPLUGGY } from '$lib/contracts';
-	import { account, chainId, loadReady } from '$lib/store';
+	import { BUTTPLUGGY } from '$lib/contracts.svelte';
+	import { walletState } from '$lib/store.svelte';
 
 	const GRAPHQL_URL = 'https://api.studio.thegraph.com/proxy/67825/buttpluggy/v0.0.4/';
 
-	let nfts: string[] = [];
-	let loading = true;
+	let nfts: string[] = $state([]);
+	let loading = $state(true);
 
 	async function loadNfts() {
 		loading = true;
 		try {
-			nfts = JSON.parse(localStorage.getItem('ntfs-' + $chainId + $account) || '[]');
+			nfts = JSON.parse(
+				localStorage.getItem('ntfs-' + walletState.chainId + walletState.account) || '[]'
+			);
 			if (nfts.length > 0) {
 				loading = false;
 			}
@@ -29,7 +31,7 @@
 				}`;
 
 		const options = {
-			owner: $account?.toLowerCase()
+			owner: walletState.account?.toLowerCase()
 		};
 
 		try {
@@ -50,7 +52,10 @@
 				nfts = responseData.data.owners[0].nfts.map((nft: { id: string }) => nft.id);
 			}
 
-			localStorage.setItem('ntfs-' + $chainId + $account, JSON.stringify(nfts));
+			localStorage.setItem(
+				'ntfs-' + walletState.chainId + walletState.account,
+				JSON.stringify(nfts)
+			);
 		} catch (err) {
 			alert('unexpected error');
 			console.error('err');
@@ -59,13 +64,15 @@
 		loading = false;
 	}
 
-	$: if ($loadReady && $chainId !== 0n && $account) {
-		loadNfts();
-	}
+	$effect(() => {
+		if (walletState.loadReady && walletState.chainId !== 0n && walletState.account) {
+			loadNfts();
+		}
+	});
 </script>
 
 <main class="container">
-	{#if !$account}
+	{#if !walletState.account}
 		<h3 class="mt-5">First connect your wallet</h3>
 	{:else if loading}
 		<h3 class="mt-5">LOADING</h3>

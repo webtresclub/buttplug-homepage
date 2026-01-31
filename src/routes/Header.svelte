@@ -1,11 +1,13 @@
-<header class="navbar bg-[#0b0d10] border-b border-base-300 px-6 py-4">
+<header
+	class="navbar bg-base-100/80 backdrop-blur-md border-b border-base-content/10 sticky top-0 z-50 px-6 py-4"
+>
 	<div class="flex-1 gap-2 items-center">
 		<a href="/" class="flex items-center gap-2 no-underline hover:opacity-80 transition">
 			<img src="/favicon.gif" alt="Buttpluggy Logo" class="w-8" />
 
 			<div>
 				<h1 class="text-2xl md:text-3xl font-bold leading-tight">
-					<span class="font-bold">Buttplugs</span>
+					<span class="font-bold text-primary">Buttplugs</span>
 					<small class="hidden lg:inline text-sm text-base-content/70 ml-1">(UwU)</small>
 				</h1>
 				<p class="text-xs hidden lg:inline md:text-sm text-base-content/60 -mt-1">
@@ -18,7 +20,7 @@
 	<!-- Mobile Menu -->
 	<div class="flex-none sm:hidden">
 		<div class="dropdown dropdown-end">
-			<label tabindex="0" class="btn btn-ghost">
+			<div tabindex="0" role="button" class="btn btn-ghost" aria-label="Menu">
 				<svg
 					xmlns="http://www.w3.org/2000/svg"
 					class="h-5 w-5"
@@ -33,10 +35,11 @@
 						d="M4 6h16M4 12h16M4 18h16"
 					/>
 				</svg>
-			</label>
+			</div>
+			<!-- svelte-ignore a11y_no_noninteractive_tabindex -->
 			<ul
 				tabindex="0"
-				class="menu dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52"
+				class="menu dropdown-content mt-3 z-[1] p-2 shadow bg-base-200 rounded-box w-52"
 			>
 				<li><a href="/mine">🌱 Mint</a></li>
 				<li><a href="/attributes">🖼 Gallery</a></li>
@@ -54,11 +57,15 @@
 	<nav class="flex-none gap-2 hidden sm:flex">
 		<a href="/mine" class="btn btn-sm lg:btn-lg btn-ghost">🌱 Mint</a>
 		<a href="/attributes" class="btn btn-sm lg:btn-lg btn-ghost">🖼 Gallery</a>
-		<a href="https://opensea.io/collection/buttpluggy" target="_blank" class="btn btn-sm lg:btn-lg btn-ghost"
-			>🌊 OpenSea</a
+		<a
+			href="https://opensea.io/collection/buttpluggy"
+			target="_blank"
+			class="btn btn-sm lg:btn-lg btn-ghost">🌊 OpenSea</a
 		>
-		<a href="https://github.com/webtresclub/huffplug" target="_blank" class="btn btn-sm lg:btn-lg btn-ghost"
-			>💻 GitHub</a
+		<a
+			href="https://github.com/webtresclub/huffplug"
+			target="_blank"
+			class="btn btn-sm lg:btn-lg btn-ghost">💻 GitHub</a
 		>
 	</nav>
 

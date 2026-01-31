@@ -1,18 +1,15 @@
 <script lang="ts">
-
 	import { onMount } from 'svelte';
-
-	import { initWeb3 } from '$lib/store';
+	import { walletState } from '$lib/store.svelte';
 
 	let { children } = $props();
 
 	import Header from '../Header.svelte';
 	import Footer from '../Footer.svelte';
 	onMount(() => {
-		initWeb3();
+		walletState.initWeb3();
 	});
 </script>
-
 
 <div class="min-h-screen flex flex-col bg-base-100 text-base-content font-sans">
 	<Header />

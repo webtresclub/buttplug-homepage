@@ -1,15 +1,6 @@
 <script lang="ts">
-	import {
-		chainTimestamp,
-		getTimestamp,
-		currentDifficultyAndSalt,
-		totalMinted,
-		difficulty,
-		salt,
-		mint,
-		ownerOf
-	} from '$lib/contracts';
-	import { loadReady, modal, account } from '$lib/store';
+	import { contractState, mint, ownerOf } from '$lib/contracts.svelte'; // Updated import
+	import { walletState } from '$lib/store.svelte'; // Updated import
 	import { keccak256, encodePacked } from 'viem';
 	import { onMount } from 'svelte';
 
@@ -40,31 +31,40 @@
 		.toString()
 		.padStart(4, '0');
 
-	let globalStatus = 'idle';
-	let workers: WorkerData[] = [];
-	let results: MiningResult[] = [];
+	let globalStatus = $state('idle');
+	let workers: WorkerData[] = $state([]);
+	let results: MiningResult[] = $state([]);
 
-	let totalCores = 1;
-	let coresSelected = 1;
+	let totalCores = $state(1);
+	let coresSelected = $state(1);
 
-	let totalSpeed = 0;
-	let expectedTime = 0;
+	let totalSpeed = $state(0);
+	let expectedTime = $state(0);
 
 	let globalStart: number;
-	let globalElapsed: number;
-	let deltaChange: number;
+	let globalElapsed = $state(0);
+	let deltaChange = $state(0);
 	let intervalCount: ReturnType<typeof setInterval>;
 
-	$: if ($totalMinted && $chainTimestamp && $difficulty) {
-		const changeDate =
-			($totalMinted - ($difficulty - 5n) * ($difficulty - 5n) + 1n) * 86400n + 1708108000n;
-		deltaChange = Number(changeDate) - Number($chainTimestamp);
-	}
+	// Derived calculations
+	$effect(() => {
+		if (contractState.totalMinted && contractState.chainTimestamp && contractState.difficulty) {
+			const changeDate =
+				(contractState.totalMinted -
+					(contractState.difficulty - 5n) * (contractState.difficulty - 5n) +
+					1n) *
+					86400n +
+				1708108000n;
+			deltaChange = Number(changeDate) - Number(contractState.chainTimestamp);
+		}
+	});
 
-	$: if (workers.length > 0 && workers[0].hashPerSecond > 0 && $difficulty > 0) {
-		totalSpeed = workers.reduce((total, w) => total + w.hashPerSecond, 0);
-		expectedTime = Math.pow(16, Number($difficulty)) / Math.floor(totalSpeed);
-	}
+	$effect(() => {
+		if (workers.length > 0 && workers[0].hashPerSecond > 0 && contractState.difficulty > 0) {
+			totalSpeed = workers.reduce((total, w) => total + w.hashPerSecond, 0);
+			expectedTime = Math.pow(16, Number(contractState.difficulty)) / Math.floor(totalSpeed);
+		}
+	});
 
 	function secondsToDayHMS(d: number): string {
 		const days = Math.floor(d / 86400);
@@ -79,22 +79,25 @@
 		return dDisplay + hDisplay + mDisplay + sDisplay;
 	}
 
-	$: if ($loadReady) {
-		currentDifficultyAndSalt();
-		getTimestamp();
-	}
+	$effect(() => {
+		if (walletState.loadReady) {
+			contractState.currentDifficultyAndSalt();
+			contractState.getTimestamp();
+		}
+	});
 
 	onMount(() => {
 		totalCores = navigator.hardwareConcurrency;
 		coresSelected = Math.ceil(totalCores / 2);
 
 		const reloadInterval = setInterval(() => {
-			currentDifficultyAndSalt();
+			contractState.currentDifficultyAndSalt();
 		}, 1000 * 60); // every minute just in case
 
 		const intervalTimestamp = setInterval(() => {
-			if ($chainTimestamp && $chainTimestamp > 0n) $chainTimestamp = $chainTimestamp + 1n;
-		}, 1000); // every 5 minutes
+			if (contractState.chainTimestamp > 0n)
+				contractState.chainTimestamp = contractState.chainTimestamp + 1n;
+		}, 1000); // every second
 
 		return () => {
 			clearInterval(reloadInterval);
@@ -109,11 +112,12 @@
 			const hash = keccak256(
 				encodePacked(
 					['address', 'bytes32', 'uint256'],
-					[$account as `0x${string}`, $salt as `0x${string}`, nonce]
+					[walletState.account as `0x${string}`, contractState.salt as `0x${string}`, nonce]
 				)
 			);
 			const hashNumber = BigInt(hash);
-			const expectedHash = '0x' + '0'.repeat(parseInt($difficulty as string));
+			const expectedHash =
+				'0x' + '0'.repeat(parseInt(contractState.difficulty as unknown as string));
 			if (!hash.startsWith(expectedHash)) {
 				alert(
 					'The nonce is not valid, hash not starts with ' +
@@ -135,7 +139,7 @@
 				owner
 			});
 
-			results = [...results];
+			// results = [...results]; // Not needed with Runes proxy
 		}
 	}
 
@@ -156,7 +160,7 @@
 			w.worker.terminate();
 			w.status = 'stop';
 		});
-		workers = [...workers];
+		// workers = [...workers];
 		clearInterval(intervalCount);
 	}
 
@@ -195,7 +199,18 @@
 
 		for (let i = 0; i < cores; i++) {
 			const worker = new Worker('/js/rust-worker.js', { type: 'module' });
-			workers[i] = { worker: worker, status: 'init', start: 0, end: 0, loops: 0, hashPerSecond: 0 };
+			// Create a reactive object implicitly by assigning to the array via push or direct index
+			// But for array updates to trigger UI in Svelte 5, direct assignment or mutation of state property works.
+
+			const workerData: WorkerData = {
+				worker: worker,
+				status: 'init',
+				start: 0,
+				end: 0,
+				loops: 0,
+				hashPerSecond: 0
+			};
+			workers[i] = workerData;
 
 			worker.onmessage = function (event: MessageEvent<WorkerResult>) {
 				workers[i].status = event.data.status || '';
@@ -226,20 +241,20 @@
 
 					// loop
 					worker.postMessage({
-						wallet: ($account as `0x${string}`).slice(2),
-						salt: ($salt as `0x${string}`).slice(2),
-						difficulty: Number($difficulty)
+						wallet: (walletState.account as `0x${string}`).slice(2),
+						salt: (contractState.salt as `0x${string}`).slice(2),
+						difficulty: Number(contractState.difficulty)
 					});
 				};
 
 				worker.postMessage({
-					wallet: ($account as `0x${string}`).slice(2),
-					salt: ($salt as `0x${string}`).slice(2),
-					difficulty: Number($difficulty)
+					wallet: (walletState.account as `0x${string}`).slice(2),
+					salt: (contractState.salt as `0x${string}`).slice(2),
+					difficulty: Number(contractState.difficulty)
 				});
 			};
 		}
-		workers = [...workers];
+		// workers = [...workers];
 	}
 
 	function foundNonce(result: WorkerResult, owner: string) {
@@ -256,12 +271,14 @@
 			buttplug: (hashBigInt % 1024n) + 1n,
 			owner
 		});
-		results = [...results];
+		// results = [...results];
 	}
 
-	$: if (deltaChange > 0) {
-		secondsToDayHMS(deltaChange);
-	}
+	$effect(() => {
+		if (deltaChange > 0) {
+			secondsToDayHMS(deltaChange);
+		}
+	});
 </script>
 
 <svelte:head>
@@ -329,95 +346,143 @@
 		<p class="text-lg">
 			You must find a nonce such that <code>keccak256(encodePacked(YOUR_WALLET, SALT, NONCE))</code>
 			results in a
-			<code>bytes32</code> hash starting with <strong>{$difficulty}</strong> zeroes.
+			<code>bytes32</code> hash starting with <strong>{contractState.difficulty}</strong> zeroes.
 		</p>
 	</div>
 
-	{#if !$account}
-		<div class="mt-4">
-			<button class="btn btn-primary" on:click={() => $modal.open()}>Connect Wallet</button>
+	{#if !walletState.account}
+		<div class="mt-12 flex justify-center">
+			<button
+				class="btn btn-primary btn-lg shadow-xl shadow-primary/20"
+				onclick={() => walletState.modal?.open()}>Connect Wallet to Mine</button
+			>
 		</div>
 	{/if}
 
-	{#if $account}
-		<div class="mt-6 bg-base-200 rounded-xl p-4 space-y-2">
-			{#if deltaChange > 0}
-				<p class="text-warning">Difficulty decrease in: {secondsToDayHMS(deltaChange)}</p>
-			{/if}
-			<p>Total Minted: {$totalMinted}/1024</p>
-			<p>User wallet: {$account}</p>
-			<p>Current difficulty: {$difficulty}</p>
-			<p>Current salt: {$salt}</p>
-			<div class="flex items-center gap-2">
-				<span>Workers:</span>
-				<button class="btn btn-xs" on:click={() => (coresSelected == 1 ? 1 : coresSelected--)}
-					>-</button
-				>
-				<span>{coresSelected}</span>
-				<button
-					class="btn btn-xs"
-					on:click={() => (coresSelected == totalCores ? totalCores : coresSelected++)}>+</button
-				>
+	{#if walletState.account}
+		<div
+			class="stats stats-vertical lg:stats-horizontal shadow-xl w-full bg-base-200 mt-8 border border-base-300"
+		>
+			<div class="stat">
+				<div class="stat-title">Total Minted</div>
+				<div class="stat-value text-primary">{contractState.totalMinted}/1024</div>
+				{#if deltaChange > 0}
+					<div class="stat-desc text-warning">Diff drop in {secondsToDayHMS(deltaChange)}</div>
+				{/if}
+			</div>
+
+			<div class="stat">
+				<div class="stat-title">Current Difficulty</div>
+				<div class="stat-value">{contractState.difficulty}</div>
+				<div class="stat-desc font-mono text-xs truncate max-w-[10rem]">
+					Salt: {contractState.salt}
+				</div>
+			</div>
+
+			<div class="stat">
+				<div class="stat-title">Workers</div>
+				<div class="stat-value flex items-center gap-3">
+					<button
+						class="btn btn-sm btn-circle btn-ghost"
+						onclick={() => (coresSelected == 1 ? 1 : coresSelected--)}>-</button
+					>
+					<span>{coresSelected}</span>
+					<button
+						class="btn btn-sm btn-circle btn-ghost"
+						onclick={() => (coresSelected == totalCores ? totalCores : coresSelected++)}>+</button
+					>
+				</div>
+				<div class="stat-desc">Targeting {coresSelected} cores</div>
 			</div>
 		</div>
 
-		<div class="mt-6 flex gap-2 flex-wrap">
+		<div class="mt-8 flex gap-4 justify-center">
 			{#if globalStatus == 'idle'}
-				<button class="btn btn-primary" on:click={mineToggle}>Start Mining</button>
+				<button class="btn btn-primary btn-lg w-full max-w-xs" onclick={mineToggle}
+					>Start Mining</button
+				>
 			{:else}
-				<button class="btn btn-outline btn-error" on:click={mineToggle}>Stop Mining</button>
+				<button class="btn btn-error btn-outline btn-lg w-full max-w-xs" onclick={mineToggle}
+					>Stop Mining</button
+				>
 			{/if}
-			<button class="btn btn-outline" on:click={useNonce}>Use a nonce</button>
+			<button class="btn btn-ghost" onclick={useNonce}>Manual Nonce</button>
 		</div>
 	{/if}
 
 	<div class="mt-8 space-y-4">
 		{#each workers as w, i}
-			<div class="text-sm font-mono">
+			<div
+				class="flex items-center justify-between bg-base-200 px-4 py-2 rounded-lg font-mono text-sm"
+			>
+				<span class="opacity-70">Worker #{i}</span>
 				{#if w.hashPerSecond > 0}
-					Worker{i} speed: <NumberTween currentNumber={w.hashPerSecond} /> hash/sec
+					<span><NumberTween currentNumber={w.hashPerSecond} /> H/s</span>
 					{#if w.status == 'stop'}
-						- <span class="text-error">STOPPED</span>{/if}
+						<span class="badge badge-error">STOPPED</span>
+					{/if}
 				{:else}
-					<span class="text-success font-bold">Worker{i} Starting</span>
+					<span class="text-success animate-pulse">Starting...</span>
 				{/if}
 			</div>
 		{/each}
 	</div>
 
 	{#if workers.length > 0 && workers[0].hashPerSecond > 0}
-		<div class="mt-4 font-mono text-sm">
-			Total speed: {Math.floor(totalSpeed / 1000)} KH/s<br />
-			Expected time: {secondsToDayHMS(expectedTime)}<br />
-			Time elapsed: {secondsToDayHMS(globalElapsed / 1000)}
+		<div class="alert shadow-lg mt-6 bg-base-100 border border-base-200">
+			<svg
+				xmlns="http://www.w3.org/2000/svg"
+				fill="none"
+				viewBox="0 0 24 24"
+				class="stroke-info shrink-0 w-6 h-6"
+				><path
+					stroke-linecap="round"
+					stroke-linejoin="round"
+					stroke-width="2"
+					d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+				></path></svg
+			>
+			<div class="flex flex-col sm:flex-row gap-4 w-full justify-between items-center font-mono">
+				<span>Total Speed: <span class="font-bold">{Math.floor(totalSpeed / 1000)} KH/s</span></span
+				>
+				<span>Expected Time: {secondsToDayHMS(expectedTime)}</span>
+				<span>Elapsed: {secondsToDayHMS(globalElapsed / 1000)}</span>
+			</div>
 		</div>
 	{/if}
 
-	<div class="mt-8 grid grid-cols-2 md:grid-cols-4 gap-6">
+	<div class="mt-12 grid grid-cols-2 md:grid-cols-4 gap-6">
 		{#each results as data}
-			<div class="card bg-base-200 shadow-md">
-				<figure>
+			<div class="card card-compact bg-base-100 shadow-xl border border-base-content/10">
+				<figure class="p-4 bg-base-content/5">
 					<img
 						src={`/images/${('0000' + data.buttplug).slice(-4)}.gif`}
 						alt="Buttplug {data.buttplug}"
+						class="rounded-lg shadow-sm"
 					/>
 				</figure>
 				<div class="card-body">
-					<a href="/buttpluggy/{data.buttplug}" target="_blank" class="card-title"
+					<a
+						href="/buttpluggy/{data.buttplug}"
+						target="_blank"
+						class="card-title text-sm hover:text-primary transition-colors"
 						>Buttpluggy #{data.buttplug}</a
 					>
-					<p class="font-mono text-sm overflow-auto">Nonce: {data.nonce}</p>
+					<div class="font-mono text-xs opacity-60 truncate">Nonce: {data.nonce}</div>
 					{#if data.owner == '0x0000000000000000000000000000000000000000'}
-						<button class="btn btn-primary" on:click={() => mintButtplug(data.nonce)}>Mint</button>
+						<button
+							class="btn btn-primary btn-sm w-full mt-2"
+							onclick={() => mintButtplug(data.nonce)}>Mint Now</button
+						>
 					{:else}
-						<p class="text-sm text-white/60">
-							Already minted by <a
+						<div class="text-xs text-base-content/50 mt-2">
+							Owned by <a
 								href={`https://etherscan.io/address/${data.owner}`}
 								target="_blank"
-								class="link"
-								>{(data.owner || '').slice(0, 10) + '...' + (data.owner || '').slice(-8)}</a
+								class="link hover:text-primary"
+								>{(data.owner || '').slice(0, 6) + '...' + (data.owner || '').slice(-4)}</a
 							>
-						</p>
+						</div>
 					{/if}
 				</div>
 			</div>

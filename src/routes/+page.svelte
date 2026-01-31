@@ -1,13 +1,11 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
-
-	import { initWeb3 } from '$lib/store';
+	import { walletState } from '$lib/store.svelte'; // Updated import
 
 	import Header from './Header.svelte';
 	import Footer from './Footer.svelte';
 
-	import { account, loadReady } from '../lib/store';
-	import { haveClaimButtplug } from '$lib/contracts';
+	import { haveClaimButtplug } from '$lib/contracts.svelte';
 
 	interface NFTData {
 		id: string;
@@ -27,13 +25,14 @@
 		wallets: string[];
 	}
 
-	export let data: PageData;
+	// Svelte 5 Props
+	let { data }: { data: PageData } = $props();
+
 	const GRAPHQL_URL = 'https://api.studio.thegraph.com/proxy/67825/buttpluggy/version/latest/';
 
-	let userOnMerkle = false;
 	let idsArr: string[] = [];
 	let lastIds: [string, string][] = [];
-	let traits: Record<string, string> = {};
+	let traits: Record<string, string> = $state({}); // Potentially reactive
 
 	async function fetchData(ids: string): Promise<Record<string, string>> {
 		const response = await fetch('/api/names', {
@@ -80,22 +79,30 @@
 		}
 	};
 
-	let canClaim = false;
-	$: if ($loadReady && $account) {
-		// lets see if current wallet is on the merkle tree
-		userOnMerkle = data.wallets.indexOf(($account || '').toLowerCase()) > -1;
-		// if user is on merkle tree, lets see if he can claim (he could already claimed, only one per wallet)
-		if (userOnMerkle) {
-			haveClaimButtplug($account as `0x${string}`).then((result) => {
-				// if result is false, user have not claimed yet, so he can claim
-				canClaim = !result;
-			});
+	let canClaim = $state(false);
+
+	// Derived state
+	let userOnMerkle = $derived(
+		walletState.account ? data.wallets.indexOf(walletState.account.toLowerCase()) > -1 : false
+	);
+
+	// Side effects replacement
+	$effect(() => {
+		if (walletState.loadReady && walletState.account) {
+			// if user is on merkle tree, lets see if he can claim
+			if (userOnMerkle) {
+				haveClaimButtplug(walletState.account).then((result: boolean) => {
+					// if result is false, user have not claimed yet, so he can claim
+					canClaim = !result;
+				});
+			}
+			fetchLastIds();
 		}
-		fetchLastIds();
-	}
+	});
 
 	onMount(() => {
-		initWeb3();
+		// Initialize the global state manager
+		walletState.initWeb3();
 	});
 </script>
 
@@ -145,89 +152,137 @@
 <Header />
 
 <!-- Hero -->
-<section class="hero min-h-[85vh] bg-cyan-800 text-center">
-	<div class="hero-content flex-col">
-		<img src="/favicon.gif" alt="Buttpluggy Logo" class="w-20 animate-bounce" />
-		<h1 class="text-5xl font-bold tracking-tight">Buttpluggy NFTs</h1>
-		<p class="py-6 max-w-2xl text-lg">
-			<span class="font-semibold">1,024</span> degenerately adorable oscilloscope artworks, minted
-			on Ethereum using <span class="font-bold">Huff</span>. Crafted by the
-			<b>Webtr3s</b> community, pushing pixel art into on-chain realms. No utility. Pure pleasure.
+<section
+	class="hero min-h-[85vh] bg-base-100 relative overflow-hidden"
+	style="background-image: radial-gradient(at 0% 0%, rgba(var(--primary-rgb), 0.15) 0px, transparent 50%), radial-gradient(at 100% 100%, rgba(var(--secondary-rgb), 0.15) 0px, transparent 50%);"
+>
+	<div class="hero-overlay bg-opacity-60"></div>
+	<div class="hero-content text-center flex-col z-10">
+		<img src="/favicon.gif" alt="Buttpluggy Logo" class="w-24 mb-4 drop-shadow-xl animate-bounce" />
+		<h1 class="text-5xl md:text-7xl font-extrabold tracking-tight mb-4">
+			<span class="bg-clip-text text-transparent bg-gradient-to-r from-primary to-secondary"
+				>Buttpluggy NFTs</span
+			>
+		</h1>
+		<p class="py-6 max-w-2xl text-xl md:text-2xl text-base-content/80 leading-relaxed">
+			<span class="font-bold text-primary">1,024</span> degenerately adorable oscilloscope artworks,
+			minted on Ethereum using <span class="font-bold text-secondary">Huff</span>. Crafted by the
+			<b>Webtr3s</b> community. No utility. Pure pleasure.
 		</p>
-		<div class="flex flex-col md:flex-row gap-4">
-			<a href="/mine" class="btn btn-primary md:btn-xl">🌱 Mine your Buttpluggy</a>
-			<a href="/attributes" class="btn btn-outline md:btn-xl">🖼 View Collection</a>
+		<div class="flex flex-col md:flex-row gap-4 mt-8">
+			<a href="/mine" class="btn btn-primary btn-lg shadow-lg hover:scale-105 transition-transform"
+				>🌱 Mine yours</a
+			>
+			<a href="/attributes" class="btn btn-outline btn-lg hover:scale-105 transition-transform"
+				>🖼 View Collection</a
+			>
 			{#if canClaim}
-				<a href="/claim" class="btn btn-outline md:btn-xl">🎁 Claim your Buttpluggy</a>
+				<a href="/claim" class="btn btn-secondary btn-lg animate-pulse">🎁 Claim yours</a>
 			{/if}
 		</div>
 	</div>
 </section>
+
 <!-- Story Hero with Video -->
-<section class="hero min-h-[75vh] bg-purple-900 text-white">
-	<div class="hero-content text-center flex-col max-w-3xl">
-		<h2 class="text-4xl font-bold mb-4">The Story Behind Buttpluggies</h2>
-		<p class="mb-6 text-lg text-purple-200">
-			Discover how a hacker collective used the Huff language to bring oscilloscope visuals to life
-			on Ethereum. This video dives into the technical process, the chaos, and the art behind the
-			Buttpluggy experiment.
+<section class="hero min-h-[75vh] bg-base-200 text-base-content">
+	<div class="hero-content text-center flex-col max-w-4xl w-full">
+		<h2 class="text-4xl font-bold mb-8">The Story</h2>
+
+		<div class="mockup-browser border border-base-300 bg-base-100 shadow-2xl w-full max-w-3xl">
+			<div class="mockup-browser-toolbar">
+				<div class="input border border-base-300">https://youtube.com/buttpluggy</div>
+			</div>
+			<div class="aspect-video w-full bg-base-200">
+				<iframe
+					class="w-full h-full"
+					src="https://www.youtube.com/embed/33pkkKa4d4A?si=lsUL8yJPTGro2U9d"
+					title="YouTube video player"
+					frameborder="0"
+					allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+					referrerpolicy="strict-origin-when-cross-origin"
+					allowfullscreen
+				></iframe>
+			</div>
+		</div>
+
+		<p class="mt-10 text-lg md:text-xl text-base-content/70 max-w-2xl">
+			Discover how a hacker collective used the <span class="text-accent">Huff language</span> to bring
+			oscilloscope visuals to life on Ethereum.
 		</p>
-		<div class="w-full flex justify-center">
-			<div class="card card-xl shadow-xl glass md:min-w-xl">
-				<figure class="w-full aspect-video">
-					<iframe
-						class="w-full h-full rounded-xl"
-						src="https://www.youtube.com/embed/33pkkKa4d4A?si=lsUL8yJPTGro2U9d"
-						title="YouTube video player"
-						frameborder="0"
-						allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-						referrerpolicy="strict-origin-when-cross-origin"
-						allowfullscreen
-					></iframe>
-				</figure>
+	</div>
+</section>
+
+<!-- About -->
+<section class="py-24 px-4 bg-base-100">
+	<div class="max-w-4xl mx-auto space-y-16">
+		<div class="grid md:grid-cols-2 gap-12 items-center">
+			<div class="space-y-6">
+				<h2 class="text-3xl font-bold text-primary">What makes them special?</h2>
+				<p class="text-lg text-base-content/80">
+					Each Buttpluggy is a unique visual encoded in low-level Huff, rendered as
+					oscilloscope-style art, and permanently stored on IPFS. It’s raw, generative, and
+					on-chain.
+				</p>
+			</div>
+			<div
+				class="card bg-base-200 shadow-xl border border-base-300 p-6 rotate-1 hover:rotate-0 transition"
+			>
+				<div class="card-body">
+					<h3 class="card-title text-secondary">Huff Powered</h3>
+					<p>Gas-optimized bytecode masterpieces, signed and sealed on Ethereum.</p>
+				</div>
+			</div>
+		</div>
+
+		<div class="divider"></div>
+
+		<div class="space-y-8">
+			<h2 class="text-3xl font-bold text-center">How to get one?</h2>
+			<ul class="steps steps-vertical md:steps-horizontal w-full">
+				<li class="step step-primary">Connect Wallet</li>
+				<li class="step step-primary">Check Whitelist</li>
+				<li class="step step-secondary">Solve Hash Puzzle</li>
+				<li class="step step-accent">Claim & Flex</li>
+			</ul>
+		</div>
+
+		<div class="alert alert-info shadow-lg mt-12">
+			<svg
+				xmlns="http://www.w3.org/2000/svg"
+				fill="none"
+				viewBox="0 0 24 24"
+				class="stroke-current shrink-0 w-6 h-6"
+				><path
+					stroke-linecap="round"
+					stroke-linejoin="round"
+					stroke-width="2"
+					d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+				></path></svg
+			>
+			<div>
+				<h3 class="font-bold">Open Source</h3>
+				<div class="text-xs">
+					We believe in transparency. <a
+						href="https://github.com/webtresclub/huffplug"
+						class="link link-accent">Check the code</a
+					>.
+				</div>
 			</div>
 		</div>
 	</div>
 </section>
 
-<!-- About -->
-<section class="py-16 px-4 bg-base-100">
-	<div class="max-w-4xl mx-auto space-y-10 text-left">
-		<h2 class="text-3xl font-bold">What makes them special?</h2>
-		<p class="text-lg">
-			Each Buttpluggy is a unique visual encoded in low-level Huff, rendered as oscilloscope-style
-			art, and permanently stored on IPFS. It’s raw, generative, and on-chain—true crypto art with
-			no fluff.
-		</p>
-
-		<h2 class="text-3xl font-bold">Why Huff?</h2>
-		<p class="text-lg">
-			Huff lets us write ultra-efficient smart contracts. Buttpluggies aren’t just art—they're
-			gas-optimized bytecode masterpieces, signed and sealed on Ethereum.
-		</p>
-
-		<h2 class="text-3xl font-bold">How to get one?</h2>
-		<ol class="list-decimal list-inside text-lg space-y-2">
-			<li>Connect your wallet (like MetaMask).</li>
-			<li>Check if you're whitelisted (owning 2+ Webtr3s POAPs helps).</li>
-			<li>Mine a Buttpluggy by solving a proof-of-work hash puzzle.</li>
-			<li>Claim and flex your Buttpluggy.</li>
-		</ol>
-
-		<h2 class="text-3xl font-bold">Join the community</h2>
-
-		<h2 class="text-3xl font-bold">Open source</h2>
-		<p class="text-lg">
-			We believe in transparency. <a href="https://github.com/webtresclub/huffplug">Our code</a> is open-source,
-			allowing anyone to verify and contribute. Buttpluggies are not just collectibles; they’re a movement.
-		</p>
-	</div>
-</section>
-
 <!-- CTA -->
-<section class="bg-base-200 py-12 text-center">
-	<h2 class="text-2xl font-bold mb-4">Ready to mint yours?</h2>
-	<a href="/mine" class="btn btn-accent btn-wide text-lg">🚀 Launch the Miner</a>
+<section class="bg-neutral text-neutral-content py-20 text-center">
+	<div class="max-w-2xl mx-auto px-4">
+		<h2 class="text-3xl font-bold mb-6">Ready to enter the mines?</h2>
+		<p class="mb-8 text-neutral-content/70">
+			Join the search for the perfect nonce and claim your piece of history.
+		</p>
+		<a href="/mine" class="btn btn-accent btn-wide btn-lg shadow-xl shadow-accent/20"
+			>🚀 Launch the Miner</a
+		>
+	</div>
 </section>
 
 <Footer />

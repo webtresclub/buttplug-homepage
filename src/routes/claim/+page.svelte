@@ -1,22 +1,33 @@
 <script lang="ts">
-	import { modal, account, loadReady } from '$lib/store';
-	import { haveClaimButtplug, mintWithMerkle } from '$lib/contracts';
+	import { walletState } from '$lib/store.svelte';
+	import { haveClaimButtplug, mintWithMerkle } from '$lib/contracts.svelte';
 
-	export let data;
-
-	let canClaim = false;
-	$: proof = ($account && data?.wallets?.[$account.toLowerCase()]) || [];
-	$: if (proof.length > 0 && $loadReady) {
-		haveClaimButtplug($account).then((claimed) => {
-			canClaim = !claimed;
-		});
+	interface PageData {
+		wallets: Record<string, string[]>;
 	}
+
+	let { data }: { data: PageData } = $props();
+
+	let canClaim = $state(false);
+
+	let proof = $derived(
+		(walletState.account && data?.wallets?.[walletState.account.toLowerCase()]) || []
+	);
+
+	$effect(() => {
+		if (proof.length > 0 && walletState.loadReady && walletState.account) {
+			haveClaimButtplug(walletState.account).then((claimed) => {
+				canClaim = !claimed;
+			});
+		}
+	});
 
 	async function claim() {
 		try {
+			// @ts-ignore
 			await mintWithMerkle(proof);
 			alert('🎉 Claimed!');
-		} catch (e) {
+		} catch (e: any) {
 			alert(e.message);
 		}
 	}
@@ -45,13 +56,13 @@
 			</p>
 
 			<div class="flex flex-col sm:flex-row justify-center gap-4 mt-6">
-				{#if !$account}
+				{#if !walletState.account}
 					<p class="text-base text-base-content/60">Please connect your wallet first.</p>
-					<button on:click={() => $modal.open()} class="btn btn-primary btn-wide">
+					<button onclick={() => walletState.modal?.open()} class="btn btn-primary btn-wide">
 						Connect Wallet
 					</button>
 				{:else}
-					<button on:click={claim} disabled={!canClaim} class="btn btn-success btn-wide">
+					<button onclick={claim} disabled={!canClaim} class="btn btn-success btn-wide">
 						{canClaim ? 'Claim your Buttpluggy' : 'Already claimed or not eligible'}
 					</button>
 					<a href="/mine" class="btn btn-outline btn-wide">Mine instead</a>
