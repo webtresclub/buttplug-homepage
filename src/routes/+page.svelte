@@ -166,7 +166,7 @@
 		</h1>
 		<p class="py-6 max-w-2xl text-xl md:text-2xl text-base-content/80 leading-relaxed">
 			<span class="font-bold text-primary">1,024</span> degenerately adorable oscilloscope artworks,
-			minted on Ethereum using <span class="font-bold text-secondary">Huff</span>. Crafted by the
+			minted on Ethereum using <span class="font-bold text-primary">Huff</span>. Crafted by the
 			<b>Webtr3s</b> community. No utility. Pure pleasure.
 		</p>
 		<div class="flex flex-col md:flex-row gap-4 mt-8">
