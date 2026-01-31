@@ -208,9 +208,14 @@
 						const buttpluggyId = (BigInt('0x' + event.data.results.hash) % 1024n) + 1n;
 						const owner = await ownerOf(buttpluggyId);
 						foundNonce(event.data.results, owner);
-						doStop();
-						clearInterval(intervalCount);
-						return;
+						if (owner == '0x0000000000000000000000000000000000000000') {
+							doStop();
+							clearInterval(intervalCount);
+							return;
+						}
+						setTimeout(() => {
+							startMining();
+						}, 100);
 					}
 					workers[i].loops += 1;
 					workers[i].hashPerSecond = Math.floor(
@@ -409,7 +414,8 @@
 							Already minted by <a
 								href={`https://etherscan.io/address/${data.owner}`}
 								target="_blank"
-								class="link">{data.owner}</a
+								class="link"
+								>{(data.owner || '').slice(0, 10) + '...' + (data.owner || '').slice(-8)}</a
 							>
 						</p>
 					{/if}
