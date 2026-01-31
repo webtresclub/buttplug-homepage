@@ -5,7 +5,7 @@
 
 	import Header from './Header.svelte';
 	import Footer from './Footer.svelte';
-	
+
 	import { account, loadReady } from '../lib/store';
 	import { haveClaimButtplug } from '$lib/contracts';
 
@@ -81,9 +81,9 @@
 	};
 
 	let canClaim = false;
-	$: if ($loadReady) {
+	$: if ($loadReady && $account) {
 		// lets see if current wallet is on the merkle tree
-		userOnMerkle = data.wallets.indexOf($account.toLowerCase()) > -1;
+		userOnMerkle = data.wallets.indexOf(($account || '').toLowerCase()) > -1;
 		// if user is on merkle tree, lets see if he can claim (he could already claimed, only one per wallet)
 		if (userOnMerkle) {
 			haveClaimButtplug($account as `0x${string}`).then((result) => {
@@ -97,7 +97,6 @@
 	onMount(() => {
 		initWeb3();
 	});
-
 </script>
 
 <svelte:head>
@@ -230,6 +229,5 @@
 	<h2 class="text-2xl font-bold mb-4">Ready to mint yours?</h2>
 	<a href="/mine" class="btn btn-accent btn-wide text-lg">🚀 Launch the Miner</a>
 </section>
-
 
 <Footer />
