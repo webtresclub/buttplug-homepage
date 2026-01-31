@@ -156,11 +156,21 @@
 	class="hero min-h-[85vh] bg-base-100 relative overflow-hidden"
 	style="background-image: radial-gradient(at 0% 0%, rgba(var(--primary-rgb), 0.15) 0px, transparent 50%), radial-gradient(at 100% 100%, rgba(var(--secondary-rgb), 0.15) 0px, transparent 50%);"
 >
-	<div class="hero-overlay bg-opacity-60"></div>
-	<div class="hero-content text-center flex-col z-10">
-		<img src="/favicon.gif" alt="Buttpluggy Logo" class="w-24 mb-4 drop-shadow-xl animate-bounce" />
+	<div class="hero-overlay bg-black/40"></div>
+	<div class="hero-content text-center flex-col z-10 w-full max-w-4xl">
+		<div class="relative">
+			<div
+				class="absolute inset-0 bg-primary/20 blur-3xl rounded-full animate-pulse-glow bg-white"
+			></div>
+			<img
+				src="/favicon.gif"
+				alt="Buttpluggy Logo"
+				class="w-24 md:w-32 mb-8 drop-shadow-2xl animate-float relative z-10 mx-auto"
+			/>
+		</div>
 		<h1 class="text-5xl md:text-7xl font-extrabold tracking-tight mb-4">
-			<span class="bg-clip-text text-transparent bg-gradient-to-r from-primary to-secondary"
+			<span
+				class="bg-clip-text text-transparent bg-gradient-to-r from-primary via-secondary to-primary animate-gradient-x bg-300%"
 				>Buttpluggy NFTs</span
 			>
 		</h1>
@@ -169,11 +179,15 @@
 			minted on Ethereum using <span class="font-bold text-primary">Huff</span>. Crafted by the
 			<b>Webtr3s</b> community. No utility. Pure pleasure.
 		</p>
-		<div class="flex flex-col md:flex-row gap-4 mt-8">
-			<a href="/mine" class="btn btn-primary btn-lg shadow-lg hover:scale-105 transition-transform"
+		<div class="flex flex-col sm:flex-row gap-6 mt-12 justify-center items-center">
+			<a
+				href="/mine"
+				class="btn btn-primary btn-lg shadow-lg shadow-primary/30 hover:shadow-primary/50 hover:-translate-y-1 transition-all duration-300 w-full sm:w-auto min-w-[160px]"
 				>🌱 Mine yours</a
 			>
-			<a href="/attributes" class="btn btn-outline btn-lg hover:scale-105 transition-transform"
+			<a
+				href="/attributes"
+				class="btn btn-outline btn-lg hover:shadow-lg hover:-translate-y-1 transition-all duration-300 w-full sm:w-auto min-w-[160px] backdrop-blur-sm bg-base-100/10 border-white/20 hover:bg-white/10"
 				>🖼 View Collection</a
 			>
 			{#if canClaim}
@@ -225,11 +239,13 @@
 				</p>
 			</div>
 			<div
-				class="card bg-base-200 shadow-xl border border-base-300 p-6 rotate-1 hover:rotate-0 transition"
+				class="card bg-base-200/40 backdrop-blur-md shadow-xl border border-white/5 p-8 rotate-1 hover:rotate-0 transition duration-300 hover:bg-base-200/60"
 			>
 				<div class="card-body">
-					<h3 class="card-title text-secondary">Huff Powered</h3>
-					<p>Gas-optimized bytecode masterpieces, signed and sealed on Ethereum.</p>
+					<h3 class="card-title text-3xl font-bold text-secondary mb-2">Huff Powered</h3>
+					<p class="text-lg leading-relaxed">
+						Gas-optimized bytecode masterpieces, signed and sealed on Ethereum.
+					</p>
 				</div>
 			</div>
 		</div>

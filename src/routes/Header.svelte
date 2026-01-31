@@ -1,5 +1,5 @@
 <header
-	class="navbar bg-base-100/80 backdrop-blur-md border-b border-base-content/10 sticky top-0 z-50 px-6 py-4"
+	class="navbar bg-base-100/60 backdrop-blur-lg border-b border-white/5 sticky top-0 z-50 px-6 py-4 supports-[backdrop-filter]:bg-base-100/30"
 >
 	<div class="flex-1 gap-2 items-center">
 		<a href="/" class="flex items-center gap-2 no-underline hover:opacity-80 transition">
