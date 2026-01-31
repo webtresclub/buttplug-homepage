@@ -5,7 +5,7 @@ import tailwindcss from '@tailwindcss/vite';
 const config = {
 	plugins: [tailwindcss(), sveltekit()],
 	ssr: {
-		noExternal: true
+		noExternal: [/^@reown\/.*/, /^@walletconnect\/.*/]
 	}
 };
 
